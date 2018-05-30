@@ -10,6 +10,7 @@ import nltk
 nltk.download('stopwords')
 
 stoplist = stopwords.words('english')
+classifier = None
 
 def init_lists(folder):
     #function to open folder and create list of emails
@@ -72,25 +73,12 @@ def process_message(message, lower_case = True, stem = True, stop_words = True, 
 
 def spam_or_ham(text, classifier):
     
-    email = get_features(text, 'bow')
-    print(email)
-    nb = classifier.classify(email)
+    email_body = get_features(text, 'bow')
+    print(email_body)
+    nb = classifier.classify(email_body)
     return nb
 
-spam = init_lists('enron1/spam/')
-ham = init_lists('enron1/ham/')
+def getClassifier():
+    return classifier
 
-# 1 if it's spam, 0 if it's ham
-spam_emails = [(email, 'spam') for email in spam]
-ham_emails = [(email, 'ham') for email in ham]
-all_emails = spam_emails + ham_emails
-
-random.shuffle(all_emails)
-
-#bow_model
-all_features = [(get_features(email, 'bow'), label) for (email, label) in all_emails]
-#default_model
-
-#all_features = [(get_features(email, ''), label) for (email, label) in all_emails]
-train_set, test_set, classifier = train(all_features, 0.8)
-#evaluate(train_set, test_set, classifier)
+    

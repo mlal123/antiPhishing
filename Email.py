@@ -8,6 +8,7 @@ import spam_email_3 as mL
 import email_program_2 as emailHelper
 import time
 import json
+import random
 
 class Email:
     
@@ -76,7 +77,26 @@ def main():
     user = "email"
     password = "pwd"
     account = jsonHelper.getAccount(user)
-    print(account.latest_id)
+    
+    #get list of example spam and ham data
+    spam = mL.init_lists('enron1/spam/')
+    ham = mL.init_lists('enron1/ham/')
+
+    # 1 if it's spam, 0 if it's ham
+    spam_emails = [(email, 'spam') for email in spam]
+    ham_emails = [(email, 'ham') for email in ham]
+    all_emails = spam_emails + ham_emails
+
+    random.shuffle(all_emails)
+
+    #bow_model
+    all_features = [(mL.get_features(email, 'bow'), label) for (email, label) in all_emails]
+
+    #default_model
+    #all_features = [(get_features(email, ''), label) for (email, label) in all_emails]
+    train_set, test_set, classifier = mL.train(all_features, 0.8)
+    
+    mL.evaluate(train_set, test_set, classifier)
     
     while 1:
     # Have to login/logout each time because that's the only way to get fresh results.
@@ -91,9 +111,11 @@ def main():
         #uids length will be one if no new emails are being read b/c it includes itself.
             #create the list of ids from unchecked mail        
         for uid in uids:
+            
             #check to make sure we're only getting ids > than recently_checked id   
             if uid > account.latest_id or uid == 1:
-                processEmail(conn,uid)
+                emaiL = processEmail(conn,uid)
+                print("This mail is " + mL.spam_or_ham(emaiL._body, classifier))
                 account.latest_id = uid
                 jsonHelper.updateAccount(account)
                     
@@ -105,8 +127,11 @@ def main():
 
 def processEmail(conn, uid):
     email_message = emailHelper.get_mail(conn, uid)
+    
+    #return email object, so stuff can be done to it
     new_email = emailHelper.basic_info(uid, email_message)
     new_email.printEmail()
+    return new_email
 
 #run main
 if __name__ == '__main__':
