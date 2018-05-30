@@ -1,0 +1,9 @@
+{
+  "Accounts":[
+    {
+      "user":"",
+      "latest_id": 0,
+      "phish_mailbox": "False"
+    }
+  ]
+}
