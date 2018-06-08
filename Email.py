@@ -5,10 +5,11 @@ Created on Thu May 24 15:13:46 2018
 @author: mangz
 """
 import spam_email_3 as mL
-import email_program_2 as emailHelper
 import time
 import json
 import random
+import gmail
+import outlook
 
 class Email:
     
@@ -31,7 +32,7 @@ class Email:
         print("Subject: " + self._subject)
         print("Label: " + self._label)
         print("Body: \n" + self._body)
-        print( "=======================================================" )
+        print( "-------------------------" )
         
 class Account:
     
@@ -74,9 +75,23 @@ class jsonHelper:
             
 def main():
     #user and password declared
-    user = "email"
-    password = "pwd"
+    user = "tbradyroxx@gmail.com"
+    password = "bradyrulez!"
     account = jsonHelper.getAccount(user)
+    
+    mail = gmail.Gmail()
+    
+    """
+    outlook_mail = outlook.Outlook()
+    outlook_mail.login(user, password)
+    outlook_mail.inbox()
+    email_message = outlook_mail.get_newest_mail()
+    print(email_message['Subject'])
+    print(email_message['From'])
+    print(outlook_mail.mailbody())
+    print(outlook_mail.mailbodydecoded())
+    outlook_mail.logout()
+    """
     
     #get list of example spam and ham data
     spam = mL.init_lists('enron1/spam/')
@@ -96,16 +111,17 @@ def main():
     #all_features = [(get_features(email, ''), label) for (email, label) in all_emails]
     train_set, test_set, classifier = mL.train(all_features, 0.8)
     
-    mL.evaluate(train_set, test_set, classifier)
-    
+    #mL.evaluate(train_set, test_set, classifier)
+ 
     while 1:
     # Have to login/logout each time because that's the only way to get fresh results.
     
         #open up imap connection with specified user and password
-        conn = emailHelper.connect(account, password)
+        mail.connect(account, password)
+        mail.inbox()
         
         #return list of email ids of emails that have not been processed
-        data = emailHelper.unchecked_emails(conn, account.latest_id)
+        data = mail.unchecked_emails(account.latest_id)
         uids = [int(i) for i in data[0].split()]
         
         #uids length will be one if no new emails are being read b/c it includes itself.
@@ -114,24 +130,28 @@ def main():
             
             #check to make sure we're only getting ids > than recently_checked id   
             if uid > account.latest_id or uid == 1:
-                emaiL = processEmail(conn,uid)
-                print("This mail is " + mL.spam_or_ham(emaiL._body, classifier))
+                emaiL = processEmail(mail, uid)
+                #print("This mail is " + mL.spam_or_ham(emaiL._body, classifier))
                 account.latest_id = uid
                 jsonHelper.updateAccount(account)
                     
-        conn.close()
-        conn.logout()
+        mail.close()
+        mail.logout()
         print("Logged out")
-        break
         time.sleep(10)
-
-def processEmail(conn, uid):
-    email_message = emailHelper.get_mail(conn, uid)
     
+
+def processEmail(mail, uid):
+    email_message = mail.get_mail(uid)
     #return email object, so stuff can be done to it
-    new_email = emailHelper.basic_info(uid, email_message)
-    new_email.printEmail()
-    return new_email
+    if email_message == "None":
+        print("it is none")
+        return email_message
+    else:
+        print("not none")
+        new_email = mail.basic_info(uid, email_message)
+        new_email.printEmail()
+        return new_email
 
 #run main
 if __name__ == '__main__':

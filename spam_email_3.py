@@ -80,5 +80,23 @@ def spam_or_ham(text, classifier):
 
 def getClassifier():
     return classifier
+    
+"""spam = init_lists('enron1/spam/')
+ham = init_lists('enron1/ham/')
 
+# 1 if it's spam, 0 if it's ham
+spam_emails = [(email, 'spam') for email in spam]
+ham_emails = [(email, 'ham') for email in ham]
+all_emails = spam_emails + ham_emails
+
+random.shuffle(all_emails)
+
+#bow_model
+all_features = [(get_features(email, 'bow'), label) for (email, label) in all_emails]
+
+#default_model
+#all_features = [(get_features(email, ''), label) for (email, label) in all_emails]
+train_set, test_set, classifier = train(all_features, 0.8)
+evaluate(train_set, test_set, classifier)
+"""
     
