@@ -75,8 +75,8 @@ class jsonHelper:
             
 def main():
     #user and password declared
-    user = "tbradyroxx@gmail.com"
-    password = "bradyrulez!"
+    user = "email"
+    password = "password"
     account = jsonHelper.getAccount(user)
     
     mail = gmail.Gmail()
