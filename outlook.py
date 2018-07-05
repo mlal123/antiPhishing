@@ -72,12 +72,17 @@ class Outlook():
     def select(self, str):
         return self.imap.select(str)
 
+    def create(self, str):
+        return self.imap.create(str)
+    
     def inbox(self):
         return self.imap.select("Inbox")
 
     def junk(self):
         return self.imap.select("Junk")
 
+    def close(self):
+        return self.imap.close()
     def logout(self):
         return self.imap.logout()
 
@@ -124,10 +129,16 @@ class Outlook():
 
     def getEmail(self, id):
         r, d = self.imap.fetch(id, "(RFC822)")
-        self.raw_email = d[0][1].decode('utf-8')
+        self.raw_email = d[0][1].decode('utf-8', 'ignore')
         self.email_message = email.message_from_string(self.raw_email)
         return self.email_message
-
+    
+    def peekEmail(self, id):
+        r, d = self.imap.fetch(id, '(BODY.PEEK[])')
+        self.raw_email = d[0][1].decode('utf-8', 'ignore')
+        self.email_message = email.message_from_string(self.raw_email)
+        return self.email_message
+        
     def unread(self):
         list = self.unreadIds()
         latest_id = list[-1]
@@ -200,9 +211,39 @@ class Outlook():
 
     def mailbodydecoded(self):
         return base64.urlsafe_b64decode(self.mailbody())
+    
     def get_newest_mail(self):
         #returns Email object of the newest email
         result, data = self.imap.search(None, "ALL")
         mails = data[0].split()
         newest_id = mails[-1]
-        return self.getEmail(newest_id)
+        return newest_id
+        
+    def get_text_body(self, email_message):
+        body = ""
+
+        if email_message.is_multipart():
+            for part in email_message.walk():
+                ctype = part.get_content_type()
+                cdispo = str(part.get('Content-Disposition'))
+
+        # skip any text/plain (txt) attachments
+                if ctype == 'text/plain' and 'attachment' not in cdispo:
+                    body = part.get_payload().split('\r\n\r\n2015')[0]  # decode
+                    break
+# not multipart - i.e. plain text, no attachments, keeping fingers crossed
+        else:
+            body = email_message.get_payload().split('\r\n\r\n2015')[0]
+        return body
+    def mark_unread(self, uid):
+        return self.imap.store(uid, '-FLAGS', '\\Seen')
+        
+    def move_to_folder(self, uid, folder):
+        #result = self.imap.uid('COPY', uid, folder)
+        result = self.imap.copy(uid, folder)
+    
+        if result[0] == 'OK':
+            #mov, data = self.imap.uid('STORE', uid , '+FLAGS', '(\\Deleted)')
+            mov, data = self.imap.store(uid, '+FLAGS', '\\Deleted')
+            self.imap.expunge()
+            print(data)

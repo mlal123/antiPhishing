@@ -70,8 +70,8 @@ class Gmail():
         result, data = self.imap.search(None, "ALL")
         mails = data[0].split()
         newest_id = mails[-1]
-        newest = self.fetch_mail(newest_id)
-        newest_mail = self.basic_info(newest_id, newest)
+        email_message = self.get_mail(newest_id)
+        newest_mail = self.basic_info(newest_id, email_message)
         return newest_mail
 
     def unchecked_emails(self, _id):
@@ -86,12 +86,31 @@ class Gmail():
         if result[0] == 'OK':
             mov, data = self.imap.uid('STORE', str(uid) , '+FLAGS', '(\Deleted)')
             self.imap.expunge()
+            
     def close(self):
         return self.imap.close()
     
     def logout(self):
         return self.imap.logout()
- 
+    
+    def check_for_spoof(self, email_message):
+        return_path = email_message['Return-Path']
+        alleged_sender = email_message['From']
+        isItSpoofed = False
+        
+        if len(return_path) <= len(alleged_sender):
+            isItSpoofed = self.spoof_checker(return_path, alleged_sender)
+        else:
+            isItSpoofed = self.spoof_checker(alleged_sender, return_path)
+        return isItSpoofed
+    
+    def spoof_checker(self, sub, full):
+        #checks to see if sub is in full string, 
+        #if sub is in full, then it's not spoofed, so return false
+        if sub in full:
+            return False
+        else:
+            return True
     """
 def get_attachments(msg):
     for part in msg.walk():

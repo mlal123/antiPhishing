@@ -6,6 +6,7 @@ from nltk import NaiveBayesClassifier, classify
 from nltk import word_tokenize, WordNetLemmatizer
 from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords
+
 import nltk
 nltk.download('stopwords')
 
@@ -36,6 +37,18 @@ def get_features(text, setting):
     else:
         return {word: True for word in preprocess(text) if not word in stoplist}
 
+def tfidf(wordlist):
+    from sklearn.feature_extraction.text import TfidfVectorizer
+    tfidf_dict = {}
+    tfidf = TfidfVectorizer(stop_words='english', analyzer = 'word', ngram_range = (1,2))
+    tfidf.build_analyzer()
+    response = tfidf.fit_transform(wordlist)
+    feature_names = tfidf.get_feature_names()
+    for col in response.nonzero()[1]:
+        tfidf_dict[feature_names[col]] = response[0, col]
+        
+    return tfidf_dict
+    
 def train(features, samples_proportion):
     #train data
     train_size = int(len(features) * samples_proportion)
@@ -74,29 +87,41 @@ def process_message(message, lower_case = True, stem = True, stop_words = True, 
 def spam_or_ham(text, classifier):
     
     email_body = get_features(text, 'bow')
-    print(email_body)
     nb = classifier.classify(email_body)
     return nb
-
+    
 def getClassifier():
     return classifier
     
-"""spam = init_lists('enron1/spam/')
-ham = init_lists('enron1/ham/')
+def computeTF(bow):
+    tfDict = {}
+    bowCount = len(bow)
+    for word, count in bow.items():
+        tfDict[word] = count/float(bowCount)
+    return tfDict
 
-# 1 if it's spam, 0 if it's ham
-spam_emails = [(email, 'spam') for email in spam]
-ham_emails = [(email, 'ham') for email in ham]
-all_emails = spam_emails + ham_emails
+def computeIDF(docList):
+    import math
+    idfDict = {}
+    N = len(docList)
 
-random.shuffle(all_emails)
+    idfDict = dict.fromkeys(docList,0)
+    print(idfDict)
+    for doc in docList:
+        print("doc is " + str(doc))
+        for word in doc:
+            print(word)
+          
+                
+    for word, val in idfDict.items():
+        idfDict[word] = math.log10(N / float(val))
 
-#bow_model
-all_features = [(get_features(email, 'bow'), label) for (email, label) in all_emails]
+    return idfDict
 
-#default_model
-#all_features = [(get_features(email, ''), label) for (email, label) in all_emails]
-train_set, test_set, classifier = train(all_features, 0.8)
-evaluate(train_set, test_set, classifier)
-"""
+def computeTFIDF(tfBow, idfs):
+    tfidf = {}
+    for word, val in tfBow.items():
+        tfidf[word] = val*idfs[word]
+    return tfidf
+
     
