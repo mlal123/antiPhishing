@@ -1,6 +1,0 @@
-Folks - We've decided not to include any of the binary to decimal and vice
-versa on the final. No need to study that.
-
--- 
-You received this message because you are subscribed to the Google Groups "Comp 110-001" group.
-To unsubscribe from this group and stop receiving emails from it, send an email to comp110-001+unsubscribe@cs.unc.edu.

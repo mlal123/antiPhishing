@@ -1,7 +1,0 @@
-Hey all,
-
-I'm working with Dr. Pozefsky and some work-study students to polish up
-Dhillon's Energy from last semester's COMP 585 class. Do any of you guys
-still have the raw Unity files on your computers? Thanks for all the help.
-
-Daniel Korn

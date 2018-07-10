@@ -1,9 +1,0 @@
-We have opened a COMP 590 (Special Topics) on Data Compression.  Prereqs
-are COMP 410 and STOR 435 or permission of the instructor (Prof
-Mayer-Patel).  COMP 410 is not negotiable but not STOR 435.
-
-Diane
-
--- 
-You received this message because you are subscribed to the Google Groups "Majors" group.
-To unsubscribe from this group and stop receiving emails from it, send an email to majors+unsubscribe@cs.unc.edu.

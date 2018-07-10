@@ -1,8 +1,0 @@
-
-An announcement has been added in the "COMP411.002.FA16" site at (https://sakai.unc.edu/portal/site/5d7efa4a-b769-4b43-a298-96b46c136e23) at Dec 7, 2016 2:32 am
-
-.
-
----------------------- 
- This automatic notification message was sent by Sakai @ UNC-Chapel Hill (https://sakai.unc.edu/portal).
- You can modify how you receive notifications at My Workspace > Preferences.

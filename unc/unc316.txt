@@ -1,5 +1,0 @@
-Folks -- Please read Assignment1 carefully again, even if you have
-completed it. We have added a note about handling negative numbers for the
-score difference. Thanks.
-
-To unsubscribe from this group and stop receiving emails from it, send an email to comp110-001+unsubscribe@cs.unc.edu.

@@ -1,5 +1,0 @@
-The write-up for assignment 4 (splay trees) is now on the class website.
-
-Please get started early on this. 
-
-Note there are a few suggested changes in your interface to make it easier for the splaying operation to make a new tree root.

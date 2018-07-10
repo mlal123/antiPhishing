@@ -1,9 +1,0 @@
-Folks -- I mentioned this in class yesterday... Assignment 4 is now due on
-Wed, Dec 2 at 11:55 PM.  This is for both parts.
-
-However, note that you MUST complete part A this week if you want help from
-the TAs. See class schedule page for assignment link.
-
--- 
-You received this message because you are subscribed to the Google Groups "Comp 110-001" group.
-To unsubscribe from this group and stop receiving emails from it, send an email to comp110-001+unsubscribe@cs.unc.edu.

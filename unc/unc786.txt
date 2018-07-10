@@ -1,8 +1,0 @@
-Folks -- I announced in class last week that we would have a quiz in class
-on Tue, Nov 10. I think it would be more useful to have the quiz on Thu,
-Nov 12, after we have gone through some practice examples in class on
-Tuesday.
-
-Thanks.
-
-To unsubscribe from this group and stop receiving emails from it, send an email to comp110-001+unsubscribe@cs.unc.edu.

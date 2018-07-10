@@ -1,9 +1,0 @@
-According to our records, your access to eduroam may be expiring for:
-Lal LapTop
-
-If you have onboarded this device recently, please ignore this message.  However, if it has been about 1 year since the last time you ran the onboarding process, please connect to wifi.unc.edu and configure your device. 
-
-If you have questions, please contact the ITS Response Center at 919-962-HELP.
-
-Thanks,
-ITS 

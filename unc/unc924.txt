@@ -1,7 +1,0 @@
-Folks -- Yes, Part B submission for assignment 4 is now open.
-
-See: http://comp110.com/assignments/effects-and-filters
-
--- 
-You received this message because you are subscribed to the Google Groups "Comp 110-001" group.
-To unsubscribe from this group and stop receiving emails from it, send an email to comp110-001+unsubscribe@cs.unc.edu.

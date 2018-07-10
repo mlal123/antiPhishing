@@ -1,7 +1,0 @@
-Folks -- We now have Lab1 on Sakai. Due date, as I mentioned in class, is
-Wed, Sep 9.
-
-You can also get to it from:
-http://cs.unc.edu/~aikat/courses/comp110/labs/Lab1
-
-To unsubscribe from this group and stop receiving emails from it, send an email to comp110-001+unsubscribe@cs.unc.edu.
