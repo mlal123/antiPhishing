@@ -1,0 +1,120 @@
+Nieman Lab: The Daily Digest
+Friday=2C June 1=2C 2018
+http://www.niemanlab.org/2018/06/whatsapp-is-a-black-box-for-fake-news-ver=
+ificado-2018-is-making-real-progress-fixing-that/
+
+
+** WhatsApp is a black box for fake news. Verificado 2018 is making real p=
+rogress fixing that. (http://www.niemanlab.org/2018/06/whatsapp-is-a-black=
+-box-for-fake-news-verificado-2018-is-making-real-progress-fixing-that/)
+------------------------------------------------------------
+=E2=80=9CInstead of using broadcast to spread our debunks=2C we opted for=
+ an individual relationship.=E2=80=9D By Laura Hazard Owen.
+http://www.niemanlab.org/2018/06/how-zimbabwes-magamba-tv-produces-politic=
+al-satire-for-a-new-social-media-connected-generation/
+
+
+** How Zimbabwe=E2=80=99s Magamba TV produces political satire for a new s=
+ocial media-connected generation (http://www.niemanlab.org/2018/06/how-zim=
+babwes-magamba-tv-produces-political-satire-for-a-new-social-media-connect=
+ed-generation/)
+------------------------------------------------------------
+=E2=80=9COn the one hand=2C we know that quite a few government ministers=
+ actually watch our stuff=E2=80=A6.So these dudes=2C they do watch it=2C t=
+o get a sense of what young people are thinking.=E2=80=9D By Samm Farai Mo=
+nro.
+=E2=80=9CConsciously uncoupling=E2=80=9D: Where does the relationship betw=
+een publishers and platforms stand now? (http://www.niemanlab.org/2018/06/=
+consciously-uncoupling-where-does-the-relationship-between-publishers-and-=
+platforms-stand-now/)
+What We=E2=80=99re Reading
+Facebook
+Facebook is getting rid of its HIGHLY CONTROVERSIAL Trending module =E2=86=
+=92 (https://newsroom.fb.com/news/2018/06/removing-trending/)
+=E2=80=9CWe introduced Trending in 2014 as a way to help people discover n=
+ews topics that were popular across the Facebook community. However=2C it=
+ was only available in five countries and accounted for less than 1.5% of=
+ clicks to news publishers on average. From research we found that over ti=
+me people found the product to be less and less useful.=E2=80=9D
+Columbia Journalism Review / Pete Vernon
+Roseanne=E2=80=99s comments received 16 times the coverage of the study es=
+timating Hurricane Maria=E2=80=99s toll at 4=2C600 deaths in Puerto Rico=
+ =E2=86=92 (https://www.cjr.org/the_media_today/puerto-rico-death-coverage=
+=2Ephp)
+=E2=80=9CI=E2=80=99ve gotten three times as many breaking news emails toda=
+y about =E2=80=98Roseanne=E2=80=99 getting cancelled than I have about the=
+ death toll in Puerto Rico being 70 times higher than we thought=2C=E2=80=
+=9D Wisconsin Public Radio host Brady Carlson tweeted Tuesday.
+Poynter / TOM STITES
+The first publicly searchable database on newspapers and online news sites=
+ is coming =E2=80=94 to track how fast news deserts are spreading =E2=86=
+=92 (https://www.poynter.org/news/new-data-tracks-how-fast-news-deserts-ar=
+e-spreading)
+Hopefully it will be cleaner than other reports on local news deserts (htt=
+p://www.niemanlab.org/2018/04/that-politico-article-on-news-deserts-doesnt=
+-really-show-what-it-claims-to-show/) .
+TechCrunch / Sarah Perez
+Apple is set to announce its own =E2=80=9Cdigital health=E2=80=9D features=
+ in iOS 12 on Monday =E2=86=92 (https://techcrunch.com/2018/06/01/apple-to=
+-launch-its-own-digital-health-features-in-ios-12-says-report/)
+=E2=80=9CIf Apple were to avoid the topic=2C it would be the odd one out a=
+t this point.=E2=80=9D
+CityLab / Kriston Capps
+Cities where newspapers closed saw government costs increase =E2=80=9Cas a=
+ result of the lack of scrutiny over local deals=E2=80=9D =E2=86=92 (http:=
+//www.citylab.com/equity/2018/05/study-when-local-newspaper-close-city-bon=
+d-finances-suffer/561422/)
+Paul Gao=2C an associate professor of finance at the University of Notre D=
+ame and one of the paper=E2=80=99s authors=2C was inspired to look into th=
+e issue after an episode of =E2=80=9CLast Week Tonight with John Oliver=E2=
+=80=9D about the news industry. =E2=80=9CHe was focused on two things: con=
+solidation of national news media and closure of local news media. John Ol=
+iver=E2=80=99s show really gave us the prompt for the phenomenon=2C and we=
+ started thinking about it from an economist=E2=80=99s point of view.=E2=
+=80=9D
+Wall Street Journal / Deepa Seetharaman and Lukas I. Alpert
+Facebook and publishers are nearing deals on news shows for Watch =E2=86=
+=92 (https://www.wsj.com/articles/facebook-nears-deals-on-news-shows-for-v=
+ideo-platform-watch-1527808597)
+=E2=80=9CThe company has offered some publishers between $1 million and $3=
+ million for one-year contracts=2C according to people involved in the dis=
+cussions. But some publishers have balked at the terms while others have b=
+een turned off by Facebook=E2=80=99s shifting strategy=2C people familiar=
+ with the discussions said.=E2=80=9D
+Columbia Journalism Review / Gabriel Snyder
+=E2=80=9CI was trying to not have a job:=E2=80=9D Do journalists make good=
+ entrepreneurs? =E2=86=92 (https://www.cjr.org/special_report/journalist-e=
+ntrepreneurs.php/)
+=E2=80=9COne thing that transfers from being a journalist or an editor dir=
+ectly into running a business is your sense that you can find the answer t=
+o a question=2C that you can do the research and get to the bottom of some=
+thing.=E2=80=9D
+The New York Times / Rukmini Callimachi and Michael Slackman
+Why The New York Times collected ISIS=E2=80=99 internal documents=2C and w=
+hat happens next =E2=86=92 (https://www.nytimes.com/interactive/2018/05/31=
+/reader-center/isis_files_questions.html)
+=E2=80=9CDear Sam=2C I understand how this looks from here. Put yourself o=
+n a battlefield=2C where almost everything around you has been destroyed a=
+nd turned to rubble=2C and the only authority for any distance is the Iraq=
+i military.=E2=80=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3D4fb2295aac)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3D4fb2295aac)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

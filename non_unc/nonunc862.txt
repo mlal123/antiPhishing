@@ -1,0 +1,82 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+5.2  (11/16/15 5:43 PM)
+
+Can someone explain 5.2 a little better? I know I need a nested for loop to=
+ traverse through all the parts of the arrays but I'm not sure what goes in=
+side the for loops to successfully copy the colors over. Thanks!
+
+
+Go to https://piazza.com/class?cid=3Dih2jftrouxo3j3&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Pixels for Assignment Four  (11/16/15 7:43 PM)
+
+Are there only four total pixels? Or am I misunderstanding the explanation =
+based on the coordinate system?=C2=A0
+
+Go to https://piazza.com/class?cid=3Dih2npy3v1l47g&nid=3Didk60wfq88174f&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+4.2  (11/16/15 7:58 PM)
+
+I'm really confused with how to do part 4.2. I don't understand how an arra=
+y of colors can use integers?=C2=A0
+
+Go to https://piazza.com/class?cid=3Dih2o8kwr90w4mk&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+2.4  (11/16/15 8:06 PM)
+
+I honestly don't understand the method copy()
+I keep getting=C2=A0
+Failed tests:=C2=A0
+=C2=A0 Color method copy() should return Color
+
+I set it up as:
+public Object copy(){
+return new Color(this.getRed(), this.getGreen(), this.getBlue());
+}
+I have been trying to look through slides and the book but not having luck.=
+=C2=A0
+Any help?
+
+Go to https://piazza.com/class?cid=3Dih2oj8b3ha5x1&nid=3Didk60wfq88174f&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Constructing pixels array  (11/16/15 8:18 PM)
+
+Do we need to use a loop when constructing the array?=C2=A0
+
+Go to https://piazza.com/class?cid=3Dih2oyad4f2n6rn&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

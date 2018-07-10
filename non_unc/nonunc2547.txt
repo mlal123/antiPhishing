@@ -1,0 +1,20 @@
+Your classmate posted a new Question. 
+
+import JUnit file
+
+This is pretty dumb, but how does one import a JUnit file? I went to property --> build path --> import external JAR files --> "OK", but nothing showed up.
+
+Go to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2fclass%3fcid%3disugqcwkc9vcl%26nid%3dis6wk5m47ay4zy%26token%3df2GxNxqCfOm&data=01%7c01%7cmlal123%40live.unc.edu%7c6faa7438e3a1417474fb08d3d7f9305d%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=i%2fbrl3PkUAVyWhtYDNy8K857D995snPE9GZMoEYSAYI%3d to view. Search or link to this question with @60. Follow it to get notified when a response comes in: https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2ffollow%2fisugqcwkc9vcl%2ff2GxNxqCfOm%2ff5ea5da4&data=01%7c01%7cmlal123%40live.unc.edu%7c6faa7438e3a1417474fb08d3d7f9305d%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=lIAXY0MVkf6RqymKd30OFZCx93XOVhJr3%2fpeIEWt3tQ%3d 
+
+Sign up for more classes at https://na01.safelinks.protection.outlook.com/?url=http%3a%2f%2fpiazza.com%2func&data=01%7c01%7cmlal123%40live.unc.edu%7c6faa7438e3a1417474fb08d3d7f9305d%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=lItnpeqxDffJ8cGbeEni3DCIt3AwmI36UTxTeiH4m%2bc%3d
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 410 (section 002) at University of North Carolina at Chapel Hill. Go to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2flogin&data=01%7c01%7cmlal123%40live.unc.edu%7c6faa7438e3a1417474fb08d3d7f9305d%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=qp%2b4LfwQqdk%2bOWCoyc8sW%2bZ9PJjR8qnPaU3uKHPAuPI%3d to sign in and manage your email preferences or proceed to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2fis6wk5m47ay4zy&data=01%7c01%7cmlal123%40live.unc.edu%7c6faa7438e3a1417474fb08d3d7f9305d%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=yp4N0bNRZVBVOjLlzyjeoMGiNtfuYubLnlu5u18ZvwY%3d to un-enroll from this class.

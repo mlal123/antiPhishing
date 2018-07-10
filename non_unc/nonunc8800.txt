@@ -1,0 +1,150 @@
+Nieman Lab: The Daily Digest
+Friday=2C March 9=2C 2018
+http://www.niemanlab.org/2018/03/newsonomics-is-tronc-due-for-a-crash-and-=
+a-few-other-questions-about-this-busy-week-in-the-news-business/
+
+
+** Newsonomics: Is Tronc due for a crash? And a few other questions about=
+ this busy week in the news business (http://www.niemanlab.org/2018/03/new=
+sonomics-is-tronc-due-for-a-crash-and-a-few-other-questions-about-this-bus=
+y-week-in-the-news-business/)
+------------------------------------------------------------
+Plus: Digital First=E2=80=99s owner gets sued for alleged bad behavior=2C=
+ The Athletic looks to get huge=2C and Advance newspapers start poking at=
+ paywalls. By Ken Doctor.
+http://www.niemanlab.org/2018/03/what-do-xi-jinping-and-winnie-the-pooh-ha=
+ve-in-common-theyre-both-flagged-by-chinese-censors/
+
+
+** What do Xi Jinping and Winnie the Pooh have in common? They=E2=80=99re=
+ both flagged by Chinese censors (http://www.niemanlab.org/2018/03/what-do=
+-xi-jinping-and-winnie-the-pooh-have-in-common-theyre-both-flagged-by-chin=
+ese-censors/)
+------------------------------------------------------------
+They=E2=80=99re just a few of countless names=2C codewords=2C memes=2C and=
+ phrases that have been blocked. Weiboscope=2C a project out of the Univer=
+sity of Hong Kong=2C since 2011 has tracked deleted posts on Weibo=2C coll=
+ecting a substantial dataset of the types of terms and content that trigge=
+rs censors. By Shan Wang.
+http://www.niemanlab.org/2018/03/fear-surprise-and-disgust-why-fake-news-s=
+preads-faster-than-real-news-on-twitter/
+
+
+** Fear=2C surprise=2C disgust: Fake news spreads faster than some real ne=
+ws on Twitter (http://www.niemanlab.org/2018/03/fear-surprise-and-disgust-=
+why-fake-news-spreads-faster-than-real-news-on-twitter/)
+------------------------------------------------------------
+Plus: A big overview of all the research that we have so far. By Laura Haz=
+ard Owen.
+What We=E2=80=99re Reading
+Poynter / Alexios Mantzarlis
+We need to get better at covering studies about fake news =E2=86=92 (https=
+://www.poynter.org/news/we-need-get-better-covering-studies-about-fake-new=
+s)
+=E2=80=9CWe should be drawing many small lessons about misinformation from=
+ these new studies. Instead=2C we are hammering our audiences with an inac=
+curate generalization =E2=80=94 that fakery is rampant and undefeatable.=
+=E2=80=9D
+NewsWhip / Gabriele Boland
+NewsWhip=E2=80=99s February 2018 list of top reporters on Facebook include=
+s 2 reporters from fake news sites =E2=86=92 (http://www.newswhip.com/2018=
+/03/top-reporters-on-facebook/)
+=E2=80=9CBeyond the Onion=2C the top authors were primarily from hyper-par=
+tisan sources like the Daily Wire=2C Truth Examiner=2C Breitbart=2C Washin=
+gton Press=2C and several small but politically-charged sites=E2=80=A6.Hor=
+rifyingly enough=2C two authors from fake news sites featured. An author f=
+rom the fake news site Your Newswire was towards the top of our list=2C ra=
+nking in at #12. Baxter Dmitry wrote 81 articles in February=2C driving mo=
+re than 1.7 million Facebook interactions altogether. Jay Greenberg featur=
+ed at #38 for fake stories from the site Neon Nettle.=E2=80=9D
+NBC News / Claire Atkinson
+ESPN=E2=80=99s new president has a tough digital future ahead =E2=86=92 (h=
+ttps://www.nbcnews.com/tech/internet/espn-s-new-president-has-tough-digita=
+l-future-ahead-n854831)
+The $4.99/month ESPN+ =E2=80=9Cmust be successful=2C but not so successful=
+ that pay-TV customers drop their higher-priced video channel bundles and=
+ buy ESPN+ instead. ESPN risks angering its cable partners=2C who still pr=
+ovide the bulk of the company=E2=80=99s revenue=2C by moving too fast into=
+ the subscription streaming market.=E2=80=9D
+Digiday / Lucia Moses
+The New Yorker raised the price of its print=E2=80=93digital bundle to $12=
+0/year=2C and it=E2=80=99s working =E2=86=92 (https://digiday.com/media/ne=
+w-yorker-plans-double-paid-circulation-2-million/)
+=E2=80=9CIt was scary to think about charging three-figure sums. Then=2C w=
+e thought=2C people in their 20s are paying for Netflix when we were embar=
+king on this increase. And The [New York] Times=E2=80=99 success is encou=
+raging=2C as well as The Washington Post=E2=80=99s growth. The lesson of t=
+he past five years has been not to undervalue ourselves.=E2=80=9D
+Columbia Journalism Review / Josephine Lukito and Chris Wells
+Most major outlets have used Russian tweets as sources for partisan opinio=
+n =E2=86=92 (https://www.cjr.org/analysis/tweets-russia-news.php)
+=E2=80=9CIn a new study at the University of Wisconsin-Madison=2C we look=
+ at how often=2C and in what context=2C Twitter accounts from the Internet=
+ Research Agency =E2=80=94 a St. Petersburg-based organization directed by=
+ individuals with close ties to Vladimir Putin=2C and subject to Mueller=
+=E2=80=99s scrutiny =E2=80=94 successfully made their way from social medi=
+a into respected journalistic media.=E2=80=9D
+Civil
+Cannabis Wire is joining Civil =E2=86=92 (https://news.joincivil.com/canna=
+bis-wire/)
+The publication is relaunching on the journalism-focused=2C Ethereum-based=
+ marketplace Civil. It will focus on the policy implications of cannabis l=
+egalization=2C as well as the social and economic complexities that come w=
+ith legalization. It joins other new ventures launching there=2C such as P=
+opula=2C Block Club Chicago=2C and Hmm Daily.
+The Verge / Dieter Bohn
+Inside Google=E2=80=99s plan to make the whole web as fast as AMP =E2=86=
+=92 (https://www.theverge.com/2018/3/8/17095078/google-amp-accelerated-mob=
+ile-page-announcement-standard-web-packaging-urls)
+=E2=80=9CWhat Google is proposing (https://amphtml.wordpress.com/2018/03/0=
+8/standardizing-lessons-learned-from-amp/) is not to turn the entire web i=
+nto AMP=2C but rather to take some of the ideas behind the clever hacks th=
+at made AMP work=2C clean them up=2C and then make them a universal standa=
+rd that has nothing to do with Google. That way=2C nearly any webpage coul=
+d be distributed as easily and loaded as quickly as ones that are supporte=
+d by AMP.=E2=80=9D
+Poynter / Daniel Funke
+This site is trying to teach people about fake news by publishing it =E2=
+=86=92 (https://www.poynter.org/news/site-trying-teach-people-about-fake-n=
+ews-publishing-it)
+=E2=80=9CWe were brainstorming and thinking about how to reach people who=
+ like and share fake news online=2C=E2=80=9D said Maarten Schenk=2C who ru=
+ns the Lead Stories debunking site in Belgium. =E2=80=9CFake news sites do=
+n=E2=80=99t have any trouble reaching them=2C because your crazy uncle on=
+ Facebook always comes up with new fake news sites that you=E2=80=99ve nev=
+er heard of. So we thought=2C =E2=80=98What if we try to mimic their tacti=
+cs and see if we can beat the enemy with their own weapons?=E2=80=99=E2=80=
+=9D
+Digiday / Max Willens
+Reddit is trying to tighten its relationship with publishers =E2=86=92 (ht=
+tps://digiday.com/media/reddit-trying-tighten-relationship-publishers/)
+=E2=80=9CTools were launched in May 2016 to encourage publishers to source=
+ and credit Reddit users in their pieces. In February 2017 came an integra=
+tion with CrowdTangle=2C which let publishers monitor how their content wa=
+s being shared inside Reddit. In years past=2C publishers trying to share=
+ their content on Reddit could be warned or banned if they violated the pl=
+atform=E2=80=99s rule that no more than 10 percent of the content that acc=
+ounts shared be promotional. That rule was relaxed last spring. Last Decem=
+ber=2C Reddit rolled out profile pages that let publishers post content di=
+rectly to followers.=E2=80=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3D1f260ac230)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3D1f260ac230)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

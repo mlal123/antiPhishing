@@ -1,0 +1,155 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+Margin of Error  (1/23/16 3:04 PM)
+
+For Assignment 2, my average is 6e-15 off for the average as compared to th=
+e example input and output. =C2=A0Is there some sort of margin of error for=
+ this or do I need to alter my code? =C2=A0
+
+Go to https://piazza.com/class?cid=3Dijrjoqko1db48f&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Question regarding Grading System  (1/23/16 3:52 PM)
+
+I just got my feedback for my first assignment. The note says that I have f=
+ailed two tests. However, when I compared my output to the expected output,=
+ they were exactly the same in both format and numbers. I am a little confu=
+sed about what went wrong exactly. Thank you so much.
+
+
+
+
+
+
+Go to https://piazza.com/class?cid=3Dijrlebvh7ho6zv&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 Novice Test Case #1  (1/23/16 5:31 PM)
+
+39 6 97	41	83	6	52	31	8	87	65	6962	53	60	93	19	89	25	52	97	7648	30	20	8	86	=
+92	23	68	36	4138	28	95	49	63	42	58	79	61	9618	8	54	74	90	74	41	58	22	9977	5=
+3	83	1	52	41	27	97	10	8912	43	35	12	35	87	59	19	67	5040	66	0	65	20	74	64	41=
+	71	7087	77	47	10	65	54	58	49	86	9237	77	9	24	3	49	51	26	64	7849	85	31	84	9=
+2	20	95	78	91	9616	26	88	62	76	80	63	46	11	3662	30	51	92	82	1	41	35	74	7372=
+	73	25	60	23	55	31	58	6	8329	84	82	39	32	64	46	15	67	9155	40	72	98	52	38	70=
+	30	31	223	73	20	77	63	39	59	99	4	1366	66	17	17	90	35	28	30	10	933	84	37	98=
+	53	4	87	22	12	1926	75	27	88	98	31	94	19	44	9334	25	53	81	41	75	49	41	38	92=
+40	38	54	64	71	92	25	46	78	3772	67	14	15	36	83	83	2	89	728	24	20	72=09
+
+Expected Output:
+ #s -D>>X>M>#:sD>D :s:X# D-X<<:X- -DDs-s#s Ms>:XX<:DssXDM D<>:DX
+#s-Ds< :> M>::-M XDsD MDXsXXDsM<-MD#>MM>X >D::-X
+D>>#<<#>#--sD D: M##:M-  s#:
+Min value =3D 0
+Max value =3D 99
+Average value =3D 51.81196581196582
+
+ [o] Same as expected output!
+[o] ...I got something different
+
+Go to https://piazza.com/class?cid=3Dijroxocnlpo7dd&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 Adept Test Case #1  (1/23/16 5:37 PM)
+
+8 	9 5 21	93	41	43	79	70	90	37	37	43	70	94
+49	15	53	71	19	49	67	47	18	19	33	65
+90	99	43	64	22	78	45	83	93	74	29	18
+42	19	73	21	40	80	37	18	77=09
+Expected Output
+ 0:
+ 8:**
+16:********************
+24:**
+32:*********
+40:******************
+48:*******
+56:
+64:*************
+72:***********
+80:****
+88:***********
+96:**
+
+ [o] Same as expected!
+[o] ...I received something different...
+
+Go to https://piazza.com/class?cid=3Dijrp5hegp952my&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 Novice Test Case #1  (1/23/16 5:41 PM)
+
+8 	9 5 21	93	41	43	79	70	90	37	37	43	70	94
+49	15	53	71	19	49	67	47	18	19	33	65
+90	99	43	64	22	78	45	83	93	74	29	18
+42	19	73	21	40	80	37	18	77=09
+Expected Output:
+  *=20=20=20=20=20=20=20=20=20=20
+  *  *=20=20=20=20=20=20=20
+  *  *=20=20=20=20=20=20=20
+  *  *=20=20=20=20=20=20=20
+  *  *=20=20=20=20=20=20=20
+  *  *=20=20=20=20=20=20=20
+  *  *  *=20=20=20=20
+  *  *  *=20=20=20=20
+  *  *  ** *=20
+  *  *  ** *=20
+  * **  ** *=20
+  * **  ** *=20
+  * *** ** *=20
+  * *** ** *=20
+  * *** ** *=20
+  * *** ****=20
+  * *** ****=20
+ ****** *****
+ ****** *****
+-------------
+  12344567889
+0864208642086
+
+ [o] I got the expected output!
+[o] ...I got something else.
+
+Go to https://piazza.com/class?cid=3Dijrpaicwnms2x0&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Math.pow  (1/23/16 6:26 PM)
+
+To compute (midterm1- average_ midterm)^2, I used Math.pow ((midterm1-avera=
+ge_ midterm) and get=C2=A0[D@33909752. =C2=A0Could you tell me what this me=
+an?
+
+Go to https://piazza.com/class?cid=3Dijrqw58vorm6yh&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

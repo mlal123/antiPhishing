@@ -1,0 +1,22 @@
+Your classmate posted a new Question. 
+
+Check Yourself on pg 87 of textbook
+
+For the Check Yourself question on pg 87 of the Patterson/Hennessy textbook, how do we determine which registers correspond with the rs, rt, and rd fields? Since registers 8-15 are all temporaries, how do we choose between choices 1, 3, and 4?
+
+Thanks!
+
+Go to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2fclass%3fcid%3ditbhq2p6ohw7ga%26nid%3dirqp4hpe58u5rs%26token%3df2GxNxqCfOm&data=01%7c01%7cmlal123%40live.unc.edu%7c3dd7dfca1bba414afea508d3e159f2de%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=YBCYpNbv65HrCscjdKTrQh42w%2f0wpoXOE%2f2JoOeDFp8%3d to view. Search or link to this question with @94. Follow it to get notified when a response comes in: https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2ffollow%2fitbhq2p6ohw7ga%2ff2GxNxqCfOm%2f63beb2b1&data=01%7c01%7cmlal123%40live.unc.edu%7c3dd7dfca1bba414afea508d3e159f2de%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=ZbHrlQ%2bcKHY%2bpzCRE5XBUCdjE7YFRPFHhI6IHQ53Eyo%3d 
+
+Sign up for more classes at https://na01.safelinks.protection.outlook.com/?url=http%3a%2f%2fpiazza.com%2func&data=01%7c01%7cmlal123%40live.unc.edu%7c3dd7dfca1bba414afea508d3e159f2de%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=NGOGLFvXWrXMqrfbW%2bn2470Lj%2bQSRuIZ%2frM1lTI6p5g%3d
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 411 at University of North Carolina at Chapel Hill. Go to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2flogin&data=01%7c01%7cmlal123%40live.unc.edu%7c3dd7dfca1bba414afea508d3e159f2de%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=vCTEp1AJ%2b1lja6Oj47V1LTA8FKKJptuhJWZ%2fGGvzvaM%3d to sign in and manage your email preferences or proceed to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2firqp4hpe58u5rs&data=01%7c01%7cmlal123%40live.unc.edu%7c3dd7dfca1bba414afea508d3e159f2de%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=N0qjQPbXeBRyjDrSNov%2fN6%2f6Ll028NgJ6ZW5MU3sxJU%3d to un-enroll from this class.

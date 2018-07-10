@@ -1,0 +1,806 @@
+
+
+Udemy
+
+@import url('https://fonts.googleapis.com/css?family=3DSource+Sans+Pro:300,=
+400,600');
+@import url('https://fonts.googleapis.com/css?family=3DZilla+Slab:300,400,6=
+00');
+/* CLIENT-SPECIFIC STYLES */
+body, table, td, a, p {-webkit-text-size-adjust: 100%; -ms-text-size-adjust=
+: 100%; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;}
+table, td {mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: c=
+ollapse;}
+img { -ms-interpolation-mode: bicubic; }
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+.appleFooter a {
+color:#999999!important;
+text-decoration: none!important;
+}
+
+/* MOBILE STYLES */
+@media only screen and (max-width: 480px){
+#container{
+width:100% !important;
+}
+#banner_text {
+text-align: center !important;
+padding-bottom: 10px;
+}
+.deviceWidth{
+display:block !important;
+width:100% !important;
+}
+.hidden{
+display: none;
+}
+.courseCardTop{
+width:30% !important;
+float: left;
+min-width: 30% !important;
+}
+.courseCardBottom{
+width:70% !important;
+float: left;
+min-width: 70% !important;=20
+border-bottom: 0px !important;
+}
+.mobileColor{
+background-color: #ffffff !important;
+}
+.mobileCourseLine{
+border-bottom: 2px #edece6 solid;
+}
+.titleHeight{
+height: auto;
+}
+.titlePadding{
+padding-top: 0px !important;
+padding-bottom: 10px !important;
+font-size: 16px !important;
+}
+.starPricePadding{
+padding-top: 0px !important;
+padding-bottom: 5px !important;
+font-size: 80% !important;
+}
+.courseImage{
+width: 100%;
+height: auto !important;
+}
+.moduleTitlePadding{
+padding: 20px 5px 5px 5px !important;
+}
+.mobileCoursePadding{
+padding: 15px 5px 0px 5px !important;
+width: 100% !important;
+}
+.targetedSpacer{
+width: 5%;
+}
+.headerImage{
+height: 30px !important;
+padding: 5px 0px !important;
+}
+.navBarTextTest{
+padding: 5px 10px 5px 0px !important;
+}
+.navBarImageTest{
+height: 30px !important;
+padding: 5px 0px 5px 10px !important;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+Continue to invest in =
+yourself with newly released courses. Explore new courses each month.
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ne=
+w ReleasesContinue to invest in yourself with courses published in the last mo=
+nth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Che=
+ck out the top new Data and Analytics courses
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Deep Learning: Advanced Computer=
+ Vision
+
+
+
+             4.84 =
+;(32)
+
+
+
+
+
+
+$199.99  =
+$49.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Big Data Analytics with GIS
+
+
+
+             4.62&nb=
+sp;(5)
+
+
+
+
+
+
+$49.99=
+  $=
+11.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Advanced Data Science Techniques=
+ in SPSS
+
+
+
+             5.00 =
+;(3)
+
+
+
+
+
+
+$79.99=
+  $=
+19.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Data Visualisation using Tableau
+
+
+
+             5.00 =
+;(3)
+
+
+
+
+
+
+$149.99  =
+$36.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Excel for Analytics
+
+
+
+             5.00 =
+;(6)
+
+
+
+
+
+
+$79.99=
+  $=
+19.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+Check out the top new =
+Business courses
+
+ 
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Amazon FBA Course Selling 2018 -=
+ Private Label Business A-Z
+
+
+
+New! Published Feb 08
+
+
+
+
+
+
+$49.99=
+  $=
+11.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Python Algo Trading with Interac=
+tive Brokers
+
+
+
+New! Published Feb 12
+
+
+
+
+
+
+$199.99  =
+$49.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Become A CRYPTO MOBSTER: Investi=
+ng with CRYPTOCURRENCY
+
+
+
+New! Published Feb 15
+
+
+
+
+
+
+$39.99=
+  $=
+9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+The Complete Microsoft Dynamics =
+NAV 2018 Beginners Course
+
+
+
+New! Published Feb 02
+
+
+
+
+
+
+$194.99  =
+$47.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+The Ethereum trading course - le=
+arn to Take Profit
+
+
+
+New! Published Feb 05
+
+
+
+
+
+
+$199.99  =
+$49.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+The Psychology Of The Ultimate E=
+ntrepreneur
+
+
+
+New! Published Feb 04
+
+
+
+
+
+
+$199.99  =
+$49.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Advanced Upwork Proposals: How T=
+o 10X Client Responses Fast
+
+
+
+New! Published Jan 31
+
+
+
+
+
+
+$199.99  =
+$49.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUPPORT | UNSUBSCRIBE | VIEW ONLINE | GET UDEMY AT WORK
+
+
+
+Udemy.com 600 Harrison Street, 3rd Floor =
+San Francisco, CA 94107 USA
+
+
+
+
+*Some exclusions apply. Coupon will expire 5 days after vi=
+siting Udemy from this email.=20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

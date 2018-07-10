@@ -1,0 +1,16 @@
+
+An announcement has been added in the "MATH233.001.SP17" site at (https://sakai.unc.edu/portal/site/57f9ebb8-9a70-4413-b7df-94b0c4456a24) at Mar 6, 2017 8:14 pm
+
+Hi everyone,
+ 
+ Just to repeat what I said in class the other day, the second midterm on Thursday will cover everything up to and including section 15.1. By everything, I don't actually mean EVERYTHING, but just those sections that are listed on the syllabus and that you had or have homeworks on.
+ 
+ Also, since I got a few questions in regards to this, yes, you need to know everything that was on the first midterm, too. Obviously, the emphasis will be on the material we've covered since, and it wouldn't make sense for me to just put the same questions on the second midterm, but that stuff will definitely appear on it. Mostly, it will be as a preliminary step towards solving problems from the newer sections (for example, you need to know about level surfaces if you want to talk about tangent planes, or about limits if you want to talk about derivatives), because the material builds on itself. However, you could also get a question that looks like the type of question you had to solve on the first midterm (either as a standalone question or, say, as a part of a bigger one). But as I said, most, if not all, of the questions will be more directly related to the new material. But in theory, yeah, anything that has been covered already is fair game.
+ 
+ In general, in science classes, I think you should expect for all midterms to be comprehensive in the sense that you can't just forget what you've learned for the previous ones as you might be able to if this was a class where you just had to memorize unrelated facts. Ideally, you take the midterm, do however you do, and then suddenly everything clicks, so that, in hindsight, all prior tests look easy. But even if that doesn't happen, don't treat previous material as something you won't see until the final.
+ 
+ Good luck with the preparation, and if you have further questions, feel free to ask me either tomorrow in class or later via e-mail.
+
+---------------------- 
+ This automatic notification message was sent by Sakai @ UNC-Chapel Hill (https://sakai.unc.edu/portal).
+ You can modify how you receive notifications at Home > Preferences.

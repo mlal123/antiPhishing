@@ -1,0 +1,68 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+setPixel method  (11/15/15 8:12 PM)
+
+The setPixel method (4.4) requires you to set the Color parameter to the pr=
+ivate array at (x,y). Though this seems simple enough (and the test for par=
+t 4 ran perfectly)=C2=A0the semantics test for part 5 traces its problems t=
+o this line. As I cannot show any code here, is there anything to pay atten=
+tion to when writing this line of code? Thanks.
+
+Go to https://piazza.com/class?cid=3Dih19b927vy05n8&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+2.2  (11/15/15 8:30 PM)
+
+Could someone give me a hint of how to make the private instance variable f=
+or the colors, I looked at the powerpoints, did exactly as shown and it sti=
+ll doesn't link with the colors listed...
+
+Go to https://piazza.com/class?cid=3Dih19xrms98r1ix&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+4.3 and 4.4 Errors  (11/15/15 9:55 PM)
+
+I have passed all 8 tests for Part 4, but I cannot even begin tests for Par=
+t 5. I keep getting an insanely long error message in all red. Is there an =
+instructor I can send my code to to look at, or should I just send it to th=
+e Comp 110 team email? Thanks.
+
+Go to https://piazza.com/class?cid=3Dih1cz4tvjsk20o&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Submission  (11/15/15 10:26 PM)
+
+If we submit on the COMP 110 Grader, we don't need to submit the same assig=
+nment on Sakai, right?
+
+Go to https://piazza.com/class?cid=3Dih1e3m99ym54wi&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

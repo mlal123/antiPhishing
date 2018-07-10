@@ -1,0 +1,45 @@
+Codecademy , the easiest place to learn to code
+online, is currently recruiting high-performing undergraduate CS students
+experienced in web design for our Advisors program
+. *This is a
+paid, part-time, remote position* that offers a fantastic way for
+undergraduate students to get involved in teaching Codecademy users,
+collaborate with like-minded developers, and get experience at a well-known
+startup early on in their career.
+
+
+
+
+JOB DESCRIPTION:
+
+Codecademy  is looking for enthusiastic CS students
+with a web development background to provide guidance and support for our
+online learners. *This is a paid, part-time, remote position* that offers a
+fantastic way to get involved in teaching Codecademy users, collaborate
+with like-minded developers, and work alongside the Codecademy team.
+Advisors work one-on-one with Codecademy Pro users. A typical Advisor shift
+involves reviewing code, teaching high-level concepts, introducing new
+product features, and helping our learners succeed on their journey to
+learn programming.
+
+
+
+This opportunity is geared towards students with experience in web design. We
+are especially keen on candidates that are skilled in *Ruby + Rails,
+Angular.js, React.js, PHP, and sass. *Our Advisors don't need to be
+experts, but do need to be passionate about teaching programming, able to
+explain the fundamentals, and empathetic towards the struggles of beginner
+learners.
+
+
+
+Apply today on the Codecademy website
+, and be sure to
+note that you're applying from UNC Chapel Hill on your application. For any
+questions about the program, reach out to Max at max@codecademy.com.
+
+-- 
+To unsubscribe from this group and stop receiving emails, visit the group page linked below and go to "my settings (top right), leave this group."
+--- 
+You received this message because you are subscribed to the Google Groups "Careers" group.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

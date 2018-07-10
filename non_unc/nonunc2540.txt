@@ -1,0 +1,32 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+ClassNotFoundException with the Node class and the List_interface class during Oracle test  (9/07/16 5:07 PM)
+
+Basically the title, I'm wondering what I've done wrong with the oracle installation (if anything).  It seems to find the LinkedListImpl just fine, but since it's missing the other classes I'm only passing a single size test and the rest are providing an error message relating to the question. Any help would be deeply appreciated!
+
+Go to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2fclass%3fcid%3distebhzei447eo%26nid%3dis6wk5m47ay4zy%26token%3df2GxNxqCfOm&data=01%7c01%7cmlal123%40live.unc.edu%7ca94defc5c0504a92c02b08d3d784e5ff%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=icsN0pPj5F1H8Xmj2VnincurTI9NzaNz4xnTTmXTYbk%3d to view.
+
+------------------------------------------------------------
+inserting in the middle of linked list  (9/07/16 6:33 PM)
+
+I am having trouble figuring out how to push nodes over one spot and then insert a node into the empty spot. Could anyone point me in the right direction?
+
+Go to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2fclass%3fcid%3disthe0ffna7670%26nid%3dis6wk5m47ay4zy%26token%3df2GxNxqCfOm&data=01%7c01%7cmlal123%40live.unc.edu%7ca94defc5c0504a92c02b08d3d784e5ff%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=%2f48lWjr%2bxfJMGfmrecVdC42qlt%2b3yLLVUV8y9dJWWBM%3d to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 410 (section 002) at University of North Carolina at Chapel Hill. Go to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2flogin&data=01%7c01%7cmlal123%40live.unc.edu%7ca94defc5c0504a92c02b08d3d784e5ff%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=TR65aKGxHN3%2b0bvrwmAX%2fBrt6RjAfaXtiw8LNXx%2f0GU%3d to sign in and manage your email preferences or proceed to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2fis6wk5m47ay4zy&data=01%7c01%7cmlal123%40live.unc.edu%7ca94defc5c0504a92c02b08d3d784e5ff%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=v9E8dmUvTosx0GIS3LqWSM06eeCYy%2fy%2fdSDO3D0V4GE%3d to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2flink_accounts%2ff2GxNxqCfOm&data=01%7c01%7cmlal123%40live.unc.edu%7ca94defc5c0504a92c02b08d3d784e5ff%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=i4Iz8oImjUnYkpCUjFXYVE%2b5X2dIRWVUbP9ySXYUiCI%3d

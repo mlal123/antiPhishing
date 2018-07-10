@@ -1,0 +1,430 @@
+
+
+
+
+
+
+
+
+
+/* RESET STYLES */
+a{text-decoration:none;}
+table{mso-table-lspace:0pt;mso-table-rspace:0pt;}
+img, a img{border:0; height:auto; outline:none; text-decoration:none;}
+body{height:100% !important; margin:0 auto !important; padding:0; width:100=
+% !important;}
+/* CLIENT-SPECIFIC STYLES */
+img{-ms-interpolation-mode: bicubic;} /* Force IE to smoothly render resize=
+d images. */
+#outlook a{padding:0;} /* Force Outlook 2007 and up to provide a "view in b=
+rowser" message. */
+table{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing betwee=
+n tables in Outlook 2007 and up. */
+.ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Outlook.com =
+to display emails at full width. */
+p, a, td{mso-line-height-rule:exactly;} /* Force Outlook to render line hei=
+ghts as they're originally set. */
+p, a, td, body, table{-ms-text-size-adjust:100%; -webkit-text-size-adjust:1=
+00%;} /* Prevent Windows- and Webkit-based mobile platforms from changing d=
+eclared text sizes. */
+.ExternalClass{width:100%;}
+.ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .E=
+xternalClass span, .ExternalClass font{line-height:100%;} /* Force Outlook.=
+com to display line heights normally. */
+* [href]:not([style]) { color: inherit !important; text-decoration: none !i=
+mportant; } /* control gmail default link color */
+a[x-apple-data-detectors] {color: inherit !important; text-decoration: none=
+ !important; font-size: inherit !important; font-family: inherit !important=
+; font-weight: inherit !important; line-height: inherit !important;} /* att=
+empt to control apple data detection */
+a{color:#ffffff;}
+a:link{color:#ffffff;}
+a:visited{color:#ffffff;}
+/* content styles
+____________________________________*/
+@media screen and (max-width:480px) {
+    .mw100 { max-width:100% !important; }
+    .w100 { width:100% !important; }
+    .w95 { width:90% !important; }
+    .hide { display:none!important; width:0px!important; height: 0px!import=
+ant; overflow:hidden!important; line-height: 0px!important; font-size:0px!i=
+mportant; }
+    .center-cta{margin:0 auto !important;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+        
+        
+        
+            
+        
+        
+        
+    
+    
+    
+    
+    
+    
+        
+        
+        
+        
+            
+            
+            
+                H O W   T O
+            
+            
+            
+            
+                GET A PROMOTION
+            
+            
+            
+        
+        
+        
+        
+    
+    
+    
+    
+    
+    
+        
+        
+        
+        
+            
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            Read=
+ Full Guide
+                        
+                    
+                    
+                    
+                
+                
+                
+            
+            
+            
+            
+        
+        
+            =20
+       
+        
+        
+            
+            
+            
+                 A promotion is a sign of how your employer values your wor=
+k and that you have an important place at your company. This guide will hel=
+p you through the promotion process, from knowing your own worth to reasons=
+ why you may not be promoted yet.
+            
+            
+        
+        
+        
+            =20
+        
+        
+            
+        
+        
+       	
+        
+        
+        
+            
+            
+            
+              For the best success, try asking for a promotion around the t=
+ime of performance reviews. This is when your senior staff is ready to hand=
+ out bonuses and accolades. First, start talking about your interest in car=
+eer growth with managers, then, follow the below steps to make a case for y=
+ourself to grow within the company.=20
+               =20
+          =20
+               =20
+                                     
+            
+            
+        
+        
+        
+           =20
+        
+        
+            
+                
+            
+        
+        
+        
+        
+        
+            
+            
+            
+             Understanding your value to your company, and on the open job =
+market, gives you more negotiating power. An easy way to do this, is by usi=
+ng Glassdoor's Know Your Worth tool, which will show you your true =
+market value, how it compares to other workers in the same field, current m=
+arket salary, and other open jobs with current salary data.=20
+               =20
+                
+            
+            
+        
+        
+        
+        
+        
+	    
+            
+            
+            
+                 
+            
+            
+            
+        
+        
+        
+        
+        
+        
+            
+                
+            
+        
+        
+        
+            
+        
+        
+            
+            
+            
+             Showing your employer or management team that you can grow and=
+ find new ways to bring value to your company can open new opportunities, r=
+oles and responsibilities. Some of the top skills career experts recommend =
+are:
+               =20
+                
+            
+                
+                
+            
+                
+            
+        
+                    
+               
+            
+            See Full List>> 
+               =20
+               =20
+                
+            
+            
+        
+        
+        
+        
+        
+	    
+            
+            
+                 
+            
+               =20
+            
+           =20
+        
+        
+           =20
+        
+            =20
+        
+        
+            
+                
+            
+        
+        
+            =20
+        
+        
+        
+           =20
+            
+            
+            
+              Knowing the expectations that come with similar roles is a gr=
+eat way to start building a path towards a promotion. If your skills don't =
+match the similar roles, consider where the company may have wiggle room to=
+ negotiate on. You can even apply to the open job if one becomes available =
+in a role that you could be promoted to.=20
+              =20
+                
+               =20
+            
+            
+        
+        
+        
+ 
+        
+        
+            
+                
+            
+        
+        
+        
+            =20
+        
+        
+            
+            
+            
+            
+                Create a succession plan to take charge and show that you'r=
+e ready for a promotion and the responsibilities that come with it. Figure =
+out the details for how projects and tasks will be handled, create a job de=
+scription to replace your role, and determine what your KPIs (key performan=
+ce indicators) will be and how you will be measured.
+            
+            
+            
+        
+        
+        
+        
+        
+        
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        Read Full Guide
+                    
+                    
+                    
+                
+                
+                
+            
+            
+            
+        
+        
+        
+        
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            
+            
+            
+                This message was sent to mlal123@live.unc.edu by Glassdoor.
+            
+            
+            
+            
+                Privacy Policy  |  Unsubscribe
+            
+            
+            
+            
+                
+            
+            
+            
+            
+                
+                
+                
+                    100 Shoreline Highway,=
+ Building A, Mill Valley, CA 94941
+                
+                
+                
+            
+            
+            
+        
+        
+        
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

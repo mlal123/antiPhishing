@@ -1,0 +1,88 @@
+
+
+
+
+
+
+
+
+
+
+Are these messages important to you?
+
+For some time, Clutter has been moving messages to the Clutter folder. Rece=
+ntly, some new and different messages were moved. Now you can quickly scan =
+the folder and move any messages that shouldn't be there back to the inbox.=
+ Clutter will learn from this and
+ do better next time.
+
+New messages we moved
+
+
+
+
+
+
+$5 Off =96 Almost W-2 Good To Be True!
+
+
+
+From: EatStreet - Chapel Hill
+
+
+
+
+
+Clutter summary
+
+
+
+
+
+
+To or From
+
+Message count
+
+
+
+The Daily Tar Heel
+
+5
+
+
+
+EatStreet - Chapel Hill
+
+1
+
+
+
+
+
+Got a few extra seconds? We'd love to know what you think about Clutter.
+
+
+
+
+
+
+Give feedback
+
+ 
+
+Learn more
+
+
+
+
+
+To stop separating items that are identified as clutter, 
+go to Options.
+To stop receiving notifications about Clutter, 
+go to Options and turn them off.
+This system notification isn't an email message and you can't reply to it.<=
+/div>
+
+
+

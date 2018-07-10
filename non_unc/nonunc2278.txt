@@ -1,0 +1,46 @@
+**********************
+Coding Tip Of The Week
+**********************
+
+"Take on an ambitious coding project. The challenges
+you encounter will push you to learn things you didn't think you
+needed to know!"
+
+- Jack R., Codecademy Fullstack Engineer
+
+( https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fwww.codecademy.com%2flearn%2flearn-sass%3futm_source%3dcustomerio%26utm_campaign%3dcode_tip_course_announcement%26utm_medium%3demail_newsletter%26utm_content%3dsass_banner&data=01%7c01%7cmlal123%40live.unc.edu%7c803e3cb280bb4bfaca7e08d3b7626975%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=14SQcQk6vNQqqkVE7xaG9Eg%2fNSjDG2qM6IiZia0GRdE%3d )
+
+**********************
+New Course: Learn Sass
+**********************
+
+We'll teach you how to use Sass - a styling language that helps
+reduce the repetition and maintainability challenges of
+traditional CSS.
+
+Go To Course ( https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fwww.codecademy.com%2flearn%2flearn-sass%3futm_source%3dcustomerio%26utm_campaign%3dcode_tip_course_announcement%26utm_medium%3demail_newsletter%26utm_content%3dsass_button&data=01%7c01%7cmlal123%40live.unc.edu%7c803e3cb280bb4bfaca7e08d3b7626975%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=e10Ea%2fg8uTxINz%2blVORpWFkSPiUbpP0zwZU4Udd%2fNvI%3d )
+
+( https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fwww.codecademy.com%2flearn%2fibm-watson%3futm_source%3dcustomerio%26utm_campaign%3dcode_tip_course_announcement%26utm_medium%3demail_newsletter%26utm_content%3dwatson_banner&data=01%7c01%7cmlal123%40live.unc.edu%7c803e3cb280bb4bfaca7e08d3b7626975%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3LPyte1huVHDolXxWVjCrsX0%2b4MBTmcRB6uPsrdqqrA%3d )
+
+********************************
+New Course: Learn The Watson API
+********************************
+
+Check out this new course we co-developed with IBM. You will
+learn how to build with the Watson Personality Insights API,
+enabling you to create your very own cognitive application that
+reveals similarities between two Twitter users.
+
+Go To Course ( https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fwww.codecademy.com%2flearn%2fibm-watson%3futm_source%3dcustomerio%26utm_campaign%3dcode_tip_course_announcement%26utm_medium%3demail_newsletter%26utm_content%3dwatson_button&data=01%7c01%7cmlal123%40live.unc.edu%7c803e3cb280bb4bfaca7e08d3b7626975%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=kI99SQhhNCRoEUF4AMa4htDQLsE9ZFj9G%2bnXrDIVHdU%3d )
+
+Codecademy
+
+49 W 27th Street, New York, NY 10001
+
+( https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fwww.facebook.com%2fcodecademy%2ftimeline%3futm_source%3dcustomerio%26utm_campaign%3demail_footer%26utm_medium%3demail&data=01%7c01%7cmlal123%40live.unc.edu%7c803e3cb280bb4bfaca7e08d3b7626975%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=254BYbFRhrrYVNThtF5dsRdrrwRSHztVPgnZ%2bGPlx%2fA%3d )
+( https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fwww.twitter.com%2fcodecademy%3futm_source%3dcustomerio%26utm_campaign%3demail_footer%26utm_medium%3demail&data=01%7c01%7cmlal123%40live.unc.edu%7c803e3cb280bb4bfaca7e08d3b7626975%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=UOR4HRSY7aofltBOwjiNe82gOLLSB7%2bRW4lBRi9LwhU%3d )
+( https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fwww.instagram.com%2fcodecademy%3futm_source%3dcustomerio%26utm_campaign%3demail_footer%26utm_medium%3demail&data=01%7c01%7cmlal123%40live.unc.edu%7c803e3cb280bb4bfaca7e08d3b7626975%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=oLGXhiLuQ6XT8zE828Pd6TzrJNEEtrydyuIDl7XRXpk%3d )
+( https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fwww.linkedin.com%2fcompany%2fcodecademy%3futm_source%3dcustomerio%26utm_campaign%3demail_footer%26utm_medium%3demail&data=01%7c01%7cmlal123%40live.unc.edu%7c803e3cb280bb4bfaca7e08d3b7626975%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=hTkuiBUy%2fdeFMTtZ%2b28e5ENIRchuNmhRMsXDeduvogk%3d )
+( https://na01.safelinks.protection.outlook.com/?url=http%3a%2f%2fdiscuss.codecademy.com%3futm_source%3dcustomerio%26utm_campaign%3demail_footer%26utm_medium%3demail&data=01%7c01%7cmlal123%40live.unc.edu%7c803e3cb280bb4bfaca7e08d3b7626975%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=6g3QWa4LOfvK722mGPWBV72F8h528bLXI7712tP3O1I%3d )
+
+Unsubscribe ( https://na01.safelinks.protection.outlook.com/?url=http%3a%2f%2ftrack.customer.io%2funsubscribe%2fMzc0NTU6FwEv4wJkAAJzABclzz0aAVKPJkWdFU4YV5o3bgFtOjM1OTk2NwA&data=01%7c01%7cmlal123%40live.unc.edu%7c803e3cb280bb4bfaca7e08d3b7626975%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=OiTQElQ%2bDUB32hoYOXgJZiCgXK9FcEq%2fqTwbpA%2bUM4Y%3d= ) from these emails.

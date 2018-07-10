@@ -1,0 +1,83 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+diff isn't showing the two outputs anymore, is this expected?  (9/23/16 3:3=
+3 PM)
+
+When running diff on my output and the sample output for Lab4 Ex2 I'm getti=
+ng a line that says:=C2=A0
+Binary files ex2r1 and ex2out1 differ
+I just wanted to make sure this was expected.=C2=A0
+Thank you!
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3ditg60eq7dth3b9%26nid%3dirqp4hpe58u5rs%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c81cd487b4bec44b3087108d=
+3e40b0605%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3D9DvM9lieETc9NDHz9Q=
+RUYXTlQWkxv4NUKG4hbF57L6c%3d to view.
+
+------------------------------------------------------------
+selfchecker =3D pass?  (9/23/16 4:18 PM)
+
+does running the self checker essentially automates the whole
+
+% ./ex1 < ex1in1 > ex1result1
+% diff ex1result1 ex1out1
+% ./ex1 < ex1in2 > ex1result2
+% diff ex1result2 ex1out2... and so on
+thing?
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3ditg7mhaiha012d%26nid%3dirqp4hpe58u5rs%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c81cd487b4bec44b3087108d=
+3e40b0605%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DMFY84tRDy%2bsh6OBu=
+8jONlFrjPmwtApsGNTWb9q7nAc4%3d to view.
+
+------------------------------------------------------------
+Lab3  (9/23/16 5:02 PM)
+
+The server won't let me submit.
+
+I have been trying since 4:30 and the server won't respond. Must be overloa=
+ded. Is there anyway I can submit what I have? (My lab is completed).
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3ditg96l06xx91v2%26nid%3dirqp4hpe58u5rs%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c81cd487b4bec44b3087108d=
+3e40b0605%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3D3u3WOB%2fTBDLixiYu=
+43%2f%2fvqb7cEo88U%2fF72kkYVdEaw8%3d to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://na01.sa=
+felinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.com%2flogin&data=
+=3D01%7c01%7cmlal123%40live.unc.edu%7c81cd487b4bec44b3087108d3e40b0605%7c58=
+b3d54f16c942d3af081fcabd095666%7c1&sdata=3DHwJRxMYCYBbr0NEuixdMh9xx2EUOWtyu=
+YY78RHvUKgc%3d to sign in and manage your email preferences or proceed to h=
+ttps://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.co=
+m%2fremove%2ff2GxNxqCfOm%2firqp4hpe58u5rs&data=3D01%7c01%7cmlal123%40live.u=
+nc.edu%7c81cd487b4bec44b3087108d3e40b0605%7c58b3d54f16c942d3af081fcabd09566=
+6%7c1&sdata=3DgqyX1Gv2RWQ0cOA60LEJS%2bvrEsXRk9KQB5VlKn%2f3E0Y%3d to un-enro=
+ll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://na01.safelinks.protection.ou=
+tlook.com/?url=3Dhttps%3a%2f%2fpiazza.com%2flink_accounts%2ff2GxNxqCfOm&dat=
+a=3D01%7c01%7cmlal123%40live.unc.edu%7c81cd487b4bec44b3087108d3e40b0605%7c5=
+8b3d54f16c942d3af081fcabd095666%7c1&sdata=3DJMdjYOk05LEnXi5lajBTAN3LQtVXQYz=
+aGUYBvdWvKkY%3d=

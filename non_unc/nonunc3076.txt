@@ -1,0 +1,70 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+Sorting and Building of BHEAP (or PRQUE)  (10/16/16 12:40 PM)
+
+I'm confused with the difference in 'sorting' and 'building' a BHEAP.
+From what I understand, building is constructing a BHEAP=C2=A0with structur=
+al and heap-order.
+Sorting is retrieving the sequence=C2=A0of nodes from lowest priority to hi=
+ghest.
+
+If so, how does the sorting of BHEAP in the slide end up as O(N) + O(N log =
+N)?
+1. Insert all values=C2=A0just considering just the Structural property. O(=
+N)
+2.=C2=A0Start with parent of last node, and do a bubble down sequentially. =
+O(N=C2=A0log N)
+THIS PART FINISHES BUILDING.=C2=A0WHERE IS THE RETRIEVING PART?
+
+So for example, if we assume to build a BHEAP with elements [5,4,3,2,1]
+The heap in 1. will be
+5-4-3-2-1
+After bubbling down it will be
+1-2-3-5-4
+
+But shouldn't the sorting also involve sequence of delMin operations to ach=
+ieve
+1-2-3-4-5?
+
+
+------------------------------------Followup question----------------------=
+--------------
+If we are understanding 'sorting' as just maintaining=C2=A0structural and h=
+eap-order of a BHEAP,
+then wouldn't the sorting method of inserting elements one-by-one finish=C2=
+=A0at
+N log N? Not 2(N log N) where we do a=C2=A0delMin N times after building th=
+e BHEAP?
+
+
+
+
+Go to https://piazza.com/class?cid=3Diucuz1g8q043mj&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

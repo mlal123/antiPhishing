@@ -1,0 +1,12 @@
+Here is the paper on our consensus algorithm that I think would be good for students who want to get deep in the weeds: https://arxiv.org/abs/1802.07242. 
+
+ 
+
+Catherine Coley 
+
+Head of Investor Relations | Ripple
+
+ccoley@ripple.com | ripple.com
+
+
+-- You are currently subscribed to burchecon327 as: mlal123@live.unc.edu. To unsubscribe click here: http://lists.unc.edu/u?id=91821930.de2e64d9c9058fb7a97ed9fb9cf9059b&n=T&l=burchecon327&o=39820243; or send a blank email to leave-39820243-91821930.de2e64d9c9058fb7a97ed9fb9cf9059b@listserv.unc.edu.

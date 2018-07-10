@@ -1,0 +1,42 @@
+Instructor Maxwell Daum posted a new Note. Your instructor selected to noti=
+fy everyone in real time of this post, bypassing user email preferences.
+
+Test case 4 is really this test case. Meant to be in the final grader, so s=
+poilers ahead :)
+
+
+Apologies here....so test case x was meant to be in the real grader but it =
+kind of leaked in here. Meant to be a tough case that would really stress y=
+our implementation. So here is the dump for it:
+addNode(0, 4)addNode(1, 1)addNode(2, 8)addNode(3, 2)addNode(4, 7)addNode(5,=
+ 5)addEdge(0, 2, 5, 0, null)addEdge(1, 4, 7, 0, null)addEdge(2, 1, 8, 0, nu=
+ll)addEdge(3, 2, 8, 0, null)addEdge(4, 4, 5, 0, null)addEdge(5, 1, 2, 0, nu=
+ll)addEdge(6, 1, 5, 0, null)addEdge(7, 1, 7, 0, null)addEdge(8, 8, 5, 0, nu=
+ll)addEdge(9, 1, 4, 0, null)addEdge(10, 5, 7, 0, null)addEdge(11, 4, 2, 0, =
+null)addEdge(12, 8, 7, 0, null)addEdge(13, 4, 8, 0, null)addEdge(14, 2, 7, =
+0, null)ind(1) < ind(4) < ind(2) < ind(8) < ind(5) < ind(7)
+=C2=A0
+Note that if you can't get this one it is not the end of the world. This on=
+e is supposed to be up there in tougher test cases.
+
+
+Go to https://piazza.com/class?cid=3Divcqoiaz1ut5tg&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @392.=20=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.=

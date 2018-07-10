@@ -1,0 +1,155 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+TA/LA office hours  (9/05/16 4:31 PM)
+
+There are no LA/TA office hours today... I forgot it was a holiday.
+
+To manage this I am moving the due date for Assignment 1 to Thursday at 11:=
+55 pm.
+
+Office hours for the week will be posted on the class web site shortly and =
+will include some time tomorrow (Tuesday).
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3disqi6g37add6d1%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c4bb4c4d3a717438e965a08d=
+3d5ee68e7%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DHqT7iWg%2fMVQE3VW7=
+nRwkhM6ZvU5vImcWqywtHeSPKdA%3d to view.
+
+------------------------------------------------------------
+Issues with the testGet() method  (9/05/16 4:45 PM)
+
+To test our get method we were given:
+=C2=A0=C2=A0
+public static void testGet(){
+=C2=A0 =C2=A0 =C2=A0 LinkedListImpl L =3D new LinkedListImpl();
+=C2=A0 =C2=A0 =C2=A0 L.root.next=3Dnew Node(4.546);
+=C2=A0 =C2=A0 =C2=A0 L.root.next.next=3Dnew Node(6.290354);
+=C2=A0 =C2=A0 =C2=A0 printList(L);
+=C2=A0 =C2=A0 =C2=A0 System.out.println(L.get(1));
+=C2=A0 }
+
+My project=C2=A0doesn't work with this code because a linkedList doesn't fo=
+rm/save, but if nodes are inserted like this:
+
+=C2=A0 =C2=A0 =C2=A0 L.insert(new Node(4.546),0);
+=C2=A0 =C2=A0 =C2=A0 L.insert(new Node(6.290354),1);
+
+
+instead of this:
+
+=C2=A0 =C2=A0 =C2=A0 L.root.next=3Dnew=C2=A0Node(4.546);
+=C2=A0 =C2=A0 =C2=A0 L.root.next.next=3Dnew=C2=A0Node(6.290354);
+
+the get method works fine because a linkedList forms.
+
+Can someone explain why the my insert methods work correctly, but if you ju=
+st use L.root.next=C2=A0the linkedList doesn't form?
+
+
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3disqinzk0zb96jf%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c4bb4c4d3a717438e965a08d=
+3d5ee68e7%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DgBdltsw6Pjm2USf2Gw=
+ajCApjHSxxBBi97wHtJ9BplA4%3d to view.
+
+------------------------------------------------------------
+ADT v.s interface  (9/05/16 5:01 PM)
+
+ADT is defined as an abstract mathematical concept with no details of imple=
+mentation. That sounds a lot like interface to me... so what is the differe=
+nce between an ADT and an interface? Thanks.
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3disqj95wkfce7p0%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c4bb4c4d3a717438e965a08d=
+3d5ee68e7%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3D%2fN%2bwNPErERwKrW=
+l3JS1d32K5HMpUmKgbEFZFZfrP0pA%3d to view.
+
+------------------------------------------------------------
+LA / TA office hours  (9/05/16 5:35 PM)
+
+TA/LA office hours have been posted now
+
+https://na01.safelinks.protection.outlook.com/?url=3Dhttp:%2f%2fwww.cs.unc.=
+edu%2f~stotts%2fCOMP410-f16%2ftas.html&data=3D01%7C01%7Cmlal123%40live.unc.=
+edu%7C4bb4c4d3a717438e965a08d3d5ee68e7%7C58b3d54f16c942d3af081fcabd095666%7=
+C1&sdata=3DkuqOhOCifh0FAlRbglhHfjuG%2fZI3DS%2ff6OmZGHLspw0%3d=20
+
+All office hours are in SN 043 (unless noted otherwise)
+
+Monday=20
+  10:00AM -- 11:00AM  Avi Goldstein
+   1:30PM --  2:30PM  James Barbour
+   4:00PM --  6:00PM  Yujian Tang
+Tuesday=20
+   2:00PM --  3:00PM  Stephen Yan
+   5:00PM --  7:00PM  Avi Goldstein
+Wednesday=20
+   9:00AM -- 11:00AM  Stephen Yan
+   2:00PM --  5:00PM  Max Daum (in FB008)
+   8:00PM --  9:00PM  Yujian Tang
+Thursday=20
+  12:30PM --  2:30PM  James Barbour
+   5:00PM --  6:00PM  Ray Kim
+Friday=20
+  11:15AM --  1:15PM  Ray Kim
+   2:00PM --  5:00PM  Hao Tan (in FB008)
+
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3disqkgq4yc6g131%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c4bb4c4d3a717438e965a08d=
+3d5ee68e7%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DjvmRid%2fxyHEkyKB9=
+zVaZwHHcmAX%2bkYZboIKalnCKBm8%3d to view.
+
+------------------------------------------------------------
+Notes posted on sentinel and root on assn 1  (9/05/16 6:42 PM)
+
+If you are still trying to wrap your head around the root node in the list,=
+ the sentinel, and how to deal with it in relation to nodes containing data=
+ elements, please take a looks at the notes I have linked to the Assignment=
+ 1 section of the Assignments on the class web site
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3disqmufw67ha2gl%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c4bb4c4d3a717438e965a08d=
+3d5ee68e7%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DouBVBWH4e%2f3Jijh2=
+jxqfxko8YbAgBPZ2mloH7VZGllA%3d to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.co=
+m%2flogin&data=3D01%7c01%7cmlal123%40live.unc.edu%7c4bb4c4d3a717438e965a08d=
+3d5ee68e7%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DKK06uZlr1JR5ZruLX3=
+Sh8RLuZhvZhOnTTm0AmNoRkCY%3d to sign in and manage your email preferences o=
+r proceed to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%=
+2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2fis6wk5m47ay4zy&data=3D01%7c01%7cml=
+al123%40live.unc.edu%7c4bb4c4d3a717438e965a08d3d5ee68e7%7c58b3d54f16c942d3a=
+f081fcabd095666%7c1&sdata=3Dml3%2fC4sgQS2dAaaL4xlgVDvRW0QMrJwTAU8d%2fKEt0BI=
+%3d to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://na01.safelinks.protection.ou=
+tlook.com/?url=3Dhttps%3a%2f%2fpiazza.com%2flink_accounts%2ff2GxNxqCfOm&dat=
+a=3D01%7c01%7cmlal123%40live.unc.edu%7c4bb4c4d3a717438e965a08d3d5ee68e7%7c5=
+8b3d54f16c942d3af081fcabd095666%7c1&sdata=3D7dXAS5VMk1S3T2LK%2b1e%2f4vCPBd6=
+rVmhI9GQ8yNUmiRQ%3d=

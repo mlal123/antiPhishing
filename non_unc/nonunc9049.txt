@@ -1,0 +1,132 @@
+Nieman Lab: The Daily Digest
+Friday=2C March 30=2C 2018
+http://www.niemanlab.org/2018/03/this-is-how-cambridge-analyticas-facebook=
+-targeting-model-really-worked-according-to-the-person-who-built-it/
+
+
+** This is how Cambridge Analytica=E2=80=99s Facebook targeting model real=
+ly worked =E2=80=94 according to the person who built it (http://www.niema=
+nlab.org/2018/03/this-is-how-cambridge-analyticas-facebook-targeting-model=
+-really-worked-according-to-the-person-who-built-it/)
+------------------------------------------------------------
+The method was similar to the one Netflix uses to recommend movies =E2=80=
+=94 no crystal ball=2C but good enough to make an effective political tool=
+=2E By Matthew Hindman.
+http://www.niemanlab.org/2018/03/after-big-denver-post-layoffs-the-fort-co=
+llins-coloradoan-thinks-bigger/
+
+
+** After big Denver Post layoffs=2C the Fort Collins Coloradoan thinks bey=
+ond local (http://www.niemanlab.org/2018/03/after-big-denver-post-layoffs-=
+the-fort-collins-coloradoan-thinks-bigger/)
+------------------------------------------------------------
+A neighborhood watch Facebook group=2C reader chatbot=2C and a state-focus=
+ed project: =E2=80=9CWe all serve the greater Coloradoan community and we=
+ each have parts to play in that.=E2=80=9D By Christine Schmidt.
+http://www.niemanlab.org/2018/03/has-facebooks-algorithm-change-hurt-hyper=
+partisan-sites-according-to-this-data-nope/
+
+
+** Has Facebook=E2=80=99s algorithm change hurt hyperpartisan sites? Accor=
+ding to this data=2C nope (http://www.niemanlab.org/2018/03/has-facebooks-=
+algorithm-change-hurt-hyperpartisan-sites-according-to-this-data-nope/)
+------------------------------------------------------------
+Data that NewsWhip pulled together for Nieman Lab suggests that popular hy=
+perpartisan publishers are actually doing pretty well post=E2=80=93algorit=
+hm change. By Laura Hazard Owen.
+10 U.S. public radio stations are teaming up to report comprehensively on=
+ gun violence =E2=80=94 and training more reporters to do the same (http:/=
+/www.niemanlab.org/2018/03/10-u-s-public-radio-stations-are-teaming-up-to-=
+report-comprehensively-on-gun-violence-and-training-more-reporters-to-do-t=
+he-same/)
+What We=E2=80=99re Reading
+The Verge / Casey Newton
+Here are the internal Facebook posts of employees discussing today=E2=80=
+=99s leaked memo =E2=86=92 (https://www.theverge.com/2018/3/30/17179100/fa=
+cebook-memo-leaks-boz-andrew-bosworth)
+=E2=80=9CThe publication of a June 2016 memo (https://www.buzzfeed.com/rya=
+nmac/growth-at-any-cost-top-facebook-executive-defended-data) describing t=
+he consequences of Facebook=E2=80=99s growth-at-all-costs triggered an emo=
+tional conversation at the company today. An internal post reacting to the=
+ memo found employees angry and heartbroken that their teammates were shar=
+ing internal company discussions with the media. Many called on the compan=
+y to step up its war on leakers and hire employees with more =E2=80=98inte=
+grity.'=E2=80=9D
+BuzzFeed / Ryan Mac=2C Charlie Warzel=2C and Alex Kantrowitz
+Facebook executive in 2016: =E2=80=9CWe connect people. Period. That=E2=80=
+=99s why all the work we do in growth is justified=E2=80=9D =E2=86=92 (htt=
+ps://www.buzzfeed.com/ryanmac/growth-at-any-cost-top-facebook-executive-de=
+fended-data)
+=E2=80=9CSo we connect more people=2C=E2=80=9D Facebook VP Andrew =E2=80=
+=9CBoz=E2=80=9D Bosworth wrote in a 2016 internal memo titled =E2=80=9CThe=
+ Ugly.=E2=80=9D =E2=80=9CThat can be bad if they make it negative. Maybe i=
+t costs someone a life by exposing someone to bullies=E2=80=A6.Maybe someo=
+ne dies in a terrorist attack coordinated on our tools.=E2=80=9D (Here=E2=
+=80=99s Boz=E2=80=99s response (https://twitter.com/boztank/status/9794789=
+61582325760) after BuzzFeed published the memo: =E2=80=9CIt was intended t=
+o be provocative.=E2=80=9D)
+Medium / Alli Shultes
+Can product-centric thinking stave off innovative thinking rather than enc=
+ourage it? =E2=86=92 (https://medium.com/bbc-news-labs/rethinking-newsroom=
+-innovation-343cccd02eb2)
+=E2=80=9CFor example=2C a good product that is designed to automatically g=
+enerate transcripts for journalists is likely to only include features tha=
+t help its users achieve that end goal. A feature that that might allow th=
+e generation of subtitles from the transcripts would be considered superfl=
+uous to the end product. However=2C generating subtitles or auto-exporting=
+ segments of audio may later form the basis of a new product. Because you=
+=E2=80=99ve eliminated that capability from the scope of the initial produ=
+ct=2C you=E2=80=99ve set back future experiments.=E2=80=9D
+Quartz / Leah Fessler
+Slack is developing tools to tell if someone=E2=80=99s mansplaining =E2=86=
+=92 (https://work.qz.com/1238413/slack-analytics-will-soon-know-if-you-spe=
+ak-to-men-and-women-differently/)
+=E2=80=9C=E2=80=99These are analytics that no one else has access to you e=
+xcept for you. And they don=E2=80=99t present you with any real moral valu=
+e either way=2C but [they answer questions like]=2C do you talk to men di=
+fferently than you talk to women? Do you speak to support groups different=
+ly than you speak to superiors? Do you speak in public differently than yo=
+u speak in private?=E2=80=99 Slack=E2=80=99s New York staff are creating t=
+hose analytics tools to identify those personal communication styles.=E2=
+=80=9D
+Digiday / Aditi Sangal
+Recode=E2=80=99s Kara Swisher: Facebook only pretends to care about the me=
+dia =E2=86=92 (https://digiday.com/podcast/recodes-kara-swisher-facebook-p=
+retends-care-media/)
+=E2=80=9CI don=E2=80=99t think [Facebook] was ever going out with the med=
+ia. The media thought so. AOL did the same thing. They were courting the m=
+edia=2C and then they weren=E2=80=99t because their business changed. In F=
+acebook=E2=80=99s case=2C they needed the media to make that news feed mor=
+e interesting. Turns out=2C media is messy=2C and they can=E2=80=99t figur=
+e out a monetization strategy.=E2=80=9D
+The New York Times / Tejal Rao
+A new generation of food magazines thinks small=2C and in print =E2=86=92=
+ (https://www.nytimes.com/2018/03/27/dining/food-magazines.html)
+=E2=80=9CMost of these magazines come together as a labor of love=2C in ch=
+unks of spare time carved out on nights and weekends. After crowdfunding a=
+n initial investment=2C or putting in personal savings=2C small teams with=
+ low overheads may be able to pay for the costs of printing and freelance=
+ contributors=2C usually with a mix of sales=2C brand partnerships and eve=
+nts: =E2=80=98Distribution sucks=2C printing=E2=80=99s expensive and no on=
+e wants to advertise.=E2=80=99=E2=80=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3Dc669e3ed9a)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3Dc669e3ed9a)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

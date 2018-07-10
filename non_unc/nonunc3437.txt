@@ -1,0 +1,46 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+Lab 10, can't self check  (11/10/16 4:09 PM)
+
+
+
+I copied and pasted the self-check command from Sakai and it is not working=
+ for lab10. Is this error response intentional?
+
+Go to https://piazza.com/class?cid=3Divculauier93zn&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Recursive Procedure Convetions  (11/10/16 4:32 PM)
+
+Do we need to save the frame pointer to the stack if we don't use it in our=
+ recursive calls?=C2=A0
+
+Go to https://piazza.com/class?cid=3Divcvewe63gw2x8&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

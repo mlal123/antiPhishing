@@ -1,0 +1,86 @@
+*Upcoming Events:*
+
+*DATE CHANGE!!!! **Genworth will be here TUESDAY Nov 10th *(instead of
+Wednesday, Nov 11th)
+
+*Tuesday, November 10th*
+
+*GENWORTH Tech Talk- **USB Attack to Decrypt Wi-Fi Communications**: *@
+5:30pm in SN011
+The term =E2=80=9CBad USB=E2=80=9D has gotten some much needed press in las=
+t few months.
+There have been talks that have identified the risks that are caused by the
+inherent trust between the OS and any device attached by USB. I found in my
+research that most of the available payloads for the USB rubber ducky would
+be stopped by common enterprise security solutions. I then set out to
+create a new exploit that would force the victim to trust my
+Man-In-The-Middle access point. After my payload is deployed, all Wi-Fi
+communications will be readable, including usernames, passwords and
+authentication cookies. The attack will work without the need of elevating
+privileges, which makes it ideal for corporate environments.
+
+*RSVP Here: https://unc.az1.qualtrics.com/SE/?SID=3DSV_7WJInvzgTkbiZNP
+*
+
+
+*Tuesday, November 17th*
+
+*RED HAT Tech Talk: *@ 5:30pm in SN 011
+
+Interested in learning about how Red Hat is changing the way people build
+applications and how you can become a part of it?  Join us to hear about
+how OpenShift (https://www.openshift.com/), the latest generation of
+Platform as a Service built on Kubernetes (http://kubernetes.io/) and
+Docker (https://www.docker.com/), is the biggest change to computing since
+virtual machines.  Expect to hear about OpenShift's technical architecture
+as well as Red Hat's approach to open source software engineering.  And if
+that isn't enough, food will be provided and we are hiring!
+
+*RSVP Here: **https://unc.az1.qualtrics.com/SE/?SID=3DSV_3gheYozfMVxawrX
+*
+
+*Tuesday, November 17th*
+*Women in the Workplace Conference: *@ 6pm in Graham Memorial Common Room
+Do you have questions about what to expect as you transition into the
+workforce? Do you want advice from women who have excelled in the careers
+that you are striving for? Come to the Women in the Workforce Conference,
+where you will have the opportunity to speak with 5 distinguished
+professional women representing the topics of Women in STEM, Working as a
+Woman of Color, Balancing Life Outside the Workplace, and Women in Tech.
+The conference will be in the Graham Memorial Common Room on November 17th
+at 6pm. NO RSVP needed.
+
+
+*Opportunities:*
+
+*Inmar's* Software Engineering Internships (and many others) now in
+Careerolina ! Apply
+now through Dec 31st!
+
+*Chalkup 12 week Internship Program: *
+Learn more here: http://info.chalkup.co/chalkup-dev-squad
+Questions? Contact Jayne Miller | jayne@chalkupedu.com
+
+
+*Junior Software Developer in Durham: *Piper Enterprise Solutions (staffing
+agency) is looking to fill a Junior Software Developer position for a
+company in Durham NC. They are looking for people coming right out of
+college (graduating in Dec) with a GPA over 3.0. They must be comfortable
+working with C# and in a Microsoft environment. They also need to be
+proficient with object oriented programming. If interested in learning
+more, contact Ashley Stokes at 919-300-5841 or email
+astokes@pipercompanies.com
+
+*Junior Java Developer in Raleigh: *Spectraforce Technologies (staffing
+agency) is looking to fill a junior java developer, 6-12 months contract
+position with Red Hat Inc. Candidate should have done *Bachelors/Masters
+major in Computer Science or related* with good knowledge of Java and SQL.
+Send your resume to Rakesh Kumar, rakeshk@spectraforce.com
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at http://groups.google.com/a/cs.unc.edu/group/careers/.

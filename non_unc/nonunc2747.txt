@@ -1,0 +1,21 @@
+Your classmate posted a new Question. 
+
+Exercise 3 in Lab3
+
+Hello all,
+I'm having a little trouble figuring out how we get our C program to determine if the integer entered was entered in octal or hexadecimal. Also, in the exercise description, it says to make sure the output is printed "with each integer right justified in a field of 10 characters." Can someone also explain what this means? Thanks everyone!
+
+Go to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2fclass%3fcid%3ditddwnxw7804kx%26nid%3dirqp4hpe58u5rs%26token%3df2GxNxqCfOm&data=01%7c01%7cmlal123%40live.unc.edu%7ca1a7ea8a0e554684b03908d3e261057d%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=%2fEZQeMcqnk7py%2bc4vYdUmnleIxDTAXkTJSJ8LaB998k%3d to view. Search or link to this question with @100. Follow it to get notified when a response comes in: https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2ffollow%2fitddwnxw7804kx%2ff2GxNxqCfOm%2f3d6db942&data=01%7c01%7cmlal123%40live.unc.edu%7ca1a7ea8a0e554684b03908d3e261057d%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=%2fXmzljwKGpY2%2bfxGp3Y7tWg2jJiM0zkjrH0u25sA9k0%3d 
+
+Sign up for more classes at https://na01.safelinks.protection.outlook.com/?url=http%3a%2f%2fpiazza.com%2func&data=01%7c01%7cmlal123%40live.unc.edu%7ca1a7ea8a0e554684b03908d3e261057d%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=0BS1yNqIuikS3rklIcvePnZSJBTtkVs1Fk7UuS8hUfE%3d
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 411 at University of North Carolina at Chapel Hill. Go to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2flogin&data=01%7c01%7cmlal123%40live.unc.edu%7ca1a7ea8a0e554684b03908d3e261057d%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=PVgU2I1acbJGmH0IU9INwLIXP%2bz74MxmZBmucsGP7Vs%3d to sign in and manage your email preferences or proceed to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2firqp4hpe58u5rs&data=01%7c01%7cmlal123%40live.unc.edu%7ca1a7ea8a0e554684b03908d3e261057d%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=jpU6mIBf3mkqdGsoLVorvhAdeY0YKYaZmqJSqKobkCg%3d to un-enroll from this class.

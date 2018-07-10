@@ -1,0 +1,578 @@
+*PT Paid Intern | SonoVol | RTP NC | Deadline Jan 1st*
+
+*Description:*
+
+SonoVol, a spinout from UNC=E2=80=99s Department of Biomedical Engineering,=
+ is
+developing a 3D ultrasound imaging platform for use in cancer and
+regenerative medicine research. SonoVol is currently funded by the National
+Science Foundation and National Institutes of Health, and has funds
+available for a part time intern during the Spring semester. The company is
+seeking a BS or MS level student with experience in computer programming.
+
+This internship could lead to a full time position depending on progress
+made during internship.
+
+*The successful candidate:*
+
+=EF=82=B7 Is comfortable working with Matlab, Python, and C++ programming
+environments
+
+=EF=82=B7 Is willing to commit 10 hours per week (January =E2=80=93 April)
+
+=EF=82=B7 Has experience with image and signal processing
+
+=EF=82=B7 Has experience working with robotics
+
+=EF=82=B7 Has a working knowledge of medical imaging modalities, and image
+visualization
+
+=EF=82=B7 Bonus: has experience developing modules within the 3D Slicer env=
+ironment
+
+*The intern will be responsible for:*
+
+Design and testing of software tools and modules for:
+
+=EF=82=B7 Image processing and analysis tasks
+
+=EF=82=B7 Integrating software with acquisition system hardware, including =
+the
+ultrasound scanner, webcam, and robotic motion stages
+
+*Contact information:*
+
+If interested, please email Dr. Ryan Gessner (ryan.gessner@sonovol.com) the
+following items by January 1st:
+
+=EF=82=B7 Your CV
+
+=EF=82=B7 The names and contact information for 2 references
+
+
+*Summer Interns | SAS Accessibility Team*
+
+We have an opening for one year-round inter and one summer intern on the
+SAS accessibility team. The interns will help SAS make data science and
+data visualization accessible to people of all abilities. The preferred
+candidates are working towards graduate degrees in Computer Science or
+Design and have intimate experience with assistive technologies such as
+screen readers.
+
+Interested students to apply using the link below:
+
+https://careers-sas.icims.com/jobs/3044/technical-intern--summer-2017/job?m=
+ode=3Dview
+
+
+*Student Job for CS Majors | UNC Office of Undergraduate Research*
+
+In this position, you will=E2=80=A6
+
+=E2=80=A2 Work on projects that matter and are used by students like you.
+
+=E2=80=A2 Receive helpful feedback from colleagues and students as you work=
+.
+
+=E2=80=A2 Have the chance to be creative with how you implement things.
+
+Required Skills and Experience:
+
+=E2=80=A2 Familiarity with PHP or similar programming language.
+
+=E2=80=A2 HTML, CSS, Object-Oriented-Programming, SQL
+
+Preferred Knowledge and Experience:
+
+=E2=80=A2 WordPress, Microsoft Word, SQL for Oracle, PHP OCI, CodeIgniter
+
+For more information,
+
+email Monica Richard, mrichard@email.unc.edu
+
+
+*Paid Project | B F Cain Enterprises | *
+
+Once this project is complete another will follow. This project can be
+worked from the students remote location with scheduled meeting times on
+campus once an agreement has been reached.
+
+
+
+*Social Optimization Package -* See *Social Optimization* details below .
+See *Website Optimization* details below.
+
+
+
+*Here are the details of the Website Optimization Package:*
+
+-Google Analytics account setup
+
+-Google XML sitemap created and submitted to Google
+
+-Business Blog setup on site's domain
+
+-20 keyword phrases analyzed (top keyword phrases for your niche)
+
+-Keyword phrases scored for ranking viability using SEO Moz tools
+
+-On-site SEO (SEO =3D Search Engine Optimization)
+
+     -Homepage, Product pages, Category pages on website (added to what you
+have already done)
+
+          -Including Meta Title, Meta Description, and Meta Keyword usage
+in the text
+
+          -H tags, alt tags, and 250 words or more of unique originally
+written content
+
+-Analyzed reports showing top 10 competitor analysis and Google rankings
+
+-Large link report on big industry competitor for link mining strategy
+
+-One 250 word Blog Article written
+
+
+
+*Here are the details of the Social Optimization Package:*
+
+-Setup & Design of *Facebook* account linking back to your website
+
+-Setup & Design of *Twitter* account linking back to your website
+
+-Setup & Design of *LinkedIn* account linking back to your website
+
+-Setup & Design of *Google+* account linking back to your website
+
+-Setup & Design of *Pinterest* account linking back to your website
+
+-Creation of at least 2 updates of EACH Social Media account
+
+-Facebook & Twitter business account "link" and "follower" boost (helps
+drive immediate traffic)
+
+-Google Analytics installed onto site to track social metrics
+
+-All 5 social icons linked to website and installed in header/footer of
+website
+
+
+Email resume to Barrett Cain bearrobert@me.com
+
+
+*Duke University Technology Summer Employment Opportunities*
+
+*If outreach and education are passions of yours, consider this opportunity
+to engage with future scholars in your field!*
+
+The Duke Talent Identification Program (Duke TIP)
+ offers undergraduate level coursework to
+highly gifted middle and high school students at our university sites
+across the Southeast and beyond. A wide variety of program models allow
+Duke TIP to serve students across grade levels and in varying time frames
+throughout the year.
+
+*Duke TIP is currently seeking content specialists *to serve as instructors
+and instructional assistants  for our
+Summer Studies program during *June and/or July*. The instructor position
+requires at least a year of graduate coursework, professional experience,
+and/or teaching experience with specific emphasis in the subject area,
+while the instructional assistant position requires completion of at least
+two years of college. Duke TIP provides pedagogical training and support
+throughout your term of employment, therefore *teaching experience is not
+required.  *
+
+
+
+While we offer courses across disciplines, this sampling of courses may
+fall within your area of expertise:
+
+*Summer Studies Program:*
+
+*Artificial Intelligence*
+
+*Computer Skills for Today=E2=80=99s Scientists and Engineers*
+
+*Engineering in a Virtual World*
+
+*Applications, Algorithms, Computers: Modern Programming*
+
+*Programming Robotics*
+
+*Robotics*
+
+*Programming for Video Games*
+
+*Programming for the Web*
+
+*Web Applications Development*
+
+All of our teaching positions include salary and room and board in the way
+of compensation, and are a wonderful opportunity to *develop your teaching
+repertoire* while working with *dedicated students* and *talented
+professionals* from across many disciplines.
+
+
+
+For details about the program, locations, and courses, as well as specific
+dates, explore =E2=80=9CAbout our Programs=E2=80=9D .
+
+
+
+*Learn more about TIP and apply at **www.tip.duke.edu/employment*
+.
+
+
+
+For questions, please contact David Gaines at dgaines@tip.duke.edu
+
+
+*The Priya Haji Fellowship | Deadline March 15th*
+
+True Ventures=E2=80=99 Priya Haji Fellowship is designed to help recent col=
+lege
+graduates, and young women in particular, break into the world of high
+impact technology startups. Fellows develop foundational skills with
+early-stage True portfolio companies in the San Francisco area. Startups
+move quickly and you=E2=80=99ll be in the middle of it all. Apply here:
+TRUEVENTURES.COM/PHF | PHF@TRUEVENTURES.COM
+
+
+*The True Entrepreneur Corps Summer Experience| Deadline January 15th*
+
+A crash course in San Francisco Startups. ARE YOU READY FOR A SUMMER THAT
+WILL CHANGE YOUR LIFE?
+
+Founded in 2009, The True Entrepreneur Corps (TEC) Fellowship brings
+college students to the San Francisco Bay Area to spend the summer working
+in early-stage startups and gain firsthand exposure to the entrepreneurial
+process. TEC Fellows also participate in a weekly speaker series at True
+Ventures=E2=80=99 downtown San Francisco office. These small group discussi=
+ons with
+Founders, investors, and others from the True network provide the chance to
+meet and learn from many of the most creative and capable minds in
+technology today. As you immerse yourself in the magic of the Silicon
+Valley startup experience, you will learn firsthand how small companies are
+making a big difference. And, you will return to school in the fall with
+the skills, perspective and connections to enable you to join a startup
+after graduation, or even start something of your own. Participating
+companies have included Fitbit, about.me, Ginger.io, Madison Reed, npm and
+many more. APPLY NOW TEC@TRUEVENTURES.COM TRUEVENTURES.COM/TEC
+
+
+*Computer Programmer/Data Scientist | Old Well Partners | Deadline Dec 31st=
+*
+
+*Firm Description*
+
+Old Well Partners is an investment partnership primarily focused on
+publicly-traded equities. The firm was founded in 2015 by Campbell Wilson,
+formerly a Managing Director at Global Endowment Management (GEM) where he
+was responsible for $4.5 billion of investments in external managers and
+public equities. The Firm employs a long-term, value-oriented investment
+approach with the primary goal to generate a multi-decade track record that
+is amongst the best in the industry. The Firm=E2=80=99s research process fo=
+cuses on
+business and management quality and investing with a margin of safety based
+on our conservative estimate of fair value. The Firm invests globally and
+utilizes a systematic approach outside of the U.S.
+
+*Job Description*
+
+The candidate is tasked with helping to design and manage =E2=80=9COld Well
+Laboratories,=E2=80=9D an integrated and automated data collection and anal=
+ytics
+engine that is a key driver of our investment process. Extreme proficiency
+in Python, Flask, and MySQL with in-depth knowledge of requests, json,
+BeautifulSoup, MySQLdb, and other web framework/web scraping modules is
+required. While you will report directly to the Investment Team, you are
+expected to be proactive and creative to generate your own workflow and
+ideas.
+
+A successful candidate will possess excellent analytical skills, a strong
+work ethic, a leadership mentality and a curiosity and passion for data
+analytics and automation.
+
+*Responsibilities*
+
+- Build automated web-scraping applications to curate financial data from
+various websites and clean, integrate and organize into a manageable SQL
+database
+
+- Build interactive webpages with search, sort and filter functionality for
+visualization purposes
+
+- Front-end web development (CSS knowledge)
+
+- Conduct statistical analytics on underlying data and construct algorithms
+to optimize portfolio construction
+
+- Identify new data sets and analytics to explore in order to bolster our
+investment process
+
+*Contact Information*
+
+Sam Grote, Senior Analyst
+
+M: (336) 409-5203
+
+E: sam@oldwellpartners.com
+
+
+*Front End Developer Intern | Request it | Raleigh NC | Deadline Dec 19th*
+
+Request It, Inc. is a new web tech startup in Raleigh/Durham. We are
+currently developing a very unique spin on a crowd collaboration
+application. This job would be remote and the candidate would be working
+one on one with the Founder & CEO to complete the Beta version of the web
+app(s). We are open to offering equity in the company and/or an hourly rate
+depending on skill and experience. If interested, please contact Jared
+Wuliger at jwuliger@requestit.co by December 19th.
+
+RESPONSIBILITIES
+
+=EF=82=B7 Collaborate with our CEO and Lead Developer (same person) at leas=
+t once a
+day.
+
+=EF=82=B7 Build reusable code and libraries for future use.
+
+=EF=82=B7 Develop new user-facing features.
+
+=EF=82=B7 Approximate time commitment is 5-10 hours/week
+
+SKILLS AND QUALIFICATIONS
+
+=EF=82=B7 Work quickly and efficiently using the DRY methodologies.
+
+=EF=82=B7 Proficient understanding of web markup, including HTML5, CSS3, SA=
+SS/SCSS.
+
+=EF=82=B7 Expert with JavaScript ES5, ES6, and jQuery.
+
+=EF=82=B7 Expert with TypeScript. We are using v2+
+
+=EF=82=B7 Expert with CORS and Window.postMessage().
+
+=EF=82=B7 Proficient to Expert with Angular 2.
+
+=EF=82=B7 Proficient to Expert with Firebase (Backend as a Service).
+
+o No-SQL Data stores
+
+o Authentication
+
+=EF=82=B7 Good understanding of asynchronous request handling, from Promise=
+s to
+Observables.
+
+=EF=82=B7 Good understanding of RXJS.
+
+=EF=82=B7 Good understanding of WebPack 2 & Treeshaking.
+
+=EF=82=B7 Proficient understanding of cross-browser compatibility issues an=
+d ways
+to work around them.
+
+=EF=82=B7 Proficient understanding of code versioning tools.
+
+o We are using GIT tied in with Visual Studio Team Services via Visual
+Studio Online.
+
+=EF=82=B7 Good understanding of SEO principles and ensuring that applicatio=
+n will
+adhere to them,especially when dealing
+
+with a SPA=E2=80=99s.
+
+=EF=82=B7 Good debugging skills.
+
+=EF=82=B7 Good understanding of front-end UI frameworks like Material 2, Se=
+mantic
+UI, etc. No need for web design
+
+experience.
+
+=EF=82=B7 The candidate is free to use any IDE they are comfortable with, a=
+lthough
+we prefer Visual Studio Code. If things
+
+work out well, this position could become a full-time opportunity in the
+future.
+
+
+*Mobile App Dev | Part-time*
+
+Need developer for entertainment/media app. Hiring Now for Spring Semester
+2017, 4-6hrs per wekk. $13-$18 hour. Send Resume and Cover Letter to
+hhutman@telefonprojekt.com
+
+*Grammarly PhD Positions | NYC | Deadline Dec 15*
+
+Research Scientists:  https://www.grammarly.com/jobs/engineering/research-
+scientist?gh_jid=3D490305
+
+Summer interns who are more than halfway through their PhD:
+https://www.grammarly.com/jobs/engineering/phd-summer-internship?gh_jid=3D
+496778
+
+*I**OS/Android Developer Project | Chapel Hill NC*
+
+Good morning Tar Heels. I am currently searching for an iOS and android
+developer to create a strategy game on smartphones that requires the user
+to think ahead of their opponent to win the game. It is very addicting and
+is a game that must be introduced to the world!
+
+Funding for the advertising and for the app will be provided by me. Only
+those who throughly experienced with iOS or Android is encouraged to
+contact me (Marcus Robertson) through email at ginekurt@gmail.com. Let's
+make something great together.
+
+
+*Research Intern | Facebook AI Research (FAIR) | Menlo Park, CA - New York,
+NY - Paris, France - Seattle, WA*
+
+We are seeking outstanding students for internships to conduct fundamental
+research in artificial intelligence at Facebook AI Research (FAIR). Faceboo=
+k
+was built to help people connect and share, and over the last decade our
+tools have played a critical part in changing how people around the world
+communicate with one another. With over a billion people using the service
+and more than fifty offices around the globe, a career at Facebook offers
+countless ways to make an impact in a fast growing organization.
+
+Facebook is seeking Research Interns to join Facebook AI Research (FAIR).
+We are committed to advancing the field of artificial intelligence by
+making fundamental advances in technologies to help interact with and
+understand our world. We are seeking individuals passionate in areas such
+as deep learning, computer vision, audio and speech processing, natural
+language processing, machine learning, reinforcement learning,
+computational statistics, and applied mathematics. Our interns have an
+opportunity to make core algorithmic advances and apply their ideas at an
+unprecedented scale. Many of our interns publish at top tier conferences
+such as NIPS, ICML, ICLR, CVPR, ICCV, ECCV, and ACL.
+
+
+
+This internship has a minimum 12-week duration with summer, fall, and
+winter start dates. We have openings in our Menlo Park, New York, Seattle,
+and Paris offices. Internships will be awarded on a rolling basis and
+candidates are encouraged to apply early. Applicants are expected to be
+pursuing a PhD in one of the areas listed above; outstanding masters and
+bachelors students may also be considered. To apply please complete the
+following two steps:
+
+
+
+(1) Click the "apply" button at https://www.facebook.com/ca
+reers/jobs/a0I1200000JXbUBEA1
+
+(2) Fill out the survey form at https://facebookairesearch.
+wufoo.com/forms/facebook-ai-research-internships-rd0tnlz0x8tiyf
+
+
+
+**Your application will not be complete until both forms are submitted.**
+
+
+
+To learn more about our research and the top-notch scientists you will be
+working with, visit https://research.facebook.com/ai/.
+
+
+
+*Responsibilities*
+
+- Perform research to advance the science and technology of machine
+intelligence, and/or
+
+- Perform research that enables learning the semantics of data (images,
+video, text, audio, games, and other modalities), and/or
+
+- Devise better data-driven models of human behavior, and/or
+
+- Contribute research that can be applied to Facebook product development
+
+*Requirements*
+
+- Pursuing a degree (PhD, Masters, or Bachelors with relevant research
+experience) in Computer Science or related field
+
+- Publications or demonstrated experience in machine learning, AI, computer
+vision, optimization, computer science, statistics, applied mathematics, or
+data science
+
+- Extensive experience solving analytical problems using quantitative
+approaches
+
+- Comfort manipulating and analyzing complex, high-volume,
+high-dimensionality data from varying sources
+
+- A strong passion for theoretical and empirical research and for answering
+hard questions with research
+
+- Ability to communicate complex research in a clear, precise, and
+actionable manner
+
+- Fluency in C, C++, Python, Lua or other related programming language
+
+- Experience building systems based on machine learning and/or deep
+learning methods
+
+- Must be currently enrolled in a full-time degree program and returning to
+the program after the completion of the internship
+
+- Ability to obtain and maintain work authorization in the country of
+employment in 2017
+
+
+*Jobalo Jobs Part-Time App Developer | Chapel Hill NC*
+
+Looking for someone who can develop IOS apps and/or websites. Jobalo Jobs
+is a Chapel Hill based tech startup, a mobile app, that offers part time,
+full time, volunteering, internships and contract job opportunities for
+high school and college students. We have been operating for 5 months now
+and already have a mobile app that is almost fully developed and being
+released, coded in php Laravel and node.js. We want a local developer
+partner who can work part time hours and be a major part of our business.
+We need someone who can provide maintenance to our app and help with a full
+scale web version. We will pay at an hourly wage and give equity in the
+company. Email Max at maxalwaytownsend@jobalojobs.com
+
+JobaloJobs.net
+
+
+*Short-Term Programming Job | Chapel Hill NC*
+
+I am looking for a CS student interested in a short term programming job.
+The task will be to develop code (preferably with a simple GUI) that will
+extract some behavioral variables from motion tracking files used in our
+animal behavior lab. These files are simple text files -- a time stamp with
+an X,Y coordinate for each frame of a video. I anticipate the job taking
+10-20 hours to complete. Pay is negotiable and hours are very flexible (you
+can work whenever and from wherever you like), though I'd like to have the
+product done within a week or two of hiring. Please contact Spencer Ingley
+, NSF Postdoctoral Research Fellow, for more details.
+
+
+
+*Venture for America Fellowship | Deadline Nov 28th*
+Venture for America  is a two-year
+fellowship program for enterprising recent college grads to launch their
+careers as entrepreneurs. After five weeks of training, VFA Fellows spend
+two years as full-time, salaried employees at startups in emerging U.S.
+cities, getting hands-on experience and learning how to build businesses.
+More than just a job, VFA provides the additional mentorship, network, and
+resources Fellows need to become entrepreneurs and make an impact in their
+communities. *Deadlines to Apply:* November 28th, 2016 & February 6th,
+2017 *Learn
+more here !*
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

@@ -1,0 +1,130 @@
+I hope you have all gotten on the road and have made it safely to your
+holiday destination. Enjoy the break and have a wonderful holiday!
+
+Here are just a few opportunities to look over:
+
+*Shoeboxed in Durham NC is looking for an experienced software engineer* to
+build and refine their one-of-a-kind web and mobile apps. This person would
+lead the development team and play a critical role in the ideation,
+production and execution of Shoeboxed software. Ideally they're looking for
+someone who knows at least 1-2 modern languages (such as Python, Scala,
+Ruby, Go, Elixir, and/or Java/Spring Framework) as well as older languages.
+Machine learning experience would be a huge plus, but not required.
+
+
+
+*Responsibilities: *
+
+   - Work on the JSON API that powers the mobile and web app. It's written
+   in Scala and talks to internal services that are written in Go, Python a=
+nd
+   Java
+   - Work on the iOS and Backbone.js frontends
+   - Lead the greenfield development on new apps and concepts built on
+   machine learning work that we have developed over the past few years
+
+*Required Qualifications:*
+
+
+   - 5+ years combined Python, Scala, Ruby, Go, Elixir, and/or Java/Spring
+   Framework
+   - 5+ years relational database experience
+   - Agile teamwork experience or strong desire to work on an agile team
+   - Fluency with HTTP, JSON & experience consuming & designing RESTful web
+   services
+   - Git experience
+
+*Bonus Points For: *
+
+   - Machine learning experience.
+   - Web scraping experience.
+   - Mac OS X / Unix / Linux user with command-line experience.
+
+Here is the link to Shoeboxed careers 
+page. Contact Claudia Amand (UNC alum) with any questions.
+claudia@team.shoeboxed.com
+
+
+
+*FreshSpire* My name's Gabrielle and I'm a cofounder of a social startup
+called FreshSpire, which is creating a communication platform (mobile app
+and text notification system) that alerts users when perishable items are
+discounted due to nearing expiration at their nearest grocery store. This
+reduces food waste in stores and increases accessibility and affordability
+of healthy foods.
+
+We are currently in an incubator at HQ Raleigh where the application
+development will be completed in the next six months,  however we are in
+need of a team member with technical expertise. This person would need to
+devote time next semester to learning alongside the head application
+developer and in order to retain the skills needed for maintenance of the
+app. Most importantly, the applicant must be available summer 2016 to work
+for FreshSpire in implementing the product in grocery stores. Ideally the
+applicant should have a passion for social entrepreneurship and feel
+connected with the social mission of the project. For more information,
+contact Gabrielle at gabbeau@live.unc.edu
+
+
+
+*Are you an undergraduate work study student? *
+
+The Computer Science Department has opened three work study positions for
+this fall through spring, any student with an unused work study allocation
+and the appropriate skill can apply.
+
+Job #5525
+
+This position will provide programming for small to moderate web
+applications as part of a team.
+
+*Job Requirements: *
+
+Experience with Javascript or Java. Experience with other web oriented
+programming languages such as PHP, Ruby on Rails would be a plus.
+
+Ideally applicants should be able to point to prior work as examples of
+their skill set.
+
+Contact Bil Hays < hays@cs.unc.edu> with any questions.
+
+
+*Carolina Creates is now accepting applications for a Member at Large
+position on its Board of Directors. *
+
+
+
+The mission of Carolina Creates is to foster innovative creation at
+UNC-Chapel Hill. We do this in two ways. First, we provide the resources
+needed to make ideas happen: funding, marketing, connections, strategic
+advice, and space. Second, our themed communities offer programming
+designed to spark activity and engage students in six different creative
+realms--music, writing, dance, visual arts, technology, and ideation.
+
+
+We=E2=80=99re looking for students who want to be a part of the Carolina Cr=
+eates
+Board of Directors. Board members work closely with students who have
+awesome, innovative ideas. We help provide the resources to bring these
+ideas to life at UNC. As a board member, you will be responsible for
+brainstorming about the strategy of incubating initiatives, deciding on
+which initiatives to fund, and generally helping to make awesome things
+happen on campus. You will identify opportunities for collaborations at UNC
+that foster creativity, and you will represent Carolina Creates at
+innovation-related events. Board members also coordinate with the directors
+of the 6 Carolina Creates communities to facilitate their success. *If you
+love creativity and innovation and consider yourself a thinker and a doer,
+fill out **this application*
+*
+by Friday, December 4th at 11:59PM.*
+
+
+
+Email carolinacreates@unc.edu with any questions!
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at http://groups.google.com/a/cs.unc.edu/group/careers/.

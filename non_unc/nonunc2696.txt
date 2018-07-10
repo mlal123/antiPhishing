@@ -1,0 +1,20 @@
+Your classmate posted a new Question. 
+
+A2 Remove
+
+So my remove method can successfully determine the node that replaces the node to be removed and can replace it, but I can't figure out how to get rid of the node that changes positions in the tree. EX: if I remove node B and C is meant to replace it, I can move node C to node B's former position, but then I end up with two copies of node C in the tree: one where node B was removed and one where node C was originally. Any tips?
+
+Go to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2fclass%3fcid%3dit7zl5hr10a1nq%26nid%3dis6wk5m47ay4zy%26token%3df2GxNxqCfOm&data=01%7c01%7cmlal123%40live.unc.edu%7c691dcad348504167b3cc08d3df6914e5%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=ZS91p5XdhdysIGY8GUV9Oyu8QgxHXrszN1OTHacUs2w%3d to view. Search or link to this question with @112. Follow it to get notified when a response comes in: https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2ffollow%2fit7zl5hr10a1nq%2ff2GxNxqCfOm%2fae6ee79c&data=01%7c01%7cmlal123%40live.unc.edu%7c691dcad348504167b3cc08d3df6914e5%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=j50%2b2wBoDCsgvzRT3Ho887mxRT%2fXHrCTtwYXJxdPHos%3d 
+
+Sign up for more classes at https://na01.safelinks.protection.outlook.com/?url=http%3a%2f%2fpiazza.com%2func&data=01%7c01%7cmlal123%40live.unc.edu%7c691dcad348504167b3cc08d3df6914e5%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=XSRogSXV%2bh7I5GQfDRR658bFfU8elBc6Fs3nXn75gJI%3d
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 410 (section 002) at University of North Carolina at Chapel Hill. Go to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2flogin&data=01%7c01%7cmlal123%40live.unc.edu%7c691dcad348504167b3cc08d3df6914e5%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=RxomNVQ3J0qPLgX%2fDLlSENalAKq3HAIYRGIrj5QyyLM%3d to sign in and manage your email preferences or proceed to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2fis6wk5m47ay4zy&data=01%7c01%7cmlal123%40live.unc.edu%7c691dcad348504167b3cc08d3df6914e5%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=UjdymIeGXE4M%2f%2bxik8Uo48OyHtGCS6uv5Y7Z4Q0VAxQ%3d to un-enroll from this class.

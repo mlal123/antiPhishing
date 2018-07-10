@@ -1,0 +1,45 @@
+
+
+	
+	
+		
+			Hello CS Club!
+		
+			Tomorrow, Thursday 2/2, we will be having a special speaker! Dr. Montek =
+Singh will be talking about his research with camera sensors, detailed belo=
+w.  If you have missed our last few, this is a perfect opportunity to =
+join in and hear about what's going on in our department!
+		
+			IMPORTANT: The room is different this week:
+		
+			TIME: 6:00PM (same as usual)
+		
+			PLACE: Sitterson 011 (this is different!)
+		
+			Title:  From =
+;Counting =
+Raindrops =
+to Taking Better Pictures
+		
+			Abstract:  The pr=
+ocess of taking a photograph using a digital camera is not unlike measuring=
+ rainfall intensity over a large area.  Yet, counting=
+ photons reaching ea=
+ch pixel, or counting rain drops hitting each square foot of land, is a surprisi=
+ngly challenging task to do accurately, inexpensively and fast.  In th=
+is talk I will describe a novel approach to designing a camera sensor that =
+yields dramatic improvement over the current state of the art, providing si=
+gnificantly higher dynamic range, smoother color gradations, lower noise, a=
+nd frameless capture.  (No hardware background or knowledge of rain ga=
+uges required to enjoy this talk.  Frustration with current phone came=
+ras is a plus.)
+		
+			We hope to see you all tomorrow 2/2 at 6:00 PM in SN011.
+		
+			Cheers,
+		
+			Brandon & Luke
+	
+
+
+

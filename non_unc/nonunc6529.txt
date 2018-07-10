@@ -1,0 +1,29 @@
+Your classmate posted a new Question.=20
+
+Is java something we can update in our virtual Ubuntu?
+
+I want to install pycharm in ubuntu but it needs a better java version to r=
+un the installer.=C2=A0 I know a1 said not to update some things because we=
+'d be looking at vulnerabilities later.
+
+Go to https://piazza.com/class?cid=3Dj86220gki0o5j0&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @79. Follow=
+ it to get notified when a response comes in: https://piazza.com/follow/j86=
+220gki0o5j0/f2GxNxqCfOm/24512ba0=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 435 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/j5vi9cpw2jn336 to un-enroll from this class.=

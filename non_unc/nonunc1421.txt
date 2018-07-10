@@ -1,0 +1,50 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+Recitation Quiz  (2/04/16 9:26 PM)
+
+Last week I attended recitation a bit late and missed the quiz, but I atten=
+ded the remainder of the recitation in full. I was wondering: How does this=
+ affect my grade?=C2=A0
+
+Go to https://piazza.com/class?cid=3Dik92lsu9o4i3mi&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A3 Adept methods  (2/05/16 12:20 AM)
+
+I'm a little confused about the blend, lighten, and darken methods for A3 a=
+dept, specifically where the actual code should be placed. Should the metho=
+d code be within the ColorPixel and GrayPixel, or would it perhaps be withi=
+n the Pixel interface itself? Also, I'm a bit confused on what it means to =
+use the blend method to implement the other methods. Has he discussed using=
+ methods to implement other methods in class? Thank you!
+
+Go to https://piazza.com/class?cid=3Dik98uawkx513nf&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

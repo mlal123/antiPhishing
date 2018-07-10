@@ -1,0 +1,42 @@
+UNC Computer Science Intern Program
+
+Company: Pyramid is a startup based in Durham that is building a new way to
+share photos
+and create social networks based on users=E2=80=99 geolocation. We=E2=80=99=
+re launching at
+UNC, NCState and
+Duke in Summer =E2=80=9817. We=E2=80=99re looking for someone excited to bu=
+ild innovative
+new products in the
+social, location, and photo sharing space. Interns selected will be
+considered for full time
+position opening later this year.
+
+Job Description: The developer will be writing code within the framework of
+tasks outlined by
+our CTO. The candidate must have the following skills:
+
+=E2=80=A2 Well versed in Swift programming language for iOS
+=E2=80=A2 Experience in developing and creating iOS Apps
+=E2=80=A2 Excellent communication/problem solving skills between teammates
+
+Compensation: The intern will be paid upon completion of set tasks and also
+based upon
+availability of the work they are asked to complete. Deadlines must be met
+and communicated
+directly to the CTO.
+
+If Interested: Email resume to cam@thepyarmidapp.com
+
+Thanks,
+The Pyramid Team
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to careers+unsubscribe@cs.unc.edu.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

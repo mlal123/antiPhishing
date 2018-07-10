@@ -1,0 +1,280 @@
+Hello Everyone,
+
+Hope your exams are going smoothly! Opportunities are listed below...
+
+*Full-Time*
+*System Administrator with Financial Risk Group, Inc.
+ *
+Position includes on the job training, learning as you go,
+smaller/entrepreneurial culture, work with many aspects of computer science
+and business. Learn more here
+
+.
+
+*Bioclinica  is hiring 2 positions*
+Senior Support Engineer
+
+Software Support Specialist
+
+Learn more about Bioclinica here
+.
+
+*Full-Time Position with Roivant Sciences*
+
+*About Digital Innovation*
+
+Are you interested in solving complex problems in the biotech space?
+Roivant Sciences has a team of Digital Innovators focused on bringing
+technology to bear on these problems, and we are looking to grow our team.
+As Digital Innovators we sit in different teams within our organization to
+understand both the internal and external challenges they face, and we come
+up with technological solutions to those challenges.
+
+
+
+To give you an idea of the types of projects we work on here's an example
+of a Digital Innovation initiative that has provided significant value to
+our organization:
+
+Enzyvant is a Roivant subsidiary that focuses on providing treatments for
+rare diseases like Farber disease, a lysosomal storage disorder caused by
+deficiency in the ceramidase enzyme. This disorder is difficult to diagnose
+properly because 1) it presents similarly to juvenile idiopathic arthritis
+and 2) it is so rare that many physicians are unaware of it. This presents
+challenges for patients trying to find adequate and effective care as well
+as for Enzyvant trying to find patients to recruit for clinical trials that
+can help the development of a treatment.
+
+
+
+To accelerate patient recruitment Enzyvant turned to medical claims data to
+identify Farber disease candidates by searching for potentially
+misdiagnosed juvenile idiopathic arthritis patients, but this was an
+arduous manual task that only identified 2 potential leads in 4 months.
+
+
+
+Enter the Digital Innovator. After identifying this as a critical business
+need, our Digital Innovator in Enzyvant first researched the problem and
+then came up with a much better method of identifying these patients using
+the same underlying data. Using a combination of data science and
+programming skills in conjunction with domain knowledge, the Digital
+Innovator created a system to find the most likely Farber disease
+candidates based on gold standard examples provided by a medical
+professional. These candidates were then presented for evaluation to the
+medical professional who could confirm or reject the suggestions, and the
+system captured this scoring to improve the evaluation algorithm and
+ultimately provide better matches in the future.
+
+
+
+This new tool was created in a couple of weeks, made the patient finding
+process about 30 times faster with almost no manual overhead by the
+stakeholders, and can be generalized to other disease spaces.
+
+
+
+This is what we bring to the business as Digital Innovators, and we are
+looking for more highly competent problem solvers with the technical skills
+to implement impactful solutions. If you're up for the challenge then
+please submit your resume and a statement noting your interest in becoming
+a Digital Innovator here
+.
+
+
+*Full-Time Application Security Specialist *with Applied Visions
+ for soon to be or recent grad. See detailed job
+posting here
+.
+Apply here
+.
+Questions? Contact Lynn Antunovich at lynn.antunovich@avi.com.
+
+
+*IT Consultant with Lenovo Data Center Group*
+
+Travel across US and Canada and work with Lenovo customers. Visit direct
+link
+for
+more details and to apply.
+
+
+*Software Engineer *at Mint Servicing Inc.
+Fintech startup in Tysons Corner, VA. Looking for PhD or Master's students.
+See details here
+
+.
+
+*ECRS Software* is hiring programmers!
+They are located in Boone, NC and are an electronic cash register software
+company.
+Learn more here. 
+
+
+*Internships*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* NetApp Intern: Sales, Service & Support AcademyJob Requirements-
+Excellent written and verbal communication skills.- Excellent interpersonal
+communication and customer service skills are needed in order work
+successfully with prospects, customers, and cross functional teams to meet
+performance goals.- Strong aptitude for learning new technologies and
+understanding how to utilize them in a customer facing environment.-
+Ability to follow standard engineering principles and practices.- Creative
+approach to problem solving.- Travel to the prospective customer's sites as
+necessary.EducationWe are seeking candidates that are pursuing a
+Bachelor=E2=80=99s, Master=E2=80=99s or Ph.D. degree in Business, Computer =
+Science,
+Computer Engineering, Electrical Engineering, Information Systems or an
+equivalent degree.Learn more about the position and apply here.
+Launch
+Chapel Hill, AITS Machine Learning and Artificial Intelligence
+InternshipPart-time summer internship (20 hrs/week) with the opportunity of
+a full-time hire or longer-term part-time relationship.  Candidate will be
+assisting in the creation of a customer web portal and scalable website for
+Google-cloud based convolutional neural network used for video analysis in
+research and clinical focused microscopy systems.  Comparable consumer
+websites and customer web portals would be Box and Dropbox.Our company is a
+spin-out of research conducted at UNC-CH.  Our founders are professors
+within the Mathematics Department and within the UNC Eshelman School of
+Pharmacy.Learn more here.
+First
+Databank, Software Engineering InternFDB Health
+ is hiring a Software Engineering Intern for
+their Moorisville, NC office.  Learn more and apply here.
+ Please send
+questions to Brenda Mesalam . *
+
+*On-Campus*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* UNC CS Department, GE Girls Camp InstructorPaid instructor position for
+undergraduate students starting in July. This camp is in partnership with
+GE. Hiring 4 instructors!Learn more here.
+Digital Media Assistant with UNC
+Kenan-Flagler Business School20 hours/week for Summer & Fall. See
+details here .UNC
+Undergraduate Library, Summer Graduate Assistant20 hour/week graduate
+student research assistant to help develop the library's VR & RA
+services.Learn more here.
+
+UNC
+Kenan Science Library, Graduate Student Research AssistantA 20 hour/week
+graduate student research assistant position is available in the Kenan
+Science Library makerspace (G301 Venable Hall) to assist library staff with
+the development of virtual reality/augmented reality services and programs;
+necessary training will be provided. The appointment runs June 1,
+2018 through July 31, 2017. Hours are between 9 a.m. and 5
+p.m. Monday through Friday. Pay is $1,336.42 per month (no tuition
+reimbursement).The Kenan Science Library makerspace is part of the
+University Libraries=E2=80=99 Research Hub>. It enables UNC students, staff, and faculty
+to explore emerging technologies and foster a creative community of makers
+and making. The makerspace provides access to virtual reality equipment, 3D
+design tools, 3D printing, 3D scanning, electronics & soldering, and
+sewing. See some of our projects on our
+website.>Primary responsibilities  *
+ Orient patrons in the use of virtual reality equipment, such as the HTC
+Vive, phone-based VR headsets, and 3D video cameras  *   Teach small group
+workshops on such topics as 3D modelling and game engine development  *
+ Provide consultations to patrons on virtual reality and 3D modeling  *
+ Assist with outreach events, documentation, communication, and assessment
+*   Other projects as assignedRequired qualifications  *   If UNC student
+in the Spring 2018 semester, must be registered in Summer School and/or
+pre-registered for the Fall 2018 Semester.  *   If not UNC Student in the
+Spring 2018 semester, then must be registered for Summer School.  *
+ Aptitude for learning and troubleshooting new technologies  *   Ability to
+teach workshops and conduct demonstrations  *   Flexible; adaptable;
+comfortable with experimentation and self-directed learning  *   Ability
+and enthusiasm for working with the public  *   Excellent communication
+skills  *   Ability to work both independently and on a team  *   Ability
+to manage multiple projectsPreferred qualifications  *   Experience with
+virtual reality/augmented reality equipment (e.g., HTC Vive, Oculus Rift);
+game engine software (e.g., Unity, Unreal Engine); 3D modeling tools (e.g.,
+Blender, Maya, Fusion 360,  Sketchup)  *   Teaching experience  *
+ Graphics, photography, or web design experienceTo ApplyApplications will
+be accepted until position is filled. Please send a cover letter and resume
+to:kenan-library@listserv.unc.edu
+>SUBJ: Graduate Assistant Position Learn
+more here.
+
+*
+*Startups*
+*Virtual Shopper Start-up*
+A Duke MBA team is looking for a technical co-founder as well as developers
+for their early stage startup. The company is shaping the future of online
+shopping through social media. If you=E2=80=99re interested in being part o=
+f a
+viable early stage startup, please contact Ignacio Guerra and Ashley
+Rosenthal =E2=80=93 jig10@duke.edu and amr110@duke.edu
+
+
+
+
+
+
+*More on Handshake Don't forget about Handshake
+! UCS' online system for job and
+internship search which boasts thousands of opportunities. Complete your
+profile, upload your resume, and apply online. You already have an account;
+log-in with your ONYEN. Summer Hours Yes, career appointments are still
+available over the summer! Use Handshake
+ to create appointments in Hanes Hall.
+<(919)%20590-6034>Thank you,Catherine AllenUCS Liaison to Computer
+Science224 Hanes Hall or 121 Sitterson (T/Th)*
+
+<(919)%20590-6034>
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to careers+unsubscribe@cs.unc.edu.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

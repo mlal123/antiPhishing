@@ -1,0 +1,117 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+Can we use strcomp in Lab 6  (10/13/16 7:31 PM)
+
+Can we use strcomp in Lab 6 or do we need to convert the characters to comp=
+are somehow?
+
+Go to https://piazza.com/class?cid=3Diu8zbgds1y25el&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Lab 6: Ex3 Swapping Pointers  (10/13/16 8:19 PM)
+
+I"m=C2=A0a little bit confused as to how we can swap pointers without using=
+ a for-loop to do it character by character? (Which the instructions say no=
+t to do) Can anyone help clarify?
+
+Go to https://piazza.com/class?cid=3Diu911n9vpwh17y&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Lab6 ex3  (10/13/16 8:36 PM)
+
+Can someone help me understand how we are supposed to assign the strings in=
+to the "Strings" array... I know the array hold pointer values but how are =
+we supposed to assign the pointer to each specific string? I've tried putti=
+ng=C2=A0
+
+*Strings[i] =3D temp;
+
+after the malloc statement, but this is incorrect.
+
+Thanks for any help!
+
+ps that above statement is inside the first for loop
+
+Go to https://piazza.com/class?cid=3Diu91namujf05q9&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Ex1 Printing Weird Characters  (10/13/16 10:36 PM)
+
+Does anyone have any idea what could be causing these additional characters=
+ to print in my alphabetical output? Only happens after the bubble sort, th=
+e output with the strings in the order they were entered is completely fine.
+
+Go to https://piazza.com/class?cid=3Diu95xa9z8go5dt&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Lab 6 Ex3  (10/13/16 10:37 PM)
+
+Anyone have issues in lab 6 ex 3 where when they ran the first test case an=
+d "!" started appearing like so?
+
+Please enter 25 strings, one per line:
+Here are the strings in the order you entered:Department Administration
+Sitterson Hall (SN)Brooks Computer Science Building (FB)Campus Box 3175Phon=
+e: 919-962-1700 / Fax: 919-962-1799!ChairmanAnselmo LastraOffice: FB 116/FB=
+ 212Phone: 919-962-1958Email: lastra@cs.unc.edu
+Associate Chairman for Academic Affairs!Kevin JeffayOffice: FB 316Phone: 91=
+9-962-1938Email: jeffay@cs.unc.edu
+Associate Chairman for Administration, Finance and EntrepreneurshipTimothy =
+L. QuiggOffice: SN 104Phone: 919-962-1777Email: quigg@cs.unc.edu!
+In alphabetical order, the strings are:
+
+.....
+(the ! continue in the sort)
+
+Go to https://piazza.com/class?cid=3Diu95zl4z1kz53b&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Lab 6 ex3 problem  (10/13/16 10:41 PM)
+
+I keep getting this but this is written in the given starter file. Don't un=
+derstand what this means
+
+invalid conversion from 'void*' to 'char*' [-fpermissive] Strings[i] =3D ma=
+lloc(length+1); /* Plus one for the NULL at end */ ^
+
+Go to https://piazza.com/class?cid=3Diu9644g3x891zt&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Quiz Friday  (10/13/16 10:55 PM)
+
+Will we have a quiz tomorrow in Fuchs's class?
+
+Go to https://piazza.com/class?cid=3Diu96mjeh7ps6db&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

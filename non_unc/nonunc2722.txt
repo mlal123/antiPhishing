@@ -1,0 +1,62 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+Clarification on Branch Address  (9/19/16 6:53 PM)
+
+Looking over lecture notes it states
+
+beq rs, rt, label=C2=A0 #=C2=A0 Branch if equal
+
+if (REG[RS] =3D=3D REG[RT])
+=C2=A0{ =C2=A0=C2=A0 PC =3D PC + 4 + 4*offset; =C2=A0}
+
+I would like to verify that=C2=A0my understanding is correct.
+
+The program counter refers to a memory location byte addressed. Offset is c=
+alculated for the user based on the label. This offset needs to be aligned =
+with the byte addressing/words so it is multiplied by four for the proper m=
+emory location. 4 is added to the program counter as well to get the next i=
+nstruction due to byte addressing.
+
+
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3ditandw6e76n3r7%26nid%3dirqp4hpe58u5rs%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c9b49b02797c142ea295908d=
+3e1025d70%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DfFGR1iG4YDbT1XpyWO=
+ilqLwZ%2b714scNj%2fOE9DjQoIKI%3d to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://na01.sa=
+felinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.com%2flogin&data=
+=3D01%7c01%7cmlal123%40live.unc.edu%7c9b49b02797c142ea295908d3e1025d70%7c58=
+b3d54f16c942d3af081fcabd095666%7c1&sdata=3DA%2f2y0SL16bK%2briXxXuuGIhgjSUDi=
+Gb3%2bzPK1a%2f%2byTCA%3d to sign in and manage your email preferences or pr=
+oceed to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2=
+fpiazza.com%2fremove%2ff2GxNxqCfOm%2firqp4hpe58u5rs&data=3D01%7c01%7cmlal12=
+3%40live.unc.edu%7c9b49b02797c142ea295908d3e1025d70%7c58b3d54f16c942d3af081=
+fcabd095666%7c1&sdata=3Dp9S%2bPH7XIzTEozxP8YqvySB0l1QvPoCGMjysoi4yYCA%3d to=
+ un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://na01.safelinks.protection.ou=
+tlook.com/?url=3Dhttps%3a%2f%2fpiazza.com%2flink_accounts%2ff2GxNxqCfOm&dat=
+a=3D01%7c01%7cmlal123%40live.unc.edu%7c9b49b02797c142ea295908d3e1025d70%7c5=
+8b3d54f16c942d3af081fcabd095666%7c1&sdata=3DCxS%2bDI8iwHqiVjcJSOziZWa4S0ktl=
+AVv3uj%2bYxlg1X8%3d=

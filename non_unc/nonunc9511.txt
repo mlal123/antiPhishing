@@ -1,0 +1,1689 @@
+
+
+Udemy
+
+@import url('https://fonts.googleapis.com/css?family=3DSource+Sans+Pro:300,=
+400,600');
+@import url('https://fonts.googleapis.com/css?family=3DZilla+Slab:300,400,6=
+00');
+/* CLIENT-SPECIFIC STYLES */
+body, table, td, a, p {-webkit-text-size-adjust: 100%; -ms-text-size-adjust=
+: 100%; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;}
+table, td {mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: c=
+ollapse;}
+img { -ms-interpolation-mode: bicubic; }
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+.appleFooter a {
+color:#ffffff !important;
+text-decoration: none!important;
+}
+.courseBadge {
+vertical-align: middle;=20
+font-size: 9px;=20
+border: none;=20
+font-weight: 700;=20
+line-height: 1.5;=20
+text-align: center;=20
+text-transform: uppercase;   =20
+}
+
+/* DESKTOP STYLES */
+@media only screen and (min-width: 481px){
+.desktopNavBarText {
+display:block !important;
+padding: 24px 0px 5px 10px !important;
+float: right !important;
+}
+.navBarImage{
+float:left !important;
+width: 150px !important;
+padding: 5px 0px 5px 0px !important;
+}=20
+}
+/* MOBILE STYLES */
+@media only screen and (max-width: 480px){
+#container{
+width:100% !important;
+}
+#banner_text {
+text-align: center !important;
+padding-bottom: 10px;
+}
+.deviceWidth{
+display:block !important;
+width:100% !important;
+}
+.hidden{
+display: none;
+}
+.courseCardTop{
+width:30% !important;
+float: left;
+min-width: 30% !important;
+}
+.courseCardBottom{
+width:70% !important;
+float: left;
+min-width: 70% !important;=20
+border-bottom: 0px !important;
+}
+.mobileColor{
+background-color: #ffffff !important;
+}
+.mobileCourseLine{
+border-bottom: 2px #edece6 solid;
+}
+.titleHeight{
+height: auto;
+}
+.titlePadding{
+padding-top: 0px !important;
+padding-bottom: 10px !important;
+font-size: 16px !important;
+}
+.starPricePadding{
+padding-top: 0px !important;
+padding-bottom: 5px !important;
+font-size: 80% !important;
+}
+.courseImage{
+width: 100%;
+height: auto !important;
+}
+.moduleTitlePadding{
+padding: 20px 5px 5px 5px !important;
+}
+.mobileCoursePadding{
+padding: 15px 5px 0px 5px !important;
+width: 100% !important;
+}
+.targetedSpacer{
+width: 5%;
+}
+.mobileNavBarImage{
+height: 30px !important;
+width: auto !important;
+}
+.instImage{
+width: 30% !important;
+float: left !important;
+min-width: 30% !important;
+padding-top: 15px !important;
+}=09
+.instDescription{
+width: 70% !important;
+float: right !important;
+min-width: 70% !important;
+border: none !important;
+padding-bottom: 20px;
+padding-top: 15px;
+height: auto !important;
+}
+.instText{
+text-align: left !important;
+padding-left: 0px !important;
+padding-right: 0px !important;
+padding-bottom: 0px !important;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+With more learning com=
+es more opportunity. Get a wide variety of courses for just $9.99 each duri=
+ng our Mother=E2=80=99s Day Sale.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+My Courses | Featured
+ 
+=20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Interested in Cloud C=
+omputing courses? Check out:Cloud =
+Computing Essentials
+
+ 
+
+
+
+=
+=20
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+=20
+
+ =20
+
+
+
+ 
+
+
+
+
+
+
+
+=20
+
+ 
+
+
+
+
+
+$124.99  =
+$9.99      (6)
+
+
+
+
+
+
+Take Course
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Maher Dahdour
+
+
+
+
+
+
+
+
+
+
+
+22 Students
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 Hours
+
+
+
+
+
+
+
+
+
+
+
+16 Lectures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+=20
+
+=20
+=20
+
+
+
+
+
+
+ 
+
+Students who enrolled in Cloud Computing Essentials also enrolled in:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+AWS Solutions Architect Associate=
+: Exam Questions
+
+
+
+             4.15 =
+;(5)
+
+
+
+
+
+$39.99=
+  $=
+9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Kurs Microsoft Excel 2016 od Pods=
+taw do Eksperta
+
+
+
+             4.06 =
+;(7)
+
+
+
+
+
+$19.99=
+  $=
+9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Complete PHP & MySQLi in Hind=
+i/Urdu
+
+
+
+             3.97 =
+;(7)
+
+
+
+
+
+$29.99=
+  $=
+9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+=20
+
+
+
+
+
+
+
+ 
+Keep learning with top Assorted IT & Software c=
+ourses:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Learn DevOps: The Complete Kubern=
+etes Course
+
+
+
+             4.33&nb=
+sp;(907)
+
+
+
+
+
+$39.99=
+  $=
+9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Blockchain and Bitcoin Fundamenta=
+ls
+
+
+
+             4.71&nb=
+sp;(1,857)
+
+
+
+
+
+$94.99=
+  $=
+9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Learn Advanced C++ Progra=
+mming
+
+
+
+             4.53&nb=
+sp;(391)
+
+
+
+
+
+$34.99=
+  $=
+9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Spring Framework Master Class - B=
+eginner to Expert
+
+
+
+             4.38&nb=
+sp;(829)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Blockchain Development on Hyperle=
+dger Fabric using Composer
+
+
+
+             4.56&nb=
+sp;(380)
+
+
+
+
+
+$169.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Mastering Ansible
+
+
+
+             4.26&nb=
+sp;(408)
+
+
+
+
+
+$54.99=
+  $=
+9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Java Web Services
+
+
+
+             4.47&nb=
+sp;(362)
+
+
+
+
+
+$29.99=
+  $=
+9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Ethereum : Decentralized Applicat=
+ion Design & Development
+
+
+
+             4.46&nb=
+sp;(320)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+AWS CloudFormation Master Class
+
+
+
+             4.64&nb=
+sp;(376)
+
+
+
+
+
+$49.99=
+  $=
+9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+Check out top IT and Software courses:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+AWS Certified Solutions Architect=
+ - Associate 2018
+
+
+
+             4.52&nb=
+sp;(13,127)
+
+
+
+
+
+$179.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+AWS Certified Developer - Associa=
+te 2018
+
+
+
+             4.44&nb=
+sp;(3,031)
+
+
+
+
+
+$149.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Learn Ethical Hacking From Scratc=
+h
+
+
+
+             4.59&nb=
+sp;(2,539)
+
+
+
+
+
+$194.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Amazon Web Services Certification=
+ (AWS) 2018 - All 4 Certs!
+
+
+
+             4.49&nb=
+sp;(911)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+CompTIA Security+ Certificati=
+on (SY0-501): The Total Course
+
+
+
+             4.74&nb=
+sp;(281)
+
+
+
+
+
+$194.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+CompTIA A+ Certification 901.=
+ The Total Course
+
+
+
+             4.67&nb=
+sp;(2,413)
+
+
+
+
+
+$144.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+The Complete Salesforce Administr=
+ator Certification Course
+
+
+
+             4.52&nb=
+sp;(1,830)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+The Complete Cyber Security Cours=
+e : Hackers Exposed!
+
+
+
+             4.56&nb=
+sp;(1,526)
+
+
+
+
+
+$119.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+CompTIA A+ Certification 902.=
+ The Total Course
+
+
+
+        ()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    =20
+
+
+    UNSUBSCRIBE  |  SUPPORT  |  VIEW ONL=
+INE
+
+
+
+Ude=
+my.com 600 Harrison Street, 3rd Floor San Francisco, CA 94107 USA
+
+
+
+    Careers=
+ at Udemy | Get Udemy at Work=
+ | Become an Instructor
+
+
+
+
+Download our apps for Offline Coursetaking
+
+
+
+        
+     =
+  =20
+    
+        
+           =20
+  =
+          =20
+    
+                    
+                        
+                    =20
+                    
+                      =20
+                    
+                    
+                        
+                    
+                
+            
+           =20
+        
+    
+             =20
+
+    
+
+    
+        
+        
+            
+                =20
+                     
+                
+            
+        
+            
+               
+    
+
+    
+    *Some exclusions apply. Coupon cod=
+e expires 2018-=
+05-15 07:00 AM GMT.
+
+
+    
+        
+            Connect with us
+        
+    
+    
+        
+     =
+  =20
+    
+        
+           =20
+  =
+          =20
+    
+                    
+                        
+                    =20
+                    
+                      =20
+                    
+                    
+                        
+                    
+                
+            
+           =20
+        
+    
+             =20
+
+    
+   =20
+    =20
+   =20
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,70 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+OP code hex question  (9/20/16 8:48 PM)
+
+So OP codes are referred to by 6 digits. These are referenced in the ppts b=
+y a hex. so like add is 0x20, or 01000.=C2=A0So my question is this: 0x20 (=
+and other hexidecimal #s in this format) refers in actuality to a 8 bit cod=
+e, so like 0x20 is 00001000. It makes sense to me that you just drop the fi=
+rst two digits off since they are 0 anyways, but are there OP codes that wo=
+uld be like, say, 0x78 (01111000)?=C2=A0
+
+=C2=A0Would you drop the last two 0s? or are OP codes always referred to by=
+ hexes that you can drop the leading two 0's? I'm assuming it's the latter,=
+ because dropping any 0's in 0x78 would give you a different number. (i.e. =
+011110 !=3D 011111000) I hope this question makes sense, if it doesn't I wi=
+ll try to clarify
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3ditc6ytdknji3gj%26nid%3dirqp4hpe58u5rs%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7cd14fd61a76ca432790e608d=
+3e1dae81f%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DIPFkByxzfTJ4lUsg0M=
+dNf2%2fAiQ5NVK9JDGY19rGYoSk%3d to view.
+
+------------------------------------------------------------
+Unix not working (Idk)  ()
+
+When I try to log in, nothing happens. I don't know what's going on. The sc=
+reen doesn't change and the classroom (1) % doesn't show up.=C2=A0
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3ditcd27uezmh552%26nid%3dirqp4hpe58u5rs%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7cd14fd61a76ca432790e608d=
+3e1dae81f%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DskfuGeB%2bjGfp%2bl=
+uhr75vzVGnTWinge3tskdxPC2rnhU%3d to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://na01.sa=
+felinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.com%2flogin&data=
+=3D01%7c01%7cmlal123%40live.unc.edu%7cd14fd61a76ca432790e608d3e1dae81f%7c58=
+b3d54f16c942d3af081fcabd095666%7c1&sdata=3DDSyOaW0ts%2bCjePc1%2b9xyReHIWXh9=
+XkoPsFnlxHOXAGo%3d to sign in and manage your email preferences or proceed =
+to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazz=
+a.com%2fremove%2ff2GxNxqCfOm%2firqp4hpe58u5rs&data=3D01%7c01%7cmlal123%40li=
+ve.unc.edu%7cd14fd61a76ca432790e608d3e1dae81f%7c58b3d54f16c942d3af081fcabd0=
+95666%7c1&sdata=3DrSY4BzZBMcbpiwv7uJPZ%2fLljaQoxwES0o%2fnOXTx2uH4%3d to un-=
+enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://na01.safelinks.protection.ou=
+tlook.com/?url=3Dhttps%3a%2f%2fpiazza.com%2flink_accounts%2ff2GxNxqCfOm&dat=
+a=3D01%7c01%7cmlal123%40live.unc.edu%7cd14fd61a76ca432790e608d3e1dae81f%7c5=
+8b3d54f16c942d3af081fcabd095666%7c1&sdata=3DodpKGVx4d5NUF8loq3gIV1RsQN5kzxb=
+KpWWD40qTgtE%3d=

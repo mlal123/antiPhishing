@@ -1,0 +1,37 @@
+ 
+Dear Customer :  
+
+Thank you for contacting us about the issue you reported on 02/02/2016 10:45:58 AM. 
+
+
+We invite you to visit this web address & take a short survey that will provide feedback on your experience with the ITS hardware & drop off support group. 
+
+Click here to complete survey
+
+ITS Response Center
+(919) 962-HELP
+http://help.unc.edu
+
+**ATTENTION**
+
+The UNC Secure Wi-Fi network will be permanently removed on Friday, October 16th.  It takes just five minutes to get connected to the new Eduroam network. Go to: http://wifi.unc.edu
+
+
+
+
+Summary of Request 
+
+Status:  Successfully Resolved
+First Name:  mangza
+Last Name:  lal
+Request Number:  3165912
+Problem Description:  02/02/2016 10:50:52 AM swalter 
+Client had some .class files that would not open in Eclipse. We located the .java files (readable as text in Eclipse) in ~/.../bin/src/. 
+
+2/2/2016 10:45:58 AM swalter
+Client's Problem Description:
+Client needs help with Eclipse files 
+
+Worklog:
+
+

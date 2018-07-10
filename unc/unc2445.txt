@@ -1,0 +1,75 @@
+FROM GOOGLE:
+
+Greetings! We would like to invite you to an exclusive *YouTube Live event
+with Jeff Dean from Google=E2=80=99s Brain Team!*
+
+*Jeff Dean* will be talking about some of the work being done on the Brain
+team at Google, and will discuss the Google Brain Residency Program for
+2017.
+
+*What's YouTube Live?? *
+YouTube Live is a new interactive platform that we are excited to share
+with you. It's just like watching a YouTube video, except the event is
+filmed live and you can tune in and post questions via chat to the
+presenters in real time. This also means you have to tune in at the time of
+the event to watch, so don=E2=80=99t miss out! We sincerely hope to see you=
+ all
+there.
+
+*What Is The Brain Residency Program??*
+The Google Brain Residency Program is a one-year intensive residency
+program focused on Deep Learning. Residents will have the opportunity to
+conduct cutting-edge research and work alongside some of the most
+distinguished deep learning scientists within the Google Brain team. To
+learn more about the team and what we do, visit g.co/brain.
+
+The application for the program opens on September 1st (the same day as our
+YouTube Live event), and we encourage you to apply! The ideal candidate
+should have a degree (BS, MS, or PhD) or equivalent practical experience in
+a STEM field such as Computer Science, Mathematics, or Statistics. Current
+students would need to graduate before the Residency begins. Candidates
+should present evidence of proficiency in programming (preferably in Python
+or C++) and in prerequisite courses. Most importantly, we are looking for
+candidates who are hardworking, motivated and have a strong interest in the
+field of machine learning and deep learning research!
+
+Click HERE to apply
+and
+see what materials to prepare (application opens onSeptember 1st). We will
+be accepting applications until January 13th, 2017, interviewing candidates
+in February 2017 and notifying candidates if they have been accepted by
+April 2017. The anticipated start date will be in July 2017.
+
+*The YouTube Live event sounds cool! When should I tune in?*
+This event will happen live on Thursday September 1st at 3:00pm PDT.
+Click HERE to tune in! Jeff Dean Talks Google Brain and Brain Residency
+
+
+*As a reminder - make sure to tune in during the actual event. *
+
+*How can I make the most of this experience?*
+Tune in on time and stay for the whole session so you can learn more about
+the team in addition to the program.
+
+Chat! There is an interactive chat feature to the right of the video. Feel
+free to post questions in the chat and moderators will try to answer all
+questions as they roll in during the event. You can even add a question
+before the event even starts. We may also handpick some questions to be
+answered live on air!
+
+You will simply see a countdown until the actual event begins, so make sure
+to come back at 3:00pm PDT on Thursday September 1st, 2016.
+
+We can=E2=80=99t wait to see you there.
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at https://na01.safelinks.protection.outlook.com/?url=3Dht=
+tps%3a%2f%2fgroups.google.com%2fa%2fcs.unc.edu%2fgroup%2fcareers%2f&data=3D=
+01%7c01%7cmlal123%40live.unc.edu%7c386b9ca1f5174821191108d3d1c82dd1%7c58b3d=
+54f16c942d3af081fcabd095666%7c1&sdata=3DSvYZ2U1UIrrbmaAvNmlVVNnc9SkWOFk1xNd=
+%2faI8lKeA%3d.

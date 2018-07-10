@@ -1,0 +1,63 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+SnakeEyes method  (11/06/15 12:45 PM)
+
+Are we supposed to create a new method for snakeEyes in Die.java? =C2=A0I a=
+m not sure how to call snakeEyes in rollResult.
+
+Go to https://piazza.com/class?cid=3Dignydreuzo25d1&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Do I have to call snakeEyes in rollResult?  (11/06/15 1:39 PM)
+
+The assignment says:=C2=A0Note: you MUST use your Boolean methods you imple=
+mented earlier for this method, otherwise no points will be awarded for thi=
+s part of the assignment.
+Does this mean I have to call snakeEyes in rollResult? =C2=A0I think I crea=
+ted new boolean expressions but when I test it I get:=C2=A0
+Testing Game.rollResult... 0 is for rolledOnceOnlyOnce Expected:true Return=
+ed:false ... In 10,000 tries, did not roll one of each outcome?... error(s)=
+ :(
+
+
+Go to https://piazza.com/class?cid=3Digo0b10nnmn2pu&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Returning a value in a while loop for Holding method  (11/06/15 2:05 PM)
+
+When using a while loop for the Holding method, each of the two primary opt=
+ions ( either pressing one to hold or pressing two to roll again) breaks ou=
+t of the loop and returns a boolean value, yet the method says that there i=
+s an error "The method must return a result of type boolean." How do you re=
+turn a result of type boolean after breaking out of the while loop?
+
+Go to https://piazza.com/class?cid=3Digo1806zhn21yb&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

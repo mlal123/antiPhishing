@@ -1,0 +1,37 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Java exit code=13  (8/21/15 2:29 PM)
+
+I followed the instructions up through opening the eclipse file however when I launch it, it spits out a wall of text starting with "Java was started but returned exit code=13" and the rest looks like nonsense to me.  The only option is to press "ok" and the application quits.  I even tried deleting eclipse and java and reinstalling but I got the same results.  I am using Windows 10 and got the 64 bit version if that helps.  Does anyone know what this error means?
+
+Thanks, 
+Nathan Bernstein
+
+Go to https://piazza.com/class?cid=idlz1c6a7da58p&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Recommendations on Assignment 0  (8/21/15 5:15 PM)
+
+I went to the TA office hours this morning just so I could have assistance as needed for installing Java and Eclipse. The TAs were very nice and helpful, so thank you for that! Anyway, I know that Professor Aikat said that we would do assignment 0 together in class on Tuesday, but in reading some people's posts here, it sounds like some people are going ahead and doing the assignment. Just wondering if there were any thoughts/recommendations on whether I should go ahead and try the assignment or just wait until class?
+
+Also, if we somehow get confused in class while doing assignment 0 and end up not completing it successfully with everyone else, should we just go to office hours/labs next week to finish up? I've never done this before, so I'm just curious about if that would be the best way to go about it if I struggle.
+
+Go to http://piazza.com/class?cid=idm4zmdt74l6cc&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 110 at University of North Carolina at Chapel Hill. Go to http://piazza.com/login to sign in and manage your email preferences or proceed to http://piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: http://piazza.com/link_accounts/f2GxNxqCfOm

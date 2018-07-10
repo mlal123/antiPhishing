@@ -1,0 +1,374 @@
+
+
+   =20
+    Welcome
+    
+        body {
+            margin: 0 auto;
+            padding: 0;
+            font-family: Arial, 'Alef', sans-serif;
+            , sans-serif;
+            font-size: 15px;
+            color: #383838;
+            background: #FBFBFB;
+        }
+        /* Email Client BUG Fixes */
+        .ReadMsgBody, .ExternalClass {
+            width: 100%;
+            background-color: #ffffff;
+        }
+
+            .ExternalClass, .ExternalClass p, .ExternalClass span, .Externa=
+lClass font, .ExternalClass td, .ExternalClass div {
+                line-height: 100%;
+            }
+
+        body {
+            -webkit-text-size-adjust: none;
+            -ms-text-size-adjust: none;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        table {
+            border-spacing: 0;
+            border-collapse: collapse;
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+            margin: 0 auto;
+        }
+
+            table td {
+                border-collapse: collapse;
+            }
+
+        img {
+            border: 0;
+        }
+
+        html {
+            width: 100%;
+            height: 100%;
+        }
+        /* End Email Client BUG Fixes */
+        @media only screen and (max-width: 639px) {
+            body {
+                width: auto !important;
+                min-width of 99% !important;
+            }
+                /* Adjust table widths at smaller screen sizes */
+                body[yahoo] .table {
+                    width: 440px !important;
+                }
+
+                body[yahoo] .inside {
+                    width: 370px !important;
+                }
+
+            .button a {
+                text-decoration: default;
+                color: #FFFFFF !important;
+                pointer-events: auto;
+                cursor: pointer;
+            }
+            /* Center Elements in Tables */
+            body[yahoo] .logo {
+                width: 440px !important;
+            }
+
+            body[yahoo] .megaphone {
+                width: 440px !important;
+            }
+
+            body[yahoo] .image {
+                width: 440px !important;
+                margin-left: auto !important;
+                margin-right: auto !important;
+                text-align: center !important;
+            }
+
+            body[yahoo] .text {
+                width: 440px !important;
+                margin-left: auto !important;
+                margin-right: auto !important;
+                text-align: center !important;
+            }
+
+            body[yahoo] .divider {
+                width: 440px !important;
+            }
+
+            body[yahoo] .button {
+                width: 200px !important;
+            }
+
+            body[yahoo] .footer {
+                width: 440px !important;
+            }
+        }
+
+        @media only screen and (max-width: 349px) {
+            body {
+                width: auto !important;
+                min-width of 99% !important;
+            }
+                /* Adjust table widths at smaller screen sizes */
+                body[yahoo] .table {
+                    width: 320px !important;
+                }
+
+                body[yahoo] .inside {
+                    width: 250px !important;
+                }
+
+            .button a {
+                text-decoration: default;
+                color: #FFFFFF !important;
+                pointer-events: auto;
+                cursor: pointer;
+            }
+            /* Center Elements in Tables */
+            body[yahoo] .logo {
+                width: 320px !important;
+                height: 54px !important;
+                background: #0F9D58 !important;
+            }
+
+            body[yahoo] .megaphone {
+                width: 320px !important;
+            }
+
+            body[yahoo] .image {
+                width: 320px !important;
+                margin-left: auto !important;
+                margin-right: auto !important;
+                text-align: center !important;
+            }
+
+            body[yahoo] .text {
+                width: 320px !important;
+                margin-left: auto !important;
+                margin-right: auto !important;
+                text-align: center !important;
+            }
+
+            body[yahoo] .divider {
+                width: 320px !important;
+            }
+
+            body[yahoo] .button {
+                width: 200px !important;
+            }
+
+            body[yahoo] .footer {
+                width: 320px !important;
+            }
+        }
+        /* End of Media Queries */
+    
+
+
+    
+        
+            
+                
+                    
+                        
+                
+            
+        
+    
+
+    
+        
+            
+                
+                
+                    
+                    Boost your grades with S=
+pitball
+										=09
+                    
+                
+            
+            
+                
+                
+                
+            
+        
+    
+    
+        
+            
+                
+
+                
+                    
+                        
+                    
+                
+                
+            
+            
+                
+            
+        
+    
+    
+        
+            
+                
+            
+            
+                
+                    
+                        
+                            
+                                
+                                
+                                    Let's Spitball
+                                
+                                
+                            
+                        
+                    
+                
+            
+            
+                
+            
+
+        
+    
+    
+        
+            
+                
+                    
+                
+                
+                    Hey Mangza Lal,
+							
+                        I=E2=80=99m Keanu, Head Llama at Spitball.=20
+								On behalf of my team of subservient humans, I welcome you to our se=
+rvice.
+							
+                        
+                    
+                
+            
+        
+    
+    
+        
+            
+                
+                
+                    Our goal at Spitball is =
+to help you step-up your study game by making the time you spend doing it a=
+s easy and productive as possible, for free!=20
+                    
+                    
+                    
+                    4 Tips On How To Use Sp=
+itball like a Pro
+					=09
+						
+						    
+                                Create a private study group for direct=
+ note-sharing with friends
+                                
+                                Organize your coursework by dragging an=
+d dropping into folders that you create
+                                
+                                Upload googledocs and dropbox files to =
+Spitball easily
+                                
+                                Download the free spitball app to your =
+phone=20
+                                
+                            
+                        
+                    
+                    Stressing over a featur=
+e or see something missing?
+						
+                    Message us! We love answ=
+ering questions and responding to suggestions.
+                    
+                    
+                    
+                    You are now a Spitballe=
+r
+						
+                    Thanks for joining us, M=
+angza Lal, as we continue on our epic quest to raise grades everywhere!=20
+                    
+                    
+                    
+                    
+                
+                
+            
+        
+    
+    
+        
+            
+                
+                
+                    Keanu, 
+                    Social Media Editor/Vi=
+ceroy Of Alpaca Resources and
+                        
+                        The Spitball Team
+                    
+                
+                
+
+            
+            
+                
+                
+                
+
+            
+        
+    
+    
+        
+            
+                
+            
+            
+                
+                    
+                        
+                            
+                                
+                                
+                                    Let's Spitball
+                                
+                                
+                            
+                        
+                    
+                
+            
+            
+                
+            
+
+        
+    
+
+
+
+
+
+
+

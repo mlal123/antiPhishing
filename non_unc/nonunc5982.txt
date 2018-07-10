@@ -1,0 +1,69 @@
+Instructor Aaron Zhang posted a new Note. Your instructor selected to notif=
+y everyone in real time of this post, bypassing user email preferences.
+
+hash algorithims
+
+This reading is optional, I just thought some of you may find this interest=
+ing since you've recently learned about cryptographic hash functions.
+
+Keep reading, who knows,=C2=A0maybe something you read will stop you from l=
+ooking dumb when you're working in enterprise and have PR out with some ske=
+tchy code.=C2=A0
+
+From a stackexchange post:
+MD5 for passwords
+Using salted md5 for passwords is a bad idea. Not because of MD5's cryptogr=
+aphic weaknesses, but because it's fast. This means that an attacker can tr=
+y billions of candidate passwords per second on a single GPU.
+What you should use are deliberately slow hash constructions, such as scryp=
+t, bcrypt and PBKDF2. Simple salted SHA-2 is not good enough because, like =
+most general purpose hashes, it's fast. Check out How to securely hash pass=
+words? for details on what you should use.
+
+MD5 for file integrity
+Using MD5 for file integrity may or may not be a practical problem, dependi=
+ng on your exact usage scenario.
+The attacks against MD5 are collision attacks, not pre-image attacks. This =
+means an attacker can produce two files with the same hash, if he has contr=
+ol over both of them. But he can't match the hash of an existing file he di=
+dn't influence.
+I don't know if the attacks applies to your application, but personally I'd=
+ start migrating even if you think it doesn't. It's far too easy to overloo=
+k something. Better safe than sorry.
+The best solution in this context is SHA-2 (SHA-256) for now. Once SHA-3 ge=
+ts standardized it will be a good choice too.
+I remember reading this for the first time and never had I imagined that an=
+ encryption algorithm is not effective because it is fast. Just something t=
+o think about....
+
+Also interestingly enough, Yahoo (up to 2016 could still be today not exact=
+ly sure) still used MD5 to hash its passwords... such a Yahoo move
+
+Here is also an article I highly recommend reading from earlier this year w=
+hen the first sha1 collision was discovered:=C2=A0https://security.googlebl=
+og.com/2017/02/announcing-first-sha1-collision.html
+
+Basically, stop using sha1 and md5, also if you have a yahoo email account =
+you should probably switch to another email service provider.
+
+
+
+Go to https://piazza.com/class?cid=3Dj6yn5nl68d43lp&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @10.=20=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 435 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/j5vi9cpw2jn336 to un-enroll from this class.=

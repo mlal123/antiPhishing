@@ -1,0 +1,145 @@
+Nieman Lab: The Daily Digest
+Monday=2C March 12=2C 2018
+http://www.niemanlab.org/2018/03/this-site-explains-local-issues-to-people=
+-who-feel-guilty-they-dont-know-them-well/
+
+
+** This site explains local issues to people who feel guilty they don=E2=
+=80=99t know them well (http://www.niemanlab.org/2018/03/this-site-explain=
+s-local-issues-to-people-who-feel-guilty-they-dont-know-them-well/)
+------------------------------------------------------------
+=E2=80=9CIf we can cultivate this community of conscientious=2C civically=
+ engaged people=2C we know they=E2=80=99re also looking for ways to take a=
+ction.=E2=80=9D By Shan Wang.
+http://www.niemanlab.org/2018/03/the-%e2%9d%a4%ef%b8%8f-of-the-matter-here=
+-are-too-many-words-about-farhad-manjoos-twitter-habits-and-some-cool-char=
+ts/
+
+
+** The =E2=9D=A4=EF=B8=8F of the matter: Here are too many words about Far=
+had Manjoo=E2=80=99s Twitter habits (and some cool charts) (http://www.nie=
+manlab.org/2018/03/the-%e2%9d%a4%ef%b8%8f-of-the-matter-here-are-too-many-=
+words-about-farhad-manjoos-twitter-habits-and-some-cool-charts/)
+------------------------------------------------------------
+The appeal of Twitter for reporters is well known=2C but it=E2=80=99s wort=
+h spelling out: The benefits we get from it=2C real as they are=2C come at=
+ the cost of constant partial attention=2C all day and all night. By Joshu=
+a Benton.
+http://www.niemanlab.org/2018/03/reuters-new-automation-tool-wants-to-help=
+-reporters-spot-the-hidden-stories-in-their-data-but-wont-take-their-jobs/
+
+
+** Reuters=E2=80=99 new automation tool wants to help reporters spot the h=
+idden stories in their data (but won=E2=80=99t take their jobs) (http://ww=
+w.niemanlab.org/2018/03/reuters-new-automation-tool-wants-to-help-reporter=
+s-spot-the-hidden-stories-in-their-data-but-wont-take-their-jobs/)
+------------------------------------------------------------
+With Lynx Insights=2C Reuters wants to marry the data-crunching skills of=
+ machines with the editorial judgment of human reporters. By Ricardo Bilto=
+n.
+The New York Times will experiment with giving subscribers early access to=
+ its first documentary podcast series (http://www.niemanlab.org/2018/03/th=
+e-new-york-times-will-experiment-with-giving-subscribers-early-access-to-i=
+ts-first-documentary-podcast-series/)
+What We=E2=80=99re Reading
+The New York Times / Zeynep Tufekci
+YouTube=2C the great radicalizer =E2=86=92 (https://www.nytimes.com/2018/0=
+3/10/opinion/sunday/youtube-politics-radical.html)
+=E2=80=9CVideos about vegetarianism led to videos about veganism. Videos a=
+bout jogging led to videos about running ultramarathons. It seems as if yo=
+u are never =E2=80=98hard core=E2=80=99 enough for YouTube=E2=80=99s recom=
+mendation algorithm. It promotes=2C recommends and disseminates videos in=
+ a manner that appears to constantly up the stakes. Given its billion or s=
+o users=2C YouTube may be one of the most powerful radicalizing instrument=
+s of the 21st century.=E2=80=9D
+Poynter / Salem Soloman
+When wire services make mistakes=2C misinformation spreads quickly =E2=86=
+=92 (https://www.poynter.org/news/when-wire-services-make-mistakes-misinfo=
+rmation-spreads-quickly)
+When newswires make mistakes=2C the errors =E2=80=9Cmultiply across dozens=
+ or even hundreds of websites=2C seep into other reporting that=E2=80=99s=
+ built on wire stories and leave audiences with false impressions.=E2=80=
+=9D
+Medium / Bertrand Pecquerie
+After 10 years=2C could independent publisher Mediapart be a model for the=
+ whole news industry? =E2=86=92 (https://medium.com/global-editors-network=
+/after-10-years-could-french-independent-publisher-mediapart-be-a-model-fo=
+r-the-whole-news-e88bd04f31e1)
+The site=2C exclusively funded by its 140=2C000 subscribers=2C pulls in ar=
+ound $17 million a year.
+TechCrunch / Ingrid Lunden
+Apple acquires digital newsstand Texture as it doubles down on content =E2=
+=80=98from trusted sources=E2=80=99 =E2=86=92 (https://beta.techcrunch.com=
+/2018/03/12/apple-acquires-digital-newsstand-texture-as-it-doubles-down-on=
+-content-from-trusted-sources/)
+=E2=80=9COne area where we could see the product end up is Apple News=2C w=
+here Apple already provides access to a variety of third-party content. Mo=
+re generally=2C the company has been focusing on a larger premium content=
+ play across other mediums=2C putting a lot of investment into music=2C vi=
+deo and podcasts. Texture fills out the scope of that vision with reading=
+ material.=E2=80=9D
+The New York Times / Sydney Ember
+Meredith=E2=80=99s =E2=80=98Midwestern practicality=E2=80=99 fueled its gr=
+owth=2C and helped it acquire Time Inc. =E2=86=92 (https://www.nytimes.com=
+/2018/03/11/business/media/heartland-company-leads-media-race.html)
+=E2=80=9CYou have to realize that the vast majority of all media companies=
+=E2=80=99 consumers have a life beyond the Hudson River=2C=E2=80=9D said M=
+eredith executive chairman Steve Lacy. =E2=80=9CThe consumer we sell our p=
+roduct to has a very different life than what goes on on Manhattan Island.=
+=E2=80=9D
+Digiday / Max Willens
+Why subscription sports sites have scored early wins =E2=86=92 (https://di=
+giday.com/media/subscription-sports-sites-scored-early-wins/)
+=E2=80=9CAs publishers cast about for reader revenue in a tough digital ad=
+ market=2C many are finding that local sports coverage=2C which attracts e=
+specially passionate=2C engaged readers=2C is a good game to be in. For th=
+at reason=2C sports has emerged as a critical test case for the propositio=
+n the future of digital news lies in reader revenue rather than advertisin=
+g.=E2=80=9D
+Medium / MediaMonks
+How journalists are using Spotify to circumvent press censorship =E2=86=92=
+ (https://medium.com/mediamonks/how-journalists-are-using-spotify-to-circu=
+mvent-press-censorship-f2dfbc1eba8f)
+=E2=80=98The Uncensored Playlist=E2=80=99 has already helped ten stories b=
+ypass countries=E2=80=99 censorship laws.
+Variety / Todd Spangler
+Snapchat and Cond=C3=A9 Nast Entertainment are working on a millennial-foc=
+used true crime series =E2=86=92 (http://variety.com/2018/digital/news/sna=
+pchat-true-crime-uncovered-conde-nast-1202723654/)
+=E2=80=9CThe six-episode crime series=2C =E2=80=9CTrue Crime/Uncovered=2C=
+=E2=80=9D was produced exclusively for Snapchat by Cond=C3=A9 Nast Enterta=
+inment. The show explores six different mysterious and horrific crimes=2C=
+ with Snap betting the chilling real-life tales will be a hit across its y=
+outh-skewing user base.=E2=80=9D
+Digiday / Lucia Moses
+After Facebook news-feed changes=2C publishers look hopefully to Pinterest=
+ =E2=86=92 (https://digiday.com/media/facebook-news-feed-changes-publisher=
+s-look-hopefully-pinterest/)
+=E2=80=9CClaiming more than 200 million active monthly users=2C 8-year-old=
+ Pinterest falls somewhere between Flipboard and Twitter in the size of it=
+s user base. Its utility for people =E2=80=94 often women =E2=80=94 lookin=
+g for home decor=2C fashion and menu ideas and the like makes it well suit=
+ed to lifestyle publishers looking to get their content in front of new au=
+diences (and advertisers looking to reach those audience=2C which is how P=
+interest makes its money).=E2=80=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3D6c1143150b)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3D6c1143150b)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

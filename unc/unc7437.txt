@@ -1,0 +1,91 @@
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-priority:99;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+
+
+Thank you Mangza,
+
+ 
+On behalf of Morrison Staff, you will be truly missed.
+
+ 
+Although know that you are always welcomed at Morrison
+J
+
+ 
+Thank you for everything and I know you will finish the Fall 2017 semester strong.
+
+ 
+
+
+From: Lal, Mangza
+
+Sent: Tuesday, November 21, 2017 1:04 PM
+To: Idahor, Uyi <uidahor@unc.edu>
+Subject: Spring Semester 2018 Resignation
+
+
+ 
+
+Hey Uyi here's my resignation letter,
+ 
+Hello my name is Mangza Lal, currently a Resident Adviser at Morrison Residence Hall. Unfortunately I will have to resign my position as a Resident Adviser because I have been accepted to the Burch
+ Silicon Valley program. This means that in the Spring of 2018, I will have the opportunity to work at a start-up in Silicon Valley while I finish my Entrepreneurship minor for the semester. This is an opportunity that I do not want to pass up. I am resigning as
+ a Resident Adviser at the end of this semester, Fall 2017.
+
+
+
+

@@ -1,0 +1,142 @@
+
+
+        
+        Udemy
+        
+            img {
+                max-width: 100%;
+            }
+            p{
+                margin-top: 0;
+                margin-bottom: 10px;
+                font-size: 16px;
+            }
+            p a{
+                text-decoration: none;
+            }
+            ul{
+                margin: 0 0 10px 0;
+                padding-left: 10px;;
+            }
+            @media (max-width: 480px) {
+                #logo {
+                    margin: 0 auto;
+                    padding-left: 0 !important;
+                }
+            }
+           =20
+           =20
+        
+    
+    
+        
+            
+                
+                   =20
+                        
+                           =20
+    
+        
+           =20
+                New Educational Announcement
+           =20
+        
+    
+
+                        
+                   =20
+                   =20
+                       =20
+                        
+                            
+                                
+                               =20
+    
+        
+            
+                
+            
+            
+               =20
+                                   =20
+                                Hi Mangza, an announcement has been made from SuperDataScie=
+nce, instructor of Machine Learning A-Z=E2=84=A2: Hands-On Python=
+ & R In Data Science.
+                                   =20
+                               =20
+            
+        
+    
+
+    
+         Hey Data Scientist,
+
+We=E2=80=99ve got another blog post for you, and this time we=E2=80=99re=
+ putting Data Science events under the microscope. 
+
+Before you groan and think =E2=80=9Ctoo much effort=E2=80=9D, we=E2=80=
+=99d like to lay out the whole story. Sure, all things considered, they are=
+ a lot of effort. 
+
+But struggling through your career the hard way is even more effort. And=
+ that=E2=80=99s suddenly where things like conferences can be super-handy =
+=E2=80=9Cshortcuts=E2=80=9D. 
+
+Why DS Events Are Worth It=
+Communities (like t=
+he SuperDataScience one!) are critical cogs in your education and growth as=
+ a Data Scientist. And the best place to find new communities? You guessed =
+it.
+
+But that=E2=80=99s just one reason why it=E2=80=99s worth getting to the=
+se events. Want the full story on them? Read the blog post and start thinki=
+ng which events worth the trouble to get to in the next few months.
+
+Happy reading!
+
+- The SuperDataScience Team
+    
+
+                               =20
+                                   =20
+                                        
+                                           See Announcement
+                                        
+                                   =20
+                               =20
+                            
+                        
+                   =20
+                   =20
+                       =20
+                   =20
+                
+                
+                    
+                       =20
+                            Delivered by Udemy 600 Harrison Street, 3rd Flo=
+or, San Francisco, CA 94107.
+                       =20
+                       =20
+                           =20
+                               =20
+                                    You may unsubscribe if y=
+ou prefer not to receive messages like these.
+                               =20
+                           =20
+                       =20
+                       =20
+                           =20
+                               =20
+                                    If something isn't right, please report abuse.
+                               =20
+                           =20
+                       =20
+                    
+                
+            
+        
+   =20
+
+
+

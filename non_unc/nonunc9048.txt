@@ -1,0 +1,1440 @@
+
+
+Udemy
+
+@import url('https://fonts.googleapis.com/css?family=3DSource+Sans+Pro:300,=
+400,600');
+@import url('https://fonts.googleapis.com/css?family=3DZilla+Slab:300,400,6=
+00');
+/* CLIENT-SPECIFIC STYLES */
+body, table, td, a, p {-webkit-text-size-adjust: 100%; -ms-text-size-adjust=
+: 100%; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;}
+table, td {mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: c=
+ollapse;}
+img { -ms-interpolation-mode: bicubic; }
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+.appleFooter a {
+color:#ffffff !important;
+text-decoration: none!important;
+}
+
+/* MOBILE STYLES */
+@media only screen and (max-width: 480px){
+#container{
+width:100% !important;
+}
+#banner_text {
+text-align: center !important;
+padding-bottom: 10px;
+}
+.deviceWidth{
+display:block !important;
+width:100% !important;
+}
+.hidden{
+display: none;
+}
+.courseCardTop{
+width:30% !important;
+float: left;
+min-width: 30% !important;
+}
+.courseCardBottom{
+width:70% !important;
+float: left;
+min-width: 70% !important;=20
+border-bottom: 0px !important;
+}
+.mobileColor{
+background-color: #ffffff !important;
+}
+.mobileCourseLine{
+border-bottom: 2px #edece6 solid;
+}
+.titleHeight{
+height: auto;
+}
+.titlePadding{
+padding-top: 0px !important;
+padding-bottom: 10px !important;
+font-size: 16px !important;
+}
+.starPricePadding{
+padding-top: 0px !important;
+padding-bottom: 5px !important;
+font-size: 80% !important;
+}
+.courseImage{
+width: 100%;
+height: auto !important;
+}
+.moduleTitlePadding{
+padding: 20px 5px 5px 5px !important;
+}
+.mobileCoursePadding{
+padding: 15px 5px 0px 5px !important;
+width: 100% !important;
+}
+.targetedSpacer{
+width: 5%;
+}
+.headerImage{
+height: 30px !important;
+padding: 5px 0px !important;
+}
+.navBarTextTest{
+padding: 5px 10px 5px 0px !important;
+}
+.navBarImageTest{
+height: 30px !important;
+padding: 5px 0px 5px 10px !important;
+}
+.heroHeadline {font-size: 28px !important; line-height: 32px !important;} .=
+topSpacer {padding-top: 35px !important;} .bottomSpacer {padding: 25px 0px =
+35px 0px !important;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+Check out these popula=
+r courses and get them for just $10.99.
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get a jump on your career with these trending c=
+ourses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shop $10.99 courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Check out cou=
+rses you viewed:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Blockchain A-Z=E2=84=A2: Learn H=
+ow To Build Your First Blockchain
+
+
+
+             4.56&nb=
+sp;(74)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Learn Cloud Computing from Scrat=
+ch
+
+
+
+             4.11 =
+;(19)
+
+
+
+
+
+$29.99=
+  $=
+10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+=20
+=20
+
+=20
+=20
+
+
+
+
+
+
+ 
+Students who enrolled in Artificial Intelligence A-Z=E2=84=
+=A2: Learn How To Build An AI also enrolled in:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Deep Learning A-Z=E2=84=A2: Hand=
+s-On Artificial Neural Networks
+
+
+
+             4.45&nb=
+sp;(2,930)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Deep Learning and Computer Visio=
+n A-Z=E2=84=A2: OpenCV, SSD & GANs
+
+
+
+             4.47&nb=
+sp;(537)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+=20
+=20
+
+
+
+=20
+
+
+=20
+=20
+
+
+
+
+
+
+ 
+Discover what students who viewed Blockchain A-Z=E2=84=A2: Lea=
+rn How To Build Your First Blockchain also viewed:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Forex Robots: Optimizing Expert =
+Advisors in MetaTrader 4
+
+
+
+             4.14 =
+;(4)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Learn Python AI for Image Recogn=
+ition & Fraud Detection
+
+
+
+             4.50&nb=
+sp;(2)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Machine Learning Optimization Us=
+ing Genetic Algorithm
+
+
+
+             5.00 =
+;(3)
+
+
+
+
+
+$149.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+See trending Data and Analytics=
+ courses:
+
+ 
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Business Analyst: Identify and D=
+efine the Problem
+
+
+
+             4.75 =
+;(26)
+
+
+
+
+
+$164.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Master SQL For Data Science
+
+
+
+             4.79 =
+;(5)
+
+
+
+
+
+$129.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Intro to Data Analysis using EXC=
+EL for Beginners
+
+
+
+             4.66&nb=
+sp;(82)
+
+
+
+
+
+$194.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Statistics for Data Science and =
+Business Analysis
+
+
+
+             4.42&nb=
+sp;(743)
+
+
+
+
+
+$149.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Unsupervised Machine Learning Hi=
+dden Markov Models in Python
+
+
+
+             4.59&nb=
+sp;(170)
+
+
+
+
+
+$119.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+
+
+Ensemble Machine Learning in Pyt=
+hon: Random Forest, AdaBoost
+
+
+
+             4.59&nb=
+sp;(82)
+
+
+
+
+
+$119.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Statistics for Data Analysis Usi=
+ng Excel 2016
+
+
+
+             4.43&nb=
+sp;(77)
+
+
+
+
+
+$144.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=
+=20
+
+
+
+
+
+
+Power BI A-Z: Hands-On Power BI =
+Training For Data Science!
+
+
+
+             4.50&nb=
+sp;(375)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+See trending Business courses:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=
+=20
+
+
+
+
+
+
+Cryptocurrency Mastery: The Comp=
+lete Crypto Trading Course
+
+
+
+             4.63&nb=
+sp;(42)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Amazon FBA Course Selling 2018 -=
+ Private Label Business A-Z
+
+
+
+             4.71&nb=
+sp;(311)
+
+
+
+
+
+$49.99=
+  $=
+10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=
+=20
+
+
+
+
+
+
+Udemy Course Creation for Passiv=
+e Income 2018 (Unofficial)
+
+
+
+             4.90 =
+;(39)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+List Building for Affiliate Mark=
+eting Using FaceBook
+
+
+
+             4.44&nb=
+sp;(11)
+
+
+
+
+
+$149.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+The Growth System: Grow a busine=
+ss that can run without you
+
+
+
+             4.71&nb=
+sp;(11)
+
+
+
+
+
+$29.99=
+  $=
+10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+The Real Estate Financial Modeli=
+ng Bootcamp
+
+
+
+             4.85 =
+;(16)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    =20
+
+
+    UNSU=
+BSCRIBE  |  SUPPORT  |  VIEW ONLINE
+
+
+
+Ude=
+my.com 600 Harrison Street, 3rd Floor San Francisco, CA 94107 USA
+
+
+
+    Careers at Udemy | Get Udemy at Work | Become an Instructor
+
+
+
+
+Download our apps for Offline Coursetaking
+
+
+
+        
+     =
+  =20
+    
+        
+           =20
+  =
+          =20
+    
+                    
+                        
+                    =20
+                    
+                      =20
+                    
+                    
+                        
+                    
+                
+            
+           =20
+        
+    
+             =20
+
+    
+
+    
+        
+        
+            
+                =20
+                     
+                
+            
+        
+            
+               
+    
+
+    
+    *Some exclusions apply. Coupon cod=
+e expires 2018-=
+04-03 07:00 AM GMT.
+
+
+    
+        
+            Connect with us
+        
+    
+    
+        
+     =
+  =20
+    
+        
+           =20
+  =
+          =20
+    
+                    
+                        
+                    =20
+                    
+                      =20
+                    
+                    
+                        
+                    
+                
+            
+           =20
+        
+    
+             =20
+
+    
+   =20
+    =20
+   =20
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+

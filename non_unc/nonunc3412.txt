@@ -1,0 +1,131 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+What does this test case mean?  (11/08/16 5:03 PM)
+
+In the test case description, there're lines like this - what do they mean?
+ind(6) < ind(1)
+ind(3) < ind(2)
+ind(4) < ind(0) < ind(5)
+
+Go to https://piazza.com/class?cid=3Diva1metfvvpg8&nid=3Dis6wk5m47ay4zy&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+How does queue ensure linear time?  (11/08/16 5:47 PM)
+
+So the more efficient way of topo sorting is to:
+create an array that records the in-degree value of each vertex;
+then put the vertexes with in-degree 0 in the queue
+then delete the vertex from the Graph and update the in-degree value for ea=
+ch remaining vertex.
+repeat until there's no more remaining node with in-degree value of 0.
+
+So basically, after every time we enqueue and delete a vertex from the Grap=
+h, we need to=C2=A0traverse the array of in-degree values again to find the=
+ vertex with in-degree value of 0. For each of such traversal, the complexi=
+ty is V; and there are V elements to be removed. So isn't that quadratic co=
+mplexity as well?
+
+
+Go to https://piazza.com/class?cid=3Diva37idbm105dg&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Case 4 vs Case 5 Topo Sort  (11/08/16 6:06 PM)
+
+So my code passes for Case 4 and according to the playground it prints null=
+ null null null but my Case 5 also prints null null null null yet it does n=
+ot pass where the result of both cases should be null and I can't figure ou=
+t why this is the case. Does this have to do with the number of nulls i pri=
+nt?=C2=A0
+
+Go to https://piazza.com/class?cid=3Diva3w8ry11v6el&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Case 6 explanation  (11/08/16 7:54 PM)
+
+Would someone mind explaining to me why exactly case 6 is null because the =
+first group including 1 , 3 , 5 has a sort of 1 , 3 , 5 and so does the 2nd=
+ because 6 does not have an edge pointing towards it.=C2=A0
+Thanks
+
+Case 6(Implicit Circle, Two components):
+addNode(0, 1)
+addNode(1, 2)
+addNode(2, 3)
+addNode(3, 4)
+addNode(4, 5)
+addNode(5, 6)
+addNode(6, 7)
+addNode(7, 8)
+addEdge(0, 1, 3, 0, null)
+addEdge(1, 3, 5, 0, null)
+addEdge(2, 1, 5, 0, null)
+addEdge(3, 6, 8, 0, null)
+addEdge(4, 6, 2, 0, null)
+addEdge(5, 8, 7, 0, null)
+addEdge(6, 7, 4, 0, null)
+addEdge(7, 2, 4, 0, null)
+addEdge(8, 4, 8, 0, null)
+toposort() =3D=3D null
+
+Go to https://piazza.com/class?cid=3Diva7qscyctq3hn&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Node class  (11/08/16 8:01 PM)
+
+Do we need to make a node class. =C2=A0Where are the IDnum and labels being=
+ stored.
+
+Go to https://piazza.com/class?cid=3Diva8035paz2h4&nid=3Dis6wk5m47ay4zy&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+DelNode  (11/08/16 8:50 PM)
+
+Is delNode supposed to take in just the node's name or the string=C2=A0and =
+a long? The test dump seems to indicate we need both. Am I missing somethin=
+g? Here is the test where it shows up:
+Case 1: (Deletes)
+addNode(1, f)
+addNode(3, s)
+addNode(7, t)
+addNode(0, fo)
+delNode(4, fi)
+delNode(6, si)
+addEdge(0, f, s, 0, null)
+addEdge(2, s, t, 0, null)
+delEdge(f,s)
+numEdges()=3D=3D1
+
+Go to https://piazza.com/class?cid=3Diva9rasmhud5lz&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

@@ -1,0 +1,21 @@
+Your classmate posted a new Question. 
+
+Possible Flag error in ppt
+
+
+So This is in slide set 10. As it is set up now, LT and GE would seem to be inverses, as would LE and GT. This is not right is it? should the GE and GT flags be swapped??? I would think LT and GT would be inverses of each other, same for LE and GE. Thanks.
+
+Go to https://piazza.com/class?cid=iwgkmg9suuk2on&nid=irqp4hpe58u5rs&token=f2GxNxqCfOm to view. Search or link to this question with @528. Follow it to get notified when a response comes in: https://piazza.com/follow/iwgkmg9suuk2on/f2GxNxqCfOm/7b2efeb2 
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 411 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.

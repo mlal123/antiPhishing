@@ -1,0 +1,8 @@
+
+An announcement has been added in the "COMP550.002.FA17" site at (https://sakai.unc.edu/portal/site/2ba5ac9f-8aa8-4c5a-833d-c1ce15564080) at Aug 29, 2017 8:10 pm
+
+It is still the case that the video named "3. Asymptotic Analysis of ..." has two breaks, but if at each break, when the ppt show hangs, you move on to the next slide at each break, you will miss nothing.  I will get to editing the other two slide shows tomorrow. You can indeed look at them in their present state, skipping to the next slide each time a break occurs.
+
+---------------------- 
+ This automatic notification message was sent by Sakai @ UNC-Chapel Hill (https://sakai.unc.edu/portal).
+ You can modify how you receive notifications at Home > Preferences.

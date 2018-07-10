@@ -1,0 +1,127 @@
+Nieman Lab: The Daily Digest
+Monday=2C February 12=2C 2018
+http://www.niemanlab.org/2018/02/here-are-the-digital-media-features-to-wa=
+tch-during-the-2018-pyeongchang-olympics/
+
+
+** Here are the digital media features to watch during the 2018 Pyeongchan=
+g Olympics (http://www.niemanlab.org/2018/02/here-are-the-digital-media-fe=
+atures-to-watch-during-the-2018-pyeongchang-olympics/)
+------------------------------------------------------------
+VR=2C AR=2C a podcast=2C messaging apps=2C Snapchat shows=2C voice devices=
+=2C Uber rides=2C and more. By Christine Schmidt.
+http://www.niemanlab.org/2018/02/not-all-news-site-visitors-are-created-eq=
+ual-schibsted-is-trying-to-predict-the-ones-who-will-pay-up/
+
+
+** Not all news site visitors are created equal. Schibsted is trying to pr=
+edict the ones who will pay up (http://www.niemanlab.org/2018/02/not-all-n=
+ews-site-visitors-are-created-equal-schibsted-is-trying-to-predict-the-one=
+s-who-will-pay-up/)
+------------------------------------------------------------
+Across the sites where it=E2=80=99s currently in use=2C the company=E2=80=
+=99s purchase prediction model has been able to identify groups of readers=
+ three to five times more likely than average to buy a subscription=2C and=
+ advertise offers to them differently. By Liam Corcoran.
+Snap brings its heat map feature out of the app. Will any news publishers=
+ want to use it? (http://www.niemanlab.org/2018/02/snap-brings-its-not-par=
+ticularly-well-used-heat-map-feature-out-of-the-app-will-any-news-publishe=
+rs-want-to-use-it/)
+What We=E2=80=99re Reading
+BuzzFeed / Charlie Warzel
+He saw the 2016 fake news crisis coming. Now he=E2=80=99s worried about an=
+ information apocalypse =E2=86=92 (https://www.buzzfeed.com/charliewarzel/=
+the-terrifying-future-of-fake-news)
+=E2=80=9C=E2=80=98We were utterly screwed a year and a half ago and we=E2=
+=80=99re even more screwed now. And depending how far you look into the fu=
+ture it just gets worse=2C=E2=80=99 technology Aviv Ovadya said. That futu=
+re=2C according to Ovadya=2C will arrive with a slew of slick=2C easy-to-u=
+se=2C and eventually seamless technological tools for manipulating percept=
+ion and falsifying reality.=E2=80=9D
+Digiday / Jessica Davies
+European publishers look to digital subscriptions to reduce platform depen=
+dency =E2=86=92 (https://digiday.com/media/european-publishers-look-digita=
+l-subscriptions-reduce-platform-dependency/)
+=E2=80=9CPublishers are feeling more buoyant about the future of subscript=
+ion models=2C with 70 percent of respondents saying they have evidence tha=
+t readers=E2=80=99 willingness to pay for content has increased in the pas=
+t year=2C according to a report (http://www.axelspringer.de/en/presse/Fift=
+h-quot-International-Paid-Content-Summit-quot-at-Axel-Springer-in-Berlin-S=
+urvey-shows-Cooperation-with-platforms-unsatisfactory_31759605.html?wt_mc=
+=3Drss.feedreader) from German media giant Axel Springer. (A flurry of pub=
+lishers in Germany=2C France=2C Spain and Scandinavia=2C including Spiegel=
+ Online and Die Zeit=2C have recently launched new paid content models.)=
+=E2=80=9D
+Poynter / David Beard
+What can the new Los Angeles Times owner can learn from Jeff Bezos? =E2=86=
+=92 (https://www.poynter.org/news/what-billionaire-can-do-paper-hint-its-n=
+ot-always-good)
+=E2=80=9CEven on the technology side=2C where Bezos obviously has more exp=
+erience=2C he left in place Shailesh Prakash=2C the chief technologist he=
+ inherited=2C recognizing him as one of the best in the business. It would=
+ have been a disaster if Bezos had ordered Baron to cover this story or no=
+t cover that story. But it=E2=80=99s good for everyone when Bezos pushes f=
+or such things as faster load times=2C more usable apps=2C advancements in=
+ the content management system=2C and the like.=E2=80=9D
+Digiday / Max Willens
+Facebook=E2=80=99s new branded-content guidelines will force some publishe=
+rs to abandon a business model =E2=86=92 (https://digiday.com/media/facebo=
+oks-new-branded-content-guidelines-will-force-publishers-abandon-business-=
+model/)
+=E2=80=9CLast month=2C Diply=2C a publisher that gets 85 percent of its de=
+sktop traffic from Facebook=2C according to SimilarWeb=2C informed the own=
+ers of many of the Facebook pages that Diply pays to distribute its conten=
+t=2C saying it would soon stop sending them content to share=2C according=
+ to multiple publishers that work with the same influencers Diply works wi=
+th.=E2=80=9D
+Street Fight / Tom Grubisich
+Dr. Soon-Shiong and his new =E2=80=9Cpatient=2C=E2=80=9D the L.A. Times: W=
+ill his Rx be =E2=80=9Clocal=E2=80=9D? =E2=86=92 (http://streetfightmag.co=
+m/2018/02/12/dr-soon-shiong-and-his-new-patient-the-la-times-will-his-rx-b=
+e-local/)
+=E2=80=9CNo Times publisher was able to figure out how to cover the L.A. r=
+egion=2C whose 4=2C850 square miles include 470 neighborhoods that today a=
+re home to 14 million people. Even the legendary third-generation scion Ot=
+is Chandler=2C who elevated the paper from mediocrity to greatness during=
+ his furious 20-year reign from 1960 to 1980=2C was frustrated in his bold=
+ and expensive attempts to win Southland=E2=80=99s readers and markets.=E2=
+=80=9D
+BBC News
+What it=E2=80=99s like to work as a Facebook moderator =E2=86=92 (http://w=
+ww.bbc.com/news/technology-42920554)
+=E2=80=9CThey capped us on spending about one minute per post to decide wh=
+ether it was spam and whether to remove the content. Management liked us n=
+ot to work any more than eight hours per day=2C and we would review an ave=
+rage of about 8=2C000 posts per day=2C so roughly about 1=2C000 posts per=
+ hour.=E2=80=9D
+Medium / Cory Haik
+The Algo-pocalypse: Journalism in the digital dystopia =E2=86=92 (http://m=
+edium.com/global-editors-network/the-algo-pocalypse-journalism-in-the-digi=
+tal-dystopia-38c922bd7f05)
+=E2=80=9CThe massively misunderstood =E2=80=9Cpivot to video=2C=E2=80=9D o=
+r as some see it=2C the gold rush to creating space junk instead of legiti=
+mate storytelling=2C has been a little controversial=2C to say the least=
+=E2=80=A6No matter your position=2C it=E2=80=99s fair to say that in these=
+ go-go-go platform moments=2C we=E2=80=99ve lost any sense of relative sca=
+le.=E2=80=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3Dc13d03fce5)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3Dc13d03fce5)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

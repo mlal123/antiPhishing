@@ -1,0 +1,312 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+Kimberly's office hours today  (2/02/16 8:56 AM)
+
+I have to move my office hours from 2-4pm today to 2-4pm tomorrow. Sorry ab=
+out that. I'll still be around 4-6pm on both days.
+
+Go to https://piazza.com/class?cid=3Dik5gyhi2eu75ik&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2Novice Output Did not Match Expectations?  (2/02/16 9:31 AM)
+
+I'm having trouble figuring out what is wrong with my output:
+
+Output:
+DD   DD  MM    MM    XXXX
+DD   DD  MM<   MM   XX:::
+DD   DD  MM<<  MM  XX=20=20=20=20
+DD   DD  MM << MM  XX=20=20=20=20
+<<   >>  MM  <>>  MM      MM    MM    XXXX
+Min val =3D 5
+Max val =3D 99
+Average value =3D 61.02285714285714
+
+Output did not match expectations.
+Expected output:
+DD   DD  MM    MM    XXXX
+DD   DD  MM<   MM   XX:::
+DD   DD  MM<<  MM  XX=20=20=20=20
+DD   DD  MM << MM  XX=20=20=20=20
+<<   >>  MM  <>>  MM      MM    MM    XXXX
+Min value =3D 5
+Max value =3D 99
+Average value =3D 61.02285714285714
+
+
+Output:
+X
+Min val =3D 25
+Max val =3D 25
+Average value =3D 25.0
+
+Output did not match expectations.
+Expected output:
+X
+Min value =3D 25
+Max value =3D 25
+Average value =3D 25.0
+Has anyone experienced this?
+
+Go to https://piazza.com/class?cid=3Dik5i7hb3ghf4zm&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Autograder gives empty output  (2/02/16 10:05 AM)
+
+Does anyone get the output from autograder? I can not get any output from a=
+utograder. And the output part is just empty. I am sure I could get the exp=
+ected results on my console.=C2=A0
+
+Go to https://piazza.com/class?cid=3Dik5jf0u11dd4sk&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Eclipse keeps closing when I open A1  (2/02/16 10:07 AM)
+
+When I go into eclipse and start working on assignment2, and click on my ol=
+d a1 package to pull code (such as the code for scanner), it force closes. =
+The only issue seems to be old warnings for the code I wrote for A1, not su=
+re why that would cause eclipse to close though. Any help would be apprecia=
+ted.
+
+Go to https://piazza.com/class?cid=3Dik5jgnx04sn7at&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 Adept Test 1 Grader Error?  (2/02/16 10:16 AM)
+
+I cannot spot any difference whatsoever between the correct output and my c=
+ode's output. Help?
+A2Adept Test 1
+
+Running a2adept.A2Adept
+Input:=20
+10
+3 3
+0 1 8 22 28 39 79 99 34
+
+
+Output:
+0:*********************************
+10:
+20:**********************
+30:**********************
+40:
+50:
+60:
+70:***********
+80:
+90:***********
+
+
+Output did not match expectations.
+Expected output:
+0:*********************************
+10:
+20:**********************
+30:**********************
+40:
+50:
+60:
+70:***********
+80:
+90:***********
+
+A2Adept Test 1 fails. 0 points
+
+Go to https://piazza.com/class?cid=3Dik5jt8gyewp45i&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Michael's Office Hours  (2/02/16 10:19 AM)
+
+Hi all,
+
+I also need to move my office hours today. Instead of being available from =
+11 to 1, I will be available from 12:30 to 2:30.
+
+Sorry about the late notice,
+Michael
+
+Go to https://piazza.com/class?cid=3Dik5jw50n4si1ik&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Output matches expected output but no credit received  (2/02/16 10:22 AM)
+
+When I check the grading script, my output looks exactly the same as the ex=
+pected output but I am not getting credit for it. =C2=A0It does this for al=
+l of A2 Novice. =C2=A0Here is an example:
+
+Go to https://piazza.com/class?cid=3Dik5k0qq77677dj&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 Adept grader  (2/02/16 10:48 AM)
+
+Output:
+ 0:*********
+ 9:*********
+18:*********
+27:*********
+36:*********
+45:*********
+54:*********
+63:*********
+72:*********
+81:*********
+90:*********
+99:
+
+Output did not match expectations.
+Expected output:
+ 0:*********
+ 9:*********
+18:*********
+27:*********
+36:*********
+45:*********
+54:*********
+63:*********
+72:*********
+81:*********
+90:*********
+99:
+
+
+
+Go to https://piazza.com/class?cid=3Dik5kxmsx2lg5kr&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A3 Novice  (2/02/16 12:00 PM)
+
+Is there supposed to be any code in the main method class for this assignme=
+nt because I have created the pixel interface along with the 2 classes that=
+ implement the interface? If so, what is the goal for the code within the m=
+ain method for example take in RGB values and output a character?
+
+Go to https://piazza.com/class?cid=3Dik5nixl8ko68z&nid=3Dihs2fbbhsfx37n&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+No output  (2/02/16 12:07 PM)
+
+The Auto-grader gives me No output, All classes and packages names are corr=
+ect.
+
+Go to https://piazza.com/class?cid=3Dik5nrst436z1gy&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 Novice Auto Grader Help  (2/02/16 12:21 PM)
+
+
+Can anyone give me a hint as to why this is wrong?
+
+Go to https://piazza.com/class?cid=3Dik5oa02k6mbac&nid=3Dihs2fbbhsfx37n&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Re-submitting?  (2/02/16 12:28 PM)
+
+can we resubmit assignments? i found a small error in my code and i would l=
+ike to re-submit it...
+
+Go to https://piazza.com/class?cid=3Dik5oic3qtyf532&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 Adept  (2/02/16 12:30 PM)
+
+I don't even see the difference between expected and actual outputA2Adept T=
+est 1
+
+Running a2adept.A2Adept
+Input:=20
+10
+3 3
+0 1 8 22 28 39 79 99 34
+
+
+Output:
+0:*********************************
+10:
+20:**********************
+30:**********************
+40:
+50:
+60:
+70:***********
+80:
+90:***********
+
+
+Output did not match expectations.
+Expected output:
+0:*********************************
+10:
+20:**********************
+30:**********************
+40:
+50:
+60:
+70:***********
+80:
+90:***********
+
+A2Adept Test 1 fails. 0 points
+
+
+Go to https://piazza.com/class?cid=3Dik5okljno8s6qx&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Autograder error  (2/02/16 12:44 PM)
+
+For A2 adept test 1, there is no space before single digit numbers in the b=
+in labels. There is, however, for 2,3,and 4. This makes it extremely hard w=
+rite your program in any one format and have your program pass all of the t=
+ests.
+
+Go to https://piazza.com/class?cid=3Dik5p2rwmbnv11k&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Stuck on A2Novice  (2/02/16 12:49 PM)
+
+I've been stuck on A2Novice for a few days now and am still confused about =
+what is going on. =C2=A0Is the output supposed to provide a symbol for ever=
+y single number in the input? =C2=A0
+
+Go to https://piazza.com/class?cid=3Dik5p98dko6s5l9&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

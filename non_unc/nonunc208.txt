@@ -1,0 +1,72 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+can't enroll in lab  (8/26/15 9:15 AM)
+
+the lab session still closed. How can I enroll in it?
+
+Go to https://piazza.com/class?cid=3Didst0maazgc2o4&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Opening Assignment0 through zip file  (8/26/15 10:38 AM)
+
+So I created the assignment0 zip file like it was detailed on the website, =
+but when I go in to my computer's documents and try to open the file, nothi=
+ng happens. Is this normal?=C2=A0
+
+Go to https://piazza.com/class?cid=3Didsvzyqbe3322r&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Opening Program0 error  (8/26/15 10:51 AM)
+
+I successfully (I think) ran Hello World, zipped it, and submitted it. I op=
+ened eclipse today and this is the error message I received, "The project d=
+escription file for 'Program0' is missing. This file contains important inf=
+ormation about the project. The project will not function properly until th=
+is file is restored." What does this mean? Also, if I already zipped and su=
+bmitted my project and I want to open my zipped folder saved on my computer=
+ to double check that it is working, will it mess up the document I submitt=
+ed on Sakai?=C2=A0
+
+Go to https://piazza.com/class?cid=3Didswg54a1u1529&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Checking Zip File  (8/26/15 12:36 PM)
+
+I am using a Mac.
+
+I followed the instructions to zip the file, but I wanted to double check i=
+f the code was still working after I zipped it. However, when I double-clic=
+k the zip file, it only creates=C2=A0a new folder that contains the bin and=
+ src. How can I double check the entire project in Eclipse?
+
+Go to https://piazza.com/class?cid=3Didt07htem4o1fz&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to http://piazza.c=
+om/login to sign in and manage your email preferences or proceed to http://=
+piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: http://piazza.com/link_accounts/f2Gx=
+NxqCfOm=

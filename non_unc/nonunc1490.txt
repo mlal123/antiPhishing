@@ -1,0 +1,96 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+How to import junit?  (2/10/16 7:29 PM)
+
+I'm having trouble running the Assignment 3 junit file. When I imported the=
+ file in Assignment 3 src I see a new package called a3test with 3 classes =
+but all of the assertEquals function are red in the file. When I try to run=
+ the classes in a3 normally, it runs the test classes I made with a main me=
+thod instead.
+
+Also, I tried to find the "run as junit" option for each of the class in a3=
+test but the option won't show up. Can I get a little help with this?=C2=A0
+
+Thank you!
+
+Go to https://piazza.com/class?cid=3Dikhj2l871cz3cv&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Lecture 10: Subclassing continued  (2/10/16 7:53 PM)
+
+Subclassing continued with virtual methods, abstract classes and methods, a=
+nd a more complete example.
+
+Slides and code in the normal places.
+
+Go to https://piazza.com/class?cid=3Dikhjxqsx1h23gi&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A3 Adept  (2/10/16 8:05 PM)
+
+Not exactly sure how to approach the countRange method. When I call the get=
+Intensity method what values do i pass in?
+
+Go to https://piazza.com/class?cid=3Dikhkdje1j535ca&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Questions in practice exam  (2/10/16 8:38 PM)
+
+
+
+
+I am having trouble solving questions in practice exam. Can anyone explain =
+e choice in 11, b choice in 6 and d choice in 4 for me pls? Appreciated!!
+
+Go to https://piazza.com/class?cid=3Dikhlk196s9j607&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+SuperClass  (2/10/16 10:22 PM)
+
+I am having trouble understanding a superclass. How does a superclass funct=
+ion? How is it used in/different than chained constructors?=C2=A0
+
+Go to https://piazza.com/class?cid=3Dikhp9fb1yyo78h&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Autograder Returning Weird Grades  (2/10/16 10:29 PM)
+
+I downloaded the JUnit Tests and all the tests passed when I tested it, but=
+ when I submitted it to the autograder, it gave me a 5.0. =C2=A0I'm not sur=
+e what went wrong here:
+
+
+Go to https://piazza.com/class?cid=3Dikhpiu29yl643m&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

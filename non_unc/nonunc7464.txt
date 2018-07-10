@@ -1,0 +1,303 @@
+
+Information Technology 2018 Internship (Summer Only)
+   =20
+    
+    
+    
+        /* FONTS */
+        @media  screen {
+            @import  url('https://fonts.googleapis.com/css?family=3DHind:30=
+0,400,500,600')
+        }
+
+        /* CLIENT-SPECIFIC STYLES */
+        body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-=
+adjust: 100%; }
+        table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+        img { -ms-interpolation-mode: bicubic; }
+
+        /* RESET STYLES */
+        img { border: 0; height: auto; line-height: 100%; outline: none; te=
+xt-decoration: none; }
+        table { border-collapse: collapse !important; }
+        body { height: 100% !important; margin: 0 !important; padding: 0 !i=
+mportant; width: 100% !important; }
+
+        /* iOS BLUE LINKS */
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+
+        /* MOBILE STYLES */
+        @media  screen and (max-width:600px){
+            h1 {
+                font-size: 32px !important;
+                line-height: 32px !important;
+            }
+        }
+
+        /* ANDROID CENTER FIX */
+        div[style*=3D"margin: 16px 0;"] { margin: 0 !important; }
+    
+
+
+    
+        Information Technology 2018 Internship (Summer Only)
+    
+
+    
+        
+            
+            
+                
+                    
+                        
+                            Note: You are 1 out of a few students at University of North Carolina at Chapel Hill graduating in 2019 t=
+o receive this Opp!
+                        
+                    
+                
+            
+        
+    
+    
+        
+            
+                
+                    
+                        
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        Procter & Gamble<=
+/h1>
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+    
+        
+            
+                
+                   
+                    
+                        
+                            Information Technology 2018 Internship (Summer =
+Only)
+                        
+                    
+                
+                
+                    
+                        
+                          
+                              I am interested
+                          
+                          
+                              
+                                I'll pass for now
+                            
+                        
+                    
+                
+            
+            
+                
+                    IT at Procter & Gamble is where business, innova=
+tion and technology integrate to create a competitive advantage for P&G=
+. Our mission is clear -- we deliver IT to help P&G win with consumers.=
+ P&G IT professionals are diverse business leaders who apply IT mastery=
+ to deliver game-changing, technology-driven business models and capabiliti=
+es. Whether your role is to create an IT innovation strategy for a business=
+, protect our critical information systems and assets, or manage a strategi=
+c supplier in our cutting-edge shared services organization, your technical=
+ mastery will be recognized and rewarded. Your passion for the industry wil=
+l be further cultivated by our culture of continued learning and growth as =
+an IT professional. A career in IT builds change leadership and influence s=
+kills, breadth of experience across multiple businesses, and depth of exper=
+tise in one of our four IT Discipline areas.
+P&G IT is a key business enabler that encompasses technology tools, =
+strategic development, collaboration and decision-making. Our role goes bey=
+ond traditional "hardware and software" aspects of Information Te=
+chnology -- we provide distinctive value by connecting business needs and i=
+nformation technology possibilities. In IT at P&G, we are constantly ch=
+allenging ourselves to apply emerging technologies and software in an innov=
+ative way to transform the way we run our business and drive business value=
+.  
+This includes:=E2=80=A2 Leveraging disruptive technology and analyti=
+cs to help P&G win with consumers and shoppers=E2=80=A2 Governing P=
+&G IT systems and making sure that P&G is cyber-prepared=E2=80=
+=A2 Delivering world-class IT infrastructure and applications
+P&G IT needs interns in all four of its IT discipline areas: Application & Integration =E2=80=93 The largest IT discipline area fo=
+cuses on Strategy, development, implementation, maintenance and governance =
+of the Company=E2=80=99s business applications. Roles include: Application =
+Manager, IT Operations Manager, Solution Manager and Project Manager.
+Data & Analytics =E2=80=93 Strategy, architecture, management and go=
+vernance of the Company=E2=80=99s data, as well as applying advanced analyt=
+ics and big data methods to drive unique and actionable insights. Roles inc=
+lude: Data Scientist, Data Analyst, and Solution Manager.
+Infrastructure =E2=80=93 Strategy, governance and management of the hard=
+ware, software platforms and networks needed to support the development, de=
+livery and on-going maintenance of the Company=E2=80=99s applications and i=
+nformation. Roles include: Systems, Network, and Data Center Governance and=
+ Management.
+IT Security & Risk =E2=80=93 Strategy, architecture, governance, ris=
+k management, threat protection and compliance of the Company=E2=80=99s inf=
+ormation, assets, infrastructure, policies and standards. Roles include: Ri=
+sk Assessment Manager, Penetration Tester, and Cyber Security Analyst.
+QualificationsWe are looking for leaders with strong academic result=
+s who have 1-2 summers before graduating with a BS or MS in MIS, Computer S=
+cience, Industrial or Computer/Systems Engineering, Information Security, A=
+pplied Math, Statistics, Operations Research, Analytics, (or like degrees) =
+and MBA=E2=80=99s with a technical undergraduate degree or background.S=
+trong passion for technology and ability to leverage technology to add busi=
+ness valueExcellent written and verbal communication skills to influenc=
+e others to take actionLeadership in extracurricular activitiesPoss=
+ess strong thinking/problem-solving skills which can be applied to business=
+ processes with a "can-do" attitudeDemonstrated ability to ha=
+ndle multiple prioritiesMust be available during summer 2018 between mi=
+d/late May through early AugustData & Analytics Qualification - Ade=
+pt at leveraging Analytics technologies and tools  for solving ad hoc =
+business problems, innovating on potential future solutions, and working wi=
+th technology to translate your innovations into robust, scaled, analytic s=
+olutions and actionable insights.Just so you know:   =
+;   Candidates must be a U.S. citizen or national, refug=
+ee, asylee or lawful permanent resident.At P&G, Intern/Co-Op sessio=
+ns are considered temporary employment, with a predicted ending point. =
+; No full-time employment commitments are made; however, depending on satis=
+factory completion of certain criteria, candidates may be considered for fu=
+ll-time positions upon graduation.All qualified applicants will receive=
+ consideration for employment without regard to race, color, religion, sex,=
+ national origin, protected veteran status, disability status, age, sexual =
+orientation, gender identity and expression, marital status, citizenship, H=
+IV/AIDS status or any other legally protected factor.Immigration sponso=
+rship is not available for this position. Applicants for U.S. based positio=
+ns are generally required to be eligible to work in the U.S. without the ne=
+ed for current or future sponsorship. Except in rare situations based on Pr=
+octer & Gamble's sole discretion. Procter & Gamble does not sponsor=
+ candidates  for permanent residency. Any exceptions would be based on=
+ the Company's specific business needs at the time and place of recruitment=
+ as well as the particular qualifications of the individual.Procter &am=
+p; Gamble participates in e-verify as required by law.Qualified individ=
+uals will not be disadvantaged based on being unemployed.
+                
+            
+        
+            
+        
+    
+    
+        
+            
+                
+                    
+                      
+                        What is this?
+                    
+                
+                
+                  
+                    This email is an Opp. An Opp is=
+ an opportunity shared by an employer who is interested in you.
+                
+            
+            
+              
+              
+          
+      
+            
+        
+    
+    
+        
+            
+                
+                    
+                      
+                          
+                             
+                                
+                                    
+                                        
+                                    
+                                
+                                
+                                    
+                                        Delivered to you by Door of Clubs
+                                    
+                                
+                            
+                            
+                             
+                                Need more help? We=E2=
+=80=99re here, ready to talk
+                            
+                        
+                    
+                
+            
+        
+            
+        
+    
+    
+        
+            
+                
+                  
+                    
+                      
+                        Leaderboard -
+                        About -
+                        Help
+                    
+                
+            
+            
+                
+                    Our Blog - Facebook - Twitter - LinkedIn - I=
+nstagram
+                
+            
+            
+                
+                  You received this email because y=
+ou are part of our community on Door of Clubs.
+              
+          
+          
+            
+                Feel free to change your preferences or unsubscribe.
+            
+        
+        
+            
+              Door of Clubs - 745 Atlantic Ave - Bo=
+ston, MA 02111 - USA
+          
+      
+  
+            
+        
+    
+
+
+
+
+
+
+

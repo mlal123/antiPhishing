@@ -1,0 +1,50 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+Assignment 1 Adept test 3 Autograder  (1/22/16 8:30 PM)
+
+When I submitted my Assignment 1 to the autograder, I got back that it fail=
+ed the adept test 3
+one line of the expected output is:
+B. Bradley C
+and my program's output is:
+B. Bradley C-
+the weighted Average value that I got for B.Bradley is=C2=A01.7825000000000=
+002 so=C2=A0this does not appear to be a fringe case error when converting =
+the weighted average to a letter grade. In addition, all of the other outpu=
+t values matches the expected so I don't reckon that it is a case with assi=
+gning wrong weighting on the different values. Can anyone confirm that my w=
+eighted Average for B.Bradley is incorrect?
+this is the input for him with there being 12 assignments with all of them =
+having a maximum of 10 points.
+Brad Bradley 0 9.3 0.5 4.7 7.8 6.2 7.8 6.8 6.5 0.5 3.7 9.7 9.4 1.79 3.70 3.=
+72
+
+Go to https://piazza.com/class?cid=3Dijqfwai5s3b4v2&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

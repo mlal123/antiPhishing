@@ -1,0 +1,58 @@
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+
+
+Lal,
+ 
+No Men’s Water Polo game this evening at 8:00 pm, because you don’t have an opponent.
+ 
+ 
+“A goal that is not in writing is only a wish”
+ 
+Justin Ford
+Assistant Director, Intramural Sports
+UNC-Chapel Hill Campus Recreation
+101 Student Recreation Center
+Campus Box 8610
+Chapel Hill, NC 27599
+919-843-4769
+ 
+ 
+
+
+

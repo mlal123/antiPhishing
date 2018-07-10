@@ -1,0 +1,25 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+Remove in SPLT or BST_Node?  (10/27/16 12:11 AM)
+
+Some TAs have advised doing remove in SPLT, and just deleting the remove method from BST_Node all together. Are we required to do this, or can we just keep remove in BST_Node? Could someone also explain why it would be better to move it to SPLT?
+
+Go to https://piazza.com/class?cid=iuru1ngl1zq28i&nid=is6wk5m47ay4zy&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 410 (section 002) at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2GxNxqCfOm

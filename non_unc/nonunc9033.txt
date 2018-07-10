@@ -1,0 +1,106 @@
+Nieman Lab: The Daily Digest
+Thursday=2C March 29=2C 2018
+http://www.niemanlab.org/2018/03/this-is-the-next-major-traffic-driver-for=
+-publishers-chromes-mobile-article-recommendations-up-2100-percent-in-one-=
+year/
+
+
+** This is the next major traffic driver for publishers: Chrome=E2=80=99s=
+ mobile article recommendations=2C up 2=2C100 percent in one year (http://=
+www.niemanlab.org/2018/03/this-is-the-next-major-traffic-driver-for-publis=
+hers-chromes-mobile-article-recommendations-up-2100-percent-in-one-year/)
+------------------------------------------------------------
+It=E2=80=99s already driving almost as many visits as Twitter=2C and publi=
+shers have no idea why their stories get chosen (or don=E2=80=99t). By Joh=
+n Saroff.
+Two months post-News Feed tweak: real news is not drowning=2C comments are=
+ growing=2C and videos are still winning=2C NewsWhip says (http://www.niem=
+anlab.org/2018/03/two-months-post-news-feed-tweak-real-news-is-not-drownin=
+g-comments-are-growing-and-videos-are-still-winning-newswhip-says/)
+Come work for Nieman Lab (http://www.niemanlab.org/2018/03/come-work-for-n=
+ieman-lab-8/)
+What We=E2=80=99re Reading
+TechCrunch / Josh Constine
+Facebook starts fact checking photos and videos and is preemptively blocki=
+ng millions of fake accounts per day =E2=86=92 (https://techcrunch.com/201=
+8/03/29/facebook-fact-check-photos/)
+=E2=80=9CWe=E2=80=99re trying to develop a systematic and comprehensive ap=
+proach to tackle these challenges=2C and then to map that approach to the=
+ needs of each country or election=E2=80=9D chief security officer Alex St=
+amos says.
+Lenfest Institute / Joseph Lichterman
+Meet the local =E2=80=9Cnews militia=E2=80=9D covering East Lansing=2C Mic=
+higan =E2=86=92 (https://www.lenfestinstitute.org/solution-set/2018/03/29/=
+meet-news-militia-covering-local-stories-east-lansing-michigan/)
+=E2=80=9CIn the same way that if you have to have a militia during a revol=
+utionary war=2C it makes the people realize that what you really want is a=
+ professional army=2C=E2=80=9D said Alice Dreger=2C the publisher of East=
+ Lansing Info. =E2=80=9CThey=E2=80=99re much better. They=E2=80=99re bette=
+r trained=2C they=E2=80=99re better protected=2C and they=E2=80=99re bette=
+r for the country. That=E2=80=99s why I think the militia model works=2C i=
+t convinces people that professional armies of journalists are better. Tha=
+t=E2=80=99s what you ultimately want.=E2=80=9D
+Twitter / Julia Angwin
+Why Facebook=E2=80=99s announcement that it is shutting down relationships=
+ with data brokers is a big deal =E2=86=92 (https://twitter.com/JuliaAngwi=
+n/status/979363231180271616)
+An explainer from a ProPublica investigative journalist.
+Global Editors' Network / Freia Nahser
+Think lithely=2C step lively: Greg Barber on newsroom tools at the Washing=
+ton Post =E2=86=92 (https://medium.com/global-editors-network/tools-tech-a=
+nd-the-newsroom-how-the-washington-post-does-it-71fa932de1e)
+What makes a good newsroom bridge?
+BuzzFeed / Pranav Dixit
+Facebook is getting grilled in India as elections draw near =E2=86=92 (htt=
+ps://www.buzzfeed.com/pranavdixit/facebook-india-inquiry-election-interfer=
+ence)
+=E2=80=9CIndia=E2=80=99s Ministry of Information and Technology issued a n=
+otice (http://pib.nic.in/PressReleseDetail.aspx?PRID=3D1526879) to Faceboo=
+k on Wednesday asking five questions=2C including how Facebook planned to=
+ prevent its platform from being exploited to influence elections in India=
+=2C Facebook=E2=80=99s largest market outside the US with over 240 million=
+ users. Facebook=E2=80=99s deadline to respond is April 7. Last Friday=2C=
+ the Ministry of Information and Technology issued a similar notice to Cam=
+bridge Analytica asking whether the firm collected data on Facebook=E2=80=
+=99s Indian users.=E2=80=9D
+ICFJ / Cassandra Balfour and Alexsandra Canedo
+ICFJ is recruiting full-time fellows to work in newsrooms across the world=
+ on expanding the reach of fact-checking =E2=86=92 (https://www.icfj.org/o=
+ur-work/truthbuzz-fact-checking-makes-truth-go-viral-0)
+=E2=80=9CModeled on ICFJ=E2=80=99s Knight Fellowship program=2C TruthBuzz=
+ will embed experts in newsrooms to help reporters adopt compelling storyt=
+elling methods that improve the reach and impact of fact-checking and help=
+ =E2=80=98inoculate=E2=80=99 audiences against false or misleading informa=
+tion. The fellowship is only open to English-speaking media professionals=
+ already working in one of the target countries: Brazil=2C India=2C Indone=
+sia=2C Nigeria and the U.S.=E2=80=9D
+ABC News / Sonya Gee and Flip Prior
+Australian Broadcasting Corporation=E2=80=99s news bot integrated Hearken=
+ to collect reader questions ahead of election day =E2=86=92 (http://www.a=
+bc.net.au/news/about/backstory/digital/2018-03-29/abc-news-bot-and-hearken=
+-curious-platform-during-sa-election/9591966)
+Questions were collected in real time through the tool and being integrate=
+d into the live TV broadcast on election night. Throughout the campaign=2C=
+ around 20 per cent of questions came in via the bot. On election night=2C=
+ 48 per cent of questions came through from there.
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3Dad621b2171)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3Dad621b2171)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

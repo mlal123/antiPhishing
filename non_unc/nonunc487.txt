@@ -1,0 +1,57 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Study Guide Question 52  (10/02/15 11:13 PM)
+
+Hello,=C2=A0
+I am working through the study guide and am stuck on question 52. The quest=
+ion reads:
+
+The code below has 3 errors. The object of this program is to take in a str=
+ing from the user and print it out 10 times. We will classify an error as s=
+omething that will either not allow the code to run (syntax issue), or some=
+thing that would make the program not complete the objective laid out.
+public static void main(String[] args) {
+        Scanner goo =3D new Scanner(System.in);
+        System.out.println("Please give me a String and I will print it ten=
+ times for you!");
+        String input =3Dgoo.nextInt();
+        for(i=3D0;i<10;i++){
+            System.out.println("input");
+        }
+    }
+
+}
+
+I am mainly confused because I know the=C2=A0third error is=C2=A0with the
+String input =3D goo.nextInt( );=C2=A0part, but I don't know how to fix the=
+ error and was wondering what the correct way to write the code for that pa=
+rt was.
+
+Go to https://piazza.com/class?cid=3Difai90q73dp3nn&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

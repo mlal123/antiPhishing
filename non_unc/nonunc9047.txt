@@ -1,0 +1,992 @@
+
+
+        
+        Udemy
+        
+            img {
+                max-width: 100%;
+            }
+            p{
+                margin-top: 0;
+                margin-bottom: 10px;
+                font-size: 16px;
+            }
+            p a{
+                text-decoration: none;
+            }
+            ul{
+                margin: 0 0 10px 0;
+                padding-left: 10px;;
+            }
+            @media (max-width: 480px) {
+                #logo {
+                    margin: 0 auto;
+                    padding-left: 0 !important;
+                }
+            }
+           =20
+           =20
+        
+    
+    
+        
+            
+                
+                   =20
+                        
+                           =20
+    
+        
+           =20
+                New Promotional Announcement
+           =20
+        
+    
+
+                        
+                   =20
+                   =20
+                       =20
+                        
+                            
+                                
+                               =20
+    
+        
+            
+                
+            
+            
+               =20
+                                   =20
+                                Hi Mangza, an announcement has been made from SuperDataScie=
+nce, instructor of Artificial Intelligence A-Z=E2=84=A2: Learn How To Build An AI.
+                                   =20
+                               =20
+            
+        
+    
+
+    
+         =
+You Could Be Overlooking One of The =
+Most Disruptive Technologies in Data Science
+
+
+
+=E2=80=9CThe main event isn=E2=80=99t Bitcoin. It=E2=80=99s using Bl=
+ockchain to disrupt other industries and Wall Street.=E2=80=9D =E2=80=
+=93 Patrick Byrne, CEO of Overstock
+
+  
+
+
+
+Most cryptocurrencies will come and go in the blink of an eye. The effec=
+ts of Blockchain will be felt forever.
+
+  
+
+
+
+And you=E2=80=99ll be part of that, one =
+way or another.
+
+  
+
+
+
+Maybe you=E2=80=99ll just be a passive bystander, wondering how leaders =
+in your field =E2=80=9Cmade it=E2=80=9D as you watch them leverage the grou=
+nd-breaking technology.
+
+  
+
+
+
+Or maybe you=E2=80=99ll make =
+the decision to learn how to harness the power of Blockchain=E2=80=A6
+
+  
+
+
+
+=E2=80=A6and become a Data Science leader in your field or even an innov=
+ator with your own industry-disrupting applications.
+
+  
+
+
+
+We want to give you the ability to make that second choice. To learn Blo=
+ckchain and become an expert in a global movement.
+
+  
+
+
+
+So we set ourselves a mission...
+
+  
+
+
+
+To Create A Course Th=
+at Would Impact Your Entire Career and Life.
+
+  
+
+
+
+To fully master Blockchain, you=E2=80=99ll need it a=
+ll: deep theory, step-by-step instruction and plenty of practical exercises=
+ to help you build solid, real skills.
+
+
+
+And that=E2=80=99s exactly what you get!
+
+  
+
+
+
+Blockchain A-Z goes far beyond useful tips & hacks.
+
+  
+
+
+
+It will help you understand not only what this revolutionary technology =
+is, but how you can harness it for yourself and build real-world solutions.
+
+  
+
+
+
+And just like Block=
+chain, this is a course that will grow.
+
+  
+
+
+
+As an evolving phenomenon, it=E2=80=99s difficult to say that this is th=
+e way that Blockchain will always be.=20
+
+  
+
+
+
+New applications, new innovations and new developments will alter how we=
+ use this technology.=20
+
+  
+
+
+
+But since Blockchain is just at the start of its long-running trend, we=
+=E2=80=99re committed to keeping this up-to-date.
+
+  
+
+
+
+Your Blockchain A-Z course WILL evolve as it needs to. We will continue =
+adding new materials as new lessons and useful insights come along.
+
+  
+
+
+
+Does That Sound Exciting?=
+
+
+
+
+Well, guess what...
+
+  
+
+
+
+There's more!
+
+  
+
+
+
+We value my existing students and that's why I've prepared something exc=
+lusively for you...
+
+  
+
+
+
+The course comes with three special BONUSES.
+
+  
+
+
+
+But You Need To Grab Th=
+em Fast!
+
+  
+
+
+
+Make no mistake. The race to download these bonuses is ON =E2=80=A6
+
+  
+
+
+
+=E2=80=A6 because on Friday, March 30th at 23:59 New York time=
+, these special bonuses disappear forever. 
+
+  
+
+
+
+Interested?
+
+  
+
+
+
+I thought you might be.
+
+  
+
+
+
+So here's the deal:
+
+  
+
+
+
+If you want these bonuses, please pay attention.
+
+  
+
+
+
+Why?
+
+  
+
+
+
+Because...
+
+  
+
+
+
+Today You=
+ Have A Unique Opportunity To Get Lifetime Access To This Epic Bl=
+ockchain A-Z=E2=84=A2 Course At An Early Bird Discounted Price!
+
+  
+
+
+
+The course is for anyone who wants to master the technology that=E2=80=
+=99s re-shaping the world around us.=20
+
+  
+
+
+
+It=E2=80=99s specifically designed with no up-front expectations in=
+ regards to your skillset, experience or career level.
+
+  
+
+
+
+The only real pre-requisite is a desire to master Blockchain. If you hav=
+e that, you will get IMMENSE value from this class.
+
+  
+
+
+
+Check out the topics we cover:
+
+  
+
+
+
+Part 1 =E2=80=93 Create a Blockchain
+
+
+
+Your Blockchain journey starts here.
+
+  
+
+
+
+Whether you=E2=80=99re building a new cryptocurrency or disrupting the e=
+nergy sector, the basic Blockchain is much the same. And that=E2=80=99s wha=
+t you=E2=80=99ll learn about and build in this introductory module.
+
+  
+
+
+
+Intuition:
+
+  
+
+
+
+  What is a blockchain?
+
+  Immutable Ledger
+
+  How Mining Works
+
+  Consensus Protocol
+
+  And more=E2=80=A6=20
+
+ 
+
+
+
+Practice:
+
+  
+
+
+
+  Initializing the =E2=80=9Cgenesis block=E2=80=9D
+
+  Essential keys every block needs
+
+  Proof of work
+
+  Creating a web app to interact with your      Blockchain
+
+ 
+
+
+
+Part 2 =E2=80=93 Create a Cryp=
+tocurrency
+
+
+
+It=E2=80=99s time to use your general purpose Blockchain to create somet=
+hing specific: a cryptocurrency.
+
+  
+
+
+
+Intuition:
+
+  
+
+
+
+  What is Bitcoin?
+
+  Virtual tour of a Bitcoin Mine
+
+  How Wallets Work
+
+  Public Key vs Bitcoin Address
+
+  And more=E2=80=A6
+
+ 
+
+
+
+Practice:
+
+  
+
+
+
+  Key differences of Blockchain vs      cryptocurrency
+
+  Sending and receiving transactions
+
+  Decentralizing your Blockchain
+
+  Making transactions super-secure
+
+ 
+
+
+
+Part 3 =E2=80=93 Create a Smart Contract
+
+
+
+A smart contract is a protocol that verifies and enforces digital agreem=
+ents, and we=E2=80=99re going to develop one for the simulated Initial Coin=
+ Offering (ICO) of our cryptocurrency.
+
+  
+
+
+
+Intuition:
+
+  
+
+
+
+  What is Ethereum?
+
+  Decentralized Applications (Dapps)
+
+  Soft and Hard Forks
+
+  ICO Case Study
+
+  And more=E2=80=A6
+
+ 
+
+
+
+Practice:
+
+  
+
+
+
+  Setting the crypto conversion value
+
+  Checking the balance of an ICO investor
+
+  Allowing investors to buy into your ICO
+
+  Launching your ICOIn summary, Blockchain A-Z=E2=84=A2 i=
+s much more than a course.
+
+
+
+It=E2=80=99s an immersive experience that you will return to again and a=
+gain to help yourself tap into the unlimited potential of one of the 21st century=E2=80=99s biggest tech booms.
+
+  
+
+
+
+Whether you want to become a =E2=80=9Cbest of the best=E2=80=9D Data Sci=
+entist who=E2=80=99s across all the cutting-edge technologies, start a new =
+career as a massively in demand expert or perhaps even explore new business=
+ ideas, this course will help you achieve that.=20
+
+  
+
+
+
+And as you go through this comprehensive, step-by-step instruction and b=
+uilding a real Blockchain, you will be able to see yourself developing ever=
+y skill you need to control and harness this revolutionary technology.
+
+    
+
+
+
+Do we know how to create a disruptive online cou=
+rse? See for yourself! Check out what some of our Machine Learning A-Z=
+=E2=84=A2 and Deep Learning + Chatbot A-Z=E2=84=A2 students a=
+re saying:
+
+
+
+The only problem is...
+
+
+
+We Simply=
+ Must Remove These Bonus Gifts Just Over 12 Hours From Now (And Counti=
+ng)
+
+  
+
+
+
+Why? 
+
+  
+
+
+
+I thought you'd ask. 
+
+  
+
+
+
+This course has an insane amount value inside... In fact, I can tel=
+l you right now that for most people who complete this course, it will=
+ change their lives.
+
+  
+
+
+
+So we want people to take action. And the best way to do that is...
+
+  
+
+
+
+To =
+Make Them An Offer They Can't Refuse!
+
+  
+
+
+
+We spent time creating the three bonus materials, we put effor=
+t into them, and yet we will remove them forever from the co=
+urse in less than a day.
+
+  
+
+
+
+Just so we can create...
+
+  
+
+
+
+Exclusivity for those who sign up in the next 12 hours. 
+
+  
+
+
+
+After that these materials will be gone. Forever.
+
+  
+
+
+
+Are You Going To Be The One Who Misses Out On The Bonus Materials=
+?
+
+  
+
+
+
+We don't want you to lose out or miss out on anything.
+
+  
+
+
+
+Instead, we want you to learn and become an awesome Data Scientist.
+
+  
+
+
+
+But we have to close the Early Bird Promo of the Blockchain course =
+training 12 hours from now.
+
+  
+
+
+
+But let's call a spade a spade:
+
+  
+
+
+
+Yes, you can get the course for $16 or $17 or $14.95 + tax=
+ during one of Udemy's special offers.
+
+  
+
+
+
+We all know that.
+
+  
+
+
+
+Whatever.
+
+  
+
+
+
+Go nuts.
+
+  
+
+
+
+Don't worry.
+
+  
+
+
+
+Be happy.
+
+  
+
+
+
+But =E2=80=A6
+
+  
+
+
+
+There's A Huge Problem With All Of That
+
+  
+
+
+
+What you can't get when you join our course thro=
+ugh those other channels are the following limited bonus gifts. We're =
+giving these gifts only to those of you who join the course in the next 12&=
+nbsp;hours using this coupon-coded link.
+
+  
+
+
+
+#1 Video & =
+Report: The Top 3 Crypto Truths
+
+  
+
+
+
+Cryptocurrencies are huge right now. And they=E2=80=99re going to play a=
+n even bigger part in our future. But a lot of secrets, questions and confu=
+sion still swirl around them. For example, why do they fluctuate so wildly?
+
+  
+
+
+
+Even with all the mystery, they aren=E2=80=99t some oddity you have to s=
+tay away from. We=E2=80=99ve shone a light onto cryptos to help you better =
+understand them, whether you=E2=80=99re an investor, using them to buy thin=
+gs or are just unsure what to make of it all.
+
+  
+
+
+
+Don=E2=80=99t miss your chance to demystify the cryptos!
+
+  
+
+
+
+#2 Video & Report: Top Industries to be Disrupted =
+by Blockchain
+
+
+
+Banking, healthcare and education are all obvious industries that can be=
+ (and are being) disrupted by Blockchain. But Blockchain can literally turn=
+ up anywhere, from tracking dental records to buying virtual cats. So how d=
+o you know where the biggest opportunities are?=20
+
+  
+
+
+
+If you focus on the top industries being disrupted, you=E2=80=99ll have =
+plenty of chances to play your part in the Blockchain revolution. Find the =
+huge opportunities waiting for you with this video and report!
+
+  
+
+
+
+#3 Vide=
+o: How to Invest into ICOs
+
+
+
+Did you know there=E2=80=99s a cryptocurrency called BunnyToken that=E2=
+=80=99s intended to be a payment solution for the adult industry? And Bunny=
+Token=E2=80=99s just one of over 1,500 cryptocurrencies out there right now=
+. Most are worth practically nothing. Some are ready to explode.
+
+  
+
+
+
+How do you spot the diamonds in the rough? Knowing how to pick a winning=
+ ICO from a losing one is a crucial skill if you=E2=80=99re even slightly c=
+urious about cryptocurrencies. This video will reveal the key things to loo=
+k out for and the traps to avoid as you explore this exciting, unpredictabl=
+e world of investment.
+
+  
+
+
+
+If you=E2=80=99re even thinking about getting into ICOs, you can=E2=80=
+=99t afford to miss this!
+
+  
+
+
+
+The combined value of these materials is way=
+ beyond even the sticker price of the course itself.
+
+
+
+In fact, if you're the kind of person who takes action, this additional =
+material is going to be downright priceless for you.
+
+  
+
+
+
+But here's the thing:
+
+  
+
+
+
+We're only giving these bonuses to people who join Blockchain A-Z=E2=84=A2 in =
+the next 12 hours using this special link. It's already coded with=
+ your discount and everything has been taken care of for you.
+
+  
+
+
+
+Join the course, scroll down to the bonuses and download them i=
+mmediately. They are yours to keep, just for trying the course.
+
+  
+
+
+
+And please understand that you have a full four weeks to go through the =
+entire course. If for any reason you aren't 100% satisfied that this is the=
+ best investment for you - or for any other reason at all - simply contact =
+Udemy and they'll refund every last penny. No one will hassle you. Every la=
+st cent will be returned.
+
+  
+
+
+
+And you'll get to keep the bonus gifts forever.
+
+  
+
+
+
+Will some people scam this offer just to get the bonuses?
+
+  
+
+
+
+Oh, probably. 
+
+  
+
+
+
+But W=
+e Don't Mind! They're The Kind Of People Who Aren't Going To Take Action An=
+yway!
+
+  
+
+
+
+Unlike you, they aren't going to return to Blockchain A-Z=E2=84=A2 =
+again and again to get all the updates we'll be constantly adding. They won=
+'t be continuing their education over the long term and they certainly won'=
+t be getting results.
+
+  
+
+
+
+Are you interested in taking your knowledge to the next level and adding=
+ incredible value to your career?
+
+  
+
+
+
+And would you like to earn handsome sums of money for doing so?
+
+  
+
+
+
+If you answered yes to either of those questions, then you have an ethic=
+al duty to be the best Data Scientist / Analyst you possibly can.
+
+  
+
+
+
+Which is why we are contacting you about this offer today and,=
+ quite frankly, putting on the thumbscrews.
+
+  
+
+
+
+Because we too have an ethical duty.
+
+  
+
+
+
+We have the duty to show you a vision of a better future and compel you =
+to take the necessary steps towards achieving that future.
+
+  
+
+
+
+So if you're interested in taking Blockchain A-Z=E2=84=A2 and learn=
+ing from all of these incredible bonuses, you really do need to take ac=
+tion now. You can use the discount coupon only until Friday, March 30t=
+h at 23:59 New York time. These bonuses have been made only for p=
+eople who use this special coupon and will never be available again.
+
+  
+
+
+
+Ever. 
+
+  
+
+
+
+We look forward to seeing you inside Blockchain A-Z=E2=84=A2.
+
+  
+
+
+
+Here's where to join us:
+
+  
+
+
+
+https=
+://www.udemy.com/build-your-blockchain-az/?couponCode=3DSDSBLOCKCHAIN
+
+  
+
+
+
+Sincerely,
+
+  
+
+
+
+Kirill Eremenko & Hadelin de Ponteves
+
+  
+
+
+
+P.S. The valuable information in these three incredible bonuses truly do=
+ have a time-limit. We urge you to join the course and download them r=
+ight away. Don't put off joining the course. You have a 30-day guarantee an=
+d absolutely nothing to lose. The risk is 100% on us.
+
+  
+
+
+
+P.P.S. You know, we really do feel a little weird sending you guys =
+this offer. But again, we=E2=80=99re often asked, =E2=80=9CHow do you do it=
+?=E2=80=9D
+
+  
+
+
+
+Well, this course explains everything Hadelin and I know about =
+;Blockchain and with what we=E2=80=99ve learned along the way, we created t=
+hese special bonuses just to get your attention. They're yours to keep with=
+ no strings attached. You can use what you'll learn in those videos, infogr=
+aphics and life lessons and take the payrise or earnings they will eventual=
+ly yield to get yourself a glass of lemonade, give it to charity =
+or buy yourself a yacht. It's entirely up to you to choose.
+
+  
+
+
+
+Anyhow, even if you decide not to claim these bonus videos, we'd like to=
+ thank you from our hearts for taking the time to read this long message. I=
+f you've in any way found any of the information or visuals in it interesti=
+ng or captivating, rest assured that these are just some of the many powerf=
+ul things you'll learn when you start Blockchain A-Z=E2=84=A2. Join us now before it'=
+s too late.
+    
+
+                               =20
+                                   =20
+                               =20
+                            
+                        
+                   =20
+                   =20
+                       =20
+                   =20
+                
+                
+                    
+                       =20
+                            Delivered by Udemy 600 Harrison Street, 3rd Flo=
+or, San Francisco, CA 94107.
+                       =20
+                       =20
+                           =20
+                               =20
+                                    You may unsubscribe if you prefer not to receive messages like=
+ these.
+                               =20
+                           =20
+                       =20
+                       =20
+                           =20
+                               =20
+                                    If something isn't right, please report abuse.
+                               =20
+                           =20
+                       =20
+                    
+                
+            
+        
+   =20
+
+
+

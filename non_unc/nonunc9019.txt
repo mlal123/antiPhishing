@@ -1,0 +1,1147 @@
+
+
+Udemy
+
+@import url('https://fonts.googleapis.com/css?family=3DSource+Sans+Pro:300,=
+400,600');
+@import url('https://fonts.googleapis.com/css?family=3DZilla+Slab:300,400,6=
+00');
+/* CLIENT-SPECIFIC STYLES */
+body, table, td, a, p {-webkit-text-size-adjust: 100%; -ms-text-size-adjust=
+: 100%; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;}
+table, td {mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: c=
+ollapse;}
+img { -ms-interpolation-mode: bicubic; }
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+.appleFooter a {
+color:#ffffff !important;
+text-decoration: none!important;
+}
+.bottomSpacer {padding: 30px 0px 30px 0px !important;}
+/* MOBILE STYLES */
+@media only screen and (max-width: 480px){
+#container{
+width:100% !important;
+}
+#banner_text {
+text-align: center !important;
+padding-bottom: 10px;
+}
+.deviceWidth{
+display:block !important;
+width:100% !important;
+}
+.hidden{
+display: none;
+}
+.courseCardTop{
+width:30% !important;
+float: left;
+min-width: 30% !important;
+}
+.courseCardBottom{
+width:70% !important;
+float: left;
+min-width: 70% !important;=20
+border-bottom: 0px !important;
+}
+.mobileColor{
+background-color: #ffffff !important;
+}
+.mobileCourseLine{
+border-bottom: 2px #edece6 solid;
+}
+.titleHeight{
+height: auto;
+}
+.titlePadding{
+padding-top: 0px !important;
+padding-bottom: 10px !important;
+font-size: 16px !important;
+}
+.starPricePadding{
+padding-top: 0px !important;
+padding-bottom: 5px !important;
+font-size: 80% !important;
+}
+.courseImage{
+width: 100%;
+height: auto !important;
+}
+.moduleTitlePadding{
+padding: 20px 5px 5px 5px !important;
+}
+.mobileCoursePadding{
+padding: 15px 5px 0px 5px !important;
+width: 100% !important;
+}
+.targetedSpacer{
+width: 5%;
+}
+.headerImage{
+height: 30px !important;
+padding: 5px 0px !important;
+}
+.navBarTextTest{
+padding: 5px 10px 5px 0px !important;
+}
+.navBarImageTest{
+height: 30px !important;
+padding: 5px 0px 5px 10px !important;
+}
+.heroHeadline {font-size: 28px !important; line-height: 32px !important;} .=
+topSpacer {padding-top: 35px !important;} .bottomSpacer {padding: 25px 0px =
+35px 0px !important;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+The more you buy, the =
+more you save with our best deal yet. Load up on courses and see the discou=
+nts applied in your cart
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buy 3 or mo=
+re courses and watch the price drop to $9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Save now
+
+
+
+
+
+
+
+
+
+
+
+
+
+        *Web-exclusive deal =E2=80=93 pr=
+omotion not available on the mobile app        
+
+
+
+
+
+
+
+
+
+
+ 
+Check out courses you viewed:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Learn Cloud Computing from Scrat=
+ch
+
+
+
+             4.14 =
+;(19)
+
+
+
+
+
+$29.99=
+  $=
+13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Students like you are taking these courses:
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Photography Masterclass: Your Co=
+mplete Guide to Photography
+
+
+
+             4.50&nb=
+sp;(2,619)
+
+
+
+
+
+$199.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Complete Python Bootcamp: Go fro=
+m zero to hero in Python 3
+
+
+
+             4.53&nb=
+sp;(14,317)
+
+
+
+
+
+$194.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+The Web Developer Bootcamp
+
+
+
+             4.71&nb=
+sp;(15,553)
+
+
+
+
+
+$199.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Complete Guide to TensorFlow for=
+ Deep Learning with Python
+
+
+
+             4.52&nb=
+sp;(1,802)
+
+
+
+
+
+$194.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Complete Python 3 Masterclass Jo=
+urney
+
+
+
+             4.65&nb=
+sp;(387)
+
+
+
+
+
+$199.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Making Predictions with Data and=
+ Python
+
+
+
+             4.45&nb=
+sp;(10)
+
+
+
+
+
+$124.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+The Complete Machine Learning Co=
+urse with Python
+
+
+
+             4.48&nb=
+sp;(175)
+
+
+
+
+
+$199.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Machine Learning with TensorFlow=
+ + Real-Life Business Case
+
+
+
+             4.64&nb=
+sp;(160)
+
+
+
+
+
+$194.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Big Data Analytics with GIS
+
+
+
+             4.51&nb=
+sp;(10)
+
+
+
+
+
+$49.99=
+  $=
+13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Deep Learning: Advanced Computer=
+ Vision
+
+
+
+             4.72&nb=
+sp;(68)
+
+
+
+
+
+$199.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+Check out top D=
+ata and Analytics courses:
+
+ 
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Python for Data Science and Mach=
+ine Learning Bootcamp
+
+
+
+             4.55&nb=
+sp;(4,986)
+
+
+
+
+
+$194.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Deep Learning A-Z=E2=84=A2: Hand=
+s-On Artificial Neural Networks
+
+
+
+             4.45&nb=
+sp;(2,938)
+
+
+
+
+
+$199.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+The Complete SQL Bootcamp
+
+
+
+             4.59&nb=
+sp;(3,531)
+
+
+
+
+
+$194.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Tableau 10 A-Z: Hands-On Tableau=
+ Training For Data Science!
+
+
+
+             4.66&nb=
+sp;(3,570)
+
+
+
+
+
+$199.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get Started with Top Categories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<=
+/a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    =20
+
+
+    UNSUBSCRIBE  |  S=
+UPPORT  |  VIEW ONLINE
+
+
+
+Ude=
+my.com 600 Harrison Street, 3rd Floor San Francisco, CA 94107 USA
+
+
+
+    Careers at Udemy | Get Udemy at Work | Become an Instructor
+
+
+
+
+Download our apps for Offline Coursetaking
+
+
+
+        
+     =
+  =20
+    
+        
+           =20
+  =
+          =20
+    
+                    
+                        
+                    =20
+                    
+                      =20
+                    
+                    
+                        
+                    
+                
+            
+           =20
+        
+    
+             =20
+
+    
+
+    
+        
+        
+            
+                =20
+                     
+                
+            
+        
+            
+               
+    
+
+    
+    *Some exclusions apply. Coupon cod=
+e expires 2018-=
+03-28 07:00 AM GMT.*Final prices shown in cart*Discount applied in cart*Not all cour=
+ses qualify
+
+
+    
+        
+            Connect with us
+        
+    
+    
+        
+     =
+  =20
+    
+        
+           =20
+  =
+          =20
+    
+                    
+                        
+                    =20
+                    
+                      =20
+                    
+                    
+                        
+                    
+                
+            
+           =20
+        
+    
+             =20
+
+    
+   =20
+    =20
+   =20
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+

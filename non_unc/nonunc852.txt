@@ -1,0 +1,41 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Lowest assignment dropped  (11/15/15 4:16 PM)
+
+So even though assignment 4 is split into two parts, its still just one grade right? As far as dropping an assignment goes, if you were to drop assignment 4 it would be the whole thing that's dropped and not just one part of it right?
+
+Go to https://piazza.com/class?cid=ih10v42lr802xh&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+dropping an assignment  (11/15/15 5:06 PM)
+
+If we have made 100's on all of the assignments, are you still going to drop one, or is it possible to drop a Lab grade?
+
+
+
+Go to https://piazza.com/class?cid=ih12nko2t4c4mc&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Difficulty with last Part 3 test  (11/15/15 5:52 PM)
+
+I am having a hard time creating an identical object for this test. Every time I create a new object, and then try to run the test, I receive a message stating "Some of your tests failed to run due to a runtime error." I am not sure how to duplicate the colors without creating a new object and then returning said object. If anyone has any ideas, I'd love to hear them. Thanks!
+
+Go to https://piazza.com/class?cid=ih14a8hpfck2fy&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 110 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2GxNxqCfOm

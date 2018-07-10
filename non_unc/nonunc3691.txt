@@ -1,0 +1,58 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+Cannot access test files, or selfcheck lab11  (12/01/16 5:55 PM)
+
+I'm in Fuchs' class and cannot access anything to self evaluate my lab11.=
+=C2=A0
+
+classroom(10)% cd /home/fuchs/comp411lab/samples/lab11
+/home/fuchs/comp411lab/samples/lab11: Permission denied.
+classroom(7)% cd /home/lastra/comp411lab/samples/lab11
+/home/lastra/comp411lab/samples/lab11: Permission denied.
+
+classroom(6)% /home/fuchs/comp411/bin/selfchecklab11
+/home/fuchs/comp411/bin/selfchecklab11: Command not found.
+
+
+Go to https://piazza.com/class?cid=3Diw6ymg9w5t719i&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Direct Cache Mapping  (12/01/16 7:58 PM)
+
+Hello,
+If mapping an address requires one to place the word in the second byte in =
+a line, would we also have to change the first byte to match the previous e=
+ntry from memory? For example, in slideset 16 slide 17, tag 1024 has 44 and=
+ 99 (corresponding to addresses 1024 and 1028 in main memory). So, if we ha=
+d to map something that would end up in 99's spot, would we also replace 44=
+? Thanks!
+
+Go to https://piazza.com/class?cid=3Diw730lvkphn5x7&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

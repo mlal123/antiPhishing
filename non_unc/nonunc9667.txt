@@ -1,0 +1,473 @@
+
+
+=20
+
+
+
+
+
+
+/* RESET STYLES */
+a{text-decoration:none;}
+table{mso-table-lspace:0pt;mso-table-rspace:0pt;}
+img, a img{border:0; height:auto; outline:none; text-decoration:none;}
+body{height:100% !important; margin:0 auto !important; padding:0; width:100=
+% !important;}
+/* CLIENT-SPECIFIC STYLES */
+img{-ms-interpolation-mode: bicubic;} /* Force IE to smoothly render resize=
+d images. */
+#outlook a{padding:0;} /* Force Outlook 2007 and up to provide a "view in b=
+rowser" message. */
+table{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing betwee=
+n tables in Outlook 2007 and up. */
+.ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Outlook.com =
+to display emails at full width. */
+p, a, td{mso-line-height-rule:exactly;} /* Force Outlook to render line hei=
+ghts as they're originally set. */
+p, a, td, body, table{-ms-text-size-adjust:100%; -webkit-text-size-adjust:1=
+00%;} /* Prevent Windows- and Webkit-based mobile platforms from changing d=
+eclared text sizes. */
+.ExternalClass{width:100%;}
+.ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .E=
+xternalClass span, .ExternalClass font{line-height:100%;} /* Force Outlook.=
+com to display line heights normally. */
+* [href]:not([style]) { color: inherit !important; text-decoration: none !i=
+mportant; } /* control gmail default link color */
+a[x-apple-data-detectors] {color: inherit !important; text-decoration: none=
+ !important; font-size: inherit !important; font-family: inherit !important=
+; font-weight: inherit !important; line-height: inherit !important;} /* att=
+empt to control apple data detection */
+a{color:#ffffff;}
+a:link{color:#ffffff;}
+a:visited{color:#ffffff;}
+/* content styles
+____________________________________*/
+@media screen and (max-width:480px) {
+    .mw100 { max-width:100% !important; }
+    .w100 { width:100% !important; }
+    .w95 { width:90% !important; }
+    .hide { display:none!important; width:0px!important; height: 0px!import=
+ant; overflow:hidden!important; line-height: 0px!important; font-size:0px!i=
+mportant; }
+    .center-cta{margin:0 auto !important;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+                                            
+                                                  =20
+                         New jobs just posted! Searc=
+h Jobs  
+                                        
+
+
+
+
+
+
+
+    
+    
+    
+    
+        
+        
+     
+        
+        
+    
+    
+    
+     =20
+    
+    
+    
+        
+        
+        
+            
+            
+                
+                
+                
+                    
+                
+                
+                
+            
+                
+                
+                
+        20 Jobs You Should Apply to This Weekend
+                
+                
+                
+                
+                    
+                    
+                    
+                        Read More
+                    
+                    
+                    
+                
+                
+                
+            
+            
+        
+        
+        
+        
+            
+            
+             
+             
+             
+            
+            
+        
+        
+        
+        
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            
+            
+                
+                
+                
+                    
+                
+                
+                
+            
+                
+                
+                
+   What Makes You a Memorable Candidate?
+                
+                
+                
+                
+                    
+                    
+                    
+                        Read More
+                    
+                    
+                    
+                
+                
+                
+            
+            
+        
+        
+        
+        
+    
+    
+    
+      =20
+        
+       =20
+    
+    
+        
+        
+        
+            
+                
+                     
+                         
+            
+                New jobs for Software Engineer Intern just posted in=
+ New York, NY
+            
+            =20
+            
+            
+                
+                
+                
+                    See New Jobs
+                
+                
+            
+                   =20
+                                    =20
+  =20
+               =20
+         =20
+            
+        
+        
+           =20
+        
+    
+        
+    
+
+    
+    
+    
+        
+        
+        
+            
+            
+                
+                
+                
+                    
+                
+                
+                
+                
+                    
+                    
+                    
+9 Companies With Cool Office Perks
+                    
+                    
+                    
+                    
+                        Read More
+                    
+                    
+                    
+                
+                
+                
+            
+                
+                
+                
+                    
+                
+                
+                
+                
+                    
+                    
+                    
+      8 of the Most Asked Interview Questions
+                    
+                    
+                    
+                        Read More
+                    
+                    
+                    
+                
+                
+                
+            
+            
+        
+        
+        
+        
+            
+            
+             
+           =20
+             
+            
+            
+        
+        
+        
+    
+    
+    
+      =20
+    
+    
+    
+        
+        
+        
+            
+            
+                
+                
+                
+                    
+                
+                
+                
+                
+                    
+                    
+                    
+   Underqualified? Get an Interview Anyway     
+                    
+                    
+                    
+                        Read More
+                    
+                    
+                    
+                
+                
+                
+            
+                
+                
+                
+                    
+                
+                
+                
+                
+                    
+                    
+                    
+Amazon Pays Employees $12,000 for Job Training
+                    
+                    
+                    
+                        Read More
+                    
+                    
+                    
+                
+                
+                
+            
+            
+        
+        
+        
+        
+            
+            
+             
+             
+             
+            
+            
+        
+        
+        
+    
+    
+    
+
+        
+               
+                  
+               
+               
+   
+    
+    
+        
+            
+            
+                Glassdoor is hiring! Come work with us.   See Open Jobs
+            
+            
+        
+        
+            
+            
+            
+            
+             
+            
+           
+            
+             
+            
+            
+            
+        
+        
+        
+        
+            
+            
+            This mess=
+age was sent to mlal123@live.unc.edu by Glassdoor.
+            
+               =20
+            
+               =20
+                 
+                  Privacy Policy  |  Unsubscribe
+                        
+            
+        
+        
+        
+        
+            
+        
+        
+        
+        
+            
+            
+            100 Shoreline Highway, Building=
+ A, Mill Valley, CA 94941
+            
+            
+                 
+            Copyright=
+ =A9 2008-2018, Glassdoor, Inc. "Glassdoor" and logo are propriet=
+ary trademarks of Glassdoor, Inc.
+            
+               =20
+            
+            
+        
+        
+        
+    
+    
+    
+    
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+
+A new resource has been added to the "Carolina Sport Business Club" site at Sakai @ UNC-Chapel Hill (https://sakai.unc.edu/portal)
+
+Location: site "Carolina Sport Business Club" > Resources  > NBA > NBA 2018 Hackathon
+
+Description: From the NBA: The NBA is hosting its annual Hackathon and we would love to engage with your students and alumni that are interested in data, analytics and technology.  This is an opportunity to leverage NBA statistics and to showcase programming, visualization and data skills in front of many distinguished judges as well as NBA team and league office hiring managers. The NBA Hackathon is open only to current undergraduate and graduate students studying at accredited universities in the United States or Canada (excluding Quebec), or those who graduated from an accredited university and reside in the United States or Canada (excluding Quebec). Only invited guests and competitors will be allowed to attend.   Let's go Heels!
+
+
+Resource: NBA 2018 Hackathon https://sakai.unc.edu/access/content/group/f2e77c63-3411-49b4-bcd7-16655b18b17a/NBA/https%3A__hackathon.20180701224529.URL
+
+----------------------
+This automatic notification message was sent by Sakai @ UNC-Chapel Hill (https://sakai.unc.edu/portal) from the Carolina Sport Business Club site.
+You can modify how you receive notifications at Home > Preferences.

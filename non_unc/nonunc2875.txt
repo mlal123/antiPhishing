@@ -1,0 +1,92 @@
+Instructor Maxwell Daum posted a new Note. Your instructor selected to notify everyone in real time of this post, bypassing user email preferences.
+
+A2 Grades up. Test Cases posted below
+
+Same protocol as last time for reaching out to us about grades. See my note on A0 returning.
+Will get around to grading lates in the coming week or so.
+
+Here are the test cases:
+
+
+
+
+
+
+
+
+Size:
+Case 0: size() == 0;
+Case 1: insert(a), insert(b),insert(c) size() == 3
+Case 2: insert(a), insert(b), remove(b), size() == 1
+
+Insert:
+Case 0: insert(E), insert(D), insert(C), insert(B), insert(A), in-order == (A, B, C,D,E)
+Case 1: insert(B), insert(A), insert(D), insert(C),insert(F),insert(E) in-order = (A, B, C, D,E,F)
+Case 2:insert(F), insert(B), insert(A),insert(G), insert(D), insert(C), insert(E), in-order = (A, B, C, D, E,F,G)
+
+
+
+Remove:
+Case 0: insert(B), insert(A), remove(A), in-order = (B)
+
+Case 1: insert(B), insert(A), insert(C), remove(B), in-order = (A, C)
+
+Case 2: insert(B), insert(A), insert(C), insert(E), insert(D),insert(G),insert(F),insert(Z), remove(G) in-order = (A, B, C,D,E,F,Z)
+
+Case 3: insert(E), insert(A), insert(H), insert(D), insert(B), insert(C), remove(C) in-order = (A, B, D, E, H)
+
+Case 4: insert(3), insert(0), insert(8), insert(5), insert(4), insert(6), insert(7) remove(8) in-order = (0, 3, 4, 5, 6, 7) &&(root.right==5||root.right==7)
+
+Case 5: insert(0), insert(5), insert(D), insert(G),insert(Z), insert(P), insert(M), remove(G) in-order = (0,5,D,M,P,Z) and root.right.right.right.getdata==M or Z
+
+Case 6: insert(0), insert(J), insert(H), insert(C), insert(A), insert(B), insert(E), insert(F), insert(Z), insert(D), remove(C) in-order = (0, A, B, D, E,F,H,J,Z and root.right.left.left.data==D or B)"
+
+Case 7: insert(0), insert(C), insert(A), insert(B), insert(E), insert(D), remove(C), remove(A),remove(B), remove(E), in-order = (0)
+
+
+Insert After Remove:
+Case 0: insert(A), remove(A), insert(B), insert(A), insert(C) in-order = (A,B,C)
+Case 1: insert(D), insert(B), remove(B), insert(B), insert(E), in-order = (B, D, E)
+Case 2: insert(B), insert(A), insert(D), insert(C), insert(E), insert(F),remove(C),insert(C) in-order = (A, B, C, D, E, F)
+
+findMin & findMax:
+(The difference between findMax and findMin will give in message)
+Case 0: insert(A), findMax() == A, findMin() = A
+Case 1: insert(A), insert(B), insert(C), insert(0), insert(9), insert(F), FindMin()=0 FindMax()=F
+Case 2: insert(A), insert(C), insert(B), remove(C), findMax() == B, findMin() == A
+
+empty:
+Case 0: new BST, empty() = true
+Case 1: insert(B), insert(A), insert(D), insert(C), insert(E), remove(B), remove(A), remove(D), remove(C), remove(E),empty() == true
+
+
+contains:
+Case 0: insert(B), insert(A),insert(G), insert(D), insert(C), insert(E),insert(F),insert(Z),insert(I),insert(L), contains(F) == True"
+Case 1: insert(B), insert(A), insert(D), insert(C), insert(E), remove(D), contains(D) == False, contains(A) = True, contains(E) = True
+
+height:
+Case0: insert(B), insert(A), insert(D), insert(C), insert(F), insert(E),insert(Y), insert(Z), height()==4
+
+
+
+
+
+
+
+
+
+
+Go to https://piazza.com/class?cid=itrq4aa123rph&nid=is6wk5m47ay4zy&token=f2GxNxqCfOm to view. Search or link to this question with @186.  
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 410 (section 002) at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll from this class.

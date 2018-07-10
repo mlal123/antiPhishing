@@ -1,0 +1,37 @@
+From: Dylan Glotzer (dglotzer) - dglotzer@live.unc.eduHello all,  I wanted to clarify a bit regarding the example we went over today, a=
+s I believe it may have led to some confusion.  If this does not mak=
+e things more clear, I think the final homework problem due Friday gives an=
+other good illustration of conditional probability in terms of looking at t=
+he proportion of what you want only from that which is given (i.e., having =
+the "given" event in the denominator).     The=
+ idea is the following:  Suppose we are drawing 2 cards (without rep=
+lacement) from a standard deck. We can compute the probability that the sec=
+ond card is red given=E2=80=8B the first card is red by realizing =
+that after we know for sure that the first card is red, then ther=
+e are only 25 remaining red cards in the deck, and only 51 remaining total =
+cards.  This gives us P(second card red | first card red) =3D 25/51.=
+ This is intuitive, but we also need a way to compute this mathematically, =
+in case we can not reason it out so easily.  Therefore, the second w=
+ay to compute it was from the formula for conditional probability, i.e=
+. P(A | B) =3D P(A and B) / P(B):  =E2=80=8BP(second card red | fir=
+st card red)   =3D P(both cards are red)/P(first card is red, r=
+egardless of the other card)  =3D P(both cards are red) / (0.5)=
+      In order to use this formula, we need to be a=
+ble to compute P(both cards are red). In class, I told you (without showing=
+ why) that P(both cards are red) =3D 325/1326 =3D 0.245. Indeed, if you plu=
+g this value into the above formula for conditional probability, you end up=
+ with the correct answer, 25/51.  If you would like to know how the =
+figure of 325/1326 was derived, I used something called "combinations&=
+quot;, which will NOT be on the exam. It gives you the number of ways to se=
+lect a group from a bigger group. In this case, there are 325 different way=
+s to choose 2 of 26 red cards (computed as "26 choose 2"), a=
+nd 1326 ways to choose 2 of 52 cards (computed as "52 choose 2&qu=
+ot;). In the long-run, we expect to get 2 red cards about 325/1326 of the t=
+ime, which gives us our probability.  As always, please don't hesita=
+te to let me know if you have any further questions.  Best,  =
+DG             -----=
+-----------------This forwarded message was sent via Sakai @ UNC-Chapel=
+ Hill Messages from the  "STOR155.001.FA16" site.
+To reply to this message click this link to access Messages for this site: =
+ST=
+OR155.001.FA16.

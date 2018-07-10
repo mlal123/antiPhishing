@@ -1,0 +1,47 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+For Loops in A2Novice  (1/30/16 10:41 PM)
+
+After we declare our arrays in A2 Novice, what exactly should be comparing =
+i or j to? Is it the length of the 2D array?
+
+Go to https://piazza.com/class?cid=3Dik203sihur46rn&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2Adept determining bin width  (1/30/16 10:52 PM)
+
+I am a little confused on how to determine the range for each bin. I unders=
+tand that it is based of of the number that they put in, but i don't unders=
+tand how I am supposed to determine if each value goes into what bin and th=
+en tell it what goes into the next bin after that.=C2=A0
+
+Go to https://piazza.com/class?cid=3Dik20i3xyb7b3am&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

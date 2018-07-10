@@ -1,0 +1,177 @@
+Hello CS Majors, and happy Fall Break -
+
+Below are some excellent opportunities that were sent in to the department.
+
+In addition, don't forget that Amazon will be in Sitterson on Thursday, Oct=
+ober 26, hosting an info table from 11-1 in the Lobby, and then an evening =
+session in SN011 at 5:30.
+
+
+Journalistic
+Junior Web Developer
+Location: Chapel Hill, NC
+
+Company Description
+Journalistic is a dynamic media company based in Chapel Hill, NC. Journalis=
+tic covers numerous niche industries including food service, arts, and DIY.=
+  The company produces magazines, digital media, and television for these m=
+arkets including FSR and QSR magazines, Fine Books & Collections magazine, =
+the public television show Baby Makes 3, as well as operating web sites to =
+publish online content, manage systems, and sell goods & services. Journali=
+stic has been in business since 1979, with over half of its employees havin=
+g been here for 10 years or more, attesting to the fact that Journalistic i=
+s a great place to work.
+Job Description
+This is an ideal opportunity for someone starting off in the web developmen=
+t and IT industry, looking to gain skills. You will work alongside the IT M=
+anager, who will take a vested interest in your skill development as well a=
+s looking to be learning from you, too. Your work will make a huge impact o=
+n the company's success as it moves deeper into the digital publishing land=
+scape.
+Requirements
+
+  *   BS Computer Science, or equivalent from a 4-year university
+  *   Drupal 7 and/or Drupal 8
+  *   PHP
+  *   MySQL
+  *   HTML, CSS, and JavaScript
+Skills good to have
+
+  *   Git
+  *   Perl
+  *   Linux
+  *   Cloud Computing
+To apply, send your resume to jason@journalistic.com.
+---
+Nimble Storage
+Nimble is looking to hire New College Grads for full time positions. Can yo=
+u recommend students who might fit and be interested? We are looking for st=
+udents pursuing B.Tech or MS in Computer Science or Ph.D in Computer Scienc=
+e with good understanding of operating systems and programming.
+Please contact  Sourabh Yerfule  for more info.
+
+
+Computer Science Web Crawler Research Assistant
+
+This position seeks to hire a graduate or advanced undergraduate computer s=
+cience student to assist in expanding a database that examines economic development =
+and entrepreneurship in the Research Triangle Region. This project is in pa=
+rtnership with the Department of Public Policy and the Department of City a=
+nd Regional Planning, and is funded by the Kauffman Foundation. This projec=
+t has potential learning experience on the topic of machine learning, speci=
+fically natural language processing, under the guidance of Computer Science=
+ Department faculty.
+
+Attendance at biweekly team meetings is required. The initial time commitme=
+nt will depend on the student's interests and aptitude as well as the proje=
+ct timeline. Generally, hours range from 8 to 15 per week.
+
+
+Primary Responsibilities
+
+*        Writing reusable, testable, and efficient code
+
+*        Integration of data storage solutions into central database
+
+*        Cleaning code for data pull
+
+*        Developing code for scraping of data from newspaper articles
+
+
+
+Skills And Qualifications
+
+*        High personal motivation, self-management, and detail-orientation;=
+ ability to take responsibility in meeting deadlines and making progress wi=
+thout direct supervision
+
+*        Proficient in programming language (e.g. Python, R, Java, and/or R=
+uby, preference for Python)
+
+*        Preference for familiarity with some MySQL libraries (not required=
+)
+
+*        Preference for ability to integrate multiple data sources and data=
+bases into one system (not required)
+
+*        Strong unit test and debugging skills
+
+*        Proficient understanding of code versioning tools
+
+
+
+Compensation is competitive and dependent on the applicant's level of exper=
+ience.
+
+How to Apply: Please e-mail a resume and brief cover letter describing your=
+ interest in the project, noting any relevant experience, and your availabi=
+lity this fall and through next spring, to Alyse Polly at alysepolly@unc.ed=
+u.
+
+
+Federal Reserve Bank of New York.
+Summer Analyst Internship
+
+The Summer Analyst Internship program provides undergraduates an opportunit=
+y to learn about and contribute to the work done by the Research and Statis=
+tics Group.   Over the course of the summer, our economists-whose specialti=
+es include banking and payment systems, capital markets, international econ=
+omics, macroeconomics, and microeconomics-work closely with Summer Analysts=
+ on long-term, academically orientated research projects as well as current=
+ public policy work. In addition to their daily responsibilities, summer an=
+alysts attend events and weekly presentations hosted by senior management. =
+These presentations provide a broad and extensive overview of the Bank's re=
+sponsibilities and operations. In addition to serving as a prime learning o=
+pportunity for undergraduates interested in economic research, the summer a=
+nalyst program also establishes a strong pool of candidates for recruitment=
+ into the full-time Research Analyst position at the FRBNY upon graduation.
+We seek candidates who have records of superior scholarship and academic cu=
+riosity.  Summer Analysts usually come from strong economics, policy, mathe=
+matics, or computer science backgrounds, though a major in one of these fie=
+lds is not a necessity.  Successful candidates often have previous research=
+ experience, and many are considering careers in economic research, public =
+policy, or other related fields.
+ In addition, we seek candidates from a wide range of backgrounds that are =
+typically underrepresented in economics.  It is important to us that we suc=
+ceed in recruiting a diverse cohort of summer analysts each year. Thus we e=
+ncourage many students with varying experiences and backgrounds to apply. A=
+s a representative of your institution and student body, we ask that you pl=
+ease help us in passing this message along to any candidates you may know w=
+ho may be otherwise hesitant to apply.
+ Attached to this email, you will also find a brochure with details about t=
+he full-time Research Analyst position, which the Summer Analyst position i=
+s largely modeled after. Applications for the Summer Analyst position are b=
+eing accepted now at http://www.newyorkfed.org/careers/current_opportunitie=
+s.html. Applicants are strongly encouraged to apply by November 1.
+
+
+
+
+Jeff Sackaroff, M.E
+Associate Director, External Relations
+University Career Services
+University of North Carolina at Chapel Hill
+219 Hanes Hall,  CB #5140, Chapel Hill, NC 27599
+
+Jeff_sackaroff@unc.edu
+919-962-7658 (direct)
+919-962-6507 (main office)
+
+[UCS_WIN_A1_white-smallest]
+[cid:image002.png@01D2F0E3.C6E0F640]
+
+[cid:image002.png@01CE8D14.D21532B0]  [cid:=
+image003.jpg@01CE8D14.D21532B0]   [cid:image=
+004.png@01CE8D14.D21532B0]   [cid:image005=
+.jpg@01CE8D14.D21532B0]   [cid:image006.jpg@=
+01CE8D14.D21532B0] 
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to careers+unsubscribe@cs.unc.edu.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

@@ -1,0 +1,30 @@
+Your classmate posted a new Question.=20
+
+Validating shortestPath Input Label
+
+May we assume that the label that the user passes to the shortestPath metho=
+d corresponds to a node=C2=A0in the graph? If not, what should be returned =
+if the label does not correspond to a node that is in the graph?
+
+Go to https://piazza.com/class?cid=3Divvfv4l32y6xb&nid=3Dis6wk5m47ay4zy&tok=
+en=3Df2GxNxqCfOm to view. Search or link to this question with @437. Follow=
+ it to get notified when a response comes in: https://piazza.com/follow/ivv=
+fv4l32y6xb/f2GxNxqCfOm/cc08b93e=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.=

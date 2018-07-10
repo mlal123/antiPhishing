@@ -1,0 +1,25 @@
+
+Site Title: COMP410.002.FA16
+Site ID: 41a09363-ba03-4d7b-8594-d466a078cbd6
+
+Assignment title: Assignment2
+Assignment Due Date: Sep 22, 2016 11:55 pm
+
+Student: Mangza Lal( mlal123 )
+
+Submission ID: 2e2573a2-311e-486a-ad9e-37dbfb2cb0b4
+Submitted on: Sep 20, 2016 6:22 pm
+
+Attachments
+
+mlal123_assignment2.zip (10 KB)Assignment2/.project (1 KB)
+Assignment2/.classpath (1 KB)
+Assignment2/bin/BST_A2/BST_Node.class (3 KB)
+Assignment2/src/BST_A2/BST_Playground.java (3 KB)
+Assignment2/src/BST_A2/BST_Interface.java (3 KB)
+Assignment2/.settings/org.eclipse.jdt.core.prefs (1 KB)
+Assignment2/bin/BST_A2/BST_Interface.class (1 KB)
+Assignment2/src/BST_A2/BST.java (2 KB)
+Assignment2/bin/BST_A2/BST_Playground.class (2 KB)
+Assignment2/src/BST_A2/BST_Node.java (4 KB)
+Assignment2/bin/BST_A2/BST.class (2 KB)

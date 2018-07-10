@@ -1,0 +1,9 @@
+Hello,
+
+Your request (Ticket 3576473) for computer hardware repair service has been assigned to a technician in the ITS Computer Repair Center (CRC).  Diagnosis of the cause of the computer hardware failure has begun and typically takes 1 to 2 business days to complete.  We will update your service request with the latest information as the computer hardware repair process progresses.   
+
+You can view the status of your service requests at any time at by logging into http://help.unc.edu/olhr and selecting "Open Requests", or request an update by calling  919-962-HELP(4357).
+
+Thank you for the opportunity to provide your computer hardware repair service and have a great day!
+Sincerely,
+Computer Repair Center

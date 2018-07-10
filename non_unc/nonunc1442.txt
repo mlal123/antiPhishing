@@ -1,0 +1,51 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+Book Recommendations?  (2/06/16 4:34 PM)
+
+Hi everyone,
+
+I am looking for a good beginner's book that will help with overall underst=
+anding of java. There are so many different books our there, so I was wonde=
+ring if anyone had found or used a book that they particularly thought was =
+great. Thanks!
+
+Go to https://piazza.com/class?cid=3Dikbn2266owb1bo&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A3 Adept PictureImpl White Initialization  (2/06/16 6:37 PM)
+
+When we initialize the pixels to white pixels do they need to be ColorPixel=
+ or GrayPixel or just Pixel. =C2=A0I am a little confused about how to go a=
+bout that without it being a ColorPixel or GrayPixel, or if just choosing o=
+ne or the other will mess something up later on..?
+
+Go to https://piazza.com/class?cid=3Dikbrh7ikfmn14d&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

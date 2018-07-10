@@ -1,0 +1,132 @@
+
+
+        
+        Udemy
+        
+            img {
+                max-width: 100%;
+            }
+            p{
+                margin-top: 0;
+                margin-bottom: 10px;
+                font-size: 16px;
+            }
+            p a{
+                text-decoration: none;
+            }
+            ul{
+                margin: 0 0 10px 0;
+                padding-left: 10px;;
+            }
+            @media (max-width: 480px) {
+                #logo {
+                    margin: 0 auto;
+                    padding-left: 0 !important;
+                }
+            }
+           =20
+           =20
+        
+    
+    
+        
+            
+                
+                   =20
+                        
+                           =20
+    
+        
+           =20
+                New Educational Announcement
+           =20
+        
+    
+
+                        
+                   =20
+                   =20
+                       =20
+                        
+                            
+                                
+                               =20
+    
+        
+            
+                
+            
+            
+               =20
+                                   =20
+                                Hi Mangza, an announcement has been made from SuperDataScie=
+nce, instructor of Machine Learning A-Z=E2=84=A2: Hands-On Python &am=
+p; R In Data Science and Artificial Intelligence A-Z=E2=
+=84=A2: Learn How To Build An AI.
+                                   =20
+                               =20
+            
+        
+    
+
+    
+         Hi, we've got an invitation for you...Kirill will =
+be hosting a Data Science Meetup, Tomorrow July 5=
+th at 6:30pm in San Diego, California - and you're invited!The topic?=
+"Guerrilla Tactics to Break into Data Science" - tho=
+se tips & tricks that only top Data Scientists know, that&nbs=
+p;help them stay one step ahead of the game. And the best =
+part? It's free!Find all the details to the event (time, loca=
+tion, topic) here: https://www.meetup.com/es-ES/Lets-GO-Data-Science/events=
+/251723312/If you're available tomorrow in San Diego (from 6=
+:30pm to 9:00pm) why don't you stop by? Many data scientists will be t=
+here to network, learn, chat and exchange amazing insights along with&=
+nbsp;Kirill's learnings.Click here to save your seatDon't miss this =
+opportunity to meet other like-minded data scientists and take your career =
+one step further!- The SuperDataScience Team
+    
+
+                               =20
+                                   =20
+                                        
+                                           See Announcement
+                                        
+                                   =20
+                               =20
+                            
+                        
+                   =20
+                   =20
+                       =20
+                   =20
+                
+                
+                    
+                       =20
+                            Delivered by Udemy 600 Harrison Street, 3rd Flo=
+or, San Francisco, CA 94107.
+                       =20
+                       =20
+                           =20
+                               =20
+                                    You may unsubscribe if you pre=
+fer not to receive messages like these.
+                               =20
+                           =20
+                       =20
+                       =20
+                           =20
+                               =20
+                                    If something isn't right, please r=
+eport abuse.
+                               =20
+                           =20
+                       =20
+                    
+                
+            
+        
+   =20
+
+
+

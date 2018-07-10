@@ -1,0 +1,20 @@
+Instructor Ketan Mayer-Patel posted a new Note. 
+
+A1 adjusted to not have a late penalty
+
+As I mentioned in class, I've adjusted the autograder to accept A1 submissions for full credit regardless of the submission time. So if you didn't get all of the points or weren't able to finish it on time, keep working on it and submit whenever you can.
+
+Go to https://piazza.com/class?cid=ijz1pnnvpca245&nid=ihs2fbbhsfx37n&token=f2GxNxqCfOm to view. Search or link to this question with @196.  
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 401-001 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this class.

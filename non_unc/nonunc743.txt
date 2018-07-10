@@ -1,0 +1,48 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Getting rid of double printed winner name  (11/04/15 5:04 PM)
+
+
+I cannot find where the double printed name is coming from in the program. Are there any suggestions and also would it matter in the grading?
+
+Go to https://piazza.com/class?cid=iglcr1obaen5oh&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+holding method: I have to press 2 twice or the unrecognized option twice  (11/04/15 5:15 PM)
+
+Is it ok if I have to press 2 or the unrecognized option twice for it to work? My holding test failed but the game works fine.
+
+Go to https://piazza.com/class?cid=igld4vhyor67ku&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Instructions??  (11/04/15 7:09 PM)
+
+I do not understand the instructions for assignment 3. They are barely in complete sentences. How does one even start? Do you need to completely change the method public roll(), or do you simply add to that? Also, how do you even go about editing the die.java? This assignment is not very clear.
+
+
+Go to https://piazza.com/class?cid=iglh7l7be9xvo&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+GameOver  (11/04/15 8:28 PM)
+
+In the GameOver section, do you have to call upon the Player class and its methods? Or is this section simply if-else statements of score1 and score2? Maybe I'm completely on the wrong track here...
+
+Go to https://piazza.com/class?cid=iglk0n6957v5ir&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 110 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2GxNxqCfOm

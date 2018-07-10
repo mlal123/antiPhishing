@@ -1,0 +1,82 @@
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+
+
+Good morning Mangza,
+ 
+Our office only offers loans to students for summer school financial aid (whether you are Carolina Covenant or not). As a Carolina Covenant student, you have not received any
+ loans during the academic year. This means that you have your entire loan eligibility available for the summer financial aid.
+
+ 
+The financial aid for 2016-17 has not been awarded because we have not received, linked, and processed the additional documents requested. You will be reevaluated for Carolina
+ Covenant status once the documents are completely processed. 
+ 
+
+Sincerely,
+ 
+Client Services
+The Office of Scholarships and Student Aid
+
+The University of North Carolina at Chapel Hill
+
+ 
+
+
+From: Lal, Mangza
+
+Sent: Friday, April 15, 2016 11:23 AM
+To: The Office of Scholarships and Student Aid <aidinfo@unc.edu>
+Subject: Loan
+
+
+ 
+
+Hello, so I got Federal Direct Loan on my financial aid items. Does that mean I'm no longer a Carolina covenant member?
+
+
+
+

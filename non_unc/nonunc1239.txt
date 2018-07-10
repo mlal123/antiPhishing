@@ -1,0 +1,67 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+TA/LA Office Hours  (1/24/16 9:13 PM)
+
+Are TA/LA office hours still happening tomorrow morning despite the weather=
+ and delay? I really wanted to go to office hours Friday for help on the as=
+signment, but then the snow... And I really wanted to tomorrow as well, so =
+I'm hopeful that TA/LA office hours are still happening...
+
+Go to https://piazza.com/class?cid=3Dijtcbpx5djc1ym&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Autograder  (1/24/16 10:02 PM)
+
+I submitted my jar file and it still says not graded. =C2=A0I was wondering=
+ if there is a certain time that it grades everything like every thirty min=
+utes or did I upload something that it cant grade.
+
+Go to https://piazza.com/class?cid=3Dijte2fylvh31j&nid=3Dihs2fbbhsfx37n&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Calling methods Adept  (1/24/16 10:41 PM)
+
+Can we call methods from A1Novice in A1 Adept or will the grader not recogn=
+ize it. Should I just copy and paste from Novice to Adept?
+
+Go to https://piazza.com/class?cid=3Dijtfgfzaq5w6g1&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Grading Question  (1/24/16 11:34 PM)
+
+Is 10 the maximum number of points you can get for A1? The grade.cs page is=
+ telling me that the 4.0 component of my course grade is 0.5, is that takin=
+g all future assignments into account?
+
+Go to https://piazza.com/class?cid=3Dijthbzajc1c61q&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

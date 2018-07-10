@@ -1,0 +1,69 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Problem 12  (12/06/15 10:56 PM)
+
+For problem 12, question number 3, why does michael.gift() return "coal." a=
+nd not "Lion King on blue ray"?=C2=A0 Is this because in the isNice() metho=
+d, the .equals method is comparing the String "nice" and not the michael ob=
+ject's input parameter of "Nice"?=C2=A0 In other words, is the .equals meth=
+od case sensitive, and is this why question 3 returns "coal.", or have I mi=
+ssed something else?
+
+Also, for question 4, I wrote a method which has the effect of changing the=
+ value of the naughtyOrNice variable, but did not write it in the form of a=
+ setter method.=C2=A0 For a question of this type on the exam, will it be c=
+learly specified that we are supposed to write a method in the form of a se=
+tter method with parameters, or should we be able to imply this fact on our=
+ own?
+
+Go to https://piazza.com/class?cid=3Dihvfeqv6rfp6ga&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Exam Structure  (12/06/15 11:13 PM)
+
+Is the exam online or written? =C2=A0And what is the distribution of types =
+of questions (multiple choice, true/false, short answer)? =C2=A0Thanks xx
+
+Go to https://piazza.com/class?cid=3Dihvg03skzh63xn&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Problem 16, and others similar to it  (12/06/15 11:53 PM)
+
+For problem 16, I did not remember the formula for calculating the area of =
+a triangle.=C2=A0 After looking up the formula (though NOT information on s=
+pecifically how to write methods in java), I was able to successfully write=
+ the method on my own.
+
+For the exam, will we be given the basic mathematical formula for a problem=
+ like this, or do we need to know this on our own?
+
+Go to https://piazza.com/class?cid=3Dihvhft37yx63ea&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

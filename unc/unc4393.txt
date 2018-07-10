@@ -1,0 +1,70 @@
+I just got this from my contact at Launch Chapel Hill and wanted to make
+sure it was passed to you all as soon as possible. Please excuse the
+multiple emails!
+
+
+*GymNOW*, a mobile app aimed to disrupt the fitness industry, is looking to
+bring on some team members. Using Major League Baseball players and a bad
+ass sales team, we have customers lined up and waiting.
+
+ Our app and web interface is 90% complete, but we need your help to clean
+up our code and get this thing rolling. We could literally be making money
+tomorrow if the app were ready.
+
+Our lead developer is an extremely knowledgeable, full-stack developer and
+needs assistance in the following three areas to speed up our launch
+timetable.
+
+F*ont End Developer*
+
+-Experience with Angular
+
+-Knowledge of REST Strategy
+
+-Experience with Javascript
+
+-Experience with HTML
+
+*UI Developer*
+
+-Experience SCSS/CSS3
+
+-Webpack 1
+
+-Experience with Javascript
+
+-Experience with HTML
+
+*Web Developer*
+
+-Experience with REST strategy
+
+-Experience with Node.js
+
+-Postgres experience
+
+
+
+If you are interested shoot me an email including the position you're
+seeking, experience you have and amount of time you have available to work.
+
+Our ideal candidates should have some experience, but are are trying to get
+more, while working under an expert lead developer.
+
+
+
+Thanks,
+
+Rob Gilliam
+
+Founder | GymNOW Fitness Inc
+
+rob.gilliam@gymnowfitness.com
+
+www.gymnowfitness.com
+
+-- 
+To unsubscribe from this group and stop receiving emails, visit the group page linked below and go to "my settings (top right), leave this group."
+--- 
+You received this message because you are subscribed to the Google Groups "Careers" group.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

@@ -1,0 +1,16 @@
+
+An announcement has been added in the "MATH233.001.SP17" site at (https://s=
+akai.unc.edu/portal/site/57f9ebb8-9a70-4413-b7df-94b0c4456a24) at Mar 30, 2=
+017 9:19 pm
+
+Hi everyone,
+=20
+ I realized that in class I mixed up theta and phi when I was giving the fo=
+rmula for the triple integral in spherical coordinates. The factor inside o=
+f that integral should be rho^2 sin(phi), not rho^2 sin(theta), so like in =
+the last example that we did. Sorry about the mix-up!  =A0
+
+----------------------=20
+ This automatic notification message was sent by Sakai @ UNC-Chapel Hill (h=
+ttps://sakai.unc.edu/portal).
+ You can modify how you receive notifications at Home > Preferences.

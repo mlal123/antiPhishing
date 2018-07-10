@@ -1,0 +1,69 @@
+Army Research Laboratory  Human Research & Engineering Directorate
+Aberdeen Proving Ground, Maryland
+
+
+A postdoctoral scholar position is available in the Army Research
+Laboratory, Human Research & Engineering Directorate at Aberdeen Proving
+Ground, MD. The applicant should have, or be scheduled to complete, a Ph.D.
+in computer science, cognitive science, psychology, or a related field by
+the time the employment starts. Candidates should have technical skills in
+learning theory and modeling. Programming skills include: Java, Python,
+ACT-R, R or related statistical programming languages. Relevant knowledge
+includes how to run studies, simulations, statistical analyses, and writing=
+.
+The candidate must be a U.S. Citizen.
+
+
+*Research **Direction:*
+
+     The goal of the human dynamics of cybersecurity program is to measure,
+analyze, and model human decision-making processes and the ability to
+detect and thwart attacks as long-duration and complex cognitive
+tasks. Our approach
+to advance the foundational science is to look at the three-fold
+integration of attacker, defender, and user into a common framework.
+
+
+Applicants can propose research that addresses one or more main thrusts:
+
+=C3=98 Cyber Cognition and Biopsychology: the development of metric approac=
+hes
+to quantify and predict cyber analyst performance and human-system interact=
+ions
+that seeks to collect, extract, and analyze large volumes of time-stamped
+data to characterize high resolution behavioral, physiological, task-based,
+and environmental factors influencing task performance and decision-making
+of individuals and teams,
+
+
+=C3=98Training Effectiveness: addresses the challenge currently facing the
+maturation of cyber capable defense forces: understanding how to challenge,
+assess, and rapidly develop cyber skill-sets in realistic cyber operational
+environments to include our new human-in-the-loop cyber test range facility=
+;
+
+
+=C3=98Cyber Team Processes: focuses on capturing, understanding, and modeli=
+ng
+team processes and dynamics to achieve greater mission effectiveness, and
+
+
+=C3=98Adversarial Dynamics: focuses on modeling and simulation to understan=
+d
+adversarial attacker-defender-user dynamics in the cyber domain to support
+multi-agent simulation using game theory, AI, cognitive modeling, Markov
+modeling, Petri nets, and related approaches.
+
+     The selected candidate will collaboratively develop a research topic
+with their ARL advisor into a five-page synopsis of the proposed research.
+The selected research topic must seek to advance the human computational
+sciences to support the cyber analyst, a key link in the Army's cyber
+defense strategy.
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

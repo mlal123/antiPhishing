@@ -1,0 +1,59 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+math.max()  (9/21/16 8:34 PM)
+
+Are we allowed to use Math.max()?=C2=A0
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3ditdlw6gmjxt1li%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c82c579570574483e20a508d=
+3e291db80%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DA0Quit3uI7CbC82IjZ=
+BPR7jbsrOKORcDIvOUb52B7qA%3d to view.
+
+------------------------------------------------------------
+Contains method  (9/21/16 10:21 PM)
+
+if you were to ask if tree.contains(null) on an empty null tree, should it =
+return true because it contains "null"?=C2=A0
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3ditdpqampodq27l%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c82c579570574483e20a508d=
+3e291db80%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DXVKe4BEnXeYmeggtxC=
+2KbYzjxx9aHdcqfuNnPmEpHuI%3d to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.co=
+m%2flogin&data=3D01%7c01%7cmlal123%40live.unc.edu%7c82c579570574483e20a508d=
+3e291db80%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DAJ06UnqZpJvwjelKvg=
+XAnI96GigM9CdXPVN7Zf5cwVc%3d to sign in and manage your email preferences o=
+r proceed to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%=
+2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2fis6wk5m47ay4zy&data=3D01%7c01%7cml=
+al123%40live.unc.edu%7c82c579570574483e20a508d3e291db80%7c58b3d54f16c942d3a=
+f081fcabd095666%7c1&sdata=3DVNRNnNfVxIL%2bWuDLkXa18Dkjt8wOmkGCJoFFyT9IhcA%3=
+d to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://na01.safelinks.protection.ou=
+tlook.com/?url=3Dhttps%3a%2f%2fpiazza.com%2flink_accounts%2ff2GxNxqCfOm&dat=
+a=3D01%7c01%7cmlal123%40live.unc.edu%7c82c579570574483e20a508d3e291db80%7c5=
+8b3d54f16c942d3af081fcabd095666%7c1&sdata=3DRXmrrgVu%2fYxC33iXPsIEvMYWi0ZMx=
+F1Psa6thSXsa%2bE%3d=

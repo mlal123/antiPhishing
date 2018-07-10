@@ -1,0 +1,21 @@
+
+An announcement has been added in the "COMP411.002.FA16" site at (https://s=
+akai.unc.edu/portal/site/5d7efa4a-b769-4b43-a298-96b46c136e23) at Nov 1, 20=
+16 5:34 pm
+
+There were dots (connecting wires) missing on the figures for Problems 3(b)=
+ and (c). =A0The attached image shows the schematic diagrams with the conne=
+ctions made.  =A0
+
+
+Attachments:
+
+Ps_3-3.b and 3.c.jpg: https://sakai.unc.edu/access/content/attachment/5d7ef=
+a4a-b769-4b43-a298-96b46c136e23/Announcements/4300db88-8281-4bba-8bc0-b33b2=
+54550f9/Ps_3-3.b%20and%203.c.jpg
+
+----------------------=20
+ This automatic notification message was sent by Sakai @ UNC-Chapel Hill (h=
+ttps://sakai.unc.edu/portal).
+ You can modify how you receive notifications at My Workspace > Preferences=
+.

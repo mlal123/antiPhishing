@@ -1,0 +1,68 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+A3 Autograder  (2/09/16 6:07 PM)
+
+I've submitted my assignment to the autograder, and it still hasn't been gr=
+aded. =C2=A0Is the autograder set up so that it won't grade the assignment =
+until the due date, or is there a very long delay?
+
+Go to https://piazza.com/class?cid=3Dikg0q4e6llo4nb&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Test Class  (2/09/16 8:33 PM)
+
+I made my test classes inside all of my packages (adept, jedi, novice). Do =
+I need to remove them before submitting the assignment?
+
+Go to https://piazza.com/class?cid=3Dikg5x1lhh292cf&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A3 Novice  (2/09/16 9:05 PM)
+
+In light of the fact that we're not getting user input=C2=A0in writing the =
+code for this assignment, how should we most efficiently test the code? I'm=
+ still a little fuzzy on JUnit testing and don't know exactly how to go abo=
+ut creating test classes... Any suggestions or hints?
+
+Go to https://piazza.com/class?cid=3Dikg729mp7lb2vm&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+General Question  (2/09/16 10:00 PM)
+
+When is the best time to ask someone about explaining a topic farther, spec=
+ifically program testing using JUNIT. I know we covered it in recitation la=
+st week, but I'm still a little unsure about some things. Should I ask in o=
+ffice hours, or would it be better to ask in recitation?
+
+Go to https://piazza.com/class?cid=3Dikg91c4rxqopj&nid=3Dihs2fbbhsfx37n&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

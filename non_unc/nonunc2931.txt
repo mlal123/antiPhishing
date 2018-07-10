@@ -1,0 +1,27 @@
+Your classmate posted a new Question. 
+
+Unable to copy ex1.asm into lab5 directory from desktop
+
+I have tried what I have found online for the scp command and keep getting the error:
+
+The authenticity of host 'classroom1.cs.unc.edu (152.2.130.35)' can't be established.ECDSA key fingerprint is 29:e9:ff:b8:3b:79:0d:dd:36:e1:74:e3:6f:d6:23:72.Are you sure you want to continue connecting (yes/no)? yesWarning: Permanently added 'classroom1.cs.unc.edu,152.2.130.35' (ECDSA) to the list of known hosts.The Department of Computer Science at UNC Chapel Hill.This system is intended for use by department affiliates only.Unauthorized access to this system is prohibited.
+
+My input was:
+scp -r ~/Desktop/ex1.asm.txt myusername@classroom1.cs.unc.edu:~/comp411lab/lab5
+
+This was just one trial. Each time I tried different things, I got the same response. Am I going about this entirely wrong?
+
+Go to https://piazza.com/class?cid=itw3pkewx17ht&nid=irqp4hpe58u5rs&token=f2GxNxqCfOm to view. Search or link to this question with @189. Follow it to get notified when a response comes in: https://piazza.com/follow/itw3pkewx17ht/f2GxNxqCfOm/7ea495d2 
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 411 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.

@@ -1,0 +1,33 @@
+Friday 3:30 -7:00 in SN011
+
+Please come and learn about the research that undergraduates are doing.
+Support our students.  Learn what is happening in the department.
+
+You will be impressed.  We hope you will be inspired.
+
+See you on Friday!
+Diane
+
+Tentative agenda:
+
+3:30 Session I
+Han Bit Yoon, Automatic Extra-Axial Cerebrospinal Fluid
+Zhengyang Fang, A Framework for Statistical Shape Analysis
+Charles Tang, Adapting the CIVET Pipeline to Macaque Brains
+
+4:30 Session II
+Joshua Bakita, Validation of Scheduling Rules on GPUs
+Siqing Xu, High-quality 3D Reconstruction of Textureless Objects
+Isabel Uzsoy, Algrithmic Approaches to View Photo-Gen Models
+Rachel Schomp, Brainwave Authentication Methods
+
+5:50 Session III
+Elaine Kearney, Translation between Data Science Pgm Langs
+Yicheng Wang, Machine Comprension via Adversarial Training
+Yichen Jiang, Gen Adversarial Network for Image Captioning
+
+Reception to Follow
+
+-- 
+You received this message because you are subscribed to the Google Groups "Majors" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to majors+unsubscribe@cs.unc.edu.

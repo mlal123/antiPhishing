@@ -1,0 +1,424 @@
+Since you all were hopefully off campus relaxing in a much warmer place
+than Chapel Hill last week, I stalled on sending this update to you. Let me
+catch you up on the new opportunities!
+
+*Mark Your Calendar-Upcoming Events:*
+
+*Emerging Careers in Healthcare Panel | Monday, March 27th | 5:30-7pm |
+Murray Hall G201*
+
+Would you like a career in emerging, high-growth areas within health care
+and science?  Join us as industry professionals discuss opportunities for
+science graduates in today=E2=80=99s leading organizations. Learn how to ma=
+ke your
+own important contributions in the science work place. Pizza and drinks
+provided.
+
+*Science Career Panelists: *
+
+Sarah Adams, MBA, *Blue Cross Blue Shield of NC*; Analytics Manager; Drew
+Applefield, PhD, *Precision Biosciences*; Director of Business
+Development; Kiyomi
+Carter, MBA, *Medicago*; Director of Project Management; Lenn Murelle,
+PhD, *Venebio
+Group, LLC*; Co-founder and CEO; Ashley Williams, MS, *ICF International*;
+Senior Associate.
+
+
+
+
+*Opportunities:*
+
+*Offensive Cyber Intern | Vigilant Cyber Systems, Inc | Mount Airy NC*
+Vigilant Cyber Systems is a small defense contracting firm based in Mt.
+Airy, NC. We have supported a variety of Department of Defense programs in
+the cyberarena since our inception in 2010. Because we are a small company,
+we're looking for someone with an entrepreneurial spirit who is excited
+about getting behind our mission and helping us grow. You will not be a
+number in a system; you will be an integral part of every aspect of the
+business and your opinion will be valued. This internship will take place
+in Mt. Airy, NC at the VCS Headquarters. Interns will be responsible for
+configuring virtual endpoints for various CAN bus nodes. They will also be
+designing, implementing, and testing various exploits against the virtual
+nodes. Applications, interviews, and hiring will be considered in a rolling
+fashion on a first-come, first-served basis and the first two applicants
+that complete the screening process successfully will be hired.
+*Qualifications:* Applicants must be US citizens. They should be familiar
+with creating and using virtual machines and using a hypervisor. They
+should be familiar with Linux and debugging software on both Linux and
+Windows platforms. They should be proficient in programming in C/C++,
+preferably with Python and Assembly experience as well. Additionally, it is
+preferable, though not required, that applicants have experience using the
+QEMU hypervisor and Git for version control.
+*Experience:* We are looking to hire juniors and seniors.
+*Timeline:* Resumes will be considered in a rolling fashion and the job
+will be closed when two interns have been hired. The dates of the
+internship will be flexible on each end. Preferred start and end dates are
+5/23/17 =E2=80=93 8/19/17.
+*Application Instructions:* Please email copies of your resume and
+unofficial transcript to jobs@vigilantsys.com. In the subject line, include
+=E2=80=9COffensive Cyber Internship Application for=E2=80=9D and your name.=
+ You may also
+briefly (1-2 sentences) describe your broad or specific career interests
+and/or cybersecurity experience.
+
+*Paid research Internship | The Office of Science / US Department of Energy
+| Due May 31st *
+The Science Undergraduate Laboratory Internships (SULI) program places
+students from 2 and 4 year undergraduate institutions as paid interns in
+science and engineering research activities at DOE national laboratories
+and facilities, working with laboratory staff scientists and engineers on
+projects related to ongoing research programs. Appointments are for 16
+weeks during the Fall term, are open to US Citizens and US Lawful Permanent
+Residents, include a weekly stipend, reimbursement for one round trip
+domestic travel to the participant=E2=80=99s host DOE laboratory, and possi=
+bilities
+for a housing allowance. More than 850 internships are sponsored annually.
+Application is made online. Full program information and descriptions,
+including links to the online application system, are available at:
+http://science.energy.gov/wdts/suli/
+
+
+*Part-time Web Dev Local Job | Chapel Hill NC*
+We are a brand-new blog aimed at creating a social-media and discussion
+thread regarding sports and other related topics. That being said, we are
+looking to expand our development team by a few members to expedite the
+process. The pay is negotiable, and I'd love to discuss the website in more
+detail anyone who may be interested. Email David Simonds at
+davidj16@live.unc.edu
+
+
+*Web Dev Assist | Victory Investigations & Private Protective Services
+LLC | Apply by April 7th*
+I am seeking assistance with the development of a website for my business.
+I would need a site that has at least 3-5 pages,low maintenance and user
+friendly, and up and ready to go by April 7th. Contact Niksa Balbosa via
+email N.Balbosa@victoryinvestigations.org ,or phone (704) 345-9798.
+
+*Software Engineer | Republic Wireless | Raleigh NC*
+
+How To Apply: Apply online at http://grnh.se/q57nxd1
+
+Contact Name: Alexandra Graham
+
+Contact Email Address: recruiting@republicwireless.com
+
+Contact Phone Number: 919-238-1475 <(919)%20238-1475>
+
+Education: Bachelor's Degree
+
+Experience programming in Java, C/C++ or Objective-C.
+
+Experience using Linux and the Linux tool chain.
+
+Desired Qualifications: Experience with Android and/or iOS nice to have.
+Prior telecom experience nice to have (VoIP experience would be great).
+
+*Software Development Internships | Qualtrics*
+
+Qualtrics is an exciting company and now is an exciting time to join the
+team.  We are a pre-IPO start-up, valued at over $1B dollars and cash-flow
+positive. Our product is the leader in customer experience insights and
+over half of the Fortune 500 companies use ourproduct to improve their
+business and customer experience. If you=E2=80=99re interested in working w=
+ith an
+engineering team with small teams, lots of mentorship and tons of career
+growth, check out the opportunities we have at Qualtrics below. You can
+learn more about Qualtrics here:  https://www.youtube.com/
+watch?v=3D6p46Qx2MNuw
+
+Product Engineer - Full Time (Utah)
+
+
+These teams develop, improve, and deploy our core products to over 35,000
+brands and 9,000_ clients. If you are interested in getting into the weeds
+of the product, this job is for you.
+
+Software Development Engineer in Test - Full Time (Seattle)
+
+
+These teams contribute to automation, help train developers on how to use
+the tools, and establish best practices for testing and releasing software
+used by millions of users daily. If you love finding the tricky concerns of
+an application and discovering bugs worth fixing, this job is for you.
+
+Summer 2017 Product Engineering Internships (Utah)
+
+
+Our Interns take ownership of a project for 12 weeks in the summer. You'll
+work closely with our engineers to implement new features for our 9,000+
+clients. If you like building simple solutions to complex problems an
+owning quality from end to end this role is for you.
+
+Summer 2017 Software Development Engineer in Test Internship (Seattle)
+
+
+Similar to the product engineering internship, you=E2=80=99ll have ownershi=
+p over a
+project for 12 weeks during the summer. As an SDET intern, you=E2=80=99ll w=
+ork
+closely with our Quality Engineering team and focus on the quality of all
+products Qualtrics produces. If you are detail oriented and interested in
+learning more about the test and release software lifecycle, this role is
+for you.
+
+
+*U.S. Army Research Lab - Summer Journeyman Fellowship Program*
+(200+ opportunities for BS candidates -PhD candidates) -  Non U.S. Citizens
+may apply
+Information Webpage: http://www.orau.org/arlfellowship/applicants/
+programs/journeyman-fellows-summer-program.htm
+ARL has six separate directorates seeking students:
+=C2=B7         Computational and Information Sciences Directorate (CISD)
+=C2=B7         Human Research and Engineering Directorate (HRED)
+=C2=B7         Sensors and Electron Devices Directorate (SEDD)
+=C2=B7         Survivability and Lethality Analysis Directorate (SLAD)
+=C2=B7         Vehicle Technology Directorate (VTD)
+=C2=B7         Weapons and Materials Research Directorate (WMRD)
+For a better understanding of the on-going research, candidates are
+encourage to review the postdoctoral research topics:
+http://www.pcrecruiter.net/pcrbin/regmenu.aspx?boardid=3D
+T0l5ZtaAMeaBwn9thVxXNU96NgpqvG6rbDveLBfsXidT2husYmc9Y20MPrhoXiKn
+
+
+*Small Coding Project with UNC Student*
+
+Are you interested in coding social applications? Do you have experience
+programming mobile apps? If so, this may be the opportunity for you! We are
+looking for someone to help design a relatively simple application with a
+basic user interface that integrates location services. Currently we are
+searching for someone with experience in HTML/CSS programming for websites
+and the Swift program language for iOS devices. If interested, please
+contact *910-549-5275 <(910)%20549-5275> *by text/call! We would love to
+hear from you and discuss more about the project and app design. Thanks!
+
+
+
+*Part-Time Campus Reps | Apple | *
+If you love exploring the ways technology enhances your college life, you
+could be great at sharing your knowledge with others. As a Campus Rep,
+you=E2=80=99ll work from your campus and around your class schedule, helpin=
+g
+students and faculty have the best experience possible with Apple. Being a
+Campus Rep takes an understanding of Apple technology and the ability to
+represent Apple on campus. You=E2=80=99re an ideal candidate if you=E2=80=
+=99re comfortable
+planning events, performing product demos, connecting with student groups, =
+and
+prioritizing tasks effectively. This is more than just a college job=E2=80=
+=94it=E2=80=99s a
+chance to get your resume off to an incredible start. You=E2=80=99ll work w=
+ith the
+Campus Rep Program and the Apple Education Sales team to foster key
+campus relationships;
+engage with students, faculty, and staff; and drive Apple initiatives on
+your campus. Apply now
+
+to
+get started or visit www.apple.com/education/campusreps
+
+
+*PhD Research Fellowship | Credit Research Initiative of the National
+University of Singapore*
+
+The Credit Research Initiative (CRI) at the Risk Management Institute (RMI)
+of National University of Singapore (NUS) is a non-profit undertaking for
+deep credit analytics. Over the course of its development, the CRI has been
+advancing big data techniques and providing directly useful credit rating
+intelligence to the professional communities. Please see the suite of data
+products, Probability of Default (PD), Actuarial Spread (AS), Corporate
+Vulnerability Index (CVI), CRI Systemic Important Financial Institution
+(CriSIFI), via the CRI website http://www.rmicri.org/. Given its prominence
+in the area, the CRI has been constantly demanded by corporates, financial
+institutions and international organizations (e.g. IMF) for its value-added
+services. The CRI has always been technology-driven and forward-looking.
+Being in the world of innovative technologies, the CRI strives to use big
+data analytics and artificial intelligence to bring its analytical capacity
+to a whole new level.
+
+*Research Fellow*: The CRI invites candidates from quantitative disciplines
+(e.g. Computer Science, Statistics, Mathematics, Economics, Econometrics,
+Finance, etc.) to apply for its research fellowship. The research fellows
+are expected to conduct individual research (e.g. on credit risk, risk
+management, financial econometrics, etc.) and participate in consulting
+projects for external parties.
+
+A successful candidate should be someone:
+
+   - Who will obtain his/her PhD degree at the time of appointment.
+   - Who strives to do good research and have real-world impacts.
+   - Who has great curiosity in the unknowns and is able to learn fast.
+   - Who is comfortable working with a diverse team in a multi-cultural
+   environment.
+
+To apply, please visit the website http://www.rmicri.org/en/job/ and send
+in the supporting documents as requested. Please email  rmillke@nus.edu.sgi=
+f
+you have any  questions.
+
+
+
+
+
+
+
+
+
+
+*CarolinaGO App Project*
+The University's official mobile app, CarolinaGO, is looking for a student
+project manager and student developer for the 2017-2018 school year!
+Details can be found below about these opportunities and the application
+can be found here: bitly.com/carolinago
+We have three positions open:
+*Project Manager:* The project manager interacts with ITS and all areas of
+campus to understand the needs of campus departments as it relates to
+CarolinaGO. Student should expect to spend 2-5 hours per week on the
+project minimum. The role is very flexible, but requires professionalism,
+excellent communication skills, and a passion for making our University
+more mobile accessible. The project manager works with the app developer to
+build modules, designs, and perform updates to the app. No computer science
+experience necessary. Interest in project management preferred. This is a
+paid position.
+*App Developer:* We're looking for someone with a passion for technology
+and mobile development. We use the Kurogo Mobile App platform by Modo Labs.
+Don't have Kurogo experience? No problem! If you are interested in leading
+the development of the app, within the Kurogo framework, check the box!
+This is a paid position.
+*Advisory Council:* If you're interested in the work of CarolinaGO, but
+don't have a lot of time to commit, sign up for the advisory council.
+You'll meet at most 2 times per semester to talk about your ideas for the
+app.
+
+
+*Contract Software Developer |TrackX | Durham NC*
+TrackX Technology, LLC, a company working on a medical device for improving
+productivity and reducing radiation exposure during surgery, is seeking a
+contract Software Developer. The successful candidate will partner with our
+existing team on enhancements to a desktop application that will run on
+dedicated hardware for the operating room environment. Experience with the
+following technologies are *required*: Microsoft C#/WPF desktop application
+development with .Net 4.5 or later using Microsoft Visual Studio 2015.
+Experience with the following technologies are highly *desired*: Visual
+Studio Team Services, Git, NVIDIA CUDA C/C++ development, and Microsoft
+Office. This will be a part time contract position with compensation based
+upon skills and experience. Please send resumes to Recruiting@trackx.tech.
+
+
+*Cont**ract Test Engineer | TrackX | Durham NC*
+TrackX Technology, LLC, a company working on a medical device for improving
+productivity and reducing radiation exposure during surgery, is seeking a
+contract Test Engineer. The successful candidate will partner with our
+existing team on enhancements to a desktop application that will run on
+dedicated hardware for the operating room environment. Experience with the
+following technologies are *required*: Microsoft C#/WPF desktop application
+development with .Net 4.5 or later using Microsoft Visual Studio 2015.
+Experience with the following technologies are highly *desired*: Microsoft
+Test Manager, Visual Studio Team Services, Git, NVIDIA CUDA C/C++
+development, and Microsoft Office. This will be a part time contract
+position with compensation based upon skills and experience. Please send
+resumes to Recruiting@trackx.tech.
+
+
+*The United States Air Force School of Aerospace Medicine Department of
+Aeromedical Research (PhD)*
+
+Seeking  Postdoctoral candidates with a background in electrical
+engineering or computer science with experience in analyzing big data,
+waveforms, advanced machine learning techniques and predictive algorithms.
+This appointment will be administered by the via Oak Ridge Associated
+Universities (ORAU) via the Oak Ridge Institute for Science and Education
+(ORISE) program. This research opportunity will be located in Baltimore,
+MD. U.S. Citizenship is required for this opportunity. Interested
+postdoctoral researchers may apply to this opportunity via the ORAU
+Maryland Office Website:
+
+www.orau.org/maryland
+
+Project ID: USAFSAM-8818401545
+
+Please check out this opportunity and many others located on our website.
+While I have you attention, please note the U.S. Army Research Lab Summer
+Journeyman Fellowship Program is still actively seeking summer interns BS
+candidates to PhD candidates. U.S. Citizenship is NOT required for ARL.
+
+http://www.orau.org/arlfellowship/applicants/programs/journe
+yman-fellows-summer-program.htm
+
+ARL has six directorates seeking candidates this summer:
+
+=C2=B7         Computational and Information Sciences (CISD)
+
+=C2=B7         Human Research and Engineering Directorate (HRED)
+
+=C2=B7         Sensors and Electron Devices Directorate (SEDD)
+
+=C2=B7         Survivability and Lethality Analysis Directorate (SLAD)
+
+=C2=B7         Vehicle Technology Directorate (VTD)
+
+=C2=B7         Weapons and Materials Research Directorate (WMRD)
+
+
+*Application and Database Developer | EPA | Raleigh NC | For Master's or
+PhD*
+Job Description: https://www.zintellect.com/Posting/Details/2940
+EPA Program: http://orau.org/epa/
+
+
+*Multiple Data Science and Engineering Positions | LendUp | San Francisco
+CA & Richmond VA*
+LendUp  builds technology, credit
+products and educational experiences for the more than 80 million Americans
+who are currently shut out of mainstream banking because of poor credit or
+volatile income. That=E2=80=99s 56% of the US population. That=E2=80=99s a =
+lot of
+hardworking, deserving people. Our mission is to provide anyone with a path
+to better financial health. It=E2=80=99s a bold mission, and being a social=
+ly
+responsible lender is a big job. To say we=E2=80=99re up for the challenge =
+is an
+understatement. As we approach our five year anniversary, it=E2=80=99s an e=
+xciting
+time to be LendUp. We=E2=80=99re bringing our mission to life each and ever=
+y day.
+Together, we can turn our mission into an even bigger movement. LendUp is
+located in downtown San Francisco with offices in Richmond, VA. We=E2=80=99=
+re
+backed by prominent Silicon Valley investors including Y-Combinator, Google
+Ventures, Susa Ventures, Data Collective, Kleiner Perkins, Andreessen
+Horowitz Seed Fund, Kapor Capital, QED, Eagle Cliff Investors, Yuri Milner,
+Thomvest Ventures and many others.
+*Data science positions:*
+Data science intern 
+Data scientist 
+Principal data scientist
+
+Senior data analyst 
+*Engineering positions:*
+Engineering manager 
+Principal software engineer - backend
+
+Senior data engineer
+
+Senior DevOps Engineer
+
+*Senior Software Engineer - Back End
+ *
+*Software Engineer - Full Stack
+ *
+
+
+*Summer Internship program | Noblis | Northern VA*
+Apply Here: https://www.noblis.org/Careers/internship
+Learn more about what it's like to be an intern at Noblis here:
+https://www.linkedin.com/pulse/8-things-know-noblis-in
+tern-told-former-alexa-senio?trk=3Dhp-feed-article-title-comment
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

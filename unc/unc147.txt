@@ -1,0 +1,39 @@
+Hey,
+One possible cause to get this message is when you installed wrong =
+eclipse.
+For instance you could have installed Eclipse 64bit but your computer is =
+32 bit machine.
+We have office hour morning 9 to 11 so if you want a help in person we =
+would be happy to help.
+
+Best regards,
+-JP
+
+On Aug 20, 2015, at 7:30 PM, Jay Aikat  wrote:
+
+>=20
+> ---------- Forwarded message ----------
+> From: mlal123 
+> Date: Thu, Aug 20, 2015 at 7:24 PM
+> Subject: Eclipse Problem
+> To: Jay Aikat 
+>=20
+>=20
+> Hey professor so I downloaded Eclipse and unzipped it and such but =
+when I go to open the application it gives me this message " Java was =
+started but returned exit code =3D13" and followed up by a bunch of =
+words/cods potentially? So i'm just asking what did I do wrong. Thanks =
+in Advance!
+>=20
+>=20
+>=20
+> --=20
+> You received this message because you are subscribed to the Google =
+Groups "comp110-team" group.
+> To unsubscribe from this group and stop receiving emails from it, send =
+an email to comp110-team-cs+unsubscribe@cs.unc.edu.
+> To post to this group, send email to comp110-team-cs@cs.unc.edu.
+> To view this discussion on the web visit =
+https://groups.google.com/a/cs.unc.edu/d/msgid/comp110-team-cs/CAKUR4KH05W=
+ymt-Etp2fEu%2BVLk_RBXZhY54HT1vWh5FCXqtduNA%40mail.gmail.com.
+

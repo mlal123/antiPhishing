@@ -1,0 +1,24 @@
+Instructor Cynthia Sturton posted a new Note. 
+
+Poster Templates
+
+Below are two templates for 36x48 posters. Choose either one for your poster. From the help@cs folks:
+The plotter has one fixed dimension of 36" (with a 1/2" margin), and the other dimension should be greater than 18". The easiest way to print to the plotter is to export the poster as a PDF and copy the file to a flash drive or email it to yourself, then print it from the computer in SN245 (the room with the plotter). The earlier you print your posters, the more likely you are to avoid any issues with the plotter and any long queues.
+36x48_landscape.pptx36x48_portrait.pptxAs a reminder,
+Submit your group information to the Google Form (https://goo.gl/forms/HTJPKEw3TReQRLkz1) by 10/31/2017 @ 11:59 PMSubmit your group's topic to Sakai by 11/08/2017 @ 11:59 PMSubmit your poster as a PDF to Sakai by 11/29/2017 @ 11:59 PMPrint your poster and be ready to present 12/6/2017 in class
+
+
+Go to https://piazza.com/class?cid=j9echxy1myt28c&nid=j5vi9cpw2jn336&token=f2GxNxqCfOm to view. Search or link to this question with @165.  
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 435 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/j5vi9cpw2jn336 to un-enroll from this class.

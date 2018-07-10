@@ -1,0 +1,20 @@
+Your classmate posted a new Question. 
+
+CPU time
+
+When you're calculating CPU time for a program running on an X Ghz processor, do you divide (Instructions * CPI) by X or X*10^9?
+
+Go to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2fclass%3fcid%3dit054dp7v894t4%26nid%3dirqp4hpe58u5rs%26token%3df2GxNxqCfOm&data=01%7c01%7cmlal123%40live.unc.edu%7cb2f2a43e1f2f469591f608d3db1879c1%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=ylgoGko%2b5V4cQKXmFoueFOdiD97Ro8wqAJhgKy7V6VM%3d to view. Search or link to this question with @53. Follow it to get notified when a response comes in: https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2ffollow%2fit054dp7v894t4%2ff2GxNxqCfOm%2fa0fb1d50&data=01%7c01%7cmlal123%40live.unc.edu%7cb2f2a43e1f2f469591f608d3db1879c1%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=Z%2bXYxo%2bdNl1IpnqM3U3%2bAl%2b0UCODISscG3zOQm4d1Mw%3d 
+
+Sign up for more classes at https://na01.safelinks.protection.outlook.com/?url=http%3a%2f%2fpiazza.com%2func&data=01%7c01%7cmlal123%40live.unc.edu%7cb2f2a43e1f2f469591f608d3db1879c1%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=2ev2ntwmbgprjHjJhNtPVqIOipWEY44zIvzFlm95uuI%3d
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 411 at University of North Carolina at Chapel Hill. Go to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2flogin&data=01%7c01%7cmlal123%40live.unc.edu%7cb2f2a43e1f2f469591f608d3db1879c1%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=xKJm0VOhvZRqsxwNX8oV1w%2bn3i6u8fv%2bdaWtZmvtDBI%3d to sign in and manage your email preferences or proceed to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2firqp4hpe58u5rs&data=01%7c01%7cmlal123%40live.unc.edu%7cb2f2a43e1f2f469591f608d3db1879c1%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=%2fPdRZkoKoIB6sNrFokP05Sl8VZDFzfH9imhGMpL23Uk%3d to un-enroll from this class.

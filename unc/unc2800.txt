@@ -1,0 +1,18 @@
+From: Dylan Glotzer (dglotzer) - dglotzer@live.unc.eduHello all,  I mistakenly left out the final problem of the practice set on the so=
+lution:   TRUE or FALSE: any event A is independent of =
+its complement A^c  Solution: False. If A =
+and A^c are independent, we should have  P(A and A^c) =3D P(A) * P(A=
+^c)  However, the left-hand side is always 0. This is because the ev=
+ent {A and A^c} is empty because A, A^c share no common outcomes by definit=
+ion. (Equivalently, A and A^c are disjoint).  The right-hand side is=
+ not always 0. It is only equal to 0 if P(A) =3D 0 or P(A) =3D 1. For examp=
+le, if P(A) =3D 1/2, then A and A^c can NOT be independent.  Intuiti=
+vely, it should make sense that A and A^c aren't usually independent becaus=
+e if you know that A happened, this gives you the full information to say A=
+^c did not happen.     As always, let me know if you hav=
+e any questions. Good luck studying.     Best,  D=
+G     L ----------------------This forwarded =
+message was sent via Sakai @ UNC-Chapel Hill Messages from the  "STOR1=
+55.001.FA16" site.
+To reply to this message click this link to access Messages for this site: =
+STOR155.001.FA16.

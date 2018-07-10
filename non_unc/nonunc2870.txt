@@ -1,0 +1,62 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+delMin when there is an even number of nodes  (9/30/16 9:25 PM)
+
+Hey all,
+
+I am pretty stumped on how to write=C2=A0delMin to handle a heap with an ev=
+en number of nodes, meaning one of the nodes I encounter will only have one=
+ child, so I do not compare the left and right children.
+
+How should I think through the check that I include for this possibility?
+
+Also, is it better to write delMin with a while-loop or a for-loop?
+
+Thank you!
+
+
+Go to https://piazza.com/class?cid=3Ditqinwkz3bu6c0&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+BuildTest passing all, haven't written build() method  (9/30/16 9:39 PM)
+
+Hey peeps,
+
+Is anyone else having tests pass for Oracle which should=C2=A0not=C2=A0be p=
+assing?I have not written the Build method yet, however it is passing all o=
+f the Oracle tests. This could make it difficult once I=C2=A0do=C2=A0write =
+Build and need to test it.
+
+What should I do?
+Thank you!
+
+Go to https://piazza.com/class?cid=3Ditqj6lcu8ot29g&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

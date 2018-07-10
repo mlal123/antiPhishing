@@ -1,0 +1,24 @@
+An opoortunity to help the university and a broader community:
+
+The director of the Parr Center for Ethics is looking for help with scoring
+of the National High School Ethics Bowl, for which they are the host and
+headquarters.  They have developed an Excel spreadsheet to easily and
+reliably process the relative rankings for the teams involved in this
+year's competition. What they need is to create a general program that can
+be used in future years by the 35 regional organizers of the NHSEB--all
+they'd need to do is input the names of the teams competing at their
+regional event, and the scores associated with each team's competition, and
+then the program would crunch the numbers across a few dimensions that we'd
+specify.  It looks like they are looking for more flexibility than they can
+get with Excel.  They do have some funding available.  I have captured
+additional information on a google doc
+.
+If you are interested, please contact Prof. Shafer-Landau russshaferlandau
+at gmail.com) directly.
+
+Thanks,
+Diane
+
+-- 
+You received this message because you are subscribed to the Google Groups "Majors" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to majors+unsubscribe@cs.unc.edu.

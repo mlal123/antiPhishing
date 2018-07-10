@@ -1,0 +1,98 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+A3 Adept Pixel p  (2/08/16 2:16 PM)
+
+Several of the methods in Adept PictureImpl require Pixel p to be passed in=
+, which is a little confusing for me. =C2=A0Does this mean we need to creat=
+e=C2=A0(width * height) number of new Pixel objects in the PictureImpl clas=
+s? =C2=A0Where is the Pixel p object coming from?
+
+Go to https://piazza.com/class?cid=3Diked07y79kg1if&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Rounding Issue in getChar Method  (2/08/16 2:49 PM)
+
+So there have been other posts about how a slight rounding of a double won'=
+t effect the grading script in regards to the get intensity and blend metho=
+ds, but when you use the intensity in the getChar method, the rounding chan=
+ges which character the method returns.=C2=A0
+
+For example:=C2=A0
+Red =3D .7
+Green =3D .7
+Blue =3D .7
+Intensity (from getIntensity) =3D .6999999999999998
+Then getChar returns "s" when it should return ":" if the above intensity i=
+s functionally .7
+
+Is there a way to fix this?
+
+Go to https://piazza.com/class?cid=3Dikee6hd8ddl3ci&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A3 Adept  (2/08/16 2:56 PM)
+
+could someone please explain the countRange part of this assignment?=C2=A0
+
+Go to https://piazza.com/class?cid=3Dikeegho1tof6b7&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A3 psnr method  (2/08/16 4:05 PM)
+
+For PSNR, the wikipedia page says you need 2 images however in the method, =
+there is only one parameter passed in. How would I get a second picture in =
+the method. Also I don't understand noise.
+
+Go to https://piazza.com/class?cid=3Dikegwx9910m3ha&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+a3 PSNR Intensity  (2/08/16 5:08 PM)
+
+How do we get the Pixel Intensity of the Picture p and the Pixel[width][hei=
+ght] we made in there is no getIntensity inside PictureImpl. Do we need to =
+add that?
+
+Go to https://piazza.com/class?cid=3Dikej5iqzhtq6c9&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A3 Novice  (2/08/16 5:58 PM)
+
+For A3 novice, is it implied that we have to create a red, blue, and green =
+variable in order to return these values even though its not stated in the =
+directions? Also, do are the red, green, and blue values user input or do t=
+hey have a specific value to them?
+
+Go to https://piazza.com/class?cid=3Dikekyobbs9ibh&nid=3Dihs2fbbhsfx37n&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

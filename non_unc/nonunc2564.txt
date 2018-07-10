@@ -1,0 +1,88 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+Error when zipping and erased assignment  (9/08/16 8:34 PM)
+
+I followed the instructions to zip my assignment, and then everything from =
+my LinkedListA0 package was deleted. =C2=A0The package also says "src.Linke=
+dListA0" instead of just "LinkedListA0" as it previous did. =C2=A0Any help =
+would be appreciated
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3disv15g50g5467w%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c0e8ab8ba0722435b24bd08d=
+3d86b7200%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DMBXI4AUP9LxIskFIP4=
+Diq75yrRH0HN%2b%2f2stp7D9m2Ss%3d to view.
+
+------------------------------------------------------------
+External libraries in zip folder  (9/08/16 11:26 PM)
+
+Do we need to include the JRE system library in our build path when turning=
+ in our program?
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3disv7aya3j1c1jt%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c0e8ab8ba0722435b24bd08d=
+3d86b7200%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DogVSJsJevVZtTFvU%2=
+f0OmyvcSEDcwhCavF6QYRB3uqkY%3d to view.
+
+------------------------------------------------------------
+submission instruction - how to include bin file?  (9/08/16 11:46 PM)
+
+
+
+When trying to run export the file, I did not see the "bin" file option - w=
+ould that cause a problem for the official grader?
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3disv80ac3xu86sf%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c0e8ab8ba0722435b24bd08d=
+3d86b7200%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DANy4EFD7%2fadazPr8=
+1Z23NYLXoqOWGlrq75N0PQRwHP0%3d to view.
+
+------------------------------------------------------------
+Please turn in zip file. NOT JAR  (9/09/16 12:09 AM)
+
+The instructions are pretty clear at the bottom. We need a zip archive file=
+ from you guys. Not a jar.
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3disv8v4t55n77da%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c0e8ab8ba0722435b24bd08d=
+3d86b7200%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3D5uahe7Mjh%2fiKDg0v=
+BHy0aRGaPkeXQENsNZL4buZ5eVs%3d to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.co=
+m%2flogin&data=3D01%7c01%7cmlal123%40live.unc.edu%7c0e8ab8ba0722435b24bd08d=
+3d86b7200%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DrWSJq1STzFLqcAjRkk=
+BkstX%2fPjpPEuqGdyeBCmUjqYg%3d to sign in and manage your email preferences=
+ or proceed to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3=
+a%2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2fis6wk5m47ay4zy&data=3D01%7c01%7c=
+mlal123%40live.unc.edu%7c0e8ab8ba0722435b24bd08d3d86b7200%7c58b3d54f16c942d=
+3af081fcabd095666%7c1&sdata=3DGZZ5IzgNdThgNSZWbqnve29jT%2bL95IIH3GM3wsLZ1OQ=
+%3d to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://na01.safelinks.protection.ou=
+tlook.com/?url=3Dhttps%3a%2f%2fpiazza.com%2flink_accounts%2ff2GxNxqCfOm&dat=
+a=3D01%7c01%7cmlal123%40live.unc.edu%7c0e8ab8ba0722435b24bd08d3d86b7200%7c5=
+8b3d54f16c942d3af081fcabd095666%7c1&sdata=3DuXOrnacSk%2fODBgyXig6D1vmqxuysP=
+IpOsT7iiD%2f9B5Q%3d=

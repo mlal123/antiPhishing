@@ -1,0 +1,30 @@
+Dear Mangza Lal,
+
+You got 38 out of 58 in the COMP 550.02, Fall 2017 midterm examination. The percentage of points(out of 58) is 65.51%.
+
+The breakdown of points obtained in each question is as follows-
+Question 1: 9.0 points
+Question 2: 2.0 points
+Question 3: 2.0 points
+Question 4: 3.0 points
+Question 5: 4.0 points
+Question 6: 5.0 points
+Question 7: 4.0 points
+Question 8: 9.0 points
+Question 9: 0.0 points
+Question 10: 0.0 points
+
+The grading policy will be as follows-
+95%-100% : A+
+90%-95%  : A
+85%-90%  : A-
+80%-85%  : B+
+70%-75%  : B-
+67%-70%  : C+
+63%-67%  : C
+60%-63%  : C-
+50%-60%  : D
+0%-50%   : F
+
+Stephen M. Pizer, Kenan Professor, University of North Carolina. Email: pizer@cs.unc.edu. Work phone: 919/590-6085, fax: 919/590-1416. Address: Sitterson Hall, Campus Box 3175, Univ of NC, Chapel Hill, NC 27599-3175, USA
+    

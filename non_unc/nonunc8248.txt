@@ -1,0 +1,116 @@
+Nieman Lab: The Daily Digest
+Wednesday=2C January 24=2C 2018
+http://www.niemanlab.org/2018/01/punchier-and-stronger-and-with-way-more-w=
+omen-how-outside-magazine-got-to-be-badass-online/
+
+
+** =E2=80=9CPunchier and stronger=E2=80=9D and with way more women: How Ou=
+tside Magazine got to be badass online (http://www.niemanlab.org/2018/01/p=
+unchier-and-stronger-and-with-way-more-women-how-outside-magazine-got-to-b=
+e-badass-online/)
+------------------------------------------------------------
+A lot of publications are paying lip service to inclusiveness and diversit=
+y. Outside is actually doing it. By Laura Hazard Owen.
+http://www.niemanlab.org/2018/01/%f0%9f%a4%94-as-emojis-become-further-emb=
+edded-in-our-lives-how-can-journalists-find-the-stories-inside/
+
+
+** =F0=9F=A4=94: As emojis become further embedded in our lives=2C how can=
+ journalists find the stories inside? (http://www.niemanlab.org/2018/01/%f=
+0%9f%a4%94-as-emojis-become-further-embedded-in-our-lives-how-can-journali=
+sts-find-the-stories-inside/)
+------------------------------------------------------------
+=E2=80=9CThe hard part is not the technical stuff. The hard part is how to=
+ tell a story about this or ask the right questions. This is the most pers=
+onal form of data science.=E2=80=9D By Christine Schmidt.
+Here=E2=80=99s how to build a better newsletter=2C according to a bunch of=
+ self-professed newsletter nerds (http://www.niemanlab.org/2018/01/heres-h=
+ow-to-build-a-better-newsletter-according-to-a-bunch-of-self-professed-new=
+sletter-nerds/)
+What We=E2=80=99re Reading
+Columbia Journalism Review / Lyz Lenz
+The Los Angeles Times=E2=80=99 =E2=80=9Cprince of darkness=E2=80=9D =E2=86=
+=92 (https://www.cjr.org/business_of_news/la-times-lewis-dvorkin.php)
+Who is Lewis D=E2=80=99Vorkin=2C the editor-in-chief=2C and what does he w=
+ant with the LA Times? =E2=80=9CGifs=2C gifs=2C all manner of media.=E2=80=
+=9D Explore Nieman Lab=E2=80=99s coverage of D=E2=80=99Vorkin=E2=80=99s re=
+lationship with the Times and the organization=E2=80=99s troubled history=
+ and future. (https://twitter.com/NiemanLab/status/956233544858308614)
+EU Startups / Thomas Ohr
+German audience engagement startup Opinary raises =E2=82=AC3 million to ex=
+pand in the U.S. =E2=86=92 (http://www.eu-startups.com/2018/01/opinion-sha=
+ring-tool-opinary-raises-e3-million-to-strengthen-its-presence-in-the-unit=
+ed-states/)
+=E2=80=9COpinary already partners with a large international network of pu=
+blishers like NBC=2C The Times=2C The Guardian=2C The Independent=2C HuffP=
+ost=2C Spiegel Online and BILD. In Germany=2C more than 60 media companies=
+ use the tool to try to convert users from passive one-time visitors into=
+ loyal and engaged communities.=E2=80=9D
+Buzzfeed / Craig Silverman=2C Jeremy Singer-Vine
+An inside look at the accounts Twitter has censored in countries around th=
+e world =E2=86=92 (https://www.buzzfeed.com/craigsilverman/country-withhel=
+d-twitter-accounts)
+=E2=80=9CThe country with the most withheld accounts in the data set is Ge=
+rmany with 758=2C followed by with Turkey with 721=2C and France with 261.=
+ BuzzFeed News also identified 78 accounts withheld in Russia=2C 11 in Ind=
+ia=2C 4 in the United Kingdom=2C and 2 in Brazil.=E2=80=9D
+The Guardian / Ed Pilkington
+How the Drudge Report ushered in the age of Trump =E2=86=92 (https://www.t=
+heguardian.com/us-news/2018/jan/24/how-the-drudge-report-ushered-in-the-ag=
+e-of-trump)
+=E2=80=9CWhile the Drudge Report is a rightwing site true to the libertari=
+an=2C small government=2C anti-abortion=2C climate change-denying world vi=
+ew of its creator=2C its impact is felt much more widely. When the Guardia=
+n =E2=80=93 not a natural Drudge ally =E2=80=93 broke the story of Steve B=
+annon=E2=80=99s incendiary remarks in Michael Wolff=E2=80=99s new book Fir=
+e and Fury this month=2C fully a quarter of the vast traffic it generated=
+ came through Drudge.=E2=80=9D
+Splinter / David Uberti
+Slate=E2=80=99s staff has voted to unionize =E2=86=92 (https://splinternew=
+s.com/slate-staffers-vote-to-unionize-in-defiance-of-stiff-ma-1822348390)
+=E2=80=9CSlate Group Chairman Jacob Weisberg=E2=80=A6 warned of a future=
+ =E2=80=98filled with bureaucracy and procedure=E2=80=99=E2=80=94a world t=
+hat =E2=80=98is just not Slate-y.=E2=80=99 He continued: =E2=80=98All a un=
+ion can guarantee is a conversation about a contract.=E2=80=99 Slate staff=
+ers=2C a group known for their contrarianism=2C will now begin testing tha=
+t thesis in earnest.=E2=80=9D
+Digiday / Max Willens
+How The New York Times is using interactive tools to build loyalty (and ul=
+timately subscriptions) =E2=86=92 (https://digiday.com/media/new-york-time=
+s-enlisting-interactive-news-desk-subscription-drive/)
+=E2=80=9CIn recent months=2C the team has launched calendars to integrate=
+ into readers=E2=80=99 Google and Apple calendars to inform them of conten=
+t produced by the paper. Later this year=2C it will launch a modified vers=
+ion of a text message experiment it ran during the 2016 Summer Olympics in=
+ Rio. It=E2=80=99s also helping the Times=E2=80=99 recently formed Reader=
+ Center find more ways to connect more tightly with its reader base. The i=
+dea: Foster loyalty and habit=2C the key pathways to subscription.=E2=80=
+=9D
+The Verge / Casey Newton
+Here are more than two questions about Facebook=E2=80=99s news trust surve=
+y =E2=86=92 (https://www.theverge.com/2018/1/23/16925898/facebook-trust-su=
+rvey-news-feed-media)
+=E2=80=9CThere=E2=80=99s a missing piece of the puzzle here=2C and it=E2=
+=80=99s this: no one knows how important the survey rankings will be to th=
+e distribution of news on Facebook.=E2=80=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3Deb811d8946)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3Deb811d8946)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

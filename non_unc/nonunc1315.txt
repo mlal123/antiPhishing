@@ -1,0 +1,318 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+Lecture 6: Encapsulation  (1/27/16 1:35 PM)
+
+We'll finish up our motivating example for object-oriented programming from=
+ Tuesday and then start with the principle of encapsulation and what it mea=
+ns for how we write OO code.
+
+Slides and example code in the normal places.
+
+Go to https://piazza.com/class?cid=3Dijx6a4d4xcs2xj&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 Novice  (1/27/16 2:14 PM)
+
+So is the program predetermined to be 25 rows of 7 columns? Or should we co=
+de a program that would make the array size vary based on the input of the =
+user???
+
+Go to https://piazza.com/class?cid=3Dijx7nqt3dad4tg&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A1 Novice Test failures  (1/27/16 2:45 PM)
+
+Hi, all of my code passed in the auto grader except A1 Novice Test 2. It ap=
+pears I have some sort of rounding error. I made a test case in my novice p=
+rogram using the one student's info=C2=A0below that failed and found their =
+grade to be: =C2=A02.8499999999999996. The expected grade is supposed to be=
+ 2.85, and thus my program maps this to a different letter grade. I have no=
+ idea how to fix this however, as my formula for grade calculation involves=
+ only doubles?
+Here is my formula for calculating grades:
+double weightedAverage =3D (((4.0*assignmentGrade) + recitationGrade + (1.5=
+*midterm1) +=C2=A0
+     (1.5*midterm2) + (2.0*finalExam))/10.0);
+
+I apologize if this issue has been addressed previously in piazza... if so,=
+ I have not seen it. Any help is appreciated. Thanks!
+
+
+Here is the Novice test 2 autograder feed log:
+A1Novice Test 2
+
+Running a1novice.A1Novice
+Input:=20
+11
+Student A 3.85 3.85 3.85 3.85 3.85
+Student AMinus 3.5 3.5 3.5 3.5 3.5
+Student BPlus 3.15 3.15 3.15 3.15 3.15
+Student B 2.85 2.85 2.85 2.85 2.85
+Student BMinus 2.5 2.5 2.5 2.5 2.5
+Student CPlus 2.15 2.15 2.15 2.15 2.15
+Student C 1.85 1.85 1.85 1.85 1.85
+Student CMinus 1.5 1.5 1.5 1.5 1.5
+Student DPlus 1.15 1.15 1.15 1.15 1.15
+Student D 0.85 0.85 0.85 0.85 0.85
+Student F 0.84 0.84 0.84 0.84 0.84
+
+
+Output:
+S. A A
+S. AMinus A-
+S. BPlus B+
+S. B B-
+S. BMinus B-
+S. CPlus C+
+S. C C
+S. CMinus C-
+S. DPlus D+
+S. D D
+S. F F
+
+
+Output did not match expectations.
+Expected output:
+S. A A
+S. AMinus A-
+S. BPlus B+
+S. B B
+S. BMinus B-
+S. CPlus C+
+S. C C
+S. CMinus C-
+S. DPlus D+
+S. D D
+S. F F
+
+A1Novice Test 2 fails. 0 points
+
+Go to https://piazza.com/class?cid=3Dijx8r3aanuu5ol&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 Novice - How do I set the dimensions of a second array without input?  (=
+1/27/16 2:59 PM)
+
+So I know that I have to get input from the user in order to set the dimens=
+ions for the width*height array. I decided to set up a character array afte=
+r that, but I'm not sure how to set the dimensions to be equal to the dimen=
+sions of the width*height array. Since I can't prompt the user for the same=
+ dimensions, is there a way to copy the Scanner's inputs into the second ar=
+ray?
+
+Go to https://piazza.com/class?cid=3Dijx99vxhqdj46l&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Adept Grades slightly off  (1/27/16 3:29 PM)
+
+Hey all,
+Java newbie here, I finally figured out how to correctly submit to Auto Gra=
+de and have discovered that my grade calculations for Adept are slightly of=
+f. It rounds some of the grades up one step: What should be a D+ to a C, wh=
+at should be an F to a D, etc.
+
+What I tried doing is converting the recitation score and assignment grades=
+ to percentages,=C2=A0then converting them to a 4.0 scale using the followi=
+ng formula, then mapping that value to a letter grade using the Weighted Av=
+erage table from Novice.=C2=A0
+
+For example, here is how I tried converting the recitation score to a 4.0 s=
+cale:
+
+double recitAvg =3D (((s.nextDouble( )/15.0)*100.0)/20.0)-1.0;
+
+
+Corresponding error message:
+
+Output:
+A. Student A
+B. Student B+
+C. Student C+
+D. Student C
+E. Student D
+
+
+Output did not match expectations.
+Expected output:
+A. Student A
+B. Student B+
+C. Student B-
+D. Student D+
+E. Student F
+
+
+Thank you!
+
+Go to https://piazza.com/class?cid=3Dijxabzzmjk63n3&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+compiling issue with autograder  (1/27/16 3:33 PM)
+
+Hi,=C2=A0After I submitted=C2=A0my JAR file, the autograder gave me this:
+
+Looking for package: a1novice
+Found a1novice directory, compiling...
+...failed!
+There was a problem in compiling the code in the package a1novice.
+One possible cause is that you did not include the .java source files in yo=
+ur JAR file.
+Another possibility is that your code contains syntax errors.
+The grading script will still attempt to run but may not work.
+Plese resubmit when fixed.
+Here is the output from the compiler:
+javac: file not found: *.java
+Usage: javac  
+use -help for a list of possible options
+
+It then went on to run the code anyway. I failed all my test cases, but it=
+=C2=A0appears as though all my outputs are right when I run the test cases =
+on my computer. I've checked very carefully.
+Is there any chance this initial error message has anything to do with my p=
+rogram failing the tests?
+If not, can anyone help me troubleshoot=C2=A0outside of my code?
+
+Go to https://piazza.com/class?cid=3Dijxaht7ucmp7o9&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A1 Jedi 2nd Test Off by One Grade  (1/27/16 4:18 PM)
+
+So my Jedi won't pass the 2nd test because one of the students' weighted av=
+erage is one letter grade too high, any ideas?
+
+A1Jedi Test 2
+
+Running a1jedi.A1Jedi
+Input:=20
+6
+14 14 14 14 14 14=20
+20
+Amy Earhardt 0 6.6 8.0 8.4 1.5 11.8 10.8 51 82 73
+Carol Franklin 13 10.4 10.3 12.3 8.7 7.3 7.2 84 93 99
+Brad Anderson 4 2.1 7.7 1.5 7.8 1.5 9.2 51 92 53
+Gayatri Earhardt 11 7.7 11.2 7.3 9.1 10.2 10.0 85 60 96
+Amy Bradley 5 12.0 6.2 7.9 4.1 2.0 5.9 88 64 62
+Finnegan Bradley 11 9.9 13.2 8.6 13.2 11.7 7.4 68 71 89
+Finnegan Cooper 14 11.9 10.9 9.6 11.6 13.7 8.5 67 79 89
+Brad Earhardt 15 8.6 8.3 9.5 12.9 10.2 8.9 92 93 82
+Finnegan Cooper 1 13.9 9.6 4.3 3.1 2.0 12.1 53 65 67
+Esther Earhardt 13 7.6 11.5 12.8 11.2 7.1 12.6 65 86 75
+Gayatri Dasgupta 10 5.2 11.9 1.4 6.2 7.9 5.3 99 82 87
+Carol Bradley 13 9.5 7.7 13.0 9.5 9.2 13.2 91 66 70
+Gayatri Anderson 14 4.8 1.1 3.1 2.6 6.0 4.0 74 86 71
+Dinesh Dasgupta 10 8.7 7.1 11.0 10.6 13.1 10.6 87 54 91
+Finnegan Dasgupta 8 13.2 4.4 3.4 0.1 11.8 13.2 91 57 58
+Finnegan Franklin 10 10.0 8.0 13.9 11.9 11.6 9.6 85 83 85
+Dinesh Earhardt 2 0.3 3.1 2.7 10.5 7.0 12.9 79 88 76
+Finnegan Bradley 14 8.6 13.2 7.4 8.7 11.1 7.3 72 79 95
+Gayatri Franklin 11 7.1 11.1 7.5 9.0 10.0 1.1 83 88 65
+Finnegan Earhardt 11 11.0 8.9 10.2 12.4 7.3 8.9 85 71 90
+
+
+Output:
+A : 0
+A-: 0
+B+: 0
+B : 1
+B-: 6
+C+: 4
+C : 3 <-- one of these should be
+C-: 1 <-- here
+D+: 3
+D : 1
+F : 1
+
+
+Output did not match expectations.
+Expected output:
+A : 0
+A-: 0
+B+: 0
+B : 1
+B-: 6
+C+: 4
+C : 2
+C-: 2
+D+: 3
+D : 1
+F : 1
+
+Go to https://piazza.com/class?cid=3Dijxc2o4tbx4459&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 Novice Row/Column issues  (1/27/16 4:48 PM)
+
+Hello everyone!
+I am having an issue with my output printing in the correct order. I origin=
+ally got this as my output:
+
+
+
+I then attempted to switch the rows and columns, only to end up with this:
+
+
+
+If anyone else had this problem, I'd love to hear how you fixed it. Any hel=
+p at all would be appreciated. Thank you!
+
+Go to https://piazza.com/class?cid=3Dijxd5v94jdd3tk&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A1 Comments  (1/27/16 4:54 PM)
+
+Do we need to comment in the code in assignment 1 at all? if so, when shoul=
+d we do it / in what style?
+
+Go to https://piazza.com/class?cid=3Dijxddx0fdu91qr&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Does autograder accepted hw2 yet?  (1/27/16 5:23 PM)
+
+Does autograder accepted hw2 yet?=C2=A0
+
+Go to https://piazza.com/class?cid=3Dijxeeu9y8p170q&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+jedi output  (1/27/16 5:33 PM)
+
+the auto grader marked both of my jedi tests wrong but every single value i=
+s correct. the only difference is the spacing, could that be why its wrong?
+
+Go to https://piazza.com/class?cid=3Dijxerb5py7s7mu&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

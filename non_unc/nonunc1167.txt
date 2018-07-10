@@ -1,0 +1,53 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+Lecture 3: Basic Java Programming, cont'd.  (1/18/16 10:10 PM)
+
+We'll continue with basic Java programming concepts. Same slides and code as posted for lecture 2.
+
+
+Go to https://piazza.com/class?cid=ijktp6mzodr7eh&nid=ihs2fbbhsfx37n&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A1 Jedi Output Issue  (1/18/16 10:16 PM)
+
+After inputing the example input into my A1 Jedi console, my output is the following:
+
+A : 1
+A-: 0
+B+: 1
+B : 1
+B-: 1
+C+: 0
+C : 0
+C-: 0
+D+: 0
+D : 1
+F : 0
+
+This output differs from the example output on the assignment page (assignment page has B+:0, B :2, B-: 1, D: 0, F :1). I tried calculating an example GPA by hand using Frank Failure's grades:
+Frank Failure 5 5 5 5 5 5 40 50 50
+And got .9658/D, like in my output, and not <85/F like in the example output on the assignment page.
+
+Is anyone else experiencing this issue, or is there something wrong with my weighting algorithm?
+
+Thanks!
+
+Go to https://piazza.com/class?cid=ijktx2bunmnf8&nid=ihs2fbbhsfx37n&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 401-001 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2GxNxqCfOm

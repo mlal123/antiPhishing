@@ -1,0 +1,52 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+string.h in Lab10  (11/16/16 1:07 PM)
+
+Are we allowed to use the methods in the string.h package for lab10?=C2=A0
+
+Go to https://piazza.com/class?cid=3Divl8q3eapdisw&nid=3Dirqp4hpe58u5rs&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Can't use String.h or extra methods?  (11/16/16 1:38 PM)
+
+If we can't write our own methods and use them in the top, and we can't use=
+ the string.h class, what are we supposed to do?=C2=A0
+
+Go to https://piazza.com/class?cid=3Divl9u0houzpa7&nid=3Dirqp4hpe58u5rs&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+printf ok for print?  (11/16/16 2:51 PM)
+
+Is printf() ok for doing our printing?=C2=A0
+
+
+Go to https://piazza.com/class?cid=3Divlcgfb9l2e1oc&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

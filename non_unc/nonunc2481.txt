@@ -1,0 +1,69 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+printList Method in LinkedListPlayground  (9/03/16 12:19 PM)
+
+This method is included in LinknedListPlayground.java:
+
+public static void printList(LinkedListImpl L){
+    Node curr=3DL.root;
+    for(int i=3D-1; i ");
+      curr=3Dcurr.next;
+    }
+    System.out.println();
+  }
+
+When I run it, this method prints the data in the root node. Should it?
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3disnealeu99o24c%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7cba5c391951264822723608d=
+3d437b9c2%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DwIfoA5AocJ2S6jeUEZ=
+EzD5BCPK73RXFLMHvzMTLnDRo%3d to view.
+
+------------------------------------------------------------
+iterable / iterator included?  (9/03/16 2:28 PM)
+
+So I understand that we can't use code from the Java library. =C2=A0Does th=
+at include iterable=C2=A0/ iterator?
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3disniw9b24wu3yg%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7cba5c391951264822723608d=
+3d437b9c2%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DBuH3lzGUDnMykLf4pl=
+TtkPnTtmYXZfrOeutyoRI8Nck%3d to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.co=
+m%2flogin&data=3D01%7c01%7cmlal123%40live.unc.edu%7cba5c391951264822723608d=
+3d437b9c2%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DPVbkV7%2br0tlQjheJ=
+5xafkZkttwLYzJCGSPeev9yzqw4%3d to sign in and manage your email preferences=
+ or proceed to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3=
+a%2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2fis6wk5m47ay4zy&data=3D01%7c01%7c=
+mlal123%40live.unc.edu%7cba5c391951264822723608d3d437b9c2%7c58b3d54f16c942d=
+3af081fcabd095666%7c1&sdata=3Dl7sjydW4ARRFiszEfoU6QtsiXFPk164wnnD5VMoLvXU%3=
+d to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://na01.safelinks.protection.ou=
+tlook.com/?url=3Dhttps%3a%2f%2fpiazza.com%2flink_accounts%2ff2GxNxqCfOm&dat=
+a=3D01%7c01%7cmlal123%40live.unc.edu%7cba5c391951264822723608d3d437b9c2%7c5=
+8b3d54f16c942d3af081fcabd095666%7c1&sdata=3DENA%2fPfyxw1Qkxrke4sC9PbJJIMnHC=
+Kgkx1AZO5cD90I%3d=

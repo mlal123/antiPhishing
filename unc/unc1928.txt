@@ -1,0 +1,452 @@
+We are all wrapped up with employer campus visits for this year but if you
+are still looking for an internship, pay attention to this email as quite a
+number of *new internship opportunities *have been added!
+
+*Internships & PT Opportunities:*
+
+*Tarheel Tech, Software Programmer Internship, (Chapel Hill, NC) *
+
+Seeking a paid intern for part-time programming work during the summer. The
+intern needs to have intermediate level (or higher) programming skills in
+any modern language and an interest in improving those skills under the
+direction of a seasoned software engineer. No beginner programmers please!
+The internship will be divided into 3 phases: a familiarization and
+learning phase, a moderate complexity programming task phase and a more
+advanced programming task phase. Each phase will be designed to take
+approximately 3 to 4 weeks at about 10 hours per week for a programmer with
+moderate skills. Since phase completion will be based on goals not time,
+your mileage may vary. Specifics of the programming tasks cannot be
+provided until the successful candidate has signed an NDA but it will
+involve writing 3D computer graphics software.
+
+A stipend of $1500 plus an optional $500 bonus is being offered. The
+stipend will be paid in 3 installments of $500 each upon successful
+completion of specific goal-oriented and time-based milestones. The $500
+bonus will be paid upon achievement of certain =E2=80=9Cstretch goals.=E2=
+=80=9D Tarheel
+Technologies reserves the right to end the internship after payment of the
+first $500 installment if the milestones for that installment are not met.
+
+*Requirements: *U.S. Citizenship (documentation required), Intermediate
+level programming skills in any modern language (coursework or
+self-taught), Interest in improving programming skills, Willingness to sign
+an NDA and contracting agreement
+
+*Preferred: *Completed one semester of College Calculus with B or higher;
+Own a reasonably powerful laptop or desktop computer; Some experience
+writing code in C#; Rising Sophomore or Junior
+
+*Nice-to-Have: *Knowledge of and interest in 3D computer graphics,
+Familiarity with Unity3D
+
+*To Apply: *Send an email with PDF resume, description of relevant
+experience (including personal projects) and any questions to
+chip@tarheeltech.com. Qualified candidates will be contacted via email to
+schedule an initial phone interview, possibly followed by an in-person
+interview at UNC University Career Services.
+
+*About Tarheel Technologies: *Edward =E2=80=9CChip=E2=80=9D Hill is a consu=
+lting software
+engineer with over 30 years of experience developing computer graphics
+applications ranging from video games to commercial flight simulators to
+immersive military training environments. Chip=E2=80=99s active projects co=
+nsist of
+training simulations, web-delivered 3D virtual shopping experiences used
+for research and a head-mounted VR application used for health care
+counseling.
+
+
+Ravetree, Internsh*ip** (Raleigh NC)
+        *We are looking for a software engineer intern for the Summer. This
+position could result in employment in the future. The ideal candidate will
+have a passion for web application development and must have at least one
+of the following skills: node.js, AngularJS, MongoDB. Anyone who is
+interested can email me (Davidson Wicker, Founder and CEO) directly at
+davidson@ravetree.com. -
+
+*nCino, IT, Developer & Support Engineer Internships (Wilmington NC) *See
+Careerolina postings #795154 and #795155 and #795156
+
+*RENCI, Funded Data Science Internship for Grad Students *  As part of the
+South BD Hub, we are announcing a new funded internship program in data
+science.  The program is designed for graduate students to be the
+applicant, but they must identify a data science-related startup company
+willing to host them for the summer. The program is now live and details
+can be found at http://www.southbdhub.org/
+
+*Clinwiki.org, Internship (Virtual/Chapel Hill/Durham)               *Looki=
+ng
+for intern with technical skills in MySQL, Ruby on Rails, AWS and/or
+Data Visualization (Tableau) to assist on aspects of the product build out
+the first product. Experience with clinical trials in some way a plus.
+
+Team is Chapel Hill, Durham and Chicago based. Most work would be home
+based but some meetings in/around Chapel Hill or Durham are likely. Project
+starts May 1, internship can start May 1 or after completion of academic
+year and run through summer, beyond if a fit. To apply contact
+williamhoos@gmail.com with description of interest and relevant
+experience/Resume
+
+*Dimensional Fund Advisors, Internships (Austin TX)  *
+https://dimensional.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-7fef6d6b6a5e/=
+candidate/so/pm/1/pl/1/opp/226-Internship-in-IT/en-GB
+
+*Gap, Summer Internships (San Francisco)                       *Software
+Engineer 1 - Internship  https://www.pringlio.com/job/1004
+            User Experience Designer (Interaction) Intern
+https://www.pringlio.com/job/1011                Web Content Developer -
+Internship https://www.pringlio.com/job/1008
+*Web-App Project (Virtual)*
+
+I want to create a program that will compare the prices of all products on
+retail websites like Wal-Mart and Target with Amazon's price and be able to
+save all of the products that fit my price and sales rank parameters. The
+program will be a web-app that can crawl through online stores (Walmart,
+Target, Best Buy, Amazon, etc) and analyze prices with Amazon's price (Done
+through the title, UPC's or ASIN's).  The app should run in the browser and
+use a document database (MongoDB preferred).  The back-end should be
+written preferably in Node JS.  Front end should be a basic dashboard style
+with a modern JavaScript framework (Angular, backbone, or ember will do).
+The app should be configured for cloud deployment. This is a single project
+that should be completed in a relatively short time. If it is successful it
+could lead to more projects throughout the year as more websites are
+added. Please
+submit your resume. Include a paragraph on how your skills and experience
+would be a fit for this project. Feel free to email me with any questions.
+I have a detailed mock up. Thank you,Christopher Bilezikian (Jacksonville
+FL) CJBilezikian@gmail.com
+
+*UNC Davis Library Student Consultants (Chapel Hill NC)*
+
+Briefly, consultants provide support for data services, geographic
+information services,
+
+data visualization, and digital humanities and provide training.  They are
+looking to hire for both summer and fall.
+
+The position description is online:
+http://gis.unc.edu/ResearchHubConsultant.pdf
+
+
+*Freshspire Backend & Mobile App Developer-Summer FT (Cary NC)*
+*Apply at getfreshspired.com/jobs *
+
+
+*Sphere Part-time Developer *
+Our flagship feature is event automation: we automatically schedule events
+between our users and their friends based on mutual interests and available
+times. We're highly privacy-conscious: we do not track our users online or
+give any of their information to any third parties. We are currently
+looking to fill a developer role that can start part-time and later become
+full-time. The selected candidate will work in Java with the Spring
+framework and later with our algorithm. Could you forward this email to
+your students? To apply, email hr@sphere.ms with their resume.
+
+*FitCity Internship - 1789 Venture (Chapel Hill NC)*
+FitCity is looking for a technical cofounder to join the team. FitCity is a
+one-stop
+shop fitness platform that allows users to connect to people, places, and
+fitness professionals in their area based on GPS location. See attachment
+for full description and contact info!
+
+*CDW On-Campus Internship - (Sophomore or Junior)*
+As technology continues to shape the way learning outcomes are achieved in
+Higher Education, we are seeking passionate individuals to help connect IT
+departments, university administration and CDW so that current and future
+students get the most out of their college investment. Join the Campus
+Intern team to gain real world experience with a Fortune 500 company that
+has been consistently recognized as one of the best places to work in the
+technology sector.
+
+*Essential Job Functions*
+=E2=80=A2 Challenging, innovative assignments providing an opportunity to g=
+ain
+working knowledge in the areas of IT analytics, desktop services, data
+management, web development, technical change management,
+project management, and cyber security
+=E2=80=A2 Shadow professionals in a variety of Information Technology disci=
+plines
+and to partner with members of the business
+=E2=80=A2 Research and identify campus structure as it pertains to Informat=
+ion
+Technology
+=E2=80=A2 Educate customers on the CDWG partnership by highlighting the val=
+ue and
+expertise offered to the University
+=E2=80=A2 Participate in ongoing professional and technical trainings
+=E2=80=A2 Impact the learning environment and student technology experience=
+ by
+leveraging your student voice in ongoing conversations with IT influencers
+
+*Qualifications*
+=E2=80=A2 Must be a sophomore or junior pursuing a degree in Information
+Technology, Information Systems, Computer Science, Management Information
+Systems or any other related major
+=E2=80=A2 Effective problem-solving skills, analytical aptitude, and the ab=
+ility to
+learn quickly and embrace change
+=E2=80=A2 Strong organization and time management skills to work in an inde=
+pendent
+environment
+=E2=80=A2 Ability to communicate effectively and in a professional manner w=
+ith all
+levels of an organization
+=E2=80=A2 Availability to work on campus for 15-25 hour/week within standar=
+d
+business hours
+
+*Internship Benefits*
+=E2=80=A2 Build Your Professional Network =E2=80=93 Get exposure to IT and =
+sales
+professionals within the University, CDW and Manufacturer Partners to start
+networking with industry professionals and technology experts
+=E2=80=A2 Real World Experience =E2=80=93 Gain professional experience that=
+ will translate
+into a wide range of fields and support your future career goals
+=E2=80=A2 Flexible Schedule =E2=80=93 Be able to balance your academic work=
+ load and the
+CDWG Campus Internship by mapping out your own schedule
+=E2=80=A2 No Commute Required =E2=80=93 Explore the IT environment at your =
+University at
+your convenience, on your own schedule - pick up hours between classes
+=E2=80=A2 Collaboration =E2=80=93 Work in a team sales environment and deli=
+ver on both
+personal and team goals
+
+If you would like to be considered this position please visit this link to
+join our talent network:
+https://www.applytracking.com/optin.aspx?c=3D9JK1mW82n%2foxg9VzZAZ3OZfinai5=
+Yz7h&source=3DDS-15361&def=3Du_ShortTextField22-UNC
+
+*Southern Startup Data Science Internship (For Grad Students)*
+The program is designed for graduate students and must identify a data
+science-related startup company willing to host them for the summer. The
+program is now live and details can be found below and at
+http://www.southbdhub.org/
+
+*Data Incubator Fellowship (For Grad Students)*
+
+The Data Incubator is an intensive 8 week fellowship that prepares Masters,
+PhDs, and postdocs in STEM + social science fields seeking industry careers
+as data scientists. The program is free for Fellows and supported by
+sponsorships from hundreds of employers across multiple industries. In
+response to the overwhelming interest in our earlier sessions, we will be
+holding another fellowship.
+
+*Locations: *There will be both an in-person (in NYC, DC, SF) and online
+section of the fellowship. There is a common application for both the
+online and in-person sections.
+
+*Dates: *All sections will be from* 2016-06-06* to *2016-07-29*
+
+*Application Link: **https://www.thedataincubator.com/fellowship.html#apply
+*
+
+*Who should apply: *Anyone within one year of graduating from a masters or
+PhD program or who has already obtained a masters or PhD is welcome to
+apply. Applications from international students are welcome. Everyone else
+is encouraged to *sign up for a future session*
+
+*.*
+
+*Chiltern Statistical Programming Intern (Cary NC)*
+Math and computer science students in at least their junior or senior year
+of an undergraduate program. Graduate students welcome as well.
+
+*About the Company:* Chiltern (Previously Theorem Clinical Research)
+www.chiltern.com is a Global Contract Research Organization that works with
+data from pharmaceutical companies to determine the safety and efficacy of
+new medications.
+*About the Internship:*
+Analyze and manipulate data for pharmaceutical drug trials using SAS (SAS
+knowledge preferred but not required); Year round paid position; On the job
+training and mentorship
+*Requirements: *Minimum GPA of 3.2; Must be able to meet demanding
+timelines while maintaining quality work; Able to work 20 hours per week
+during school semesters. Winter and summer schedules are preferably 40
+hours per week but can be flexible.
+Email your resume to Michael Stackhouse at Michael.Stackhouse
+@Chiltern.com
+
+
+*Robotics Unlimited Inc. Internship (Pensacola FL)*
+We are a start-up bringing cutting-edge robotics technologies to the mass
+market and are currently developing super cool robots for the entertainment
+ markets. We have a opening for a robotics intern who has
+experience/knowledge in mechanical design, electronic board design,
+firmware development and mobile development. Our work environment is always
+very casual and fun but can get high-demand during deadlines.
+*What we are looking for:*
+We are looking for student that can participate in a team to build complex
+robotics systems. More than a good resume with a great GPA, we are looking
+for applicants who have a large portfolio of robotics projects and hands on
+experience. This position can either be part-time or full-time. Please send
+a portfolio (pictures, screenshots) of the past robot you have developped
+along with a one page resume. *WE WILL NOT REVIEW an application without a
+portfolio. Do not forget to indicate your availabilities on your resume.*
+
+*Responsibilities:*
+Work with the team on designing a brand new robot.
+Help us and contribute to every single development aspect of the robot (you
+may do mechanical design one day and programming the next day)
+*Knowledge, Skills, and Abilities:*
+Solidworks design
+PCB design
+Circuit board population
+Rapid-prototyping (hands on experience required)
+Firmware dev (Microcontroller programming)
+iOS/Android development
+Previous experience in making robots
+Work under limited supervision
+Excellent communication skills
+Above average PC skills
+Enthusiasm for engineering
+U.S citizenship or Permanent Residency required
+Able to start immediately
+*Recommended:*
+Good understanding of electric motors / drive train
+Experience designing complex electromechanical products
+*Qualifications:*
+Pursuing or having a Bachelor=E2=80=99s degree in related engineering field
+*Make aplication to:*
+Sebastien Cotton, Ph.D
+Founder and CEO
+Robotics Unlimited Inc
+seb@robotics-unlimited.com
+
+
+
+*Full-Time Permanent Positions:*
+
+*Knowledgent Jr. Big Data Engineer (Warren NJ/NY)*
+*Knowledgent* is in search of talented and driven Computer Science majors
+graduating in May that are interested in a fulltime career as a Jr. Big
+Data Engineer. Students must be passionate about coding, database
+management, Big Data technologies, and are willing to relocate to the New
+York/New Jersey Area. *Knowledgent* is a young and rapidly growing Data &
+Analytics consultancy that provides endless opportunities for career
+advancement.*Knowledgent* not only provides training in consulting and
+next-generation technologies, but a work environment that encourages
+learning through collaboration with Senior Engineers and self-study. For
+those that need a new and interesting challenge to face every day, check
+out our website atwww.knowledgent.com and apply online via our Careerolina
+posting #794819.
+
+*Elevation Computer Programmer (Charlotte NC)*
+See attachment
+
+*ReliaQuest Security Analyst (Tampa FL or Las Vegas NV)*
+Posted in Careerolina
+ #794200
+
+*EPA (Masters degree required)*
+
+EPA Scientific Application and Database Developer (MS Degree)
+
+
+EPA Safe & Healthy Communities Assessment Tool Support Associate
+
+
+
+
+*EMC Software Engineer 2 (RTP NC)*
+Are you a self-directed and motivated student looking to develop your
+skills, and get hands-on software development experience in an agile team?
+Are you the go-getter who is not afraid of taking on challenging problems
+and finds great satisfaction in delivering innovative solutions? Come join
+us! Our team in EMC2 RTP is working on next generation storage
+virtualization architecture integrating with VMware. As part of our team,
+you will be developing components for VMware Virtual Volumes (VVOLS) and
+Storage Policy Based Management (SPBM). Last year, our team released VVols
+Technical Preview for vVNX - Free download
+,
+the first-to-market software-defined solution showcasing VVols and SPBM.
+What we are looking for:
+
+   - Most importantly work well with a team of talented software engineers
+   with diverse skill sets, background, and experience.
+   - Strong motivation to learn new things and embrace change
+   - Strong problem solving and debugging skills
+   - Attention to detail and quality
+   - Knowledge in C++, Java, Object Oriented Design, algorithms, and data
+   structures (must be flexible to work on all to stretch your technical of
+   knowledge)
+   - Experience in Unix/Linux Development Environment
+   - Background with Perl or any scripting language
+
+*You will have an edge if you have:*
+
+   - Familiarity of Agile software development process
+   - Knowledge of Virtualization: VMware, Hyper-V
+   - Experience in Enterprise Storage System architecture (SAN/NAS)
+   - Experience with JavaScript, REST API
+
+To apply, email your resume to Vinod Rajasekaran at
+vinod.rajasekaran@emc.com or you can also submit your resume online here:
+https://jobs.emc.com/job/research-triangle-park/software-engineer-2-virtual=
+ization/414/1621808
+
+
+*Other Opportunities:*
+
+*GE Unimpossible Missions: The University E**dition*
+
+When you decided to embark on this course of study, I like to think that
+you did it because you wanted to make a difference in the world. To advance
+science, push the boundaries of human knowledge and do things that others
+never thought possible. Here=E2=80=99s your chance to show the world what y=
+ou can
+do. GE is committed to solving the world=E2=80=99s problems =E2=80=93 no ma=
+tter how
+challenging they might seem. And they=E2=80=99re offering three internships=
+ at one
+of their Global Research Centers and a scholarship to the most ambitious
+student who shares their goal. To win, you need to come up with the next
+experiment for their series of Unimpossible Missions, which you can watch
+here , here
+ and here
+. If your idea is chosen,
+it=E2=80=99ll be filmed and used for the next installment. I hope you=E2=80=
+=99ll take
+advantage of this fun opportunity to make people rethink what can be done
+in the world =E2=80=93 and advance your career in the process. You=E2=80=99=
+ll find more
+about the project at Unimpossible Missions: The University Edition
+.
+
+
+
+*GREAT SEARCH SITES/Services:*
+
+*Careerolina Listings (Multiple jobs and Internships posted- Check often!)*
+
+https://uncch-csm.symplicity.com/students/jobboard/b6e22a473be8b78084486a70=
+4fa2f92c
+
+
+*500 Miles App*
+
+The 500 Miles free app features "Stacks" to help students find the perfect
+employer for them. One such Stack that we* published last week features 135
+technology companies hiring interns for this summer.* These companies
+including Pandora, Splunk, Palo Alto Networks, Fitbit, Blue Apron and
+Box are currently hiring for over *450 open internship roles*. These
+internship positions include Software Engineering, UI/UX Design, Data
+Science, Operations, Social Media, Data Science and Sales among others.
+
+*Dice.com*
+All tech jobs, contracts and internships.
+
+*Students.linkedin.com *
+Search all entry level and internship postings on LinkedIn
+
+*Indeed.com*
+Largest job aggregater on the web
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

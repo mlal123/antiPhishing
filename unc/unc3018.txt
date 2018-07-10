@@ -1,0 +1,138 @@
+Okay, great!
+
+On Tue, Oct 11, 2016 at 11:03 AM, Lal, Mangza  wrote:
+
+> It just runs on my laptop and we'll be using some form of headgear so it
+> shouldn't be loud or take up space at all
+> ------------------------------
+> *From:* Hope Woodhouse 
+> *Sent:* Tuesday, October 11, 2016 8:45:15 AM
+>
+> *To:* Lal, Mangza
+> *Subject:* Re: Demos
+>
+> Great, thank you! We will include this in our floorplans and demo
+> descriptions. Do you need anything to be able to show the demo?
+> Additionally, is there anything we should keep in mind when assigning a
+> location (is it loud, does it take up space, do you need to be near a
+> specific room, etc)?
+>
+> Best,
+> Hope
+>
+> On Mon, Oct 10, 2016 at 5:58 PM, Lal, Mangza  wrote:
+>
+>> Sorry I didn't respond sooner. The game is called Dodge the Blue Devil,
+>> and essentially you have this falling square and you have to dodge it based
+>> on which side you hear the sound. So if the block is falling on the left
+>> lane, you'll hear sound only on your left ear and vice versa. The job of
+>> the user is to dodge that falling object so when you hear noise on the left
+>> side the player would want to move right and so forth. The falling object
+>> gets faster after each successful dodge.
+>> ------------------------------
+>> *From:* Hope Woodhouse 
+>> *Sent:* Monday, October 10, 2016 1:02:53 PM
+>>
+>> *To:* Lal, Mangza
+>> *Subject:* Re: Demos
+>>
+>> Great, thank you! Could you provide a demo description and demo name that
+>> we can put on our floorplans?
+>>
+>> Best,
+>> Hope
+>>
+>> On Mon, Oct 10, 2016 at 12:13 PM, Lal, Mangza 
+>> wrote:
+>>
+>>> sure I can attend and demo
+>>> ------------------------------
+>>> *From:* Hope Woodhouse 
+>>> *Sent:* Monday, October 10, 2016 9:48:41 AM
+>>> *To:* Lal, Mangza
+>>> *Subject:* Re: Demos
+>>>
+>>> Hi Mangza,
+>>>
+>>> Thanks for your help! The open house will be this Saturday, October 15th
+>>> from 1pm-4pm in Sitterson and Brooks. We will serve lunch to all demoers
+>>> and volunteers before the event starts (at 12:15pm). Let me know if you
+>>> will be able to help with this and I can make sure we assign a good
+>>> location based on your demo needs.
+>>>
+>>> Best,
+>>> Hope
+>>>
+>>> On Sat, Oct 8, 2016 at 7:43 AM, Gary Bishop  wrote:
+>>>
+>>>> Hope will have all the details. Thanks Mangza.
+>>>>
+>>>> On Sat, Oct 8, 2016 at 1:28 AM, Lal, Mangza 
+>>>> wrote:
+>>>>
+>>>>> I wouldn't mind. When and where would it be?
+>>>>> ------------------------------
+>>>>> *From:* Gary Bishop 
+>>>>> *Sent:* Friday, October 7, 2016 1:31:06 PM
+>>>>> *To:* Audrey Sharp; Ben Mustard; Dmitri Grozdanov; Pineda, Felipe
+>>>>> Osiel; Mangza Lal; Naeim Zarei; Ramon Galeana; Kim, Raphael; Tim Wu; Hayes,
+>>>>> Trey Trey
+>>>>> *Subject:* Demos
+>>>>>
+>>>>> Especially you guys who worked last year, I'd like you to demo for
+>>>>> high school students on October 15th. You could demo your Maze Day games.
+>>>>>
+>>>>> Can I get some volunteers? It will count at work time.
+>>>>>
+>>>>
+>>>>
+>>>
+>>>
+>>> --
+>>> Hope Woodhouse
+>>> External Relations
+>>> UNC Department of Computer Science
+>>> 129 Sitterson Hall, CB 3175
+>>> Chapel Hill, NC 27599
+>>> woodhouse@cs.unc.edu
+>>> (t) 919-590-6047
+>>> (f) 919-590-6105
+>>>
+>>
+>>
+>>
+>> --
+>> Hope Woodhouse
+>> External Relations
+>> UNC Department of Computer Science
+>> 129 Sitterson Hall, CB 3175
+>> Chapel Hill, NC 27599
+>> woodhouse@cs.unc.edu
+>> (t) 919-590-6047
+>> (f) 919-590-6105
+>>
+>
+>
+>
+> --
+> Hope Woodhouse
+> External Relations
+> UNC Department of Computer Science
+> 129 Sitterson Hall, CB 3175
+> Chapel Hill, NC 27599
+> woodhouse@cs.unc.edu
+> (t) 919-590-6047
+> (f) 919-590-6105
+>
+
+
+
+-- 
+Hope Woodhouse
+External Relations
+UNC Department of Computer Science
+129 Sitterson Hall, CB 3175
+Chapel Hill, NC 27599
+woodhouse@cs.unc.edu
+(t) 919-590-6047
+(f) 919-590-6105

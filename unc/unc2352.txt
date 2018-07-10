@@ -1,0 +1,18 @@
+Dear Mangza Lal  Your Inventory Inspection for Space Carmichael 5=
+44B has been submitted successfully.    Occupant: Mangza Lal =
+ Room Space: Carmichael 544B   =
+   Room: Carmic=
+hael 544  Room Type: Double   <=
+TD width=3D"50%">Location: Carmichael  Flo=
+or/Suite: Carmichael 543-546    =
+Room SpaceInventory TypeInventory ItemConditionCommentsReview CommentsReviewed ByAgreed<=
+td>Carmichael 544BBathroomToilet, Sink, Shower, Mirror, C=
+abinetsGood/AcceptableLal, Mangza<=
+td>YesCarmichael 544BHall Common AreasK=
+itchen stove, Kitchen microwave, Tables, ChairsGood/AcceptableLal, MangzaYesCarmichael =
+544BRoomFloor, Ceiling, Walls, Windows, Room Door, Locks,=
+ LightingGood/AcceptableLal, MangzaYesCarmichael 544BRoom Accessories=
+Thermostat, Towel Racks, Recycling Bin, Ethernet port, Air Conditioner, Bul=
+letin Strip/boardGood/AcceptableLal, Ma=
+ngzaYesCarmichael 544BRoom FurnitureBed, Desk, Dresser, Chair, Closet/WardrobeGood/AcceptableLal, MangzaYesCarmichael=
+ 544BSafetyFire Alarm, Sprinklers, Evacuation PlanGood/AcceptableLal, MangzaYes

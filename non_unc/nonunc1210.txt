@@ -1,0 +1,36 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+How to create a JAR file?  (1/21/16 9:15 PM)
+
+I'm trying to submit the programs on the autograder but I'm having problems making a JAR file to submit. I tried clicking on the directory and using the export option but I can't find any option to export files into a JAR file. Can I get a little help on this? Thank you!
+
+Go to https://piazza.com/class?cid=ijp21squ5gw4np&nid=ihs2fbbhsfx37n&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Shameless Plug!  (1/21/16 11:49 PM)
+
+So... not sure if you all knew this, but one of your your TAs, David, worked on the movie Wreck-it Ralph (along with a few other awesome movies you know) ! I haven't told him about this post, so feel free to go freak him out with your new-found knowledge!
+
+Nathan
+
+
+
+Go to https://piazza.com/class?cid=ijp7jj3sl5n3x8&nid=ihs2fbbhsfx37n&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 401-001 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2GxNxqCfOm

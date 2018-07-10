@@ -1,0 +1,73 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+tree correctness  (10/26/16 6:22 PM)
+
+hi! in my splay solution i've created a tree that ends up like this:
+
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 blank
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 \
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 is
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 / =C2=A0 =C2=
+=A0\
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0hello =C2=A0name
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 / =C2=A0 =C2=A0 =C2=A0 \
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0my =C2=
+=A0 =C2=A0 =C2=A0world
+
+but on the splay tree visualizer, it should end up like:
+
+=C2=A0 =C2=A0blank
+=C2=A0 =C2=A0 =C2=A0 =C2=A0\
+=C2=A0 =C2=A0 =C2=A0hello
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0\
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0is
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 \
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 name
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 / =C2=A0 =C2=A0\
+=C2=A0 =C2=A0 =C2=A0 =C2=A0my =C2=A0 world
+
+i feel like my solution would be a bit better since it's bushier, despite i=
+t not following the exact conventions. i'm assuming my oracle testing would=
+ end up wrong if i submitted what i have now. would=C2=A0this discrepancy b=
+e a problem?=C2=A0
+
+Go to https://piazza.com/class?cid=3Diurhlpqpq0z2oo&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Cases where splayed node doesn't end up back at root?  (10/26/16 7:55 PM)
+
+Even in ZigZig or ZigZag, the rotations only move the node you want to spla=
+y up two levels. If the node is still not at the root, should we keep check=
+ing to see if it's at the root, and repeat the splays until that happens?
+
+Go to https://piazza.com/class?cid=3Diurkwy7e2et13r&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

@@ -1,0 +1,116 @@
+Nieman Lab: The Daily Digest
+Friday=2C February 2=2C 2018
+http://www.niemanlab.org/2018/02/the-atlantic-is-killing-its-comments-in-f=
+avor-of-a-new-letters-section-to-showcase-reader-feedback/
+
+
+** The Atlantic is killing its comments in favor of a new Letters section=
+ to showcase reader feedback (http://www.niemanlab.org/2018/02/the-atlanti=
+c-is-killing-its-comments-in-favor-of-a-new-letters-section-to-showcase-re=
+ader-feedback/)
+------------------------------------------------------------
+=E2=80=9CDesign-wise=2C comments are treated as an afterthought. We wanted=
+ to find a way to elevate the best ideas from our readers.=E2=80=9D By Ric=
+ardo Bilton.
+http://www.niemanlab.org/2018/02/in-italy-at-least-facebook-will-let-fact-=
+checkers-go-hunting-for-fake-news/
+
+
+** In Italy=2C at least=2C Facebook will let fact-checkers =E2=80=9Cgo hun=
+ting=E2=80=9D for fake news (http://www.niemanlab.org/2018/02/in-italy-at-=
+least-facebook-will-let-fact-checkers-go-hunting-for-fake-news/)
+------------------------------------------------------------
+Plus: Skepticism about this Biz Stone=E2=80=93backed fake-news-fighting st=
+artup may be warranted. By Laura Hazard Owen.
+http://www.niemanlab.org/2018/02/heres-how-arcs-cautious-quest-to-become-t=
+he-go-to-publishing-system-for-news-organizations-is-going/
+
+
+** Here=E2=80=99s how Arc=E2=80=99s cautious quest to become the go-to pub=
+lishing system for news organizations is going (http://www.niemanlab.org/2=
+018/02/heres-how-arcs-cautious-quest-to-become-the-go-to-publishing-system=
+-for-news-organizations-is-going/)
+------------------------------------------------------------
+=E2=80=9CThe amount of effort we=E2=80=99d have to invest into doing these=
+ things is completely outweighed by effort it would take for us to just do=
+ it with Arc.=E2=80=9D By Shan Wang.
+What We=E2=80=99re Reading
+The Guardian / Paul Lewis
+=E2=80=98Fiction is outperforming reality=E2=80=99: how YouTube=E2=80=99s=
+ algorithm distorts truth =E2=86=92 (https://www.theguardian.com/technolog=
+y/2018/feb/02/how-youtubes-algorithm-distorts-truth)
+=E2=80=9CMuch has been written about Facebook and Twitter=E2=80=99s impact=
+ on politics=2C but in recent months academics have speculated that YouTub=
+e=E2=80=99s algorithms may have been instrumental in fueling disinformatio=
+n during the 2016 presidential election.=E2=80=9D
+Digit
+=E2=80=9CIn fact=2C we=E2=80=99ll go so far as to say the promise of chatb=
+ots is dead=E2=80=9D =E2=86=92 (https://blog.digit.co/2018/01/31/mobile-ap=
+p-redesign.html)
+=E2=80=9CThat is=2C if the potential we envisioned for them was ever truly=
+ alive. The technology to make AI-powered assistants truly useful is still=
+ far out of reach=2C and people shouldn=E2=80=99t have to close that gap b=
+y adapting their behavior. Which is why=2C after years of being told chatb=
+ots are the future=2C there=E2=80=99s still no killer app to prove it.=E2=
+=80=9D
+Columbia Journalism Review / Pete Brown
+More than half of Facebook Instant Articles partners may have abandoned it=
+ =E2=86=92 (https://www.cjr.org/tow_center/are-facebook-instant-articles-w=
+orth-it.php)
+=E2=80=9COf 72 publishers that Facebook identified as original partners in=
+ May and October 2015=2C our analysis of 2=2C308 links posted to their Fac=
+ebook pages on January 17=2C 2018=2C finds that 38 publications did not po=
+st a single Instant Article=E2=80=94the platform=E2=80=99s fast-loading=2C=
+ native format.=E2=80=9D
+The New York Times / Graham Roberts
+The New York Times will soon add augmented reality to its stories =E2=86=
+=92 (https://www.nytimes.com/interactive/2018/02/01/sports/olympics/nyt-ar=
+-augmented-reality-ul.html)
+The new features will debut next week in an article about the Winter Olymp=
+ics.
+AdExchanger / Alessandro De Zanche
+A publisher=E2=80=99s paywall strategy is about more than the bottom line=
+ =E2=86=92 (https://adexchanger.com/the-sell-sider/publishers-paywall-stra=
+tegy-bottom-line/)
+=E2=80=9CThe view that adding a paywall to request payment in exchange for=
+ user access to content as simply a new revenue opportunity would be misle=
+ading and dangerous. Before publishers can decide which paywall model make=
+s the most sense for their business=2C they must examine their own identit=
+y and audience. These factors are=2C in my opinion=2C the root causes of t=
+he bumpy road that many publishers find themselves traveling.=E2=80=9D
+Digiday / Max Willens
+Flipboard cozies up to Facebook-weary publishers =E2=86=92 (https://digida=
+y.com/media/flipboard-cozies-facebook-weary-publishers/)
+Flipboard=E2=80=99s audience is a blip compared to Facebook=E2=80=99s=2C b=
+ut the app has seen some success in its attempts to charm publishers looki=
+ng for a new referral traffic source.
+Washington Post / Bernhard Clemm
+Facebook wants its users to drive out fake news. Here=E2=80=99s the proble=
+m with that. =E2=86=92 (https://www.washingtonpost.com/news/monkey-cage/wp=
+/2018/02/01/facebook-wants-to-drive-out-fake-news-by-having-users-rate-new=
+s-outlets-credibility-heres-the-problem-with-that/)
+There are two big problems with Facebook=E2=80=99s new =E2=80=9Ctrusted so=
+urces metric: Users tend to equate =E2=80=9Ctrusted sources=E2=80=9D with=
+ names they recognize=2C and there is strong chance that partisan bias wil=
+l skew the results.
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3D13a1614985)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3D13a1614985)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

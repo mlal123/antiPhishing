@@ -1,0 +1,83 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+2013 #25  (2/17/16 9:15 AM)
+
+Why is this question False? I thought that the Scoreboard object was immuta=
+ble after creation because all of its parameters are Strings.=C2=A0
+
+Go to https://piazza.com/class?cid=3Dikqx8nlporj7cs&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Midterm 1 Spring 2013 Questions  (2/17/16 9:59 AM)
+
+1. Why specifically is "hello" + 3 legal, but "hello" * 3 not legal?
+Can doubles or other value types=C2=A0appended to strings as well?
+
+2. Why is it okay for a block of statements to be empty? What purpose does =
+it serve?
+
+3. Method=C2=A0overloading=C2=A0is an example of polymorphism, correct? Is =
+constructor overloading also an example of polymorphism?
+
+Would you mind also giving a brief description of the purpose of polymorphi=
+sm?
+
+Thank you!
+
+Go to https://piazza.com/class?cid=3Dikqytd7tgic31j&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Last Lecture for Midterm Material  (2/17/16 12:21 PM)
+
+What is the last lecture that covered midterm 1 material? I remember the pr=
+ofessor mentioning this in class last week, but don't remember the day.
+
+Go to https://piazza.com/class?cid=3Dikr3vse0xss50w&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Kimberly's office hours today  (2/17/16 1:01 PM)
+
+Sorry to have to move them again-- instead of 2-6pm I'll be holding them 3-=
+7pm instead. All the best for=C2=A0tomorrow!
+
+Go to https://piazza.com/class?cid=3Dikr5aycado01sv&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+2014 #20  (2/17/16 1:13 PM)
+
+Can someone explain this loop to me? I'm confused and I keep getting a numb=
+er smaller than 6.=C2=A0
+
+Go to https://piazza.com/class?cid=3Dikr5q11077a7pp&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

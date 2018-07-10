@@ -1,0 +1,616 @@
+*Opportunities:*
+
+Student Web Intern | Kenan Institute of Private Enterprise
+
+The Kenan Institute of Private Enterprise (outreach arm of the
+Kenan-Flagler Business School) is currently looking to quickly hire a new
+student intern with a little IT related knowledge/experience.
+
+My current student works about 20 hours per week at $15/hour.  The work
+ranges from helping code PHP Wordpress websites to just plain old entering
+html content to managing equipment inventory. Email Jack Walker with your
+resume ASAP if interested. Jack_Walker@kenan-flagler.unc.edu
+
+
+Paid Summer Position | Making Science Visible Project | May 8 Deadline
+You will engage in iterative design processes to create technology for
+real-world clients.
+=C2=B7         You will work with Ryoo=E2=80=99s research team, science tea=
+chers, and
+content experts to develop, test, and revise interactive visualizations
+(e.g., simulations and modeling environments) for underrepresented,
+linguistically diverse 8th-grade students.
+=C2=B7         Science content and visualization designs will be provided b=
+y the
+research team.
+=C2=B7         You will analyze interactive data captured from visualizatio=
+ns
+and develop adaptive, automated feedback to help students learn science
+better.
+
+Position Description (also attached to this email):
+http://tinyurl.com/msxf8wm
+Online Application: http://tinyurl.com/uncsummer17
+
+
+Full-time Software Test Engineer | Aqueti | Durham NC
+Aqueti builds camera array imaging systems for extreme resolution
+interactive imaging applications. With significant expertise in optical
+design, computational imaging, computer architectures, and real-time
+processing we are developing next-generation imaging systems for
+applications ranging from drones to security to broadcast.
+*Job Description*
+The Aqueti team is looking to hire a software test engineer who will be
+tasked with the verification and validation of Aqueti software on new and
+existing hardware platforms. While this position includes hands-on testing,
+the primarily task will be the design and development of a testbed and
+associated software for the automatic testing of hardware and software
+components.
+This position requires a meticulous approach to software validation and
+will depend on a solid understanding of C/C++ and low-level computer
+organization. The ideal candidate will have a background in computer
+science or electrical engineering with a broad knowledge of computer
+software including computer architectures, operating systems, and network
+computing. Experience in cluster computing, hardware-based languages such
+as CUDA or OpenCL, or database experience is a plus.
+*Key skills include:*
+=C2=B7         Work with the marketing and development teams to define test
+criteria for software and hardware components.
+=C2=B7         Provide detailed description and documentation of test resul=
+ts to
+track system test performance over time.
+=C2=B7         Document testing strategies and work with software developme=
+nt
+team to ensure compatibility with design requirements and objectives.
+=C2=B7         Design and implement automated testbed to provide rapid assu=
+rance
+of code reliability upon commit.
+=C2=B7         Gauge the effectiveness of existing testing procedures Provi=
+de
+feedback as to potential improvements subsequent benefits.
+=C2=B7         Develop test-specific tasks using the existing testing syste=
+m
+framework.
+=C2=B7         Coordinate and oversee in-depth testing and validation of
+components.
+*Qualifications*
+=C2=B7         A bachelor=E2=80=99s degree in a technical field with experi=
+ence in
+software testing and validation or an advanced degree in computer science
+or a related discipline.
+=C2=B7         Detailed understanding of computer architectures with signif=
+icant
+experience in software development and debugging.
+=C2=B7         Strong communication and interpersonal skills
+=C2=B7          4+ years C/C++ development experience
+
+Contact Steve Feller at sfeller@aqueti.com
+
+
+
+Full-time Junior Software Developer | Farmshots
+Backend / Web API / Image Processing / Machine Learning
+*About FarmShots*
+FarmShots is a Raleigh-based startup applying machine vision to satellite
+imagery, enabling
+growers to produce more food for an expanding population. We do this by
+generating costsaving
+metrics and insights for many aspects of agriculture. Currently we serve
+over 10 million
+acres worldwide.
+*Description*
+Candidate will be responsible for developing new features for clients and
+assisting in the
+research and development of cutting-edge machine vision technologies. These
+client features
+will usually be in the form of backend server processes that manage a
+combination of customer
+data and satellite imagery.
+Candidate will report directly to the FarmShots CTO. It is important to be
+able to communicate
+well, and posses effective time management skills. Candidate will be
+expected to provide daily
+verbal progress reports and weekly written reports.
+*Compensation*
+=E2=80=A2 Salary: $60,000
+=E2=80=A2 Negotiable equity
+=E2=80=A2 Other benefits
+*Requirements*
+=E2=80=A2 Communicates effectively
+=E2=80=A2 Manages time well
+=E2=80=A2 Highly self-motivated; takes initiative
+=E2=80=A2 Able to work well in a team
+=E2=80=A2 Fluent in Python
+=E2=80=A2 Experience with NumPy
+=E2=80=A2 Possesses Solid Understanding of Linux Bash Scripting
+Preview attachment Software Engineer - Level 5.pdf
+Software Engineer - Level 5.pdf
+214 KB
+=E2=80=A2 File Permissions
+=E2=80=A2 Piping
+=E2=80=A2 Able to work solely with terminal when
+needed
+=E2=80=A2 Experienced using Git
+=E2=80=A2 Able and willing to switch tasks/direction
+quickly
+=E2=80=A2 Able to pick up new languages quickly
+*Desired Experience*
+=E2=80=A2 Frameworks / Packages
+=E2=80=A2 AngularJS
+=E2=80=A2 Flask
+=E2=80=A2 OpenCV
+=E2=80=A2 SciKit Image
+=E2=80=A2 SciKit Learn
+=E2=80=A2 Languages
+=E2=80=A2 C
+=E2=80=A2 Go
+=E2=80=A2 JavaScript
+=E2=80=A2 Tools
+=E2=80=A2 Amazon Web Services
+=E2=80=A2 CircleCi (or other continuous
+integration system)
+=E2=80=A2 GitHub
+=E2=80=A2 Quay.io
+=E2=80=A2 Utilities
+=E2=80=A2 Docker
+=E2=80=A2 Nginx
+Contact Brooks Stephenson at brooks@farmshots.com or 919-727-9652
+
+
+*Front End Developer | Launch CH Startup*
+Sideline Fantasy Sports  i=
+s
+looking for a frontend developer in the Raleigh/Triangle area for a 3 month
+project - emphasis on UX. Using Angular 2/typescript. Contact
+tyler@playsideline.com if interested!
+
+
+Teaching Assistants | Girls Who Code
+
+We're looking for an Instructor and 2 Teaching Assistants for our new
+two-week fee-for-service immersion program for middle and high school
+girls. Campus programs are designed to incite a real passion for computer
+science in girls, build their awareness of careers in technology and
+inspire them to join a supportive sisterhood of girls who code across the
+U.S. Our Campus programs are hosted on-site at partner universities and
+secondary schools and take place during the summer months. The UNC Chapel
+Hill program is for high school girls and runs from July 31 - August 11.
+The job postings are linked below.
+
+Instructor JD
+
+
+Teaching Assistant
+
+
+
+
+*AppleCare Part-Time Job | Chapel Hill | Apply ASAP!*
+Students will begin getting contacted this week. Don't wait to apply.
+
+*https://www.apple.com/jobs/us/college_advisor.html
+*
+
+
+App Design Intern | Mako Medical Laboratories | Raleigh NC | Deadline May
+12th
+
+Mako Medical Laboratories is a leader in the medical laboratory space,
+based in North Raleigh. In addition to growing within the laboratory
+industry, Mako=E2=80=99s focus is on investing in local communities and our
+country=E2=80=99s veterans. Our mascot, Mikey the Mako, visits children in =
+local
+hospitals and attends charity events; our Logistics department is staffed
+entirely by US Military Veterans and Reservists; and our employees
+volunteer their time at a variety of charitable organizations and events.
+
+The purpose of this internship is to give students with an interest in
+pursuing careers in app design an opportunity to apply what is learned in
+the classroom taking an app from R&D to launch. Interns will assist in
+research, design, and development of an application for mobile phone and
+tablet use. They will collaborate to guide the development process, assist
+with layout design and prototyping, write source code to program the
+application, and lead troubleshooting efforts.
+*Desired Skills:*
+-          Organized and self-motivated
+-          Team player
+-          Analytical thinker
+-          Creative problem-solver
+-          Ability to program in at least one programing language (C#,
+Java, etc.)
+-          Knowledge of programing for various operating systems
+-          Understanding of platforms and development tools available
+
+Applications and questions should be submitted to Taylor Kern at
+tkern@makomedical.com by 05/12/2017.
+
+
+*Summer Graduate Research Assistantship | **UNC Makerspace *
+
+We are looking for graduate students who are available to work this summer,
+and preferably can continue working through the 2017-2018 academic year. A
+5-10 hour/week graduate student research assistant position is available
+for the period June 1, 2017 through July 31, 2017 in the Kenan Science
+Library (G301 Venable Hall).  Hours are between 9 a.m. and 5 p.m. Monday
+through Friday. Pay is $668.21 per month (for 10 hours/week; no tuition
+reimbursement). The Kenan Science Library Makerspace
+ is part of the University
+Libraries=E2=80=99 Research
+Hub  and the BeAM (Be a
+Maker)@Carolina network. It enables UNC students, staff, and faculty to
+explore emerging technologies and fosters a creative community of makers
+and making. The Makerspace provides access to 3D design tools, 3D printing,
+3D scanning, electronics & soldering, and sewing. See some of our projects
+on our website. 
+
+
+
+*Primary responsibilities*
+
+   - Staff the Kenan Library Makerspace
+   - Responsible for opening and closing the library and checking out books
+   and technology when full-time staff are not available
+   - Responsible for daily 3D printing operations
+   - Provide consultations on 3D design and scanning
+   - Assist with the operation and maintenance of equipment in the Kenan
+   Makerspace
+   - Teach small group workshops
+   - Assist with outreach events, documentation, communication, and
+   assessment
+   - Other projects as assigned
+
+*Eligibility*
+
+   - If UNC student in the Spring 2017 semester, must be registered in
+   Summer School and/or pre-registered for the Fall 2017 Semester.
+   - If *not* UNC Student in the Spring 2017 semester, then must be
+   registered for Summer School.
+
+*Required qualifications*
+
+   - Aptitude for learning and troubleshooting new technologies
+   - Ability to teach workshops and conduct demonstrations
+   - Flexible; adaptable; comfortable with experimentation and
+   self-directed learning
+   - Ability and enthusiasm for working with the public
+   - Excellent communication skills
+   - Ability to work both independently and on a team
+   - Ability to manage multiple projects
+
+*Preferred qualifications*
+
+   - Experience with any of the following: 3D printing, 3D scanning, design
+   software, electronics, soldering, textiles/sewing, prototyping, crafting
+   - Teaching experience
+   - Graphics, photography, or web design experience
+
+*To Apply*
+
+Applications will be accepted until the position is filled. Please send a
+cover letter and resume to: kenan-library@listserv.unc.edu
+
+
+
+*Mobile Application Dev Intern | Lincoln Financial Group | Durham NC*
+RESPONSIBILITIES
+=E2=80=A2Use case development
+=E2=80=A2Business case analysis
+=E2=80=A2Application Architecture
+=E2=80=A2Multi Platform, Hybrid, Mobile Application Development
+=E2=80=A2Delivery of Application to App Stores
+=E2=80=A2Application implementation
+SKILLS
+=E2=80=A2Multiplatform (iOS and Android) mobile application development and
+ecosystem experience is a must have.
+=E2=80=A2Strong analytic skills
+=E2=80=A2Self-motivated and results oriented
+=E2=80=A2Exceptional Communication skills (verbal and written)
+Education: Rising College Junior or Senior
+Major: Any related to Information Technology, Computer Science, Information
+Systems etc. GPA: Minimum GPA of 3.00, Preferred GPA of 3.35 and above
+Interested students should send their resume ASAP to Kimberly Matko at
+Kimberly.Matko@lfg.com
+
+
+*Web Application Dev Intern | Lincoln Financial Group | Durham NC*
+RESPONSIBILITIES
+=E2=80=A2Use case development
+=E2=80=A2Business case analysis
+=E2=80=A2Application Architecture
+=E2=80=A2Develop web based Ideation and opportunity reconnaissance solution=
+ with
+limited Mobile Web App accessibility
+=E2=80=A2Problem solving and collaboration with external support teams
+SKILLS
+=E2=80=A2Database design and management
+=E2=80=A2Database application development
+=E2=80=A2Experience with Knack builder or experience with any Rapid Develop=
+ment
+Database Application platforms
+=E2=80=A2Experience with CRMs
+=E2=80=A2Strong analytic skills
+=E2=80=A2Self-motivated and results oriented
+=E2=80=A2Exceptional Communication skills (verbal and written)
+=E2=80=A2Effective networking skills
+Education: Rising College Junior or Senior
+Major: Any related to Information Technology, Computer Science, Information
+Systems etc. GPA: Minimum GPA of 3.00, Preferred GPA of 3.35 and above
+Interested students should send their resume ASAP to Kimberly Matko at
+Kimberly.Matko@lfg.com
+
+
+*Innovation Operations Intern | Lincoln Financial Group | Durham NC*
+RESPONSIBILITIES
+=E2=80=A2Requirements and business case analysis
+=E2=80=A2Support Operations and Project Management for both the RTP and SFO
+locations
+=E2=80=A2Contribute to development of web based Opportunity Ideation soluti=
+on with
+Mobile App accessibility
+=E2=80=A2Problem solving and collaboration with external support teams
+=E2=80=A2Relationship support for external venture groups and ecosystems as=
+ well as
+internal partners and business stakeholders
+SKILLS
+=E2=80=A2Community Management
+=E2=80=A2Project Management
+=E2=80=A2Customer Relationship Management or Customer Support
+=E2=80=A2Project management skills
+=E2=80=A2Small team administrative experience
+=E2=80=A2Strong analytic skills
+=E2=80=A2Self-motivated and results oriented
+=E2=80=A2Exceptional Communication skills (verbal and written)
+=E2=80=A2Effect networking skills
+Education: Rising College Junior or Senior
+Major: Any related to Information Technology, Computer Science, Information
+Systems etc.
+GPA: Minimum GPA of 3.00, Preferred GPA of 3.35 and above
+Interested students should send their resume ASAP to Kimberly Matko at
+Kimberly.Matko@lfg.com
+
+
+*IoT Application Dev Intern | Lincoln Financial Group | Durham NC*
+RESPONSIBILITIES:
+=EF=82=A7Use case development
+=EF=82=A7Business case analysis
+=EF=82=A7Application Architecture
+=EF=82=A7Development of Multi-Platform, Hybrid Application Development
+=EF=82=A7Delivery of Application to pre-prod state
+=EF=82=A7Application implementation
+=EF=82=A7Application integration with multiple third party service provider=
+s
+SKILLS (aka - what do I get to work with??):
+=E2=80=A2Experience (even recent) with Google, Twilio, Amazon and Automated
+Insights NLG/NLP services.
+=E2=80=A2Experience with developing for Amazon Echo or any other IoT front =
+end or
+backend platforms
+=E2=80=A2Strong analytic skills
+=E2=80=A2Self-motivated and results oriented
+=E2=80=A2Exceptional Communication skills (verbal and written)
+=E2=80=A2Effect networking skills
+=E2=80=A2Willing to relocate
+Education: Rising College Junior or Senior
+Major: Any related to Information Technology, Computer Science, Information
+Systems etc. GPA: Minimum GPA of 3.00, Preferred GPA of 3.35 and above
+Interested students should send their resume ASAP to Kimberly Matko at
+Kimberly.Matko@lfg.com
+
+
+*Machine Learning Internship | SAS | Cary NC*
+
+We are working on the cutting edge methods in Artificial Intelligence and
+Machine Learning.
+
+We are looking for a summer student to work with us on Reinforcement
+Learning at SAS.
+
+The focus will be to come up with innovative applications that would solve
+SAS customers=E2=80=99 problems. This position is to open Master/Phd  or ad=
+vanced
+undergraduate students. Here is the link to the job posting
+
+.
+
+
+
+*Software Engineer | Carlyle Group | NYC*
+The Carlyle Group=E2=80=99s Global Technology & Solutions (=E2=80=9CGTS=E2=
+=80=9D) department seeks
+a full-time software engineer. See attachment for details. Contact John
+Chek at John.Chek@carlyle.com if interested.
+
+
+*The Horizons Fellowship |  Open to ALL students*
+*The Horizons Fellowship
+* supports 10
+outstanding university students in their pursuit to become leaders in
+technology. The program provides immersive software engineering and
+web/mobile development courses geared towards high-achieving college
+students. Students need not have a computer science background! Our
+curriculum, developed by ex-Salesforce and Optimizely engineers alongside
+PhD candidates in computer science, is designed to teach students how to
+build web, mobile, and desktop applications. We have 4-month semester
+programs and 3-month summer programs in cities across the U.S. Horizons
+students have gone on to receive offers from firms such as Google,
+Facebook, Slack, Yelp, McKinsey, BCG, Visa, J.P. Morgan, and more. Our
+Horizons Speaker Series brings in successful founders, investors, and
+technologists into the classroom. You'll hear from some of the industry's
+foremost experts. We've had some amazing speakers like the founders of
+Zenefits, Coinbase, Digital Ocean, Andela, X.ai, Shapeways, and more.  Past
+Horizonites have come from a variety of schools and backgrounds. Students
+have hailed from Harvard, Princeton, UPenn/Wharton, Columbia, Northwestern,
+Brown, Michigan and more. We've welcomed National Math Olympiad winners,
+USA Computing Olympiad participants, renowned college entrepreneurs,
+students with perfect SAT/ACT scores, talented designers, photographers,
+and more as part of our previous cohort. *Application Process/Criteria*
+
+
+   - Currently enrolled in (or recently graduted) an undergrad or graduate
+   university program
+   - Submission of resume and standardized test scores on *www.joinhorizons=
+.com
+   *
+   - Series of fit and logic interviews
+   - Applications are accepted on a rolling basis.
+
+
+*Software Engineer | SCIOME | RTP NC*
+https://www.sciome.com/careers/#job3
+
+
+*Part-time Internship- Instructional Technology/UX Assistant | RoadAmico |
+Chapel Hill*
+RoadAmico is looking for an advanced student interested in instructional
+technology and design to help us streamline and organize our existing
+content, as well as contributing to designing the user experience and user
+interfaces for Teachers and Students.
+What you will do:
+=E2=80=A2 Edit, arrange and organize RoadAmico=E2=80=99s library of Journey=
+s adapting them
+to a homogeneous
+format.
+=E2=80=A2 Compose supporting texts and pointers guiding users through our w=
+eb and
+mobile features
+=E2=80=A2 Implement small design improvements for our existing user flow.
+=E2=80=A2 Collect, and organize and publish data from our pilot users
+=E2=80=A2 Collaborate with our Head Designer to optimize RoadAmico=E2=80=99=
+s web and mobile
+UX/UI
+*Who we are:*
+RoadAmico, The Walking Classroom, combines a suite of web and mobile tools
+to create active learning environments and meet the needs of on-site
+educators and learners. RoadAmico disrupts traditional learning styles and
+aims to provide an outstanding educational experience by making learning
+interactive, collaborative, and experiential. Our platform allows educators
+to develop innovative field-based lessons and exclusive place-based
+activities so that students
+can step out of the classroom and enjoy unique experiences off campus,
+develop and complete
+assignments related to particular places, and belong with their environment
+everywhere in the world.
+*Who you are:*
+You are excited to participate with and contribute to a team of scholars,
+technologists and
+educators engaged in designing optimal tools that answer to the short and
+mid-term needs of
+forward looking education: Blended Learning Designs, Collaborative
+Learning, Redesigning Learning Spaces, Measuring Learning, You are prepared
+to think out of the box, manage a varied workload, and do what it takes to
+make RoadAmico a visionary and innovative one of a kind product, You are
+interested in entrepreneurship and in understanding the connections between
+UX design and commercialization, You want to help finding ways to improve
+and add value to RoadAmico=E2=80=99s main products, and adapt the developme=
+nt of
+new features to our customers=E2=80=99 needs and their experience. Ideally,=
+ you
+would like to become an education product developer =E2=80=93 you want to
+understand curriculum content and tools, you dream of designing compelling
+learning experiences, you are curious about the inner workings of school
+districts and the training of teachers and administrators.
+This is a part time (10/15h * week), paid ($10*h) internship starting ASAP
+and lasting all summer 2017 and possibly beyond. If interested please send
+at brief paragraph of intent and a resume to Prof. Lucia Binotti,
+lucia@roadamico.com
+
+
+*Engineering Intern | Spreedly | Durham NC*
+
+https://jobs.lever.co/spreedly/92f365f4-c09b-4342-bfa8-954e6
+fd02ca7?lever-origin=3Dapplied&lever-source%5B%5D=3DUNC
+
+
+*AWS Linux Cloud Support Engineer | Amazon*
+We are looking to hire a select group of highly qualified engineers to be
+part of building some of the largest and most complex distributed systems
+in the world for a specific classified consumer community. This role is
+specifically targeting new graduates with a strong Linux background.  I
+have attached a PDF that describes some of the key qualifications for this
+role.
+Here are some of the specifics regarding the position:
+=C2=B7         Open to graduating students or those who=E2=80=99ve graduate=
+d in past
+6-12 months (Information Science / Information Technology, Computer
+Science, Engineering, Mathematics, Physics, or a related field)
+Location: Herndon, VA (DC Area) or Seattle, WA
+Must haves: Linux!
+This position requires that applicant selected be a U.S. citizen and obtain
+and maintain a TS/SCI US Government clearance with polygraph. TS/SCI
+eligibility is not required to start; however, the applicant selected will
+be subject to a Single-Scope Background Investigation (SSBI) and must meet
+eligibility requirements for access to classified national security
+information (Please Note: the clearance process is paid for by amazon at no
+cost to the selected candidates)
+This position is not a full software development engineering role, but
+rather a Linux support engineer, so as long as the candidate is proficient
+with Linux and is a US Citizen (for gov. clearance reasons) they should be
+qualified for the role. I=E2=80=99m hoping you might be able to assist me i=
+n
+identifying the best resources to share this opportunity with the students.
+I=E2=80=99d be happy to set up some time to discuss this opportunity with y=
+ou
+further and would welcome any suggestions of groups and other individuals I
+should be sharing this opportunity with. If you are open to sharing this
+opportunity, interested candidates can apply via this link:
+http://bit.ly/2oJr3Ux
+
+
+*Internships, Research, Independent Projects | Laboratory for
+Unconventional Conflict Analysis and Simulation @ Duke*
+LUCAS (Duke Univ) is a great place to do research, work with very
+interesting students and practitioners, gain practical policy experience,
+and learn new methods. We are asking student researchers, computer
+programmers, and collabotors interested in international security or with a
+background or interest in computational methods to join our team. Below are
+a few ways you can work with us. Please contact our Lab Director
+tony.rivera@lucas=E2=80=90jsoma.org  or
+contact our Research Coordinator claire.coyne@lucasjsoma.org, and visit
+http://lucas=E2=80=90jsoma.org/working=E2=80=90with=E2=80=90lucas/
+ to
+download an application, which are required for all positions. We look
+forward to hearing from you and working with you!
+*NDU=E2=80=90JSOMA Internships:*
+These internships are highly competitive and we recommend applying well in
+advance of when you=E2=80=99d like to start working with us. To apply for a=
+n
+internship, you will need to have a three page writing sample, and two
+letters of recommendation from faculty.
+*Independent Studies:*
+Some of our students earn credit at their home institutions while working
+at LUCAS. Only a handful of students, chosen by strategic partners, can
+participate with LUCAS through independent studies. To find out if you
+qualify please contact an adviser from your home institution and the lab
+director at the email below, or Claire Coyne, Lab Coordinator for Research.
+*Research Assistants:*
+Other students participate in research to explore interesting questions,
+learn new methods, work with some of the brightest minds, and be able to
+contribute to cutting edge research that can help shape our national
+security policy for decades to come. These students are given priority in
+their
+subsequent NDU=E2=80=90JSOMA Internship and Independent Study applications.
+
+
+*Paid research Internship | The Office of Science / US Department of Energy
+| Due May 31st *
+The Science Undergraduate Laboratory Internships (SULI) program places
+students from 2 and 4 year undergraduate institutions as paid interns in
+science and engineering research activities at DOE national laboratories
+and facilities, working with laboratory staff scientists and engineers on
+projects related to ongoing research programs. Appointments are for 16
+weeks during the Fall term, are open to US Citizens and US Lawful Permanent
+Residents, include a weekly stipend, reimbursement for one round trip
+domestic travel to the participant=E2=80=99s host DOE laboratory, and possi=
+bilities
+for a housing allowance. More than 850 internships are sponsored annually.
+Application is made online. Full program information and descriptions,
+including links to the online application system, are available at:
+http://science.energy.gov/wdts/suli/
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

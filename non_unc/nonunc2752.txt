@@ -1,0 +1,114 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+if you remove the root?  (9/21/16 10:44 PM)
+
+if you remove the root, what is the new root? the max of the left side?=C2=
+=A0
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3ditdqjox0xz74tj%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7cbe5bae9059e34b00452f08d=
+3e2b4d029%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DUu7PgZIGUbqa0XGvTN=
+PHDylEsmFI8aTzNcDQDlw0iTM%3d to view.
+
+------------------------------------------------------------
+how to view 410LocalChecker code?  (9/21/16 11:46 PM)
+
+I used 410LocalChecker to test the "remove" method=C2=A0and there were 2 er=
+rors that I don't understand, because when using the test code I wrote myse=
+lf it seems that the remove method works in every case I could think of.=C2=
+=A0So wanted o see which 2 cases they are.
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3ditdsqxt7ojhdm%26nid%3dis6wk5m47ay4zy%26token%3df2G=
+xNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7cbe5bae9059e34b00452f08d3=
+e2b4d029%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3D73wdNjKmd0olmqe8bmF=
+%2bR1acJ3y0ytuM5QkasFqcpRg%3d to view.
+
+------------------------------------------------------------
+failing One single test  ()
+
+Is there a specific reason as to why I might be passing everything else but=
+ falling one single "insert after remove" test?=C2=A0
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3ditdw1z88w2722x%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7cbe5bae9059e34b00452f08d=
+3e2b4d029%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DeNQZPn9hBItpE09GLr=
+EHDjsP9PsVEgVglMJrPIPm3fI%3d to view.
+
+------------------------------------------------------------
+Remove case 6 from test explanations  (9/22/16 1:56 AM)
+
+I had a quick question about case 6, specifically regarding the printout at=
+ the end. So I implemented my 2 child remove case to check the right subtre=
+e, find the minimum value there, and replace the deleted node with that val=
+ue. When I test this in the BST Playground with the exact input from the te=
+st (following the inserts and removes as is on the website) I got the follo=
+wing return (0 D A E B) after I removed the node. The website states that t=
+he correct output is=C2=A0
+(0, A, B, D, E)
+=C2=A0Do I need to remake my remove method or does this just have to do wit=
+h how the playground outputs the data?
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3ditdxdmrp2w3390%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7cbe5bae9059e34b00452f08d=
+3e2b4d029%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3Dg%2bYsd%2fnnGxvduR=
+AyE7L9cX%2b3iZL1LJexVW19yEaXtgQ%3d to view.
+
+------------------------------------------------------------
+Figuring out height  (9/22/16 2:11 AM)
+
+I was wondering if someone could help me think through the getHeight() meth=
+od? I have everything else working correctly, except finding the height, an=
+d it seems like a silly reason to lose 6 points since I still have another =
+day to fix it.
+
+Can anyone offer some guidance? Right now what I'm doing is basically a glo=
+rified version of findMin / findMax with counters. But that doesn't work in=
+ situations where, for example, the far right tree has the longest path whi=
+ch ends in a left child. The thing is I just really don't know what else to=
+ try.
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3ditdxxxihc3c3o4%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7cbe5bae9059e34b00452f08d=
+3e2b4d029%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DN8Aw205Tx4%2fkoTgl=
+%2fDv7CTyciUEwp7egYDpJrGoAOS4%3d to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.co=
+m%2flogin&data=3D01%7c01%7cmlal123%40live.unc.edu%7cbe5bae9059e34b00452f08d=
+3e2b4d029%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DtbczaoJ2PbFmMbH7k8=
+0AqGfQ426iyoEWCiw7%2fUHZ7b0%3d to sign in and manage your email preferences=
+ or proceed to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3=
+a%2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2fis6wk5m47ay4zy&data=3D01%7c01%7c=
+mlal123%40live.unc.edu%7cbe5bae9059e34b00452f08d3e2b4d029%7c58b3d54f16c942d=
+3af081fcabd095666%7c1&sdata=3D%2f0uViKbRFvQs0pViWxAMdsE0OUO0rU21gHrLu0vlEPw=
+%3d to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://na01.safelinks.protection.ou=
+tlook.com/?url=3Dhttps%3a%2f%2fpiazza.com%2flink_accounts%2ff2GxNxqCfOm&dat=
+a=3D01%7c01%7cmlal123%40live.unc.edu%7cbe5bae9059e34b00452f08d3e2b4d029%7c5=
+8b3d54f16c942d3af081fcabd095666%7c1&sdata=3DIJvtcnDeTH7nWEGVW89KqeMotjTzUjV=
+%2fmpGvf68i2FE%3d=

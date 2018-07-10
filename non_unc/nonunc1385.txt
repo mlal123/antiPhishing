@@ -1,0 +1,363 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+A2 Novice---Not Getting Expected Output  (2/02/16 8:21 PM)
+
+Hi,=C2=A0
+
+I am getting the right information for my output, but my output does not li=
+ne up the same way as the answer describes. This is my code.=C2=A0
+package a2novice;
+
+import java.util.Scanner;
+
+public class A2Novice {
+=09
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner s =3D new Scanner(System.in);
+=09=09
+		process(s);
+	}
+	public static void process (Scanner s){
+		//Put your code in here
+		int width=3Ds.nextInt();
+		//System.out.print(width);
+		int height=3Ds.nextInt();
+		//System.out.print(height);
+		int[][]pixels=3Dnew int[height][width];=09
+		for (int column=3D0; column=3D0 && pixels[rr][cc]<=3D9)
+					System.out.print("#");
+				else if (pixels[rr][cc]>=3D10 && pixels[rr][cc]<=3D19)
+					System.out.print("M");=09=09
+				else if (pixels[rr][cc]>=3D20 && pixels[rr][cc]<=3D29)
+					System.out.print("X");
+				else if (pixels[rr][cc]>=3D30 && pixels[rr][cc]<=3D39)
+					System.out.print("D");
+				else if (pixels[rr][cc]>=3D40 && pixels[rr][cc]<=3D49)
+					System.out.print("<");
+				else if (pixels[rr][cc]>=3D50 && pixels[rr][cc]<=3D59)
+					System.out.print(">");
+				else if (pixels[rr][cc]>=3D60 && pixels[rr][cc]<=3D69)
+					System.out.print("s");
+				else if (pixels[rr][cc]>=3D70 && pixels[rr][cc]<=3D79)
+					System.out.print(":");
+				else if (pixels[rr][cc]>80 && pixels[rr][cc]<=3D89)
+					System.out.print("-");
+				else
+					System.out.print(" ");
+				}
+			}
+		int total=3D0;
+		double n_elements=3D0.0;
+		for (int r=3D0; rhighest)
+					highest=3Dpixels[index][index2];
+			}
+		}
+		for (int index=3D0; index>  MM  <>>  MM      MM    MM    XXXX
+Min value 5
+Max value 99
+Average value 61.02285714285714
+
+Output did not match expectations.
+Expected output:
+DD   DD  MM    MM    XXXX
+DD   DD  MM<   MM   XX:::
+DD   DD  MM<<  MM  XX=20=20=20=20
+DD   DD  MM << MM  XX=20=20=20=20
+<<   >>  MM  <>>  MM      MM    MM    XXXX
+Min value =3D 5
+Max value =3D 99
+Average value =3D 61.02285714285714
+
+A2Novice Test 1 fails. 0 points
+--------------------------------------------------
+A2Novice Test 2
+
+Running a2novice.A2Novice
+Input:=20
+10 10
+0  1  2  3  4  5  6  7  8  9
+10 11 12 13 14 15 16 17 18 19=20
+20 21 22 23 24 25 26 27 28 29=20
+30 31 32 33 34 35 36 37 38 39=20
+40 41 42 43 44 45 46 47 48 49=20
+50 51 52 53 54 55 56 57 58 59=20
+60 61 62 63 64 65 66 67 68 69=20
+70 71 72 73 74 75 76 77 78 79=20
+80 81 82 83 84 85 86 87 88 89=20
+90 91 92 93 94 95 96 97 98 99=20
+
+
+Output:
+#MXD<>s:-=20
+#MXD<>s:-=20
+#MXD<>s:-=20
+#MXD<>s:-=20
+#MXD<>s:-=20
+#MXD<>s:-=20
+#MXD<>s:-=20
+#MXD<>s:-=20
+#MXD<>s:-=20
+#MXD<>s:-=20
+Min value 0
+Max value 99
+Average value 49.5
+
+Output did not match expectations.
+Expected output:
+#MXD<>s:-=20
+#MXD<>s:-=20
+#MXD<>s:-=20
+#MXD<>s:-=20
+#MXD<>s:-=20
+#MXD<>s:-=20
+#MXD<>s:-=20
+#MXD<>s:-=20
+#MXD<>s:-=20
+#MXD<>s:-=20
+Min value =3D 0
+Max value =3D 99
+Average value =3D 49.5
+
+A2Novice Test 2 fails. 0 points
+--------------------------------------------------
+A2Novice Test 3
+
+Running a2novice.A2Novice
+Input:=20
+1 1
+25
+
+
+Output:
+X
+Min value 25
+Max value 25
+Average value 25.0
+
+Output did not match expectations.
+Expected output:
+X
+Min value =3D 25
+Max value =3D 25
+Average value =3D 25.0
+
+A2Novice Test 3 fails. 0 points
+--------------------------------------------------
+A2Novice Test 4
+
+Running a2novice.A2Novice
+Input:=20
+11 1
+45 85 85 85 85 85 85 85 85 85 55
+
+
+Output:
+<--------->
+Min value 45
+Max value 85
+Average value 78.63636363636364
+
+Output did not match expectations.
+Expected output:
+<--------->
+Min value =3D 45
+Max value =3D 85
+Average value =3D 78.63636363636364
+
+A2Novice Test 4 fails. 0 points
+--------------------------------------------------
+A2Adept Test 1
+
+Running a2adept.A2Adept
+Input:=20
+10
+3 3
+0 1 8 22 28 39 79 99 34
+
+
+Output:
+ 0:*********************************
+10:
+20:**********************
+30:**********************
+40:
+50:
+60:
+70:***********
+80:
+90:***********
+
+Output did not match expectations.
+Expected output:
+ 0:*********************************
+10:
+20:**********************
+30:**********************
+40:
+50:
+60:
+70:***********
+80:
+90:***********
+
+A2Adept Test 1 fails. 0 points
+--------------------------------------------------
+A2Adept Test 2
+
+Running a2adept.A2Adept
+Input:=20
+9
+11 3
+0 4 8
+9 13 17
+18 22 26
+27 31 35
+36 40 44
+45 49 53
+54 58 62
+63 67 71
+72 76 80
+81 85 89
+90 94 98
+
+
+Output:
+ 0:*********
+ 9:*********
+18:*********
+27:*********
+36:*********
+45:*********
+54:*********
+63:*********
+72:*********
+81:*********
+90:*********
+99:
+
+Output did not match expectations.
+Expected output:
+ 0:*********
+ 9:*********
+18:*********
+27:*********
+36:*********
+45:*********
+54:*********
+63:*********
+72:*********
+81:*********
+90:*********
+99:
+
+A2Adept Test 2 fails. 0 points
+--------------------------------------------------
+A2Adept Test 3
+
+Running a2adept.A2Adept
+Input:=20
+7
+2 2
+99 99 99 99
+
+
+Output:
+ 0:
+ 7:
+14:
+21:
+28:
+35:
+42:
+49:
+56:
+63:
+70:
+77:
+84:
+91:
+98:************************************************************************=
+****************************
+
+Output did not match expectations.
+Expected output:
+ 0:
+ 7:
+14:
+21:
+28:
+35:
+42:
+49:
+56:
+63:
+70:
+77:
+84:
+91:
+98:************************************************************************=
+****************************
+
+A2Adept Test 3 fails. 0 points
+--------------------------------------------------
+
+Go to https://piazza.com/class?cid=3Dik69tkdgwki2wx&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2-BinWidth  (2/02/16 10:24 PM)
+
+Should we assume that the bindwith is an=C2=A0integer=C2=A0greater than 0?
+
+Go to https://piazza.com/class?cid=3Dik69tmrxv8x2b3&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 Adept Bins  (2/02/16 10:46 PM)
+
+I'm having trouble coming up with a general formula in order to figure out =
+which bin to put each pixel intensity in. I have arrays of both the pixel v=
+alues and the bin widths, I'm just not sure what to do from there.
+
+Go to https://piazza.com/class?cid=3Dik6al88m80e34i&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Eclipse build function not working  (2/02/16 11:33 PM)
+
+I'm working on assignment two and opened Eclipse after using it this aftern=
+oon and it's not compiling anything. When I hit the run/build button, it of=
+fers to run as an ANT file, then returns an error message that no ANT is fo=
+und. I built and ran code successfully this afternoon. What's going on?
+
+Go to https://piazza.com/class?cid=3Dik6c9hqctxe459&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

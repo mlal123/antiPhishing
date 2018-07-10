@@ -1,0 +1,26 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Printing Stories  (9/28/15 3:17 PM)
+
+I am having a hard time getting eclipse to print out the story lines based on the integer the user puts in. I am using keyboard.nextInt();
+Should I be using something else? I also have the "if" statement then the three potential stories(bdc) then, else if (efg) then, else (hij).
+
+Go to https://piazza.com/class?cid=if4bh707vyj4ru&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 110 at University of North Carolina at Chapel Hill. Go to http://piazza.com/login to sign in and manage your email preferences or proceed to http://piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: http://piazza.com/link_accounts/f2GxNxqCfOm

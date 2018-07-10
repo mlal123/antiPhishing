@@ -1,0 +1,14 @@
+From: Chapin Newhard (cnewhard) - cnewhard@live.unc.eduHey Everyone=
+,  Our MVP is a customized newsletter that will give you direct acce=
+ss to all the breaking news about Tar Heel Men's Basketball and eliminate t=
+he trouble of navigating the many news sources. Answer these two easy quest=
+ions and you will receive a customized newsletter in your inbox daily. =
+;  Thanks for the help,  Team 26   p.p1 {
+	margin: 0.0px 0.0px 0.0px 0.0px;
+	font: 12.0px Helvetica;
+}
+   https://www.surveymonkey.com/r/C3PFD8Q -------------=
+---------This forwarded message was sent via Sakai @ UNC-Chapel Hill Me=
+ssages from the  "ECON125.001.FA17" site.
+To reply to this message click this link to access Messages for this site: =
+ECON125.001.FA17.

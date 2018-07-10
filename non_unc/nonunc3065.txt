@@ -1,0 +1,59 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+Multiple Submissions  (10/14/16 5:45 PM)
+
+If a lab were to be submitted multiple times, would only the final submissi=
+on be graded?
+
+Go to https://piazza.com/class?cid=3Diuaazfchaan3qj&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+/home/fuchs/comp411/calvinn/lab6/.lab6_calvinn_85142: No such file or direc=
+tory  (10/14/16 5:56 PM)
+
+My work is correct but it checked for some random file for some reason. I'm=
+ guessing it is from=C2=A0some remnant of code from previous years
+/home/fuchs/comp411/bin/submitlab6: line 9: /home/fuchs/comp411/calvinn/lab=
+6/.lab6_calvinn_85142: No such file or directory
+
+
+Go to https://piazza.com/class?cid=3Diuabd0o2nkn1zt&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Policy for late lab submisison  (10/14/16 6:05 PM)
+
+Is the late policy for the lab same as that for the homework, i.e. 10%=C2=
+=A0deduction=C2=A0within 24 hours after the deadline? If late submission is=
+ acceptable, is the deduction applied to=C2=A0the whole lab=C2=A0or=C2=A0on=
+ly applied to=C2=A0the files whose timestamps are after the deadline?
+
+Go to https://piazza.com/class?cid=3Diuabpc7fxzr2u4&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

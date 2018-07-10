@@ -1,0 +1,16 @@
+
+An announcement has been added in the "COMP411.002.FA16" site at (https://s=
+akai.unc.edu/portal/site/5d7efa4a-b769-4b43-a298-96b46c136e23) at Dec 13, 2=
+016 6:58 pm
+
+We added a few more possibilities to the signal values of=A0Part 1 of PS5 a=
+nd set it up so any reasonable answer gets a full score on the 2-way set as=
+sociate portion of the problem set. =A0The changes should take care of all =
+issues that we've seen reported. =A0This should only have increased scores,=
+ not lowered any.  Also, the point values have been normalized to 100%.
+
+----------------------=20
+ This automatic notification message was sent by Sakai @ UNC-Chapel Hill (h=
+ttps://sakai.unc.edu/portal).
+ You can modify how you receive notifications at My Workspace > Preferences=
+.

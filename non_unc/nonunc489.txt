@@ -1,0 +1,306 @@
+
+
+    Welcome to EatStreet
+  
+  
+@font-face {
+font-family: 'Open Sans'; font-style: normal; font-weight: 300; src: local('Open Sans Light'), local('OpenSans-Light'), url('http://fonts.gstatic.com/s/opensans/v10/DXI1ORHCpsQm3Vp6mXoaTYnF5uFdDttMLvmWuJdhhgs.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Open Sans'; font-style: normal; font-weight: 400; src: local('Open Sans'), local('OpenSans'), url('http://fonts.gstatic.com/s/opensans/v10/cJZKeOuBrn4kERxqtaUH3aCWcynf_cDxXwCLxiixG1c.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Open Sans'; font-style: normal; font-weight: 600; src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url('http://fonts.gstatic.com/s/opensans/v10/MTP_ySUJH_bn48VBG8sNSonF5uFdDttMLvmWuJdhhgs.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Open Sans'; font-style: normal; font-weight: 700; src: local('Open Sans Bold'), local('OpenSans-Bold'), url('http://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzInF5uFdDttMLvmWuJdhhgs.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Open Sans'; font-style: italic; font-weight: 300; src: local('Open Sans Light Italic'), local('OpenSansLight-Italic'), url('http://fonts.gstatic.com/s/opensans/v10/PRmiXeptR36kaC0GEAetxrfB31yxOzP-czbf6AAKCVo.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Open Sans'; font-style: italic; font-weight: 400; src: local('Open Sans Italic'), local('OpenSans-Italic'), url('http://fonts.gstatic.com/s/opensans/v10/xjAJXh38I15wypJXxuGMBp0EAVxt0G0biEntp43Qt6E.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Open Sans'; font-style: italic; font-weight: 600; src: local('Open Sans Semibold Italic'), local('OpenSans-SemiboldItalic'), url('http://fonts.gstatic.com/s/opensans/v10/PRmiXeptR36kaC0GEAetxi8cqLH4MEiSE0ROcU-qHOA.ttf') format('truetype');
+}
+@media only screen and (max-width: 600px) {
+  body[yahoo] .content {
+    margin: 0 auto !important;
+  }
+}
+@media screen and (max-device-width: 600px) {
+  body[yahoo] .content {
+    margin: 0 auto !important;
+  }
+}
+@media only screen and (max-width: 455px) {
+  body[yahoo] .restaurant-logo table {
+    width: 100%; text-align: center;
+  }
+  body[yahoo] .circle-pad {
+    padding: 0 0 20px !important;
+  }
+  body[yahoo] .center {
+    text-align: center !important;
+  }
+  body[yahoo] .first-social-icon {
+    padding: 0 10px 0 10px !important;
+  }
+  body[yahoo] .footer-links-pad {
+    padding: 0 0 10px !important;
+  }
+  body[yahoo] .unsub-width {
+    max-width: 600px !important;
+  }
+  body[yahoo] .hide {
+    display: none !important;
+  }
+  body[yahoo] .buttonwrapper {
+    background-color: transparent !important;
+  }
+  body[yahoo] .button {
+    padding: 0px !important;
+  }
+  body[yahoo] .button a {
+    background-color: #2f3942; padding: 8px 20px !important; border-radius: 2px;
+  }
+  body[yahoo] .headerbtn a {
+    background-color: #3498db !important;
+  }
+  body[yahoo] .unsubscribe {
+    display: block; margin: 0 0 10px; padding: 10px; background: #2f3942; border-radius: 2px; text-decoration: none !important; font-weight: 300;
+  }
+  body[yahoo] .border-right {
+    border: none !important;
+  }
+  body[yahoo] .no-pad {
+    padding: 0 !important;
+  }
+  body[yahoo] .app-pad {
+    padding-bottom: 0 !important; padding-top: 10px !important;
+  }
+  a[x-apple-data-detectors] {
+    color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important;
+  }
+}
+@media screen and (max-device-width: 455px) {
+  body[yahoo] .restaurant-logo table {
+    width: 100%; text-align: center;
+  }
+  body[yahoo] .circle-pad {
+    padding: 0 0 20px !important;
+  }
+  body[yahoo] .center {
+    text-align: center !important;
+  }
+  body[yahoo] .first-social-icon {
+    padding: 0 10px 0 10px !important;
+  }
+  body[yahoo] .footer-links-pad {
+    padding: 0 0 10px !important;
+  }
+  body[yahoo] .unsub-width {
+    max-width: 600px !important;
+  }
+  body[yahoo] .hide {
+    display: none !important;
+  }
+  body[yahoo] .buttonwrapper {
+    background-color: transparent !important;
+  }
+  body[yahoo] .button {
+    padding: 0px !important;
+  }
+  body[yahoo] .button a {
+    background-color: #2f3942; padding: 8px 20px !important; border-radius: 2px;
+  }
+  body[yahoo] .headerbtn a {
+    background-color: #3498db !important;
+  }
+  body[yahoo] .unsubscribe {
+    display: block; margin: 0 0 10px; padding: 10px; background: #2f3942; border-radius: 2px; text-decoration: none !important; font-weight: 300;
+  }
+  body[yahoo] .border-right {
+    border: none !important;
+  }
+  body[yahoo] .no-pad {
+    padding: 0 !important;
+  }
+  body[yahoo] .app-pad {
+    padding-bottom: 0 !important; padding-top: 10px !important;
+  }
+  a[x-apple-data-detectors] {
+    color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important;
+  }
+}
+
+
+         
+    
+          
+                
+                
+                      
+                            Welcome to
+                          
+                        
+                  
+                      
+                    
+                  
+            
+      
+          
+                Now you can always find food when you're hungry. EatStreet is the food court that never leaves your side. We make it easy for you to view menus, get discounts, and enjoy the best of local food delivery.
+              
+            
+      
+          
+                
+                      
+                    
+                  
+                      
+                            Fast & Easy Ordering
+                          
+                        
+                            No awkward phone calls. No searching multiple websites. All your options are in one simple layout so you can find food you crave and order in less than a minute!
+                          
+                        
+                  
+            
+      
+          
+                
+                      
+                    
+                  
+                      
+                            There's An App For This
+                          
+                        
+                            Keep the power of EatStreet with you at all times. Our free app for iOS & Android helps you get fed wherever you venture.
+                          
+                        
+                  
+            
+      
+          
+                
+                      
+                    
+                  
+                      
+                            Get Rewards & Discounts
+                          
+                        
+                            Order more food, get more rewards. You'll earn ongoing Rewards coupons and access exclusive discounts with your new account!
+                          
+                        
+                  
+            
+      
+          
+                
+                      
+                    
+                  
+                      
+                            Order Now, Get Food Later
+                          
+                        
+                            Don't wait until hunger hits. Use EatStreet to order ahead for the lunch hour or the party later tonight.
+                          
+                        
+                  
+            
+      
+          
+                
+                      
+                    
+                  
+                      
+                            Serve Up A Smile
+                          
+                        
+                            EatStreet proudly supports Meals on Wheels Association of America. A donation will be made, so that together, we can improve the lives of our senior neighbors.
+                          
+                        
+                  
+            
+      
+          
+                
+                      
+                            
+                              
+                          
+                          
+                            
+                              
+                          
+                          
+                            
+                              
+                          
+                          
+                            
+                              
+                          
+                          
+                            
+                              
+                          
+                        
+                  
+                      
+                            Get Our Free App
+                          
+                        
+                  
+            
+      
+          
+                
+                      This email was sent by: EatStreet131 W. Wilson St. Suite 400 Madison, WI, 53703, US
+                    
+                  
+            
+      
+          
+                
+                      
+                            We respect your right to privacy - click here to view our policy.
+                            
+                          
+                        
+                  
+            
+      
+          
+                
+                      
+                            Unsubscribe
+                            
+                          
+                        
+                  
+                      
+                            Manage Subscriptions
+                            
+                          
+                        
+                  
+                      
+                            Update Profile
+                            
+                          
+                        
+                  
+            
+      
+  
+
+

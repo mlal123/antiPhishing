@@ -1,0 +1,146 @@
+Nieman Lab: The Daily Digest
+Monday=2C March 26=2C 2018
+http://www.niemanlab.org/2018/03/will-news-organizations-face-facebook-fue=
+led-blowback-for-using-third-party-tracking-on-their-own-sites/
+
+
+** Will news organizations face Facebook-fueled blowback for using third-p=
+arty tracking on their own sites? (http://www.niemanlab.org/2018/03/will-n=
+ews-organizations-face-facebook-fueled-blowback-for-using-third-party-trac=
+king-on-their-own-sites/)
+------------------------------------------------------------
+=E2=80=9CThe sins are different; but they are still sins=2C just as apples=
+ and oranges are still both fruit. Exposing readers to data vampires is si=
+mply wrong on its face=2C and we need to fix it.=E2=80=9D By Christine Sch=
+midt.
+http://www.niemanlab.org/2018/03/recirculate-vox-medias-new-structure-for-=
+story-packages-gives-readers-context-and-helps-them-stick-around/
+
+
+** Recirculate! Vox Media=E2=80=99s new structure for story packages gives=
+ readers context (and helps them stick around) (http://www.niemanlab.org/2=
+018/03/recirculate-vox-medias-new-structure-for-story-packages-gives-reade=
+rs-context-and-helps-them-stick-around/)
+------------------------------------------------------------
+With Facebook turning down the traffic firehose=2C it=E2=80=99s more impor=
+tant than ever to convert those all one-pageview visits into two- and thre=
+e-pageview visits. By Christine Schmidt.
+What We=E2=80=99re Reading
+Axios / Sara Fischer
+Bustle acquires The Zoe Report=2C suggests more acquisitions to come =E2=
+=86=92 (https://www.axios.com/bustle-acquires-the-zoe-report-suggests-more=
+-acquisitions-to-come-ca8bc1f6-08d9-4de3-a340-d8e25881a589.html)
+Fashion and lifestyle site The Zoe Report is joining Bustle=2C Romper=2C a=
+nd Elite Daily as the fourth major brand in the Bustle Digital Group.
+Digiday / Tim Peterson
+Apple is expanding the number of publishers that can serve ads into Apple=
+ News articles =E2=86=92 (https://digiday.com/media/apple-expands-test-sel=
+l-ads-apple-news/)
+=E2=80=9CApple is all-in on the publisher charm offensive right now=2C=E2=
+=80=9D a source said. =E2=80=9CThey=E2=80=99re determined to be the non-Fa=
+cebook.=E2=80=9D
+Buzzfeed / Delia Cai
+When it comes to feminist content around the world=2C here=E2=80=99s how B=
+uzzFeed=E2=80=99s international editions drive the conversation =E2=86=92=
+ (https://www.buzzfeed.com/deliacai/buzzfeed-international-editions-on-fem=
+inist-content?utm_term=3D.amDRkDX2YW#.hnxRYKdO51)
+=E2=80=9CMore fans than haters (probs 70/30)=2C but the =E2=80=98machismo=
+ culture=E2=80=99 is VERY clear in the comments section. They are so very=
+ loud.=E2=80=9D=E2=80=94Bibine Barud // BuzzFeed Mexico
+Columbia Journalism Review / Andrea Wenzel=2C Anthony Nadler=2C Melissa Va=
+lle=2C Marc Lamont Hill
+Listening is not enough: Mistrust and local news in urban and suburban Phi=
+lly =E2=86=92 (https://www.cjr.org/tow_center_reports/mistrust-and-local-n=
+ews-urban-and-suburban-philly.php)
+=E2=80=9CWhile many today point to the promise of local news as a means fo=
+r building trust with communities=2C its existence alone is not enough=E2=
+=80=94and it=E2=80=99s certainly not a one-size-fits-all solution.=E2=80=
+=9D
+Reuters / Chris Kahn and David Ingram
+Fewer than half of Americans trust Facebook to obey U.S. privacy laws =E2=
+=86=92 (https://www.reuters.com/article/us-usa-facebook-poll/americans-les=
+s-likely-to-trust-facebook-than-rivals-on-personal-data-reuters-ipsos-poll=
+-idUSKBN1H10K3)
+A new poll from Reuters/Ipsos finds that fewer Americans trust Facebook th=
+an other tech companies that also gather user data=2C like Apple=2C Google=
+=2C Amazon=2C Microsoft=2C and Yahoo=2C and 46 percent of those polled sai=
+d they want more government regulation in overseeing the industry=E2=80=99=
+s handling of user information (17 percent want less).
+Rita Allen Foundation
+The Rita Allen Foundation and RTI International launch a call for ideas to=
+ curb the spread of misinformation =E2=86=92 (http://ritaallen.org/stories=
+/misinformation-call-for-ideas-press-release/)
+=E2=80=9CUp to five ideas will be selected to be featured in the Misinform=
+ation Solutions Forum=2C October 4=2C 2018=2C at the Aspen Institute in Wa=
+shington=2C D.C. At the forum=2C the ideas will be further developed with=
+ input from academic researchers=2C technologists=2C data scientists=2C jo=
+urnalists=2C educators=2C community leaders and funders. To catalyze furth=
+er development and deployment of solutions=2C as part of the forum two of=
+ the participating teams will be selected to receive Misinformation Soluti=
+on Prizes=2C with a top prize of $50=2C000 and an additional prize of $25=
+=2C000.=E2=80=9D
+Facebook Newsroom / Alex Hardiman and Campbell Brown
+Facebook is rolling out its boost for local publishers globally =E2=86=92=
+ (https://newsroom.fb.com/news/2018/03/news-feed-fyi-more-local-news-on-fa=
+cebook-globally/)
+=E2=80=9CWith this update=2C we=E2=80=99re helping local publishers who co=
+ver multiple=2C nearby cities reach audiences in those cities. We=E2=80=99=
+ll consider a publisher as local to multiple cities if the people in those=
+ cities are more likely than the people outside of those cities to read ar=
+ticles from the publisher=E2=80=99s domain. By expanding the scope of what=
+ may be considered local to people=2C we=E2=80=99re including other cities=
+ that people may care about and connecting people to local publishers from=
+ those cities.=E2=80=9D
+Columbia Journalism Review / Meg Heckman
+How two local news organizations are using chatbots to build rapport with=
+ audiences =E2=86=92 (https://www.cjr.org/innovations/chatbots.php)
+=E2=80=9CAs long as you=E2=80=99re forthright about what you=E2=80=99re do=
+ing and who they=E2=80=99re talking to=E2=80=A6you can still create that a=
+uthentic relationship through something that=E2=80=99s artificial.=E2=80=
+=9D
+Bloomberg / Tara Lachapelle
+TV=E2=80=99s death by a thousand streaming apps: Are media companies=E2=80=
+=99 online-video services actually making money or meeting consumers=E2=80=
+=99 needs? =E2=86=92 (https://www.bloomberg.com/gadfly/articles/2018-03-22=
+/deals-like-at-t-time-warner-won-t-solve-tv-streaming-mess)
+=E2=80=9CThe TV giants are turning more insular and protectionist of their=
+ content=2C which The Diffusion Group refers to as =E2=80=9Cmedia tribalis=
+m.=E2=80=9D For example=2C Disney will no longer supply content to Netflix=
+ that it will put on its own apps. Meanwhile=2C consumers are headed the o=
+ther direction=2C attached to certain binge-worthy TV series and agnostic=
+ as to the network brands producing them. (One exception may be HBO becaus=
+e of the belief that generally everything on HBO is good.) Consumers hoped=
+ for a-la-carte packages=2C but instead will probably have to subscribe to=
+ multiple apps as companies increasingly reserve their content for their o=
+wn direct-to-consumer offerings.=E2=80=9D
+Journalism.co.uk / Catalina Albeanu
+A Polish daily newspaper surpassed its digital subscriptions target by ref=
+reshing its approach on Facebook and developing staff skills =E2=86=92 (ht=
+tps://www.journalism.co.uk/news/how-polish-daily-gazeta-wyborcza-smashed-t=
+hrough-its-digital-subscriptions-target/s2/a719294/)
+=E2=80=9CWe carefully select target groups based on our customer base and=
+ all options that Facebook ad manager gives us. But the most important on=
+ this customer journey is the article itself. When it drives conversions=
+=2C we keep promoting the text. The golden rule is always to earn more =E2=
+=80=93 attract more clients =E2=80=93 than spend on Facebook ads.=E2=80=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3Dfc07bf3b08)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3Dfc07bf3b08)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

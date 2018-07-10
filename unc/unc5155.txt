@@ -1,0 +1,173 @@
+
+
+  Odum News
+  
+
+ 
+ @import 'https://fonts.googleapis.com/css?family=3DRaleway: medium,semi-bo=
+ld,bold';
+@import 'https://fonts.googleapis.com/css?family=3DDroid+Serif';
+=20
+ a:link {
+	color: #7bafd4;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #7bafd4;
+}
+a:hover {
+	text-decoration: none;
+	color: #a51890;
+}
+a:active {
+	text-decoration: none;
+}
+
+p {
+	font-family: Raleway, medium;
+	font-weight: 100;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: raleway;
+	font-weight:100;
+}
+ a {
+	font-weight: bold;
+}
+ 
+
+ 
+=20
+=20
+
+
+
+	
+     
+      
+       
+       
+      
+   =20
+      
+      
+       
+     =20
+
+
+
+ 
+=20
+ =20
+  
+   
+   QRSI EARLY REGISTRATION
+   
+  
+  
+   
+   =20
+
+	   Early registration for QRSI ends THIS Monday,=
+ April 17, 2017. Register TODAY!=20
+The 14th Annual Qualitative Rese=
+arch Summer IntensiveQRSI is a un=
+ique opportunity to gain both theoretical and practical understanding of qu=
+alitative inquiry. The five-day course series covers a range of topics to h=
+elp you synthesize your data and develop a deeper understanding of qualitat=
+ive research tools. QRSI also lets you make your own customized schedule ba=
+sed on the courses that best suit your needs.Join us for five days of qualitative research professional developm=
+ent courses and networking opportunities. This year we are introducing t=
+en new courses and four new instructors!=20
+ July 24 - 25, 2017 (9:30am - 4:=
+00pm)
+    	Coding and Analyzing Qualitative Data (Johnny Salda=C3=B1a)
+        NEW! Focus Groups: Tools for Inquiry,=
+ Pedagogy, and Social Advocacy/Activism (New QRSI Scholar: George Kambe=
+relis)
+        Foundational Principles of and Approa=
+ches to Mixed Methods Research (Margarete Sandelowski)
+        NEW! Introduction to Qualitative Rese=
+arch: From Principles to Practice (Alison Hamilton)
+        NEW! Oral History: Purpose, Praxis an=
+d Possibility (New QRSI Scholar: Sherick Hughes)
+        NEW! Qualitative Teamwork (Kevin =
+Swartout)
+    
+       =20
+       =20
+ July 26, 2017 (9:30am - 4:00pm)=
+
+    	Building a Codebook and Writing Memos (Paul Mihas)
+        NEW! Compassionate Interviewing (=
+Carolyn Ellis)
+        Doing Qualitative Research Online=
+ (Kevin Swartout)
+        Rapid Turn-around Qualitative Researc=
+h (Alison Hamilton and Ray Maietta)
+        NEW! Synthesizing Qualitative Data (Johnny Salda=C3=B1a)
+        NEW! Writing Stories: Researcher as S=
+toryteller (New QRSI Scholar: Arthur Bochner)
+    
+       =20
+     July 27 - 28, 2017 (Thursda=
+y 9:30am - 4:00pm, Friday 9:00am - 3:00pm)
+    	NEW! Doing Qualitative Research in the B=
+ig Data Era (New QRSI Scholar: Mario Small)
+        NEW! Evocative Autoethnography: Writi=
+ng Lives and Telling Stories (Carolyn Ellis and Arthur Bochner)<=
+/li>
+        Implementation Research: Using Qualit=
+ative Research Methods to Improve Policy and Practice (Alison Hamilton)=
+
+        NEW! Qualitative Research: Anaylzying=
+ Life (Johnny Salda=C3=B1a)
+        'Sort and Sift, Think and Shift': Lea=
+rning to Let the Data Guide Your Analysis (Ray Maietta)
+        Writing Effective Qualitative and Mix=
+ed Methods Research Proposals (Margarete Sandelowski)
+       =20
+       =20
+
+       =20
+   Visit http://researchtalk.com/qrsi-2017/ for more=
+ information.=20
+
+
+    
+  
+            =20
+=20
+
+   
+    To unsubscribe from=20
+  this listserv, send a blank e-mail message to leave-38747759-90028569.519edd28e76e17b9866=
+f1cae416ac17a@listserv.unc.edu
+  
+
+ 
+  The Odum Institute
+   The University of North=20
+  Carolina at Chapel Hill 
+  Davis Library, 2nd Floor, CB# 3355
+  Chapel Hill, NC 27599-3355 
+  www.odum.unc.edu=20
+  
+  Telephone: 919.962.3061
+Follow us on Twitter here=
+!
+Subscribe to our YouTube =
+channel here!
+       
+      
+  
+       
+      
+
+
+
+
+
+

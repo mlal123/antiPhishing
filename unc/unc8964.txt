@@ -1,0 +1,77 @@
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.xmsonormal, li.xmsonormal, div.xmsonormal
+	{mso-style-name:x_msonormal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+
+
+Dear Mangza
+ 
+ 
+The University Office of Diversity and Inclusion invites you to apply to the 2018 Harvey Beech Scholarship. Applications are now available
+ online at 
+https://diversity.unc.edu/2018-unc-harvey-beech-scholarship/
+     
+
+About the Scholarship: Named for the late Harvey
+ Beech, the first African-American student to graduate from UNC, the awards have been given annually
+to Carolina junior and sophomores since 1989 to recognize community leadership and academic scholarship.
+ 
+Awardees are chosen based on academic GPA improvement (semester-based or cumulative), financial need, and contributions to campus life.
+ The Scholarship Committee awards 
+$1,500 scholarships to three students annually. The scholarships are open to all sophomores and juniors at UNC-Chapel Hill.     
+
+ 
+Applications and supporting materials are due by
+Thursday, April 12, 2018. All supporting material (recommendation and unofficial transcript) can be dropped off at 09 South Building to Taneisha Henderson, University Office for Diversity & Inclusion, CB #9125, by the deadline.
+ 
+Please contact Ms. Sophia McFarlane at
+sophscm@live.unc.edu for further information or read the
+
+FAQs.
+ 
+ 
+ 
+
+
+

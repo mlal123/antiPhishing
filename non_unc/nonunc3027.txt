@@ -1,0 +1,26 @@
+Instructor Maxwell Daum posted a new Note. Your instructor selected to notify everyone in real time of this post, bypassing user email preferences.
+
+A3 Grades (for those who submitted on time) are up. Testcases will be in another note
+
+Since there seems to be anxieties seeing a 0 on that HW score on sakai for those late submitters waiting for a grade. I am now going to give a "no-grade" to those students until we get to them. Hopefully this will help encourage you to relax and not resubmit on Sakai. As a former CS undergrad I can sympathize with the common anxieties associated with getting CS HW back. However, I would ask that any and all grading related questions, even "have you got to me yet?" be directed to us at help-410@cs.unc.edu Either I, Hao, or an LA will respond to you and we can figure out whatever we need via that communication channel (if we need your code we will ask that you send it via email or a provided dropbox link after some chatting back and forth). Don't make piazza posts about this, and please don't resubmit once you already have the version up you wish to be graded. It just muddles things and makes it harder to get late grades back. Ok stepping off the soapbox :)
+
+Something I noticed quite frequently is many of you didn't end up implementing the build method the way we asked. You are to copy the given array into your heap, and then "percolate" on holes size/2 to 1 (i.e all non-leaf entry pairs) yielding a O(N) operation.10 points of the assignment were allocated for us manually inspecting your implementations of this method. If there are confusions on how the build method is supposed to work, or the "percolating" sub-routine, air some questions in the muddiest folder, or come see us in OH. We would be happy to go over it with you on the board.
+
+Last thing. Some of you are still submitting incorrectly. Not only must you have the src folder zipped, but the bin as well as per the instructions. Without this the script does not work. Please double check before zipping via the export drop-down selection in Eclipse.
+Good luck studying with exams and get started early on splay trees if you can! Once you have figured out the splay (and the highly recommended but optional rotate left and rotate right methods), the rest flows quite nicely but it would be ideal if you finished up those methods before break so you can enjoy it and spend that time just doing the easy stuff and testing your code.
+
+
+Go to https://piazza.com/class?cid=iu6epcrayai7fm&nid=is6wk5m47ay4zy&token=f2GxNxqCfOm to view. Search or link to this question with @229.  
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 410 (section 002) at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll from this class.

@@ -1,0 +1,129 @@
+Nieman Lab: The Daily Digest
+Monday=2C February 5=2C 2018
+http://www.niemanlab.org/2018/02/this-hyperlocal-news-site-in-san-francisc=
+o-is-reinventing-itself-with-an-automated-local-news-wire/
+
+
+** This hyperlocal news site in San Francisco is reinventing itself with a=
+n automated local news wire (http://www.niemanlab.org/2018/02/this-hyperlo=
+cal-news-site-in-san-francisco-is-reinventing-itself-with-an-automated-loc=
+al-news-wire/)
+------------------------------------------------------------
+Hoodline is focused on the local stories that can be found by mining large=
+ data sets=2C whether from city governments or from private companies like=
+ Yelp and Zumper. By Shan Wang.
+http://www.niemanlab.org/2018/02/we-get-a-much-better-reception-now-piano-=
+says-more-news-orgs-are-embracing-paywalls-reader-revenue-and-consumer-mar=
+keting/
+
+
+** =E2=80=9CWe get a much better reception now=E2=80=9D: Piano says more n=
+ews orgs are embracing paywalls=2C reader revenue=2C and consumer marketin=
+g (http://www.niemanlab.org/2018/02/we-get-a-much-better-reception-now-pia=
+no-says-more-news-orgs-are-embracing-paywalls-reader-revenue-and-consumer-=
+marketing/)
+------------------------------------------------------------
+=E2=80=9CThe promise of Facebook growth is that=2C if get your strategy ju=
+st right=2C you can get big scale and make money off a relatively small co=
+st base=E2=80=A6But there is no media business without a relationship with=
+ the consumer.=E2=80=9D By Ricardo Bilton.
+Discourse Media is launching a membership platform and local news fellowsh=
+ips=2C as fundraising continues (http://www.niemanlab.org/2018/02/despite-=
+raising-only-60-percent-of-its-investing-goal-discourse-media-is-launching=
+-a-membership-platform-and-local-news-fellowships/)
+What We=E2=80=99re Reading
+CNBC / Michelle Castillo
+Facebook is in talks to expand Watch to more individual creators with a re=
+venue split from ads =E2=86=92 (http://www.cnbc.com/2018/02/05/facebook-wa=
+nts-to-open-up-its-videos-platform-to-more-online-influencers-and-advertis=
+ers-.html)
+Facebook has talked to media buyers about expanding Watch to more individu=
+al creators and creating an advertising system where everyone would get a=
+ split of revenue=2C similar to YouTube=2C sources say.
+Columbia Journalism Review / Jonathan Peters
+What some reporters get wrong about the First Amendment =E2=86=92 (https:/=
+/www.cjr.org/united_states_project/what-some-reporters-get-wrong-about-the=
+-first-amendment.php)
+=E2=80=9Cournalists are not immune to misunderstandings of the First Amend=
+ment=2C despite their self-evident interests in the functionality and well=
+-being of a free press (and=2C indeed=2C their long and important efforts=
+ to protect speech and press freedoms). This comes up occasionally at Firs=
+t Amendment conferences I attend=2C and it=E2=80=99s understandable to a l=
+arge extent because this area=2C as a legal specialty=2C is home to more t=
+han a few puzzling cases.=E2=80=9D
+Digiday / Seb Joseph And Jessica Davies
+Inside Amazon=E2=80=99s UK media and advertising growth ambitions =E2=86=
+=92 (https://digiday.com/marketing/inside-amazons-uk-media-advertising-gro=
+wth-ambitions/)
+=E2=80=9CWith the death of Instant Articles and the fact Facebook has mess=
+ed up with publishers=2C there=E2=80=99s a big opportunity for Amazon [wi=
+th publishers]=2C=E2=80=9D said a media executive who requested anonymity.=
+ =E2=80=9CPeople are starting to believe that Amazon will work more transp=
+arently with publishers and agencies from now on.=E2=80=9D
+The New York Times / Nellie Bowles
+Early Facebook and Google employees form a coalition to fight what they bu=
+ilt =E2=86=92 (https://www.nytimes.com/2018/02/04/technology/early-faceboo=
+k-google-employees-fight-tech.html)
+The cohort is creating a union of concerned experts called the Center for=
+ Humane Technology (the campaign=2C titled The Truth About Tech=2C will be=
+ funded with $7 million from Common Sense and capital raised by the Center=
+ for Humane Technology). Its first project to reform the industry will be=
+ to introduce a Ledger of Harms =E2=80=94 a website aimed at guiding rank-=
+and-file engineers who are concerned about what they are being asked to bu=
+ild. The site will include data on the health effects of different technol=
+ogies and ways to make products that are healthier.
+Poynter / Melody Kramer
+Museums are finding creative ways to interact with their audience =E2=80=
+=94 a lesson newsrooms should emulate =E2=86=92 (https://www.poynter.org/n=
+ews/museums-are-finding-creative-ways-engage-their-audience-lesson-newsroo=
+ms-should-emulate)
+=E2=80=9CThe Atlantic Timeline=2C the Google Arts and Culture selfie exper=
+ience=2C and interactives like The Upshot=E2=80=99s Map of Baseball Nation=
+ ask readers to reveal a part of themselves =E2=80=94 a selfie=2C a birthd=
+ay=2C a zip code =E2=80=94 to get something in return: A better understand=
+ing of art=2C or a better understanding of news events=2C or better contex=
+t for how something works in a location.=E2=80=9D
+Columbia Journalism Review / Alexandria Neason
+Texas Monthly hires an ombudsman =E2=86=92 (https://www.cjr.org/analysis/t=
+exas-monthly-hires-ombudsman.php)
+=E2=80=9CThe magazine=E2=80=99s move comes in response to a CJR story=2C p=
+ublished on January 26=2C that reported on an apparent deal made by Texas=
+ Monthly Editor in Chief Tim Taliaferro with Bumble=2C the female-centric=
+ dating app.=E2=80=9D
+The Guardian / Paul Chadwick
+How The Guardian=E2=80=99s online readers are driving a culture change in=
+ journalism =E2=86=92 (https://www.theguardian.com/commentisfree/2018/feb/=
+05/onine-readers-culture-change-journalism-digital)
+=E2=80=9CThe digital version is comprised of electronic impulses=2C obtain=
+ed and consumed through various types of devices by people all over the wo=
+rld. And its culture? Well=2C that is intriguingly new.=E2=80=9D
+Journalism.co.uk / Madalina Ciobanu
+German publishers are concerned the EU=E2=80=99s online privacy regulation=
+ is putting their digital advertising revenue at risk =E2=86=92 (https://w=
+ww.journalism.co.uk/news/german-publishers-are-concerned-the-eu-s-eprivacy=
+-regulation-is-putting-their-digital-advertising-revenue-at-risk-study-fin=
+ds-/s2/a717006/)
+=E2=80=9CIf [the regulation] comes about in its current form=2C what the=
+ user will experience will be more like a walled garden=2C=E2=80=9D wrote=
+ a respondent to a survey of publishers.
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3Df9dda926a3)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3Df9dda926a3)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+p.p1 {margin: 0.0px 0.0px 12.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+span.s1 {font-kerning: none}
+span.s2 {text-decoration: underline ; font-kerning: none; color: #0000ee; -webkit-text-stroke: 0px #0000ee}
+
+
+
+Good day!
+ 
+Thanks for your message! 
+If you would like to set up a meeting with me, please do so directly via
+calendly.com/difino or for more availability for advising on programs, use
+calendly.com/madelineallen. 
+
+Otherwise, I look forward to being in touch in due course.
+
+If this is an emergency for a student abroad, please call collect to the Department of Public Safety at +1-919-962-8100.
+ 
+Best wishes,
+gina difino
+
+

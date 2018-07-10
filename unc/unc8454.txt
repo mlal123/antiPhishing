@@ -1,0 +1,43 @@
+
+
+
+
+Hey everyone,
+
+ 
+
+A few of you expressed interest over the Telegram in learning more on So=
+lidity/Dapp development, especially with the upcoming hackathon in mind. I'=
+ll be at 1789 from 1=
+0AM onwards with a demo, code-along starting at 11AM. I'd recommend coming early to giv=
+e yourself time to setup/install before you start building your first Dapp.=
+ 
+
+ 
+
+Why is Solidity and the Truffle Framework important? With Solidity, you =
+can write smart-contracts containing the business logic of the app you want=
+ to develop.This makes it possible to ruffle, "adds another layer of a=
+bstraction to the tedious syntax of solidity/web3," or in simpler term=
+s, it makes it easy to link your smart contracts to your front-end and mana=
+ge deployments. 
+
+ 
+
+I'm certainly not an experienced Truffle/Solidity developer myself, and =
+will inevitably encounter some hiccups tomorrow, but I'll try my best. If y=
+ou're not free tomorrow, I believe Joshua will be giving an intro-to-Solidi=
+ty talk through the CS club in the near future. It'll likely be better, or =
+at least better organized. Lol. 
+
+ 
+
+Best,
+
+Parker
+
+ 
+
+
+
+

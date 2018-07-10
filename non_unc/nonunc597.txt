@@ -1,0 +1,50 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Lab 2, Part 6  (10/20/15 1:31 AM)
+
+=C2=A0For this part (If not, do not save the number and do notify user that=
+ the number is not multiple of three), do we ask the user to "try again"? I=
+f yes, do we assume that the next integer they will input is a multiple of =
+three, or should the program keep prompting them to input an integer of thr=
+ee until they actually do?
+
+Go to https://piazza.com/class?cid=3Difyxo3wfyyt1r8&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+not makes assignment trivial  (10/20/15 2:18 AM)
+
+There is a note says"=C2=A0=C2=A0You are not allowed to any method that mak=
+es the assignment trivial. For instance, you should not use any method that=
+ computes the average for you."
+What does this mean by trivial?
+What if I use one while loop which contain some nested ifs?=C2=A0
+
+Go to https://piazza.com/class?cid=3Difyzd1vmrr95da&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

@@ -1,0 +1,197 @@
+Hello Everyone,
+
+The weekly update has been sporadic this month, so I wanted to share out
+opportunities that have come through in June. See below for information and
+links.
+
+*Internships/Part-Time*
+
+*Sciome LLC* is a local Scientific Data Analytics company founded by a UNC
+Alumni. Sciome has a multidisciplinary team of scientists and
+informaticians from all local universities (UNC, NCSU, Duke) and beyond.
+Sciome has openings for Paid Summer Internships for students interested in
+software development. Selected interns will have an opportunity to
+contribute towards software development efforts in the domains of
+bioinformatics, text mining and data analytics.
+
+
+*Please apply if you have experience with:*
+Software development (Preferably Java and/or Javascript)
+=E2=80=A2 User Interface design and development
+=E2=96=AA CSS/SASS
+=E2=96=AA GWT and/or Vaadin
+=E2=96=AA HTML5
+
+
+
+*Start Date and Duration*: Summer internship start date and duration are
+negotiable. Duration of 10 weeks or more is preferred. Full time or part
+time options are available, and there may be a possibility to extend beyond
+the summer.
+
+
+
+*More about Sciome LLC *:
+We are a science and technology consulting company, based in RTP, NC. We
+provide our scientific consulting services to the US Federal Government,
+Academic institutes, Non-profit research organizations, and
+Bio-pharmaceutical companies. We have a small team (PhD/Masters/Bachelors
+level scientists and developers) and we are growing!
+
+
+
+One of our main areas of expertise is in biological data and text mining.
+In this domain, we specialize in developing computational methodologies for
+text and scientific literature mining which we implement in the form of
+desktop and web-enabled applications in order to solve real-world problems
+on behalf of our clients. In addition, we also employ these methods in
+concert with other bioinformatics techniques to enable data and literature
+driven discoveries in support of life sciences research.
+
+
+*How to apply:*
+
+Please send your resume to jobs@sciome.com and please put software
+developer internship in the subject line. Detailed flyer
+
+.
+
+
+*The Carolina Population Center* is interested in hiring a student
+part-time for June and July (and possibly into the fall semester) to help
+with IT tasks. If you know of anyone who may be interested, please forward
+this email.
+Primary duties include:
+-          checking inventory,
+-          preparing old hardware for surplus,
+-          imaging PCs and laptops,
+-          basic software and hardware installations and troubleshooting;
+-          supporting Office 2016 and Office 365 and
+-          supporting Windows 7 and Windows 10
+-          provide other desktop/general end-user support as needed.
+Experience:
+Graduation from high school or equivalent and one year of experience in the
+field of technology related to the position=E2=80=99s role. Coursework in c=
+omputer
+or information technology may be substituted year for year for the required
+experience.
+Skills Desired:
+-          previous experience with installing/imaging Windows 7 and
+Windows 10;
+-          previous experience with OneDrive is a plus;
+-          Mac experience good to have, but not a necessity;
+-          Dependability and attention to detail counts, too!
+Salary: $15/hour
+Hours: 15-20 hours per week for June and July
+Interested students should send an email with resume to
+cpc_IT_temp@office.unc.edu.
+*Full Time*
+*InterDyn Artis *is hiring; several openings for Implementation Consultant,
+Technical Consultant, and more. See all available openings here
+.
+
+*Lenovo *is hiring 3 full-time opportunities...
+
+Financial Data Analyst
+
+(Master=E2=80=99s and/or some work experience preferred) =E2=80=93 this is =
+a great
+opportunity for a IT, Data, Mathematics or related graduate to work in data
+analytics and project management
+
+Workstation Product Engineer
+
+(Masters and/or some work experience preferred) =E2=80=93 opportunity for M=
+asters
+in Computer Science or Engineering; would also consider EE, ME or related
+with interest and familiarity with PC architecture
+
+Consumer Quality Engineer
+
+=E2=80=93 Great for Computer Science or Engineering grads (Undergrad or Mas=
+ters);
+would also consider EE, ME or related with interest and familiarity with PC
+architecture
+
+
+*Start-Ups*
+*Financial Gaming/Education Tool* is a start-up/UNC CS Alumni looking for
+support in building a web-based educational game. Students will work
+remotely over the summer. For all the details and contact information, see
+the detailed flyer
+
+.
+
+*Other Opportunities*
+*Morgan Stanley *is open for *2019 Summer Analyst *Applications
+
+!
+*Microsoft's Student Partners (MSP) program* is open! This program shares
+the latest tech with MSPs and, you can serve as a campus rep for Microsoft.
+The deadline to apply is June 30th. Learn more here
+ and apply
+here . View
+the flyer here
+
+.
+
+*BlackRock=E2=80=99s Fast-Track to FinTech* (see flyer
+
+)
+
+*Program Overview: *An interactive workshop and accelerated interview
+process for female students interested in BlackRock=E2=80=99s tech internsh=
+ip
+opportunities
+
+*Eligibility requirements:* Students who identify as female and are
+graduating between December 2019-June 2020
+
+*Program Dates:* August 17-18, 2018
+
+*Application Deadline: *July 1, 2018
+
+
+
+*BlackRock Founders Scholarship* (see flyer
+
+)
+
+*Program Overview:* A scholarship program and accelerated interview process
+for diverse individuals interested in BlackRock internship opportunities
+across the firm
+
+*Eligibility requirements: *Undergraduate students who identify as Black,
+Hispanic, Native American, LGBTQ+ or disabled and are graduating between
+December 2019-June 2020
+
+*Application Deadline: *August 16, 2018 @ 8:00AM EST
+
+*Bank of America Summer Campus Connect Webcast Series*
+Sign-up for webinars with information on company culture, global markets,
+recruiting information, and interview information. See dates and sign-up
+here
+
+.
+
+Thank you,
+
+*Catherine Allen*
+Assistant Director & Liaison to Computer Science, UNC-CH
+*University Career Services*
+224 Hanes Hall
+Email: catherine_allen@unc.edu, Tel: 919-843-9533
+
+*Department of Computer Science*
+121 Sitterson Hall
+Tel: 919-590-6034
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to careers+unsubscribe@cs.unc.edu.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

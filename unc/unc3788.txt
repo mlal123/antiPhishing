@@ -1,0 +1,17 @@
+
+An announcement has been added in the "COMP411.002.FA16" site at (https://s=
+akai.unc.edu/portal/site/5d7efa4a-b769-4b43-a298-96b46c136e23) at Dec 9, 20=
+16 3:49 pm
+
+The table with the tags in the 2-way set associate part of the problem is i=
+ncorrect. =A0Specifically, the data at memory address 2020 would not be in =
+that first index of the cache. =A0The binary for 2020 is=A011111100100, so =
+the index is 01, putting it in the 2nd row.  We'll deal with the scoring, o=
+f course, but wanted to give everyone notice so you will not be misled when=
+ studying.  =A0
+
+----------------------=20
+ This automatic notification message was sent by Sakai @ UNC-Chapel Hill (h=
+ttps://sakai.unc.edu/portal).
+ You can modify how you receive notifications at My Workspace > Preferences=
+.

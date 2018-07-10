@@ -1,0 +1,135 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+There appears to be no Assignment 2 on Sakai.  (9/18/16 4:09 PM)
+
+Is the supposed to be a link to submit assignment 2 on Sakai, or is that co=
+ming soon? I'm currently just waiting for the link so I can submit my work.
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3dit9234vqby0605%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c60e65e7598fa46c8696c08d=
+3e02169db%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3D4KEXA4mvrL0ciwIMq5=
+ToDIFgOKLYuF9OHGrBFqYxDsQ%3d to view.
+
+------------------------------------------------------------
+Cannot find BuildPath under my Project?  (9/18/16 4:20 PM)
+
+Hey homies,
+
+Eclipse=C2=A0is not offering me the option of RightClick --> BuildPath --> =
+Configure BuildPath --> Add External Jars
+
+When I try to circumvent this by going to RightClick --> Properties -->Buil=
+dPath --> Add External Jars, and attempt to add the new COMP401LocalChecks.=
+jar file, I get a message stating "Setting BuildPath has encountered a prob=
+lem: =C2=A0 "
+"'/Users/Bach/Documents/COMP 410' is not a valid location for linked resour=
+ces."
+
+How can I correct this problem? Screenshots of the error message, the Eclip=
+se workplace and the menu I am given under RightClick are all provided belo=
+w.
+
+Thank you for the help!
+
+
+
+
+
+
+
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3dit92icl6jzalx%26nid%3dis6wk5m47ay4zy%26token%3df2G=
+xNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c60e65e7598fa46c8696c08d3=
+e02169db%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DvK62lrwEH%2fGhvA%2f=
+tVN6vmAZXKS%2fwFHax7FHefY5SNO8%3d to view.
+
+------------------------------------------------------------
+"Remove" Design Choice Uniformity  (9/18/16 5:18 PM)
+
+I believe=C2=A0that=C2=A0Dr. Stotts instructed us in lecture, for consisten=
+cy with the grader's tests, to handle the two-child case of remove by findi=
+ng the maximum node of the left subtree. Is that correct?
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3dit94kvktrbm7k%26nid%3dis6wk5m47ay4zy%26token%3df2G=
+xNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c60e65e7598fa46c8696c08d3=
+e02169db%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DPv1zP251FyDZdLZl8NK=
+KbNdIrYLvqsImbcYdlN3CHb4%3d to view.
+
+------------------------------------------------------------
+Can we use static variables and functions in our BST_Node class  (9/18/16 6=
+:09 PM)
+
+I think it would simplify the height function for the BST, but I'm not sure=
+ if it is allowed
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3dit96dphqdc91gb%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c60e65e7598fa46c8696c08d=
+3e02169db%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DZqMZmp2szVZrqd1%2b=
+YMC8KVFHrzo5E4ikzptg16IPIXg%3d to view.
+
+------------------------------------------------------------
+Are we required to implement in the BST_Node?  (9/18/16 6:18 PM)
+
+Are we allowed to implement in just the BST class? I have found i can pass =
+more tests/can test my code better if I don't delegate much, but I'm not su=
+re if the autograder will mess up that way.
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3dit96pd3vh1q6ss%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c60e65e7598fa46c8696c08d=
+3e02169db%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DTnjfndC7fmUHFt2phn=
+DYva1Ibtymyh0C2qqMndMOuVA%3d to view.
+
+------------------------------------------------------------
+Stack Overflow Error Due to Size?  (9/18/16 7:47 PM)
+
+I had all my code running without errors and everything worked but the remo=
+ve method. The second I altered my remove method and reran the code I got a=
+ Stack Overflow error due to my size method?!?! It doesn't make sense consi=
+dering remove doesn't utilize size in anyway. Any ideas what may be wrong?
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3dit99vijoxy22og%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c60e65e7598fa46c8696c08d=
+3e02169db%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DZcjlK4BXB95qbD40LV=
+Z5BhyDMJqZ7cw9iVN7qF%2f1%2bfM%3d to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.co=
+m%2flogin&data=3D01%7c01%7cmlal123%40live.unc.edu%7c60e65e7598fa46c8696c08d=
+3e02169db%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3D1w%2bPmw2tmTXZjvVH=
+BMuWwEoHhN%2bQtEMtr7Uhnc71UT0%3d to sign in and manage your email preferenc=
+es or proceed to https://na01.safelinks.protection.outlook.com/?url=3Dhttps=
+%3a%2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2fis6wk5m47ay4zy&data=3D01%7c01%=
+7cmlal123%40live.unc.edu%7c60e65e7598fa46c8696c08d3e02169db%7c58b3d54f16c94=
+2d3af081fcabd095666%7c1&sdata=3Dd65TwZs6h6xoL%2f%2fBdoPtQsEI4XPqmbSuOxxKQYj=
+%2bhWc%3d to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://na01.safelinks.protection.ou=
+tlook.com/?url=3Dhttps%3a%2f%2fpiazza.com%2flink_accounts%2ff2GxNxqCfOm&dat=
+a=3D01%7c01%7cmlal123%40live.unc.edu%7c60e65e7598fa46c8696c08d3e02169db%7c5=
+8b3d54f16c942d3af081fcabd095666%7c1&sdata=3DyMrw%2fPIcuHPC%2bGbSCyIa6EnDlah=
+JAtgCvqjz1PURkfM%3d=

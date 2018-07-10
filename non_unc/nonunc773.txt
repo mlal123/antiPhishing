@@ -1,0 +1,35 @@
+Instructor Connor Hamlet posted a new Note.=20
+
+Quick Note on Formatting Source Code
+
+Hey class,
+
+Sometimes when we grade it is difficult=C2=A0because of format issues or it=
+ is hard to read your own code. Please consider formatting your source code=
+ before submission. To address this, click the top tool bar Source -> Forma=
+t in Eclipse.=C2=A0
+
+This will automatically remove extra "new lines" and white space, and inden=
+t it correctly, a great feature to utilize.=C2=A0
+
+Connor
+
+Go to https://piazza.com/class?cid=3Dignugdcijv0rx&nid=3Didk60wfq88174f&tok=
+en=3Df2GxNxqCfOm to view. Search or link to this question with @305.=20=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.=

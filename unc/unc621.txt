@@ -1,0 +1,212 @@
+*TONIGHT:*
+
+*Epic Health Info Session: *Thursday, Oct 22nd 5:30pm, 239 Hanes Hall
+
+*Next Week:*
+
+*Need resume help before sending it out to prospective employers? *
+
+Resume Lab Signup is open for 10/26, 11/02, 11/09, & 11/16
+
+Reserve your seat here:
+http://www.signupgenius.com/go/20f0a4baeac2fa6ff2-resume
+
+*ThinkB1G Office Hours (Must sign up): Tuesday, Oct 27th*
+If you're interested in exploring opportunities at startups further on an
+individual basis, ThinkB1G is available to do so. These will be held in 020
+Sitterson Hall. Sign-up for a time slot on Oct. 27th at
+https://calendly.com/mgaiss/15min/10-26-2015
+
+*ThinkB1G Info Session: Tuesday, Oct 27th @ 5:30pm in Sitterson 011*
+ThinkB1G works with top startups in Boston, SF, Silicon Valley and NYC.
+They'll discuss what startups are looking for, how to assemble the body of
+work to become a highly sought after candidate, and the best ways to find &
+land positions (plus more). If you're interested in pursuing a career that
+entails the exciting world of startups, don't miss this talk!
+*RSVP Here: https://unc.az1.qualtrics.com/jfe/form/SV_9QDZq3QmDYnLBmR
+*
+
+*Career Bytes- Resumes for Technical Majors Workshop: Wednesday, Oct 28th
+12-1pm, SN 011*
+
+*WillowTree Apps Tech Talk- The Path to Building Great Mobile Apps:
+Thursday, October 29th @ 5:30pm in SN 011*
+*RSVP Here: https://unc.az1.qualtrics.com/SE/?SID=3DSV_06adr8g20m6R2Tj
+*
+
+
+
+*=E2=80=8B*
+
+
+[image: Inline image 1]
+
+
+
+
+*Other Opportunities:*
+
+
+
+*=E2=80=8B*
+*Data Engineer at McKesson Corporation*
+Alpharetta, GA
+
+*Job Summary:*
+The Associate Data Engineer for the Advanced Analytic Utility (i.e. mDNA)
+will be based in our Atlanta/London offices. As part of the mDNA team, the
+person will provide data transformation results to support advanced
+analytical insights in a cross-functional team environment. By providing
+critical analytics support, this person will work with Senior Data
+Engineers to transform available data in furthering insights and analytics
+models to help key stakeholders.
+
+*Education*
+=EF=82=B7 Bachelor degree with a minimum of 5 years of related experience; =
+MS with
+a minimum of 2 years of related experience; PhD, with degree in Computer
+Science, Statistics, Mathematics, Engineering, Econometrics, or related
+fields
+
+*Job Description:*
+The Associate Data Engineer will perform the following:
+* Data Preparation and Transformation:*
+o Work with stakeholders and data scientists to understand and deliver on
+business requirements for data and modeling criteria
+o Work closely with the core technology team to model data, create data
+flow diagrams and help support documentation as applicable to data
+extraction, load, and transformation
+o Retrieve, process and prepare a rich data variety of data sources, both
+structured (e.g., financial, operational) and unstructured (e.g., emails,
+internal/external documents)
+o Perform extraction, manipulation and transformation of structured and
+unstructured data to leverage for analysis. Use of data transformation
+tools, such as InfoSphere, is preferred.
+o Perform data scrubbing and cleansing specific to model and tool
+specifications
+*Data Visualization:*
+o Work closely with the Data Scientists to create visualization output,
+demonstrating patterns, outliers, and exceptional conditions in the data.
+Tableau experience is preferred
+
+*Requirements*
+2+ years experience in analytics or data related fields
+
+*Critical Skills:*
+Prefer 3 years of experience as a Data Engineer
+=E2=80=A2 BS/MS/PhD in Computer Science, Math, or related degree from an ac=
+credited
+college/university
+=E2=80=A2 Able to work efficiently under Unix/Linux environment
+=E2=80=A2 Proficiency in using SQL and NoSQL databases (Hadoop preferred), =
+HDFS,
+MapReduce, HIVE and Impala
+=E2=80=A2 Proficiency in data transformation tools (InfoSphere, DataStage a=
+nd
+Trifacta is beneficial)
+=E2=80=A2 Strong experience in working with visualization tools (Tableau is
+preferred)
+=E2=80=A2 Experience with modern analytics programming language (R and Pyth=
+on)
+=E2=80=A2 Up to 10 =E2=80=93 15% travel may be required (domestic and inter=
+national)
+
+*If interested please email your resume to Richard Strakosch at
+richard.strakosch@mckesson.com  by October
+29th.*
+
+
+*Data Scientist at McKesson Corporation*
+Alpharetta, Georgia
+
+*Current Need*
+The Data Scientist for McKesson Data & Analytics (mDNA) will be based in
+our Atlanta office. As part of the mDNA team, the person will provide
+in-depth advanced analytical insights while working in a cross-functional
+team environment to solve business problems. By providing critical
+analytics support, this person will work with Senior Data Scientists to
+develop insights and analytics models to help key stakeholders. The role
+will require analytical skills and tactical responsibilities to provide
+insights and recommendations.
+
+*Position Description*
+The Data Scientist will perform the following:
+=EF=82=B7 Project Support:
+o Support a cross-functional team and provide in-depth data insights for
+complex business problems that can be approached with advanced analytics
+o Work closely with the Sr. Data Scientist to deliver results
+o Coordinate and collaborate with program managers and other internal
+stakeholders including gathering requirements and modeling criteria
+o Leverage tools and resources to plan, evaluate and execute strategic
+initiatives
+o Continuously improve processes and operations
+=EF=82=B7 Advanced Analytics:
+o Rapidly perform exploratory data analysis, generate and test working
+hypotheses, and uncover interesting trends and relationships
+o Analyze and model structured data and implement algorithms to support
+analysis using advanced statistical and mathematical methods from
+statistics, data mining, econometrics, and operations research
+o Perform advanced analytics techniques to mine unstructured data, using
+methods such as document clustering, topic analysis, named entity
+recognition, and document classification (machine learning and natural
+language processing is a plus)
+o Strong understanding of large database mining tools and statistical
+languages utilized to efficiently build approaches and execute on
+analytical use cases. Specific experience with R, Python, Hive, Pig, Spark,
+SAS, Hadoop (MapReduce, HBASE), Java, Trifacta, H2O, Tableau and SQL is
+preferred. Experience with SAP and IBM DataStage is also beneficial.
+o Communicate results and educate others through reports and presentations
+Minimum Qualifications:
+5+ years of experience and 2+ years of managerial experience
+
+*Critical Skills*
+=EF=82=B7 Bachelor degree with a minimum of 5 years of related experience; =
+MS with
+a minimum of 2 years of related experience; PhD, with degree in Computer
+Science, Statistics, Mathematics, Engineering, Econometrics, or related
+fields
+=EF=82=B7 Strong quantitative analysis background and experience in working=
+ with
+large, complex data systems to aggregate, organize, and prepare data for
+use in business analysis
+=EF=82=B7 Strong mathematical background with strong knowledge in at least =
+one of
+the following fields: statistics, data mining, statistics, operations
+research, econometrics, and/or information retrieval (machine learning and
+natural language processing is a plus)
+=EF=82=B7 Deep experience in extracting, cleaning, preparing and modeling d=
+ata
+=EF=82=B7 Experience with command-line scripting, data structures, and algo=
+rithms;
+ability to work in a Linux environment
+=EF=82=B7 Data visualization and/or power point presentation skills to effe=
+ctively
+communicate insights is a plus
+=EF=82=B7 Proficiency in analysis (i.e. R, and SAS) packages
+=EF=82=B7 Up to 10 =E2=80=93 15% travel may be required (domestic and inter=
+national)
+
+*Additional Knowledge & Skills*
+=EF=82=B7 Able to use sound judgment and prioritize
+=EF=82=B7 Must be flexible, team oriented and able to accept and create cha=
+nge
+=EF=82=B7 Fast and capable learner
+=EF=82=B7 Enjoys working with numbers and data sets
+=EF=82=B7 Enjoys process improvement projects
+=EF=82=B7 Mature Confidence/Integrity
+=EF=82=B7 Results Oriented, Enthusiastic, Creative thinker
+
+*Physical Requirements*
+=EF=82=B7 General Office Demands
+
+*If interested please email your resume to Richard Strakosch at
+richard.strakosch@mckesson.com  by October
+29th.*
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at http://groups.google.com/a/cs.unc.edu/group/careers/.

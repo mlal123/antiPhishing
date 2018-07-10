@@ -1,0 +1,220 @@
+
+NC Residency Determination Service=0A=
+=0A=
+=0A=
+=0A=
+=0A=
+=0A=
+    /* CLIENT-SPECIFIC STYLES */=0A=
+    body, table, td, a{-webkit-text-size-adjust: 100%; -ms-text-size-adjust=
+: 100%;} /* Prevent WebKit and Windows mobile changing default text sizes *=
+/=0A=
+    table, td{mso-table-lspace: 0pt; mso-table-rspace: 0pt;} /* Remove spac=
+ing between tables in Outlook 2007 and up */=0A=
+    img{-ms-interpolation-mode: bicubic;} /* Allow smoother rendering of re=
+sized image in Internet Explorer */=0A=
+=0A=
+    /* RESET STYLES */=0A=
+    img{border: 0; height: auto; line-height: 100%; outline: none; text-dec=
+oration: none;}=0A=
+    table{border-collapse: collapse !important;}=0A=
+    body{height: 100% !important; margin: 0 !important; padding: 0 !importa=
+nt; width: 100% !important;}=0A=
+=0A=
+    /* iOS BLUE LINKS */=0A=
+    a[x-apple-data-detectors] {=0A=
+        color: inherit !important;=0A=
+        text-decoration: none !important;=0A=
+        font-size: inherit !important;=0A=
+        font-family: inherit !important;=0A=
+        font-weight: inherit !important;=0A=
+        line-height: inherit !important;=0A=
+    }=0A=
+=0A=
+    /* MOBILE STYLES */=0A=
+    @media screen and (max-width: 525px) {=0A=
+=0A=
+        /* ALLOWS FOR FLUID TABLES */=0A=
+        .wrapper {=0A=
+          width: 100% !important;=0A=
+            max-width: 100% !important;=0A=
+        }=0A=
+=0A=
+        /* ADJUSTS LAYOUT OF LOGO IMAGE */=0A=
+        .logo img {=0A=
+          margin: 0 auto !important;=0A=
+        }=0A=
+=0A=
+        /* USE THESE CLASSES TO HIDE CONTENT ON MOBILE */=0A=
+        .mobile-hide {=0A=
+          display: none !important;=0A=
+        }=0A=
+=0A=
+        .img-max {=0A=
+          max-width: 100% !important;=0A=
+          width: 100% !important;=0A=
+          height: auto !important;=0A=
+        }=0A=
+=0A=
+        /* FULL-WIDTH TABLES */=0A=
+        .responsive-table {=0A=
+          width: 100% !important;=0A=
+        }=0A=
+=0A=
+        /* UTILITY CLASSES FOR ADJUSTING PADDING ON MOBILE */=0A=
+        .padding {=0A=
+          padding: 10px 5% 15px 5% !important;=0A=
+        }=0A=
+=0A=
+        .padding-meta {=0A=
+          padding: 30px 5% 0px 5% !important;=0A=
+          text-align: center;=0A=
+        }=0A=
+=0A=
+        .padding-copy {=0A=
+             padding: 10px 5% 10px 5% !important;=0A=
+          text-align: center;=0A=
+        }=0A=
+=0A=
+        .no-padding {=0A=
+          padding: 0 !important;=0A=
+        }=0A=
+=0A=
+        .section-padding {=0A=
+          padding: 50px 15px 50px 15px !important;=0A=
+        }=0A=
+=0A=
+        /* ADJUST BUTTONS ON MOBILE */=0A=
+        .mobile-button-container {=0A=
+            margin: 0 auto;=0A=
+            width: 100% !important;=0A=
+        }=0A=
+=0A=
+        .mobile-button {=0A=
+            padding: 15px !important;=0A=
+            border: 0 !important;=0A=
+            font-size: 16px !important;=0A=
+            display: block !important;=0A=
+        }=0A=
+=0A=
+    }=0A=
+=0A=
+    /* ANDROID CENTER FIX */=0A=
+    div[style*=3D"margin: 16px 0;"] { margin: 0 !important; }=0A=
+=0A=
+=0A=
+=0A=
+=0A=
+=0A=
+=0A=
+    Good News from NC RDS...=0A=
+=0A=
+=0A=
+=0A=
+=0A=
+    =0A=
+        =0A=
+            =0A=
+            =0A=
+                =0A=
+                    =0A=
+                        =0A=
+                            =0A=
+                        =0A=
+                    =0A=
+                    =0A=
+                    	Powered by:=0A=
+                        CFNC.org=0A=
+                    =0A=
+                =0A=
+            =0A=
+            =0A=
+        =0A=
+    =0A=
+    =0A=
+        =0A=
+            =0A=
+            =0A=
+                =0A=
+                    =0A=
+                        =0A=
+=0A=
+							=0A=
+						      	=0A=
+						           	Mangza,=0A=
+						        =0A=
+=0A=
+						        =0A=
+						            RCN: 1100138413 =0A=
+						        =0A=
+						   =0A=
+                        =0A=
+                        =0A=
+						Residency=
+ Determination Request Complete (Pending Validation)<=
+td>                                                                                 Residency Status: Residen=
+t                                            Tuition Status: In =
+State                                             Your residency=
+=0A=
+determination request is complete. The information you provided as part of =
+your=0A=
+request will be validated. If your information fails to validate your resid=
+ency=0A=
+classification will change to nonresident and a notification will be emaile=
+d to=0A=
+you of this change. You will have the ability to request a reconsideration=
+=0A=
+and/or appeal.Go to www.ncresidency.org today to view your determ=
+ination.  =0A=
+                    =0A=
+                =0A=
+            =0A=
+            =0A=
+        =0A=
+    =0A=
+    =0A=
+        =0A=
+            =0A=
+            =0A=
+            =0A=
+            	=0A=
+				   	=0A=
+			             PLEASE DO NOT REPLY TO THIS EMAIL. This address is for send=
+ing email only and it is not monitored for messages.=0A=
+			            =0A=
+			        =0A=
+                =0A=
+                =0A=
+                    =0A=
+                        =0A=
+                        Contact Us: =0A=
+                        P.O. Box 41940=0A=
+                        Raleigh, NC 27629-1940=0A=
+                        Toll free: 844.319.3640=0A=
+                        Local: 919.835.2290=0A=
+                        Email: r=
+dsinfo@ncresidency.org=0A=
+                        =0A=
+                      =0A=
+                =0A=
+=0A=
+                =0A=
+                    =0A=
+                        =C2=A9 2016 College Foundation Inc. All Rights Rese=
+rved.=0A=
+                        =0A=
+                        Unsubscribe                        =0A=
+                    =0A=
+                =0A=
+            =0A=
+            =0A=
+        =0A=
+    =0A=
+=0A=
+=0A=
+
+
+=0A=
+=0A=
+
+

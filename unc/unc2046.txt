@@ -1,0 +1,12 @@
+This would be a project with the Institute of Global Health and Infectious
+Diseases, working with the communications director Morag MacLachlan. It is
+beginning as soon as possible, and she's looking for a coder who can work
+with an existing website theme code within Wordpress. The site is
+globalhealth.unc.edu. Interested students should email Morag at
+morag_maclachlan@med.unc.edu with their resume and portfolio.
+
+-- 
+To unsubscribe from this group and stop receiving emails, visit the group page linked below and go to "my settings (top right), leave this group."
+--- 
+You received this message because you are subscribed to the Google Groups "Careers" group.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

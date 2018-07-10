@@ -1,0 +1,37 @@
+Hi everyone,
+
+
+In Jade's absence, I will continue to send out internship and job
+opportunities to the careers listserv as we receive them throughout the
+summer. Have a wonderful Memorial Day weekend!
+
+
+*Edible Campus UNC* is looking for a student interested in building an
+*innovative, interactive
+App* this summer!
+
+
+
+*Job Description:* Edible Campus is a program of the North Carolina
+Botanical Garden that converts garden beds across the UNC Chapel Hill
+campus to growing edible and medicinal plants. There is great demand for an
+App that is a user friendly, interactive map of our garden beds, that
+shows where our beds are located, what is ready to be harvested in each
+bed, about the plant, and how to pick it!
+
+
+
+We have a GIS student on board who will focus on map creation and updates,
+and ecology interns working on the plant bios. We are just looking for an
+App developer to help make the whole program a reality.
+
+
+
+Please contact lmindlin@email.unc.edu if interested.
+
+-- 
+To unsubscribe from this group and stop receiving emails, visit the group page linked below and go to "my settings (top right), leave this group."
+--- 
+You received this message because you are subscribed to the Google Groups "Careers" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to careers+unsubscribe@cs.unc.edu.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

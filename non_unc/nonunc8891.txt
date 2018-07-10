@@ -1,0 +1,151 @@
+Nieman Lab: The Daily Digest
+Monday=2C March 19=2C 2018
+http://www.niemanlab.org/2018/03/newsonomics-retiring-from-tronc-what-is-m=
+ichael-ferro-up-to/
+
+
+** Newsonomics: =E2=80=9CRetiring=E2=80=9D from Tronc=2C what is Michael F=
+erro up to? (http://www.niemanlab.org/2018/03/newsonomics-retiring-from-tr=
+onc-what-is-michael-ferro-up-to/)
+------------------------------------------------------------
+Three possibilities: Tronc merges with Gannett=2C Ferro tries to take the=
+ company private=2C or =E2=80=94 maybe =E2=80=94 Tronc begins to act more=
+ like a normal company. By Ken Doctor.
+http://www.niemanlab.org/2018/03/live-life-like-a-local-whereby-us-adds-tw=
+o-more-cities-to-its-growing-roster/
+
+
+** Live life like a local: Whereby.Us adds two more cities to its growing=
+ roster (http://www.niemanlab.org/2018/03/live-life-like-a-local-whereby-u=
+s-adds-two-more-cities-to-its-growing-roster/)
+------------------------------------------------------------
+=E2=80=9CI want people to enjoy the newsletter like they would a nice conv=
+ersation over coffee or a cocktail or while sitting in a wooden swing on a=
+ porch.=E2=80=9D By Christine Schmidt.
+http://www.niemanlab.org/2018/03/how-digital-leaders-from-the-bbc-and-al-j=
+azeera-are-planning-for-the-ethics-of-ai/
+
+
+** How digital leaders from the BBC and Al Jazeera are planning for the et=
+hics of AI (http://www.niemanlab.org/2018/03/how-digital-leaders-from-the-=
+bbc-and-al-jazeera-are-planning-for-the-ethics-of-ai/)
+------------------------------------------------------------
+=E2=80=9CWe have to remember=2C as media=2C we are gatekeepers to people=
+=E2=80=99s understanding of the modern world.=E2=80=9D By Christine Schmid=
+t.
+Facebook: The Cambridge Analytica thing wasn=E2=80=99t a =E2=80=9Cdata bre=
+ach=2C=E2=80=9D it=E2=80=99s just totally how our platform works (http://w=
+ww.niemanlab.org/2018/03/facebook-the-cambridge-analytica-thing-wasnt-a-da=
+ta-breach-its-just-totally-how-our-platform-works/)
+What We=E2=80=99re Reading
+Buzzfeed / Craig Silverman
+How Facebook Groups are being exploited to spread misinformation=2C plan h=
+arassment=2C and radicalize people =E2=86=92 (https://www.buzzfeed.com/cra=
+igsilverman/how-facebook-groups-are-being-exploited-to-spread?utm_term=3D.=
+bx1wPjOyam#.jmnkyY9VO4)
+=E2=80=9CMark Zuckerberg wants to get a billion people in =E2=80=98meaning=
+ful=E2=80=99 Facebook groups. But to get there he=E2=80=99ll have to battl=
+e the spammers=2C hackers=2C and trolls who exploit and hijack groups to m=
+ake money or sow chaos.=E2=80=9D
+The New York Times / John Herrman
+An argument that tech companies like YouTube are taking advantage of nonpr=
+ofit Wikipedia =E2=86=92 (https://www.nytimes.com/2018/03/19/business/medi=
+a/youtube-wikipedia.html)
+=E2=80=9CA cross between a piece of infrastructure=2C a public commons and=
+ an online community=2C Wikipedia has been a boon to some of the largest c=
+ompanies in the world. Whatever benefit Google=2C the owner of YouTube=2C=
+ hopes to wring from the crowdsourced encyclopedia is likely to pale in co=
+mparison with the value it receives from including Wikipedia entries in it=
+s search results.=E2=80=9D
+Columbia Journalism Review / Amanda Palleschi
+A profile of New York=E2=80=99s The Cut =E2=86=92 (https://www.cjr.org/the=
+_profile/the-cut-new-york.php)
+=E2=80=9CI=E2=80=99ve had editors at glossy women=E2=80=99s magazines say=
+ to me=2C =E2=80=98Forget the nuance. We=E2=80=99re trying to make a reall=
+y clear argument here.=E2=80=99 No editor at The Cut has asked me to forge=
+t the nuance=2C=E2=80=9D [Ann] Friedman says. =E2=80=9CInternet conventio=
+nal wisdom is you need a very clear take that can be put into a clicky hea=
+dline. Some of the worst #MeToo writing and response has been that =E2=80=
+=94 =E2=80=98Here=E2=80=99s why so-and-so is bad.=E2=80=99 That is just no=
+t The Cut=E2=80=99s M.O.=E2=80=9D
+eMarketer
+Emarketer: Google and Facebook=E2=80=99s digital ad power will decline (sl=
+ightly) in 2018 =E2=86=92 (https://www.emarketer.com/content/google-and-fa=
+cebook-s-digital-dominance-fading-as-rivals-share-grows)
+=E2=80=9CeMarketer estimates the two companies will capture a combined 56.=
+8% of US digital ad investment in 2018=2C down from 58.5% last year. These=
+ figures have been adjusted downward=2C as smaller players such as Amazon=
+ and Snapchat are experiencing faster-than-expected growth. Importantly=2C=
+ Google and Facebook=E2=80=99s share of new digital ad dollars is declinin=
+g as well. This year=2C they will garner nearly 48% of new expenditures. B=
+y comparison=2C that figure was nearly 73% in 2016.=E2=80=9D
+Recode / Kurt Wagner
+In non=E2=80=93Cambridge Analytica Facebook news=2C FB will start letting=
+ video creators charge $5/month =E2=86=92 (https://www.recode.net/2018/3/1=
+9/17137446/facebook-video-subscription-creators-youtube-tip-jar)
+=E2=80=9CThe subscription will cost $4.99 a month=2C and Facebook won=E2=
+=80=99t take a cut. But Apple and Google=2C which will process the transac=
+tions on their respective platforms=2C will take the standard 30 percent c=
+ut they take for all in-app purchases they facilitate. That means creators=
+ will get about $3.50 for each subscription.=E2=80=9D
+Splinter / David Uberti
+How the old bosses won at the new Gothamist =E2=86=92 (https://splinternew=
+s.com/how-the-old-bosses-won-at-the-new-gothamist-1823779372)
+=E2=80=9C=E2=80=98The public narrative has its bad guy=2C and it=E2=80=99s=
+ the perfect bad guy: Joe Ricketts=2C=E2=80=99 a former DNAinfo staffer to=
+ld me Wednesday. =E2=80=98He=E2=80=99s rich=2C he owns the Cubs=2C he like=
+s Trump. But in real life there are a lot of villains. And there are a lot=
+ of losers=2C too.'=E2=80=9D
+First Draft News
+First Draft launches a free online course on identifying misinformation=
+ =E2=86=92 (https://firstdraftnews.org/free-online-course-on-identifying-m=
+isinformation/)
+=E2=80=9COur free=2C one-hour course teaches journalists and the general p=
+ublic how to verify online media=2C so that they don=E2=80=99t fall for ho=
+axes=2C rumors and misinformation.=E2=80=9D
+Reuters
+Meredith reportedly moves to sell Time=2C Fortune=2C and Sports Illustrate=
+d =E2=86=92 (https://www.reuters.com/article/us-meredith-divestiture/mered=
+ith-moves-to-sell-time-fortune-and-sports-illustrated-titles-sources-idUSK=
+CN1GR36Z)
+=E2=80=9CThe move illustrates how Meredith sees some of Time Inc.=E2=80=99=
+s titles that attract primarily male readership as not playing to its core=
+ strength in women=E2=80=99s magazines=2C which include Better Homes & Gar=
+dens=2C Family Circle and Martha Stewart Living.=E2=80=9D
+NPR / Jolie Meyers and Monika Evstatieva
+How a freelance investigative journalist embedded herself inside Russia=E2=
+=80=99s =E2=80=9Ctroll factory=E2=80=9D =E2=86=92 (https://www.npr.org/sec=
+tions/parallels/2018/03/15/594062887/some-russians-see-u-s-investigation-i=
+nto-russian-election-meddling-as-a-soap-ope)
+=E2=80=9CMy friend taught me the ropes. She told me that I had to write po=
+sts that were natural =E2=80=94 like=2C for example=2C =E2=80=98I am cooki=
+ng or I am walking down the street and I had this thought about how bad th=
+e [pro-Western] Ukrainian president is.=E2=80=99 =E2=80=9D
+Business Insider / James Cook
+The YouTube Kids app has been suggesting a load of conspiracy videos to ch=
+ildren =E2=86=92 (http://www.businessinsider.com/youtube-suggested-conspir=
+acy-videos-to-children-using-its-kids-app-2018-3?op=3D1)
+=E2=80=9CThe app suggested several videos from prominent conspiracy theori=
+st David Icke in which he claimed that the world is ruled by reptile-human=
+ hybrids.=E2=80=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3D614f2e8a7b)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3D614f2e8a7b)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

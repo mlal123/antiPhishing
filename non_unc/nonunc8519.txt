@@ -1,0 +1,147 @@
+Nieman Lab: The Daily Digest
+Thursday=2C February 15=2C 2018
+http://www.niemanlab.org/2018/02/the-guardians-new-podcast-player-for-the-=
+web-tries-to-make-listening-a-little-more-interactive-but-not-interruptive=
+/
+
+
+** The Guardian=E2=80=99s new podcast player for the web tries to make lis=
+tening a little more interactive (but not interruptive) (http://www.nieman=
+lab.org/2018/02/the-guardians-new-podcast-player-for-the-web-tries-to-make=
+-listening-a-little-more-interactive-but-not-interruptive/)
+------------------------------------------------------------
+The Guardian Mobile Innovation Lab=E2=80=99s podcast player for the mobile=
+ web lets you listen to a show without using a podcast app=2C and get phon=
+e notifications that point you to links and graphics at relevant points in=
+ the story as the audio plays. By Shan Wang.
+http://www.niemanlab.org/2018/02/newsonomics-11-questions-the-news-busines=
+s-is-trying-to-answer-in-2018/
+
+
+** Newsonomics: 11 questions the news business is trying to answer in 2018=
+ (http://www.niemanlab.org/2018/02/newsonomics-11-questions-the-news-busin=
+ess-is-trying-to-answer-in-2018/)
+------------------------------------------------------------
+West Coast news chaos=2C a new leader at WordPress=2C the decline of digit=
+al display =E2=80=94 and is The Washington Post really profitable? By Ken=
+ Doctor.
+GroundSource switched from an email newsletter to a SMS newsletter and act=
+ually got responses (http://www.niemanlab.org/2018/02/groundsource-switche=
+d-from-an-email-newsletter-to-a-sms-newsletter-and-actually-got-responses/=
+)
+$2.31/week: That=E2=80=99s about what you=E2=80=99ll pay for a digital new=
+spaper subscription these days (http://www.niemanlab.org/2018/02/2-31-week=
+-thats-about-what-youll-pay-for-a-digital-newspaper-subscription-these-day=
+s/)
+What We=E2=80=99re Reading
+Lenfest Institute / Joseph Lichterman
+How Oregon Public Broadcasting is managing a 13-year-long reporting projec=
+t =E2=86=92 (https://www.lenfestinstitute.org/solution-set/2018/02/15/oreg=
+on-public-broadcasting-managing-13-year-long-reporting-project/)
+=E2=80=9CBy the time the students graduate high school=2C OPB will have 13=
+ years of footage and reporting that shows how this group of kids has grow=
+n up =E2=80=94 a real-life version of the movie Boyhood. That point is sti=
+ll many years away=2C but it=E2=80=99s thinking that it would like to crea=
+te a documentary or some type of story that wraps everything up.=E2=80=9D
+BuzzFeed / Katie Notopoulos
+How I cracked Facebook=E2=80=99s new algorithm and tortured my friends =E2=
+=86=92 (https://www.buzzfeed.com/katienotopoulos/how-i-cracked-facebooks-n=
+ew-algorithm-and-tortured-my)
+=E2=80=9CMy post still broke through=2C thanks to its ability to goad my f=
+riends into angrily commenting. Facebook is rewarding me for pissing my fr=
+iends off=2C and its new thirst for comments seems to have driven itself i=
+nto a loop that won=E2=80=99t let my friends free from the grasp of a piec=
+e of content that they actually hate.=E2=80=9D
+The Splice Newsroom / Holly Robertson
+Cambodia=E2=80=99s Phnom Penh Post wanted a younger audience=2C so it star=
+ted rapping the news =E2=86=92 (https://www.thesplicenewsroom.com/cambodia=
+-phnom-penh-post-rap-news/)
+=E2=80=9CDespite also drawing a spike in social media followers=2C the tim=
+e-intensive experiment in news delivery in Khmer struggled to find a spons=
+or. One of five shows produced by the Post video team=2C the rap news seri=
+es failed to attract an advertiser=2C while others have achieved financial=
+ viability=E2=80=94the travel=2C food and =E2=80=98Who is Who=E2=80=99 int=
+erview segments all have regular or semi-regular sponsors.=E2=80=9D
+Times of India / Digbijay Mishral
+Chinese tech and media companies are backing news apps in India =E2=86=92=
+ (https://timesofindia.indiatimes.com/trend-tracking/chinese-tech-media-co=
+mpanies-back-news-apps-in-india/articleshow/62915832.cms)
+=E2=80=9CChinese money in news sites is a hot-button issue. TOI reported l=
+ast year that the Indian government was considering banning Alibaba=E2=80=
+=99s UCWeb here since it received complaints of data theft by the platform=
+=2E UCWeb has about 130 million active monthly users in India=2C according t=
+o latest numbers by the company.=E2=80=9D
+Poynter / David Beard
+After NPR and the New York Times=2C Kinsey Wilson joins WordPress =E2=86=
+=92 (https://www.poynter.org/news/one-time-npr-and-nyt-digital-chief-new-a=
+dventure-wordpress)
+=E2=80=9CAnd in many ways=2C I don=E2=80=99t feel like I=E2=80=99m leaving=
+ journalism at all: WordPress powers millions of news websites=2C many foc=
+used on local communities. I think it creates an opening to work with othe=
+rs to address what is frankly an alarming crisis in local journalism.=E2=
+=80=9D
+Buzzfeed / Alex Kantrowitz
+Twitter=E2=80=99s livestream of the local coverage of the school shooting=
+ in Florida was part of a new initiative =E2=86=92 (https://www.buzzfeed.c=
+om/alexkantrowitz/twitter-live-local-news-broadcasts-timeline)
+=E2=80=9COn Wednesday=2C Twitter put the initiative into action in a big w=
+ay=2C streaming hours of footage from Miami=E2=80=99s WSVN 7 next to the t=
+imelines of US users as the news station covered the shooting at Broward C=
+ounty=E2=80=99s Marjory Stoneman Douglas High School in Florida=E2=80=A6.T=
+witter=E2=80=99s efforts to promote news contrast with Facebook=E2=80=99s=
+ recent moves=2C which have been to deemphasize news content in its News F=
+eed.=E2=80=9D
+Columbia Journalism Review / Maria Bustillos
+Erasing history: The new battle over journalism=E2=80=99s digital legacy=
+ =E2=86=92 (https://www.cjr.org/special_report/microfilm-newspapers-media-=
+digital.php?Daily)
+=E2=80=9COur digital documents are far more fragile than paper. In fact=2C=
+ the record of the entire present period of history is in jeopardy.=E2=80=
+=9D
+Splinter / David Uberti
+The new local media hellscape? =E2=86=92 (https://splinternews.com/welcome=
+-to-our-new-local-media-hellscape-1823004326)
+=E2=80=9CThis local and regional space was just waiting to be fought over=
+=2C=E2=80=9D Jesse Holcomb=2C a Calvin College associate professor who res=
+earches media and civic engagement=2C told Splinter. =E2=80=9C[The midter=
+ms] could really be a mess.=E2=80=9D
+MediaShift / Tiffany Lew
+Why dialogue journalism is having a moment =E2=86=92 (http://mediashift.or=
+g/2018/02/why-dialogue-journalism-is-having-a-moment/)
+A closer look at Spaceship Media=2C the Seattle Times=E2=80=99 =E2=80=9CUn=
+der Our Skin=E2=80=9D multimedia project=2C and AJ+=E2=80=99s lessons lear=
+ned from a challenging project: =E2=80=9CIt=E2=80=99s about walking away w=
+ith that connection=2C not just the arbitrary comment. The goal to see eac=
+h other as people=2C and less as usernames.=E2=80=9D
+Digiday / Jessica Davies
+How the Guardian=E2=80=99s Instagram strategy is winning over new readers=
+ =E2=86=92 (https://digiday.com/media/guardians-instagram-strategy-winning=
+-new-readers)
+One new feature is a =E2=80=9Cweekly Story called =E2=80=98Fake or For Rea=
+l=2C=E2=80=99 which features a Guardian journalist highlighting some of th=
+e biggest fake news that has surfaced that week and asking readers to tap=
+ if they think the news is true or false=2C before debunking it herself. T=
+he one-minute story gets approximately 50=2C000 views each week and has pr=
+oven popular with people overseas=2C according to the Guardian=E2=80=99s s=
+ocial producer Eleni Stefanou.=E2=80=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3D27174416b4)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3D27174416b4)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

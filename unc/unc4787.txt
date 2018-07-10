@@ -1,0 +1,613 @@
+
+
+  Odum News
+  
+
+ 
+ @import 'https://fonts.googleapis.com/css?family=3DRaleway: medium,semi-bo=
+ld,bold';
+@import 'https://fonts.googleapis.com/css?family=3DDroid+Serif';
+=20
+ a:link {
+	color: #7bafd4;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #7bafd4;
+}
+a:hover {
+	text-decoration: none;
+	color: #a51890;
+}
+a:active {
+	text-decoration: none;
+}
+
+p {
+	font-family: Raleway, medium;
+	font-weight: 100;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: raleway;
+	font-weight:100;
+}
+ a {
+	font-weight: bold;
+}
+ 
+
+ 
+=20
+=20
+
+
+
+	
+     
+      
+       
+       
+      
+   =20
+      
+      
+       
+     =20
+
+
+
+ 
+  
+   
+    CONTENTS
+   
+  
+ =20
+
+
+   
+    
+
+ Research Compliance Learning Training
+NCD=
+S Call for Proposals
+ Qu=
+alitative Research Summer Intensive
+=20
+S=
+hort Course Spotlight
+    =20
+Upcoming Short Courses
+
+   
+  
+ =20
+
+
+   
+   RESEARCH COMPLIANCE LEARNING TRAINING
+   
+  
+  
+   
+   =20
+
+Increase Compliance Behavior Thr=
+ough Brain Science-based Training Design
+  	Please note that you must take THE BASICS<=
+/b> course before the INTERMEDIATE LEVEL and the INTERMEDIATE LEV=
+EL course before the ADVANCED LEVEL
+    You can take just the BASICS or just =
+the BASICS + INTERMEDIATE, if that works best with your schedule=
+
+ Participants in this 3-course series will =
+learn: 5 time-tested steps to powerful compliance training; why training fo=
+r compliance behavior is different than other types of instructional design=
+; how to get the most return-on-investment for your compliance training dol=
+lars; what cognitive science can do for your training that traditional meth=
+ods cannot; and the secret to keeping training participants engaged even af=
+ter the training ends.
+=20
+  
+  	Basics: Course focuses on the major ap=
+proaches to compliance training and key instructional design techniques
+    Intermediate: Course addresses design=
+ing needs assessments, learning/program evaluation, and metrics
+    Advanced: Course is an intensive, han=
+ds-on group activity applying the cumulative course content to a complex, r=
+eal world compliance training challenge
+ =20
+ Instructor: Dr. Lisa RossResearch Comp=
+liance Learning & Communication=20
+
+Location: Health Science Library, room 527Dates: May 9, 20=
+17 - May 24, 2017Pric=
+e: Free=20
+  Session dates & times:=
+
+    
+  		The Basics: May 9, 2017 | 9:00am - 12=
+:00pm
+        Intermediate Level: May 11, 2017 =
+| 1:00pm - 4:00pm
+        The Basics: May 17, 2017 | 9:00am=
+ - 12:00pm
+        The Basics: May 23, 2017 | 9:00am=
+ - 12:00pm
+        Intermediate Level: May 23, 2017 =
+| 1:00pm - 4:00pm
+        Advanced Level: May 24, 2017 | 10=
+:30am - 12:30pm
+  
+ =20
+ =20
+  To register, click here.=20
+
+
+    
+  
+ =20
+  
+   
+   NCDS CALL FOR PROPOSALS
+   
+  
+  
+   
+   =20
+
+National Consortium for Data Sci=
+ence seeks faculty members for 2017-2018 Data fellows program.The Data Fellows program provides fundi=
+ng to faculty members from NCDS academic member institutions to support res=
+earch on novel and innovative data science and data-focused business proble=
+ms. NCDS academic members include all campuses in the University of North C=
+arolina system and Drexel University.=20
+The program is open to faculty researchers in all di=
+sciplines and domains, with preference given to junior faculty with no more=
+ than five years of service. This year, the NCDS will award two fellowships=
+ of up to $30,000 each.Data Fellows p=
+roposals must be submitted by F=
+riday, April 7, 2017.=20
+ For the complete Data Fellows Call for Proposals, i=
+ncluding the submission form, click here. For more general information about the Data F=
+ellows program, including information about current and past Fellows, visit=
+ http://da=
+tascienceconsortium.org/data-fellow-awards/.
+
+    
+  
+ =20
+ =20
+  
+   
+   QUALITATIVE RESEARCH SUMMER INTENSIVE
+   
+  
+  
+   
+   =20
+
+ ResearchTalk and the Odum Institute at University o=
+f North Carolina present:=20
+The 14th Annual Qualitative Rese=
+arch Summer IntensiveQRSI is a un=
+ique opportunity to gain both theoretical and practical understanding of qu=
+alitative inquiry. The five-day course series covers a range of topics to h=
+elp you synthesize your data and develop a deeper understanding of qualitat=
+ive research tools. QRSI also lets you make your own customized schedule ba=
+sed on the courses that best suit your needs.Join us for five days of qualitative research professional developm=
+ent courses and networking opportunities. This year we are introducing t=
+en new courses and four new instructors!=20
+ July 24 - 25, 2017 (9:30am - 4:=
+00pm)
+    	Coding and Analyzing Qualitative Data (Johnny Salda=C3=B1a)
+        NEW! Focus Groups: Tools for Inquiry,=
+ Pedagogy, and Social Advocacy/Activism (New QRSI Scholar: George Kambe=
+relis)
+        Foundational Principles of and Approa=
+ches to Mixed Methods Research (Margarete Sandelowski)
+        NEW! Introduction to Qualitative Rese=
+arch: From Principles to Practice (Alison Hamilton)
+        NEW! Oral History: Purpose, Praxis an=
+d Possibility (New QRSI Scholar: Sherick Hughes)
+        NEW! Qualitative Teamwork (Kevin =
+Swartout)
+    
+       =20
+       =20
+ July 26, 2017 (9:30am - 4:00pm)=
+
+    	Building a Codebook and Writing Memos (Paul Mihas)
+        NEW! Compassionate Interviewing (=
+Carolyn Ellis)
+        Doing Qualitative Research Online=
+ (Kevin Swartout)
+        Rapid Turn-around Qualitative Researc=
+h (Alison Hamilton and Ray Maietta)
+        NEW! Synthesizing Qualitative Data (Johnny Salda=C3=B1a)
+        NEW! Writing Stories: Researcher as S=
+toryteller (New QRSI Scholar: Arthur Bochner)
+    
+       =20
+     July 27 - 28, 2017 (Thursda=
+y 9:30am - 4:00pm, Friday 9:00am - 3:00pm)
+    	NEW! Doing Qualitative Research in the B=
+ig Data Era (New QRSI Scholar: Mario Small)
+        NEW! Evocative Autoethnography: Writi=
+ng Lives and Telling Stories (Carolyn Ellis and Arthur Bochner)<=
+/li>
+        Implementation Research: Using Qualit=
+ative Research Methods to Improve Policy and Practice (Alison Hamilton)=
+
+        NEW! Qualitative Research: Anaylzying=
+ Life (Johnny Salda=C3=B1a)
+        'Sort and Sift, Think and Shift': Lea=
+rning to Let the Data Guide Your Analysis (Ray Maietta)
+        Writing Effective Qualitative and Mix=
+ed Methods Research Proposals (Margarete Sandelowski)
+       =20
+       =20
+
+       =20
+   Visit http://researchtalk.com/qrsi-2017/ for more=
+ information and to register.=20
+
+
+    
+  
+ =20
+ =20
+ =20
+ =20
+
+
+   
+   SHORT COURSE SPOTLIGHT
+   
+  
+  
+   
+   =20
+
+Short Course Spotlight: Social Media's Role in Survey Research=
+=20
+ The ubiquity of social media in the world today pre=
+sents new opportunities and challenges when it comes to social research. Th=
+is course considers the use of social media in survey research. Throughout =
+the survey lifecycle (questionnaire design and testing, subject recruitment=
+, respondent tracking and longitudinal panel retention), social media platf=
+orms offer some new ways to reach respondents at a time when traditional me=
+thods have seen declining participation.
+ Social media data can also be considered as supplem=
+entary or proxy data for surveys. This course will present specific example=
+s of the use social media in survey research, highlighting the topics, meth=
+ods, and ethical considerations that accompany this growing sub-discipline.=
+ We end with considerations for the role of social media in public opinion =
+research in the future as this area of research evolves.=20
+ Examples of issues that will be=
+ discussed include::
+  
+  	Defining social media for the purposes of det=
+ermining its potential role within survey research
+    The motivation for tapping this source of be=
+havioral and attitudinal measurement
+    The availability and quality considerations =
+inherent in social media data analysis
+    Current uses and evaluations of social media=
+ in research
+    The legal and ethical issues that must be co=
+nsidered when considering social media as a resource in research
+    Challenges and questions on the road ahead i=
+n developing best practices for social media in survey research, including =
+validation of social media data; addressing coverage, sampling, and differe=
+ntial access challenges; designing better integrations of surveys and socia=
+l media; leveraging the unique features of social media; and continuing to =
+refine the understanding and guidance on privacy and ethics
+ 
+=20
+=20
+ The Instructor: Joe Murphy is a senior survey methodologist at RT=
+I International. His research focuses on the development and application of=
+ new technologies and modes of communication to improve the survey research=
+ process. His recent work has centered on the use and analysis of social me=
+dia to supplement survey data, with a detailed focus on Twitter. Mr. Murphy=
+ also investigates optimal designs for mobile data collection platforms, da=
+ta visualization, crowdsourcing, and social research in virtual worlds. He =
+is a demographer by training and survey methodologist by practice. <=
+br>=20
+ =20
+  Registration fees:
+  
+    		CPSM Students - $20
+  		UNC-CH Students - $35
+        All others - $45
+  To register, click her=
+e. No registrations will be accepted on or after April 9, 2017.
+  This course will count as 4.0 CPSM short course cr=
+edit hours.=20
+  =20
+Cancellation/ Refund Policy: A full refund wi=
+ll be given to those who cancel their registration no later than 10 days pr=
+ior to the course. If you cancel within the 10 days prior to the class, no =
+refund will be given. Please allow 30 days to receive your refund. =
+Waitlist/ Walk-ins: There may be a waitlist for the courses. Walk-in=
+s will not be accepted. Each attendee must register and pay prior to 3 days=
+ before the start of the course. L=
+ocation: Davis Library 219
+Date: Changed to April 13, 2017
+Time: 9:00 a.m. - 1:00 p.m. 
+
+
+    
+  
+ =20
+ =20
+  =20
+
+
+   
+   UPCOMING SHORT COURSES
+   
+  
+  
+   
+  =20
+       For more informatio=
+n and to register for courses click here.Qualitative Ana=
+lysis Short Courses:
+    	NVivo Hands-on Workshop (Part 2)
+        Date: March 21, 2017
+        Time: 2:00 - 4:00 p.m.
+        Location: Davis Library Room 3010=
+
+      =20
+          
+    	MAXQDA Hands-on Workshop
+        Date: March 23, 2017
+        Time: 2:00 - 4:00 p.m.
+        Location: Davis Library Room 3010=
+
+      =20
+   =20
+      
+    	ICPSR - Introduction to Mixed Methods Re=
+search
+        Date: July 10 - 12, 2017
+        Time: 9:00 - 4:30 p.m.
+        Location: Davis Library Room 3010=
+
+      =20
+   =20
+   =20
+      
+    	Qualitative Research Summer Intensive
+           Location: Carolina Inn<=
+/li>
+           For more information and to register,=
+ click here
+        July 24, 2017 9:30 a.m. - 4:00 p.=
+m.
+        July 25, 2017 9:30 a.m. - 4:00 p.=
+m.
+        July 26, 2017 9:30 a.m. - 4:00 p.=
+m.
+        July 27, 2017 9:30 a.m. - 4:00 p.=
+m.
+        July 28, 2017 9:30 a.m. - 4:00 p.=
+m.
+
+       =20
+   =20
+      
+    	ICPSR - Qualitative Research Methods=
+
+        Date: August 2 - 4, 2017
+        Time: 9:00 - 4:30 p.m.
+        Location: Davis Library Room 3010=
+
+      =20
+   =20
+   =20
+Quantitative Analysis Short Cour=
+ses:=20
+      
+    	Logistic Regression
+        Date: March 22, 2017
+        Time: 3:30 - 5:00 p.m.
+        Location: Davis Library Room 219<=
+/font>
+     =20
+   =20
+          
+    	ICPSR - Latent Growth Curve Models (LGCM=
+): A Structural Equation Modeling Approach
+        Date: June 5 - 9, 2017
+        Time: 9:00 - 4:30 p.m.
+        Location: Davis Library Room 219<=
+/font>
+     =20
+   =20
+              
+    	ICPSR - Growth Mixture Models: A Structu=
+ral Equation Modeling Approach
+        Date: June 12 - 14, 2017
+        Time: 9:00 - 4:30 p.m.
+        Location: Davis Library Room 219<=
+/font>
+     =20
+   =20
+              
+    	ICPSR - Machine Learning for the Analysi=
+s of Text as Data
+        Date: June 19 - 23, 2017
+        Time: 9:00 - 4:30 p.m.
+        Location: Davis Library Room 219<=
+/font>
+     =20
+   =20
+              
+    	ICPSR - Bayesian Latent Variable Analysi=
+s
+        Date: July 17 - 21, 2017
+        Time: 9:00 - 4:30 p.m.
+        Location: Davis Library Room 219<=
+/font>
+     =20
+   =20
+              
+    	ICPSR - Statistical Graphics<=
+/li>
+        Date: July 31 - August 2, 2017
+        Time: 9:00 - 4:30 p.m.
+        Location: Davis Library Room 219<=
+/font>
+     =20
+   =20
+   =20
+   =20
+   =20
+Spatial Analysis & Mapping S=
+hort Courses:=20
+  
+    	Applied Spatial Regression Analysis<=
+/font>
+        Date: March 27 & 29, 2017
+        Time: 1:30 - 4:00 p.m.
+        Location: Davis Library Room 219<=
+/font>
+     =20
+          =20
+Survey Research Short Courses:
+    	Visual Design for Surveys: A Hands-On Ap=
+proach
+        Instructor: Don Dillman
+        Date: March 23, 2017
+        Time: 9:00 - 4:30 p.m.
+        Location: Davis Library Room 219<=
+/font>
+    
+   =20
+    
+    	Cognitive Interviewing: A Hands-On Appro=
+ach
+        Instructor: Gordon Willis<=
+/li>
+        Date: April 7, 2017
+        Time: 9:00 - 4:30 p.m.
+        Location: Davis Library Room 219<=
+/font>
+    
+                       
+    	Social Media's Role in Survey Research
+        Instructor: Joe Murphy
+        Date: April 13, 2017
+        Time: 9:00 - 1:00 p.m.
+        Location: Davis Library Room 219<=
+/font>
+    
+   =20
+      
+    	Conducting Cross Cultural Surveys - Chal=
+lenges and Best Practices
+        Instructor: Emilia Peytcheva
+        Date: October 5, 2017
+        Time: 1:00 - 5:00 p.m.
+        Location: Davis Library Room 219<=
+/font>
+    
+   =20
+      
+    	Issues in the Analysis of Complex Sample=
+ Survey Data
+        Instructor: Brady West
+        Date: October 26, 2017
+        Time: 9:00 a.m. - 4:30 p.m.
+        Location: Davis Library Room 219<=
+/font>
+    
+   =20
+      
+    	Introduction to Focus Groups<=
+/li>
+        Instructor: Emily Geisen
+        Date: November 9, 2017
+        Time: 9:00 a.m. - 4:30 p.m.
+        Location: Davis Library Room 219<=
+/font>
+    
+   =20
+      
+    	Nonresponse from the Total Survey Error =
+Perspective: An Overview
+        Instructor: Paul Biemer
+        Date: November 16, 2017
+        Time: 9:00 a.m. - 1:00 p.m.
+        Location: Davis Library Room 219<=
+/font>
+    
+   =20
+    Statistical Computing Short =
+Courses:=20
+
+       =20
+    
+    	SAS
+        Date: March 27 - March 30, 2017
+        Time: 3:00 - 5:00 p.m.
+        Location: Davis Library Room 3010=
+
+    
+   =20
+    Other Short Courses:
+    	Data Wrangling
+        Date: March 25, April 1, 2017
+        Time: 9:00 - 4:00 p.m.
+        Location: Mitchell Hall Room 3010=
+
+    
+
+
+   =20
+    
+  
+ =20
+ =20
+  =20
+ =20
+
+
+            =20
+=20
+
+   
+    To unsubscribe from=20
+  this listserv, send a blank e-mail message to leave-38644364-90028569.519edd28e76e17b9866=
+f1cae416ac17a@listserv.unc.edu
+  
+
+ 
+  The Odum Institute
+   The University of North=20
+  Carolina at Chapel Hill 
+  Davis Library, 2nd Floor, CB# 3355
+  Chapel Hill, NC 27599-3355 
+  www.odum.unc.edu=20
+  
+  Telephone: 919.962.3061
+Follow us on Twitter here=
+!
+Subscribe to our YouTube =
+channel here!
+       
+      
+  
+       
+      
+
+
+
+
+
+

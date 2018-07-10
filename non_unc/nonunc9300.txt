@@ -1,0 +1,147 @@
+Nieman Lab: The Daily Digest
+Thursday=2C April 19=2C 2018
+http://www.niemanlab.org/2018/04/should-you-design-for-addiction-or-for-lo=
+yalty/
+
+
+** Should you design for addiction or for loyalty? (http://www.niemanlab.o=
+rg/2018/04/should-you-design-for-addiction-or-for-loyalty/)
+------------------------------------------------------------
+That depends on whether you want users or an audience. By Michelle Manafy.
+http://www.niemanlab.org/2018/04/from-nieman-reports-reinventing-local-tv-=
+news-might-require-going-over-the-top/
+
+
+** From Nieman Reports: Reinventing local TV news might require going over=
+ the top (http://www.niemanlab.org/2018/04/from-nieman-reports-reinventing=
+-local-tv-news-might-require-going-over-the-top/)
+------------------------------------------------------------
+To attract young viewers=2C stations are going digital-first=2C crowdsourc=
+ing reporting=2C experimenting with augmented reality=2C and injecting mor=
+e personality into the news. By Eryn Carlson and Sara Morrison.
+Facebook=E2=80=99s News Feed changes appear to be hurting =E2=80=94 not he=
+lping =E2=80=94 local news (http://www.niemanlab.org/2018/04/facebooks-new=
+s-feed-changes-appear-to-be-hurting-not-helping-local-news/)
+What We=E2=80=99re Reading
+TechCrunch / Anthony Ha
+Ad-blocking browser Brave signs up Dow Jones as a partner =E2=86=92 (https=
+://techcrunch.com/2018/04/18/brave-dow-jones/)
+The deal will give =E2=80=9Cfull access to Barrons.com or a premium Market=
+Watch newsletter=E2=80=9D to =E2=80=9Ca limited number of users who downlo=
+ad the Brave browser on a first-come=2C first-serve basis.=E2=80=9D
+Data & Society / Joan Donovan=2C Robyn Caplan=2C Jeanna Matthews=2C and La=
+uren Hanson
+Algorithmic Accountability: A Primer =E2=86=92 (https://datasociety.net/ou=
+tput/algorithmic-accountability-a-primer/)
+=E2=80=9CCurrently=2C there are few consumer or civil rights protections t=
+hat limit the types of data used to build data profiles or that require th=
+e auditing of algorithmic decision-making=2C even though algorithmic syste=
+ms can make decisions on the basis of protected attributes like race=2C in=
+come=2C or gender =E2=80=94 even when those attributes are not referenced=
+ explicitly =E2=80=94 because there are many effective proxies for the sam=
+e information.=E2=80=9D
+Columbia Journalism Review / George Wright
+How a tiny paper in the Marshall Islands has given voice to victims of nuc=
+lear testing =E2=86=92 (https://www.cjr.org/analysis/marshall-islands-jour=
+nal-nuclear.php)
+=E2=80=9CThat is one of the interesting things about the Journal=2C that w=
+e have a relatively small circulation=2C but our readership is totally out=
+ of proportion=E2=80=A6everybody in Washington who deals with the Pacific=
+ reads the paper because we=E2=80=99re the only paper here.=E2=80=9D
+New York / Noah Kulwin
+=E2=80=9CI fundamentally believe that my time at Reddit made the world a w=
+orse place=E2=80=9D =E2=86=92 (http://nymag.com/selectall/2018/04/dan-mcco=
+mas-reddit-product-svp-and-imzy-founder-interview.html)
+=E2=80=9CBut you don=E2=80=99t think that growth solves the problems?=E2=
+=80=9D =E2=80=9CNo=2C absolutely not. It=E2=80=99s just gonna keep getting=
+ worse.=E2=80=9D
+Digiday / Lucia Moses
+Consumer Reports looks for paid member growth with new payment options =E2=
+=86=92 (https://digiday.com/media/consumer-reports-launches-new-membership=
+-tiers/)
+=E2=80=9CAt the high end is the $55-a-year All Access plan that includes t=
+hose benefits plus the print magazine and a personalized online chat servi=
+ce with people who can make product recommendations that are more detailed=
+ than what=E2=80=99s available on the site.=E2=80=9D
+Reuters / David Ingram
+Facebook to put 1.5 billion users out of reach of new EU privacy law =E2=
+=86=92 (https://www.reuters.com/article/us-facebook-privacy-eu-exclusive/e=
+xclusive-facebook-to-change-user-terms-limiting-effect-of-eu-privacy-law-i=
+dUSKBN1HQ00P)
+=E2=80=9CFacebook members outside the United States and Canada=2C whether=
+ they know it or not=2C are currently governed by terms of service agreed=
+ with the company=E2=80=99s international headquarters in Ireland. Next mo=
+nth=2C Facebook is planning to make that the case for only European users=
+=2C meaning 1.5 billion members in Africa=2C Asia=2C Australia and Latin A=
+merica will not fall under the European Union=E2=80=99s General Data Prote=
+ction Regulation=2C which takes effect on May 25.=E2=80=9D
+Digiday / Tim Peterson
+Instagram Stories have become traffic drivers for publishers and influence=
+rs =E2=86=92 (https://digiday.com/media/publishers-influencers-using-insta=
+gram-story-links-audience-outside-walled-garden/)
+=E2=80=9CFirst Media=2C the publisher of So Yummy=2C has been using Instag=
+ram Story links to get people to subscribe to So Yummy=E2=80=99s email new=
+sletter. These links average a 2.3 percent swipe-through rate and account=
+ for 10 to 15 percent of the newsletter=E2=80=99s subscribers=2C and those=
+ Instagram-driven subscribers open the emails at an above-average rate.=E2=
+=80=9D
+Medium / Wikimedia
+Navigating through Wikipedia articles on desktop just got a lot easier =E2=
+=86=92 (https://medium.com/freely-sharing-the-sum-of-all-knowledge/wikiped=
+ia-page-previews-738cddac7a21)
+=E2=80=9CThe feature allows you to get a quick grasp of what=E2=80=99s beh=
+ind a link without committing to a click-through.=E2=80=9D
+Axios / Sara Fischer
+Cheddar launches two networks on YouTube TV =E2=86=92 (https://www.axios.c=
+om/cheddar-big-news-youtube-tv-streaming-d82779f4-2536-48ba-8219-9d1606ada=
+500.html)
+=E2=80=9CCheddar Big News will launch on YouTube TV and head later to Dish=
+=E2=80=99s Sling TV and Philo. It will have several new content partners=
+ =E2=80=94 AccuWeather for weather and Stadium=2C VSiN=2C and FanSided for=
+ sports =E2=80=94 and a major advertising sponsor=2C The Coca-Cola Company=
+=2E=E2=80=9D
+Lenfest Institute / Joseph Lichterman
+More than just a pop-up: How the collaborative newsroom of 100 Days in App=
+alachia has grown =E2=86=92 (https://www.lenfestinstitute.org/solution-set=
+/2018/04/19/100-days-appalachia-donald-trump/)
+=E2=80=9CI want to experiment to see if that=E2=80=99s something that we c=
+an monetize=2C if someone like a New York Times would pay to have access t=
+o that group because God knows they ask us for the access all the time=2C=
+=E2=80=9D Dana Coester=2C 100 Days in Appalachia=E2=80=99s executive edito=
+r and creative director=2C said. =E2=80=9CThese people aren=E2=80=99t sour=
+ces to be interviewed=2C they=E2=80=99re sources to vet context and say=2C=
+ let me break this down for you=2C let me explain how you want to approach=
+ it. If I=E2=80=99m a journalist=2C I=E2=80=99d love to pay for that.=E2=
+=80=9D
+Digiday / Max Willens
+=E2=80=9CNot what we hoped it was going to be=E2=80=9D: Google=E2=80=99s A=
+MP stories comes out of the gate slowly =E2=86=92 (https://digiday.com/med=
+ia/not-hoped-going-googles-amp-stories-comes-gate-slowly/)
+=E2=80=9CIt=E2=80=99s too early to call it [a flop]=2C but I don=E2=80=99=
+t think it=E2=80=99s come out of the gate like Google wanted=2C=E2=80=9D s=
+aid one source at a participating publisher. We covered AMP stories=E2=80=
+=99 introduction earlier this year=2C when the Washington Post=E2=80=99s l=
+ead product manager told us he believed =E2=80=9Cit will become a core par=
+t of our toolbox.=E2=80=9D (http://www.niemanlab.org/2018/02/can-social-st=
+ories-work-for-news-organizations-without-putting-them-on-a-platform/)
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3D8798d726dd)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3D8798d726dd)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

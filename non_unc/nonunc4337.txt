@@ -1,0 +1,49 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in MATH 233 on Piazza:
+
+------------------------------------------------------------
+parallelogram confusion  (2/05/17 8:05 PM)
+
+If a parallelogram has vertices A,B,C,D does that imply A is top left, B is=
+ top right, C is bottom right, and D is bottom left? How do you tell where =
+each vertice is? I keep getting problems wrong that require finding the are=
+a of the parallelogram via the cross product so I'm thinking maybe I'm not =
+subtracting the correct point from each other to create the necessary vecto=
+rs.
+
+Go to https://piazza.com/class?cid=3Diytec2lh7pf6b7&nid=3Diw5tgq5i54x11i&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Hw 14.1 1 & 2  (2/05/17 8:25 PM)
+
+Can someone explain why problem 1. The equation x2 =E2=88=92 8y2 + z2 =3D 1=
+21 describes z as a function of x and y is false and x2 + 4z3 + y =3D 49 is=
+ true?
+
+Go to https://piazza.com/class?cid=3Diytf1hj4sh37lu&nid=3Diw5tgq5i54x11i&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in MAT=
+H 233 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/iw5tgq5i54x11i to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

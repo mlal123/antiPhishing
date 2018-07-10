@@ -1,0 +1,30 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Testing Part 5 errors  (11/17/15 11:59 PM)
+
+So I was pretty sure I had all of part 5 correct. There aren't any alerts by the line numbers either, however when I try to test it I get these messages in red:
+
+Color Definitions: 11 of 11 tests passed.
+Color Semantics: 16 of 16 tests passed.
+Image Definitions: 8 of 8 tests passed.
+Exception in thread "main" java.lang.NullPointerException at com.comp110.instagram.Image.getWidth(Image.java:22) at com.comp110.instagram.Image.toString(Image.java:18) at java.lang.String.valueOf(Unknown Source) at java.lang.StringBuilder.append(Unknown Source) at com.comp110.test.ClassTestBase.testInstanceMethodCall(ClassTestBase.java:27) at com.comp110.instagram.test.ImageSemanticsTests.testSetPixelChangesPixel(ImageSemanticsTests.java:196) at com.comp110.instagram.test.ImageSemanticsTests.getTestSuites(ImageSemanticsTests.java:75) at com.comp110.instagram.test.ImageSemanticsTests.run(ImageSemanticsTests.java:18) at com.comp110.instagram.Assignment4A.main(Assignment4A.java:43)
+
+Go to https://piazza.com/class?cid=ih4caqd2raj6j3&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 110 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2GxNxqCfOm

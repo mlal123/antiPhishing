@@ -1,0 +1,15 @@
+Don't usually send out job positions but this is an on-campus opportunity
+that could be a good way for students to get experience with new software
+and working with clients.
+
+Briefly, consultants provide support for data services, geographic
+information services,
+data visualization, and digital humanities and provide training.  They are
+looking to hire for both summer and fall.
+
+The position description is online:
+http://gis.unc.edu/ResearchHubConsultant.pdf
+
+-- 
+You received this message because you are subscribed to the Google Groups "Majors" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to majors+unsubscribe@cs.unc.edu.

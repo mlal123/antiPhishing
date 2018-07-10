@@ -1,0 +1,9 @@
+Folks -- Lab 2 is now on Sakai and on the Schedule tab on the class web
+page. It is a simple lab to help you work with arrays. This is due Wed, Oct
+21 at 11:55 PM.
+
+http://cs.unc.edu/~aikat/courses/comp110/labs/Lab2
+
+Best wishes...
+
+To unsubscribe from this group and stop receiving emails from it, send an email to comp110-001+unsubscribe@cs.unc.edu.

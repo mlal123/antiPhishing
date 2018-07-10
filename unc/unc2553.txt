@@ -1,0 +1,24 @@
+
+Site Title: COMP410.002.FA16
+Site ID: 41a09363-ba03-4d7b-8594-d466a078cbd6
+
+Assignment title: Assignment0
+Assignment Due Date: Sep 8, 2016 11:55 pm
+
+Student: Mangza Lal( mlal123 )
+
+Submission ID: a8b94660-2771-4140-93e2-9b247e2b0e85
+Submitted on: Sep 8, 2016 1:05 pm
+
+Attachments
+
+mlal123_assignment0.zip.zip (8 KB)Assignment0/src/LinkedListA0/LinkedListPlayground.java (2 KB)
+Assignment0/bin/LinkedListA0/LinkedListPlayground.class (3 KB)
+Assignment0/bin/LinkedListA0/LinkedListImpl.class (2 KB)
+Assignment0/bin/LinkedListA0/LIST_Interface.class (1 KB)
+Assignment0/src/LinkedListA0/LIST_Interface.java (2 KB)
+Assignment0/bin/LinkedListA0/Node.class (1 KB)
+Assignment0/src/LinkedListA0/LinkedListImpl.java (2 KB)
+Assignment0/.classpath (1 KB)
+Assignment0/src/LinkedListA0/Node.java (1 KB)
+Assignment0/.project (1 KB)

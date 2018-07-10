@@ -1,0 +1,134 @@
+Nieman Lab: The Daily Digest
+Wednesday=2C April 11=2C 2018
+http://www.niemanlab.org/2018/04/heres-what-we-know-so-far-about-google-ch=
+romes-mobile-article-recommendations-the-next-major-traffic-driver-for-pub=
+lishers/
+
+
+** Here=E2=80=99s what we know so far about Google Chrome=E2=80=99s mobile=
+ article recommendations=2C the next major traffic driver for publishers (=
+http://www.niemanlab.org/2018/04/heres-what-we-know-so-far-about-google-ch=
+romes-mobile-article-recommendations-the-next-major-traffic-driver-for-pub=
+lishers/)
+------------------------------------------------------------
+It=E2=80=99s driving over 100 million visits a month to news sites in the=
+ United States =E2=80=94 on Android alone. And it=E2=80=99s an even bigger=
+ factor in France=2C Argentina=2C Brazil=2C and elsewhere. By Josh Schwart=
+z.
+http://www.niemanlab.org/2018/04/the-dutch-newsletter-platform-revue-with-=
+around-30000-users-is-opening-up-subscription-features/
+
+
+** The Dutch newsletter platform Revue=2C with around 30=2C000 users=2C is=
+ opening up subscription features (http://www.niemanlab.org/2018/04/the-du=
+tch-newsletter-platform-revue-with-around-30000-users-is-opening-up-subscr=
+iption-features/)
+------------------------------------------------------------
+Revue pitches an easy-to-use authoring interface with many small but usefu=
+l additional features=2C all developed together with or as requests from i=
+ts users. By Shan Wang.
+http://www.niemanlab.org/2018/04/how-many-avocados-for-a-houseboat-curbeds=
+-spunky-side-instagram-mixes-memes-with-real-estate-coverage/
+
+
+** How many avocados for a houseboat? Curbed=E2=80=99s spunky side Instagr=
+am mixes memes with real estate coverage (http://www.niemanlab.org/2018/04=
+/how-many-avocados-for-a-houseboat-curbeds-spunky-side-instagram-mixes-mem=
+es-with-real-estate-coverage/)
+------------------------------------------------------------
+Curbed=E2=80=99s Instagram manager is aiming for =E2=80=9Cthe perfect blen=
+d of all things Internet.=E2=80=9D By Christine Schmidt.
+NewsWhip=E2=80=99s new research center will be a hub for its disinformatio=
+n research (http://www.niemanlab.org/2018/04/newswhips-new-research-center=
+-will-be-a-hub-for-its-disinformation-research/)
+What We=E2=80=99re Reading
+The Ringer / Michael MacCambridge
+What will become of Sports Illustrated? =E2=86=92 (https://www.theringer.c=
+om/2018/4/11/17220176/sports-illustrated-future-meredith-sale-history)
+=E2=80=9CLast November=2C the entire company was purchased by the fusty Mi=
+dwestern publisher Meredith Corporation. Meredith is a red-state entity th=
+at thrives on niche titles like Martha Stewart Weddings; the company was n=
+ever a logical fit to run the nation=E2=80=99s largest sports magazine. So=
+ few were surprised=2C three weeks ago=2C when Meredith announced that SI=
+ (and Time) would be up for sale again.=E2=80=9D
+Poynter / Kristen Hare
+The Seattle Times is making it part of everyone=E2=80=99s job to grow digi=
+tal subscribers =E2=86=92 (https://www.poynter.org/news/seattle-times-maki=
+ng-it-everyones-job-grow-digital-subscribers)
+=E2=80=9CDigital subscriptions are measured by something called the =E2=80=
+=98influence report.=E2=80=99 That report produces a score based on what u=
+sers clicked on before becoming subscribers over three sets of time period=
+s. The time periods are: (1) One visit (people click on more than one stor=
+y per visit) (2) One week and five pageviews (3) Thirty days and 25 pagevi=
+ews. The influencer report can be searched by topic=2C section and author.=
+ The newsroom has started rolling the reports out in beta to various depar=
+tments.=E2=80=9D
+Google
+The European Journalism Centre and Google News Initiative are partnering f=
+or newsroom trainings =E2=86=92 (https://www.blog.google/topics/google-new=
+s-initiative/working-european-journalism-centre/)
+=E2=80=9CParis=2C Cardiff and Berlin will also play host to our 2018 News=
+ Impact Summits =E2=80=94 free media innovation events for hundreds of jou=
+rnalists who can hear from international media experts and skilled local p=
+ractitioners. We=E2=80=99ll also be inviting publishers to take part in Ne=
+ws Impact Academy deep-dive workshops in Amsterdam=2C Barcelona=2C London=
+=2C Paris and Warsaw. We=E2=80=99re also launching the News Impact Network=
+=2E The mentorship program will provide a support mechanism for future media=
+ leaders and act as a catalyst for innovative ideas.=E2=80=9D
+Digiday / Sahil Patel
+Snap is testing commerce with Snapchat Discover publishers =E2=86=92 (http=
+s://digiday.com/media/snap-is-testing-commerce-with-snapchat-discover-publ=
+ishers/)
+=E2=80=9CA handful of Discover publishers have already tested this option=
+=2C which lets users swipe up and buy a product from the recently launched=
+ store inside Discover that also offers Snapchat merchandise like sweatshi=
+rts and hats. Snap is not taking a cut of the revenue generated from sales=
+ at this time=2C according to a source.=E2=80=9D
+Center for Media Engagement / Gina Masullo Chen=2C Paromita Pain=2C Victor=
+ia Y. Chen=2C Madlin Mekelburg=2C Nina Springer=2C and Franziska Troger
+Study: Women journalists and the online harassment they face =E2=86=92 (ht=
+tps://mediaengagement.org/research/women-journalists/)
+=E2=80=9CIt was not criticism of my work; it was actually the destruction=
+ of my person.=E2=80=9D
+Journalism.co.uk / Catalina Albeanu
+Six newsletters in six weeks: How The Telegraph is building its new email=
+ strategy =E2=86=92 (https://www.journalism.co.uk/podcast/six-newsletters-=
+in-six-weeks-how-the-telegraph-is-building-a-new-strategy-/s399/a720218/)
+=E2=80=9COne of the key principles we=E2=80=99re trying to introduce is th=
+is idea of authored analysis: taking the reader behind the headline=2C not=
+ just letting them know something has happened=2C but why it=E2=80=99s hap=
+pened. If you subscribe to our politics newsletters you=E2=80=99ll notice=
+ we=E2=80=99re very relaxed about covering stories from rival publications=
+ and we=E2=80=99re quite happy to link back to those rival publications=2C=
+ but we=E2=80=99ll give you those stories and we=E2=80=99ll give you the T=
+elegraph=E2=80=99s take on why we think it matters.=E2=80=9D
+Lenfest Institute
+Here are the 34 groups (and their ideas) selected for financial support to=
+ use Hearken and GroundSource =E2=86=92 (https://www.lenfestinstitute.org/=
+news-posts/news-integrity-initiative-democracy-fund-knight-foundation-lenf=
+est-institute-award-grants-34-news-organizations-part-community-listening-=
+engagement-fund/)
+The Community and Listening Engagement Fund will support projects in 15 lo=
+cal outlets=2C two statewide news organizations=2C one national publisher=
+=2C nine topic-based publishers=2C and two universities.
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3D0fa116f835)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3D0fa116f835)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

@@ -1,0 +1,72 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 435 on Piazza:
+
+------------------------------------------------------------
+Configuring 2 VMs  (12/04/17 9:47 PM)
+
+When I try to create another VM, i get an error that says "FATAL" when I tr=
+y to start it and it suspends the start of the VM. How do you set up 2 VMs =
+and configure them?=C2=A0
+
+Go to https://piazza.com/class?cid=3Djat0y2ew8cu1cv&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Question 5  (12/04/17 9:43 PM)
+
+For question 5, do we have to explain why calculating the checksum for the =
+IP header is necessary or not, or is it sufficient to just claim have to/no=
+t have to?
+
+Go to https://piazza.com/class?cid=3Djat0tkb9h7akq&nid=3Dj5vi9cpw2jn336&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+External Rootkit  (12/04/17 9:32 PM)
+
+What is the point of an external rootkit? According to the slides, it "inse=
+rts a layer of virtualization under the OS", but to my knowledge in most ca=
+ses virtualization is kept separate from the rest of the OS. So wouldn't in=
+serting a layer of virtualization under the OS have no effect on the OS, if=
+ they are separate? I am clearly missing something here, any response would=
+ be helpful! Thanks!
+
+Go to https://piazza.com/class?cid=3Djat0e7t6x1n5hc&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Task 2.a  (12/04/17 8:21 PM)
+
+every time I run my program it prints out "WARNING: No route found for IPv6=
+ destination :: (no default route?), is that ok?
+Also, how will the programs be ran for grading? Mine only works from the te=
+rminal when I execute it like
+"sudo python python file.py"
+
+
+Go to https://piazza.com/class?cid=3Djasxvqpy2od3vt&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 435 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/j5vi9cpw2jn336 to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

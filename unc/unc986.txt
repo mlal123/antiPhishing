@@ -1,0 +1,183 @@
+I've got a few opportunities that have been sent my way the last couple of
+days. Many more can be found on Careerolina by following this link:
+https://uncch-csm.symplicity.com/students/jobboard/b6e22a473be8b78084486a70=
+4fa2f92c
+
+
+
+*Sciome - Senior Software Engineer* (see attachment)
+*Path BioAnalytics - Part-T**ime Software Developer* (see attachment)
+*Path BioAnalytics - Part-Time Scientific Analyst* (see attachment)
+*G2 - Automated Security Response Internship* (see attacment)
+
+
+*Upstate Throwdowns - Project* (paid work)
+
+We are on the hunt for a Web Applications Developer. The core
+responsibility of this position is to assist in the design, development,
+and maintenance of the company=E2=80=99s business applications. Must be abl=
+e to
+create web applications, functionality will be for event registration and
+tournament scoring system. More details to be discussed during interview
+process. The ideal candidate will have an entrepreneurial mindset;
+demonstrate an acute attention to detail, excellent communication and
+organization skills. This role will provide you with the unique opportunity
+to expand your skill set and be creative in the application of said skills.
+
+We will be offering part ownership in the company (equity and profit
+sharing) to the right candidate.  We are interviewing and looking to fill
+this role immediately, so if you have the desire to be part of an exciting
+opportunity, the desire to be an entrepreneur and have the skills to create
+web based applications shoot us an email today!
+
+Express interest to:
+
+Michael@upstatethrowdowns.com
+
+
+*Oak Ridge National Laboratory* - *Full-time Software Engineer *
+
+Here are the links to the positions.
+
+
+
+https://www.zintellect.com/Posting/Details/1545 (Post-BS)
+
+https://www.zintellect.com/Posting/Details/1546 (Post-MS)
+
+
+
+The description of the job and the qualifications only differ by BS or MS
+and the citizenship requirement.
+
+
+
+*Description*
+
+
+
+The Computer Science Research Group in the Computer Science and Mathematics
+Division at Oak Ridge National Laboratory seeks to hire a Software Engineer
+to significantly contribute to the design, development, implementation,
+documentation, and delivery of new software capabilities for the
+Bellerophon Environment for Analysis of Materials (BEAM). This innovative
+new software system integrates ORNL's world-class experimental science
+facilities at the Institute for Functional Imaging of Materials (IFIM) and
+the Center for Nanophase Materials Sciences (CNMS) with the integrated
+computational and analytical power of the fastest supercomputer in America,
+Titan, at the Oak Ridge Leadership Computing Facility (OLCF) and other High
+Performance Computing (HPC) systems at the National Energy Research
+Scientific Computing Center (NERSC) to perform near real-time, scalable
+data analysis and visualization quickly and easily from a web-deliverable
+Java application. At the core of this new system is a web and data server
+that enables multiple, concurrent users to securely upload and manage large
+data sets ("Big Data"), execute materials science HPC workflows, and
+interactively engage analysis artifacts. This unique system allows material
+scientists at ORNL to execute cutting edge data analysis algorithms on DOE
+supercomputers and compute clusters on experimental data automatically and
+investigate the analysis with state-of-the-art 2D and 3D data views from
+anywhere in the world.
+
+
+
+The successful applicant will work with a wide array of experts in the
+fields of computer science, data science, software engineering, material
+science, physics, and mathematics to design and develop new capabilities
+that will propel science at ORNL's IFIM and CNMS from "Big Data" to "Deep
+Data" to "Smart Data" exploration. The applicant will also be expected to
+significantly contribute to publications such as peer-reviewed journal
+articles, abstracts, and posters, as well as oral presentations at meetings
+and conferences.
+
+
+
+*Qualifications*
+
+
+
+Bachelor's degree in computer science, physics, or engineering.
+
+
+
+*OR*
+
+
+
+Master's degree in computer science, physics, or engineering.
+
+
+
+Preferred Technical Skills:
+
+- Object-oriented software design and development with Java
+
+- Development of multi-threaded, user-friendly desktop applications with
+Java and Swing
+
+- Software development using the Eclipse IDE
+
+- Experience using a version control system such as SVN or GIT
+
+- Development of secure web services with PHP and MySQL in a LAMP
+environment
+
+- Linux shell programming in Bash
+
+
+
+Preferred Professional Skills:
+
+- Strong scientific background or coursework in physics, material science,
+mathematics, and chemistry
+
+- Excellent problem solving and oral / written communication skills
+
+- Ability to work independently and with a team
+
+- Ability to multi-task and complete projects within a specified timeframe
+
+
+
+The following skills are considered a plus:
+
+- Experience with High Performance Computing (HPC) platforms and compute
+clusters
+
+- Experience with advanced data storage formats such as HDF5
+
+- Experience with high-speed data transfer mechanisms
+
+- Scientific programming with Python or FORTRAN
+
+
+
+On-the-job training to learn these and other new skills is anticipated and
+encouraged.
+
+
+
+Applicants cannot have received the most recent degree more than three
+years prior to the date of application and must complete all degree
+requirements before starting their appointment.
+
+
+
+This ORNL Postgraduate Research Associates Program is administered by ORAU
+through its contract with the U.S. Department of Energy to manage the Oak
+Ridge Institute for Science and Education (ORISE).
+
+
+
+Lingerfelt, Eric J.
+
+lingerfeltej@ornl.gov
+
+(865) 576-6618
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at http://groups.google.com/a/cs.unc.edu/group/careers/.

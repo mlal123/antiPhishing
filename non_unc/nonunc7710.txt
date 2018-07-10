@@ -1,0 +1,132 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 550.02 on Piazza:
+
+------------------------------------------------------------
+Why do you need to take partial derivatives for least squares problem  (12/=
+07/17 10:49 PM)
+
+Using the problem from the review session, given points (3,1), (4,2), (5,5)=
+, (-6,6), you can form the matrix A=3D[9,3,1;16,4,1;25,5,1;36,-6,1] and mat=
+rix B =3D [1;2;5;6]. From here it you can solve transpose(A)*A*[a;b;c] =3D =
+transpose(A) * B by row reducing, resulting in the same answers. Why is tak=
+ing the partial derivatives needed?
+
+Go to https://piazza.com/class?cid=3Djaxdhbi620a1og&nid=3Dj6mrr1h4rm42m4&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Practice Final Exam Question 8F  (12/07/17 8:05 PM)
+
+Does anyone know how to do this prob: T(n) =3D T(n/2) +  =CE=B8(lg n)?
+
+Go to https://piazza.com/class?cid=3Djax7m0q4i2u1ru&nid=3Dj6mrr1h4rm42m4&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Worksheet on Linear Programming  (12/07/17 7:28 PM)
+
+Anyone have any idea on this question? Thanks a lot!
+
+Go to https://piazza.com/class?cid=3Djax6bf00u936jn&nid=3Dj6mrr1h4rm42m4&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+#3 on the modified practice  (12/07/17 7:07 PM)
+
+Does anyone understand what were supposed to do here? I understand Standard=
+ Deviation, but I'm not sure how to substitute in run times. I'm not sure h=
+ow it's applicable in a theoretical sense.
+
+Go to https://piazza.com/class?cid=3Djax5jqn3f0atd&nid=3Dj6mrr1h4rm42m4&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+DFS Edges  (12/07/17 6:21 PM)
+
+
+
+Go to https://piazza.com/class?cid=3Djax3wuum3tb332&nid=3Dj6mrr1h4rm42m4&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Slides from 12/7 Review Session  (12/07/17 5:56 PM)
+
+https://docs.google.com/presentation/d/1PIHvbrv_gYMxpuKS1rdqkP2RLuxJXo1dyMf=
+T0C3qgVA/edit?usp=3Dsharing
+
+Good luck on the final guys!
+
+Go to https://piazza.com/class?cid=3Djax30lw9my63k2&nid=3Dj6mrr1h4rm42m4&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Review Session Ppt  (12/07/17 4:57 PM)
+
+Can the TAs post the powerpoint from tonight's review session?
+
+Go to https://piazza.com/class?cid=3Djax0x2lupwr2zt&nid=3Dj6mrr1h4rm42m4&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Run Times Given  (12/07/17 4:45 PM)
+
+I believe Prof. Pizer mentioned that some of the run times would be given. =
+Does anyone remember which ones those are?
+
+Go to https://piazza.com/class?cid=3Djax0huhitgj380&nid=3Dj6mrr1h4rm42m4&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Old Final Question #4 C  (12/07/17 4:34 PM)
+
+True or False:
+
+O(E lg E) =3D O(E lg V)
+
+I would think that this is false bc for dense enough graphs, |E| is =CF=89(=
+|V|), making O(E lg E) slower than O(E lg V). Right?
+
+Go to https://piazza.com/class?cid=3Djax03j3f9h96a5&nid=3Dj6mrr1h4rm42m4&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Master Theorem  (12/07/17 4:19 PM)
+
+Will the simplified master theorem be given on the final like the midterm?
+
+Go to https://piazza.com/class?cid=3Djawzjhe5nq52x0&nid=3Dj6mrr1h4rm42m4&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Will we be asked to do inserts and deletes on red black trees on the final?=
+  (12/07/17 4:05 PM)
+
+^ Thanks.
+
+Go to https://piazza.com/class?cid=3Djawz20c1qhm36q&nid=3Dj6mrr1h4rm42m4&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 550.02 at University of North Carolina at Chapel Hill. Go to https://piaz=
+za.com/login to sign in and manage your email preferences or proceed to htt=
+ps://piazza.com/remove/f2GxNxqCfOm/j6mrr1h4rm42m4 to un-enroll from this cl=
+ass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

@@ -1,0 +1,11 @@
+Bootstrap!
+
+http://getbootstrap.com/getting-started/
+
+
+
+
+On Mar 10, 2017 2:23 PM, "Lal, Mangza"  wrote:
+
+Hey Dan, what was that css thing you recommended to make things look
+smoother and nicer?

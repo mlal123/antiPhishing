@@ -1,0 +1,35 @@
+Your classmate posted a new Question.=20
+
+Chen--Question#1 in 16.6WA
+
+If you were asked to identify=C2=A0the surface with the vector equation:=C2=
+=A0r(u,=C2=A0v) =3D (u=C2=A0+=C2=A0v)=C2=A0i=C2=A0+ (4=C2=A0=E2=88=92=C2=A0=
+v)=C2=A0j=C2=A0+ (1=C2=A0+=C2=A03u=C2=A0+=C2=A06v)=C2=A0k, and you rewrite =
+the equation into <0, 4,1> + u<1, 0, 3> +v<1, -1, 6>, how would you be able=
+ to recognize that it is an expression of a plane?=C2=A0
+
+Thanks!
+
+
+
+Go to https://piazza.com/class?cid=3Dj1tm1714sza4uy&nid=3Diw5tgq5i54x11i&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @149. Follo=
+w it to get notified when a response comes in: https://piazza.com/follow/j1=
+tm1714sza4uy/f2GxNxqCfOm/384515f3=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Careers Tip: Update where you're headed this summer so employers can=
+ invite you to local events.
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in MAT=
+H 233 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/iw5tgq5i54x11i to un-enroll from this class.=

@@ -1,0 +1,25 @@
+        283: Capacity has been enlarged and there are now seats available.
+It is also being taught during summer session 1.
+        401:  Additional seats in section 001 are reserved for incoming
+freshmen.  We are not adding students to this section.  Section 002 is
+open.  Reserved seats come available at the beginning of fall semester.  We
+have a departmental policy of not over-enrolling one section when another
+has availability.
+        410:  Section 002 has been canceled.  Section 001 will be expanded
+to meet the demand.
+        411:  Section 002 still has seats.  Again, no over enrollment in
+one section when another has available seat.
+        426: Waitlist still open.
+        435: We are expanding the waitlist.  The class is at room capacity.
+        455: Closed.  class at room capacity.  is offered every semester.
+        475: Open.
+        521: Open, capacity has been increased.
+        523: Open.  No exceptions will be made for the prerequisites.
+        530: Waitlist still open.
+        541: Open.
+        550: Additional section has been opened
+        581: Closed.  At capacity.
+
+-- 
+You received this message because you are subscribed to the Google Groups "Majors" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to majors+unsubscribe@cs.unc.edu.

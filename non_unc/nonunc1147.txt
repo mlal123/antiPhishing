@@ -1,0 +1,32 @@
+Your classmate posted a new Question.=20
+
+Eclipse not working with external text editors
+
+I am using sublime instead of the default internal editor(because COLORS), =
+and when I want to open it again in eclipse to use the debugger, eclipse te=
+lls me that I am not even typing "int" right=E2=80=94about 10 errors popped=
+ up out of nowhere. Basically the whole file is shown in black, no purple, =
+no blue, no green. Anyone know what is going on?
+
+Go to https://piazza.com/class?cid=3Dijhjkyuc2uv697&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @20. Follow=
+ it to get notified when a response comes in: https://piazza.com/follow/ijh=
+jkyuc2uv697/f2GxNxqCfOm/2fee999a=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.=

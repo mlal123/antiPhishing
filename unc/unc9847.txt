@@ -1,0 +1,115 @@
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.msonormal00, li.msonormal00, div.msonormal00
+	{mso-style-name:msonormal0;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.msochpdefault, li.msochpdefault, div.msochpdefault
+	{mso-style-name:msochpdefault;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+span.emailstyle18
+	{mso-style-name:emailstyle18;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle21
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+
+
+So an RA from Ram Village will be coming over at like 6/6:15pm to sit the office and take the phone and when the movie is over you can come back and take it from them. Sound good?
+ 
+
+
+From: Arevalo Rivera, Nancy Elizabeth 
+Sent: Thursday, June 14, 2018 9:42 AM
+To: McKire, Theresa <tmckire@email.unc.edu>
+Subject: Re: Incredibles II Staff Devo Event
+
+
+ 
+
+
+
+Sadly I can’t attend, I’m on duty. ):
+
+
+ 
+
+
+
+
+
+
+
+From: McKire, Theresa
+Sent: Thursday, June 14, 2018 9:39:21 AM
+To: Mercure, Savannah Asheton; Frye, Carter Holden; Roupas, Alexander; Badillo, Manuel; Azihan, Amir Adib; Figures, Yhana Safiya J'Nai; Arevalo Rivera, Nancy Elizabeth; McLendon, Suzanne Michelle; Boos, Madison; Smith, Diamond Shavette; Lal, Mangza;
+ Robertson, Shelby Danielle
+Subject: Incredibles II Staff Devo Event
+When: Tuesday, June 19, 2018 6:30 PM-9:30 PM.
+Where: Silverspot - 201 S Estes Dr #100, Chapel Hill, NC 27514
+
+
+ 
+
+
+
+
+Please confirm you are able to attend BEFORE I purchase the tickets. If you cannot attend please email me ASAP! Thanks!
+
+
+
+
+

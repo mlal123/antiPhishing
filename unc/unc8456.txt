@@ -1,0 +1,38 @@
+Our next POP Candidate is Jeff Terrell, who will be speaking on *Tuesday,
+February 15* at *5 pm* in *SN 011*.
+
+Jeff earned his PhD from our department in 2009.  After graduating, he
+co-founded Altometrics, Inc., a data analytics and visualization company
+based on his dissertation work.  He is currently a software craftsman at
+RoleModel software, a company that builds software for business innovators.
+
+His talk will be on *How to build a phone app*
+
+The number of person-hours spent using mobile apps has gone from zero
+to approximately
+70 kajillion in the past two decades alone. People everywhere have ideas
+for the next nifty little app soaking up eyeballs=E2=80=94and maybe you are=
+ one of
+them! Come watch Dr. Jeff Terrell build a simple but functional phone app u=
+sing
+modern tools and techniques, demonstrating how easy it can be. Get an idea =
+of
+what the development process for mobile apps is like, and get equipped to m=
+ake
+your idea a reality. Well, OK, you won't be fully equipped by the end of th=
+e
+talk=E2=80=94I mean, come on, what did you expect?=E2=80=94but at least you=
+'ll have a sense
+of what's involved.
+
+There are still a few seats available to meet with Jeff after his talk
+(6-7).  If you have not signed up and would like to meet with him, please
+fill in this google form .
+
+Diane
+
+--=20
+You received this message because you are subscribed to the Google Groups "=
+Majors" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to majors+unsubscribe@cs.unc.edu.

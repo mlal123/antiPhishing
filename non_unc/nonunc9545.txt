@@ -1,0 +1,131 @@
+Nieman Lab: The Daily Digest
+Friday=2C May 11=2C 2018
+http://www.niemanlab.org/2018/05/buzzfeed-news-podcast-cohost-jojo-the-bot=
+-wants-to-help-listeners-follow-along-without-friction/
+
+
+** BuzzFeed News=E2=80=99 podcast cohost=2C Jojo the bot=2C wants to help=
+ listeners follow along without friction (http://www.niemanlab.org/2018/05=
+/buzzfeed-news-podcast-cohost-jojo-the-bot-wants-to-help-listeners-follow-=
+along-without-friction/)
+------------------------------------------------------------
+=E2=80=9COne of our goals has been to talk about the news in a way that in=
+vites our audience into the news cycle. We=E2=80=99re trying to make it a=
+ little bit easier for people to be engaged.=E2=80=9D By Christine Schmidt=
+=2E
+http://www.niemanlab.org/2018/05/you-see-it-you-buy-it-just-being-exposed-=
+to-fake-news-makes-you-more-likely-to-believe-it/
+
+
+** You see it=2C you buy it: Just being exposed to fake news makes you mor=
+e likely to believe it (http://www.niemanlab.org/2018/05/you-see-it-you-bu=
+y-it-just-being-exposed-to-fake-news-makes-you-more-likely-to-believe-it/)
+------------------------------------------------------------
+Plus: A trove of Russian Facebook ads=2C =E2=80=9Cantecedents of bullshit=
+=2C=E2=80=9D and a week with Radio Sputnik. By Laura Hazard Owen.
+Indian Country Today is relaunching after shutting down last year=2C and h=
+opes to raise $100K (http://www.niemanlab.org/2018/05/indian-country-today=
+-is-relaunching-after-shutting-down-last-year-and-hopes-to-raise-100k/)
+What We=E2=80=99re Reading
+Twitter / Julia Angwin
+Facebook just publicly thanked Julia Angwin for finding (and reporting on)=
+ the platform=E2=80=99s issues =E2=86=92 (https://twitter.com/JuliaAngwin/=
+status/995003681803264001)
+=E2=80=9CWow=2C thanks @facebook. I=E2=80=99ve never been thanked before b=
+y a company that I=E2=80=99ve covered so aggressively.=E2=80=9D
+Digiday / Jessica Davies
+GDPR scrambling has spawned a swell of data protection =E2=80=9Ccharlatans=
+=E2=80=9D =E2=86=92 (https://digiday.com/media/gdpr-scrambling-spawned-swe=
+ll-data-protection-charlatans/)
+=E2=80=9COne data protection trainer and consultant has posted on his Link=
+edIn profile: =E2=80=98Data Protection trainer and consultant. Not GDPR ce=
+rtified because nobody is.=E2=80=99 Another industry executive added that=
+ there are no real GDPR qualifications=2C but =E2=80=98plenty of charlatan=
+s.'=E2=80=9D
+The Atlantic / John Wenzel
+The gutting of The Denver Post is a death knell for local news =E2=86=92 (=
+https://www.theatlantic.com/entertainment/archive/2018/05/denver-post/5601=
+86/)
+=E2=80=9CThe rapid cutting at The Denver Post is neither inevitable nor de=
+fensible=2C at least not by anyone with coherent ethics. I=E2=80=99ve had=
+ conversations with the now-departed editors of our pioneering marijuana-n=
+ews website=2C The Cannabist=2C about how much weed-advertising money Digi=
+tal First execs have left on the table=2C even as the industry becomes a m=
+ultibillion-dollar pillar of the Colorado economy. As of this summer=2C Th=
+e Cannabist will become an automated website with no staff or editor.=E2=
+=80=9D
+Awful Announcing / Matt Yoder
+The end of ESPN=E2=80=99s public editor position completes a disappointing=
+ decline in relevancy that could have been avoided =E2=86=92 (http://awful=
+announcing.com/espn/the-end-of-espns-public-editor-position-completes-a-di=
+sappointing-decline-in-relevancy-that-could-have-been-avoided.html)
+=E2=80=9CPerhaps the onus (and the blame if you want to call it that) is o=
+n ESPN for the public editor=E2=80=99s job losing its usefulness instead o=
+f there being an inherent issue with the position itself.=E2=80=9D
+Current / Jennifer Dargan
+With systemwide coverage review=2C public radio can reveal and address its=
+ racial inequities =E2=86=92 (https://current.org/2018/05/with-systemwide-=
+coverage-review-public-radio-can-reveal-and-address-its-racial-inequities/=
+)
+=E2=80=9CI myself have rebroadcast on public radio The Lone Ranger and oth=
+er such shows. The Lone Ranger=E2=80=99s Native American sidekick=2C Tonto=
+=2C was first played on commercial radio by John Todd=2C a white man. The=
+ character spoke without using articles =E2=80=94 =E2=80=98You risk life.=
+ Tonto risk life.=E2=80=99 How can we justify perpetuating such harmful st=
+ereotypes by continuing to broadcast them?=E2=80=9D
+Poynter / Rick Edmonds
+Why Wall Street keeps giving Tronc a little love =E2=86=92 (https://www.po=
+ynter.org/news/why-wall-street-keeps-giving-tronc-little-love-0)
+=E2=80=9CBut despite the sweet payouts to top executives=2C stop-and-start=
+ efforts at digital transformation and some disastrous leadership bungling=
+ at the Los Angeles Times=2C Tronc is the rare newspaper stock that has he=
+ld its value and actually increased share price =E2=80=94 for the year to=
+ date and also reaching back a full year.=E2=80=9D
+Columbia Journalism Review / Jillian Bauer-Reese
+Reframing economic injustice in America=E2=80=99s poorest big city =E2=86=
+=92 (https://www.cjr.org/united_states_project/broke-in-philly-poverty-jou=
+rnalism.php)
+=E2=80=9CA local=2C collaborative reporting initiative=E2=80=A6is working=
+ to reframe despairing poverty narratives by digging deep into its complex=
+ causes and highlighting solutions that have the potential to make a diffe=
+rence.=E2=80=9D
+Digiday / Tim Peterson
+Apple News officially lets publishers use Google=E2=80=99s DoubleClick to=
+ serve ads =E2=86=92 (https://digiday.com/media/apple-news-officially-lets=
+-publishers-use-googles-doubleclick-serve-ads/)
+=E2=80=9CThe move is meant to make it easier for publishers to sell their=
+ Apple News articles with inventory on their own sites and their Google Ac=
+celerated Mobile Pages and Facebook Instant Articles inventory. That way=
+=2C publishers may start to see some real revenue from Apple News and be m=
+ore willing to produce the higher-quality=2C exclusive content that Apple=
+ seeks=2C especially on the video side=2C where the company has even start=
+ed paying publishers for premieres. Publishers keep 100 percent of the rev=
+enue from the Apple News ads they sell directly.=E2=80=9D
+Deadline / Dawn C. Chmielewski
+News Corp CEO calls for governments to create an =E2=80=9Calgorithm review=
+ board=E2=80=9D =E2=86=92 (http://deadline.com/2018/05/news-corp-calls-alg=
+orithm-review-board-monitor-potential-abuse-1202387678/)
+=E2=80=9CThese algorithms are already potent=2C but they are destined to b=
+e much more formidable=2C and their abundant potential to skew news and sk=
+ewer customers needs to be better understood and monitored.=E2=80=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3D4250ce9b7a)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3D4250ce9b7a)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

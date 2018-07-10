@@ -1,0 +1,192 @@
+Odum Newsletter - January 
+
+Display problems? View this newsletter in your browser. (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=W3ZpZXdfaW5fYnJvd3Nlcl9saW5rXQ%3D%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+)
+
+Welcome back students!
+
+We hope all of you had a wonderful winter break. Our staff is back in action and ready to help with all of your research challenges this semester.
+Please visit our FAQ page (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=aHR0cHM6Ly9vZHVtLnVuYy5lZHUvYWJvdXQvZmFxLw%3D%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) for more information on how to find the resources and consultations you need on the following topics:
+• Quantitative, qualitative, and mixed methods research approaches & analyses
+• Software (including SPSS, Stata, R, Python, NVivo, MAXQDA, & ATLAS.ti)
+• Survey design, research methodology, and data collection (including Qualtrics!)
+• Data management, curation, verification, and replication (see below for more information on our archive's work in replication and reproducibility)
+• Data science (general online data collection, network analysis, big data analysis and more)
+• Cyberinfrastructure (tech solutions and infrastructure design, complex data storage needs, and information systems auditing) 
+The Institute also has a lot of exciting short courses and workshops coming up this semester, many of which are free for members of the UNC community.
+See below for a list of our courses this month!
+
+Teresa Edwards Featured in Women in Science Wednesday (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=aHR0cHM6Ly9vZHVtLnVuYy5lZHUvMjAxOC8wMS90ZXJlc2EtZWR3YXJkcy1mZWF0dXJlZC13b21lbi1zY2llbmNlLXdlZG5lc2RheS8%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+)
+
+Women in Science Wednesday is a weekly series featured in Endeavors, the online magazine published by UNC Research.
+Last week our very own Teresa Edwards, assistant director of survey research, was included for her pioneering role in the field of survey methodology
+and research. 
+Read more. (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=aHR0cHM6Ly9vZHVtLnVuYy5lZHUvMjAxOC8wMS90ZXJlc2EtZWR3YXJkcy1mZWF0dXJlZC13b21lbi1zY2llbmNlLXdlZG5lc2RheS8%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+)
+
+Upcoming ResearchTalk Events for Qualitative Researchers (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=aHR0cHM6Ly9vZHVtLnVuYy5lZHUvMjAxOC8wMS91cGNvbWluZy1yZXNlYXJjaHRhbGstZXZlbnRzLXF1YWxpdGF0aXZlLXJlc2VhcmNoZXJzLw%3D%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+)
+
+In addition to the 15th Annual Qualitative Research Summer Intensive (QRSI) this July, our friends at ResearchTalk have two very exciting events
+coming up this spring for anyone interested in qualitative research: Qualitative Data Analysis Camp & Qualitative Writing Camp.
+Read more. (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=aHR0cHM6Ly9vZHVtLnVuYy5lZHUvMjAxOC8wMS91cGNvbWluZy1yZXNlYXJjaHRhbGstZXZlbnRzLXF1YWxpdGF0aXZlLXJlc2VhcmNoZXJzLw%3D%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+)
+
+15th Annual Qualitative Research Summer Intensive (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=aHR0cHM6Ly9vZHVtLnVuYy5lZHUvMjAxOC8wMS8xNXRoLWFubnVhbC1xdWFsaXRhdGl2ZS1yZXNlYXJjaC1zdW1tZXItaW50ZW5zaXZlLw%3D%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+)
+
+QRSI is an annual 5-day short course series cosponsored by the Odum Institute and ResearchTalk, Inc. Take advantage of a unique opportunity to gain
+both theoretical and practical understanding of qualitative inquiry.
+Join us for five days of qualitative research professional development courses and networking opportunities. For more information and to register,
+please …
+Read more. (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=aHR0cHM6Ly9vZHVtLnVuYy5lZHUvMjAxOC8wMS8xNXRoLWFubnVhbC1xdWFsaXRhdGl2ZS1yZXNlYXJjaC1zdW1tZXItaW50ZW5zaXZlLw%3D%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+)
+
+Replication and Reproducibility Work at the Institute
+
+As concerns about the integrity of published scientific results continue to grow, journal editors have issued policies that increase the
+reproducibility of research through data access and research transparency. 
+The Odum Institute Data Archive (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=aHR0cHM6Ly9vZHVtLnVuYy5lZHUvYXJjaGl2ZS8%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+)offers a range of data curation and verification services (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=aHR0cHM6Ly9vZHVtLnVuYy5lZHUvZmlsZXMvMjAxNy8xMS9EYXRhVmVyaWZpY2F0aW9uLnBkZg%3D%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) to scholarly journals to support implementation and enforcement of data policies.
+For the most stringent of data policies that require verification of author-submitted data to ensure they can be used by a third party to reproduce
+findings in the published article, the Odum Institute Data Archive works with statisticians to perform data curation and code review to support these
+policies. 
+Below is a high-level illustration that represents the integration of the manuscript publication and data curation + verification workflow for a
+journal that requires authors to submit data, code and documentation for independent review and subsequent publication as a condition of final article
+acceptance.
+
+Consultation Services 
+
+The Odum Institute provides consulting services on every part of the research life cycle: research design, data collection, data management, analysis,
+and research products. 
+In addition to offering a walk-in statistical consulting service, staffed by graduate students daily (Monday-Friday) in the Research Hub, we offer
+scheduled consultations with full-time staff on quantitative methods, statistical computing, survey methodology, data management, data science,
+qualitative research, and mixed methods. Walk-in hours are also available for users seeking assistance with the online survey tool Qualtrics.
+Consultations range from a single meeting to numerous sessions to assist researchers, from graduate students to senior faculty, during a long-term
+project or program of inquiry. 
+For more information on how to find and contact a consultant, please visit our FAQ page (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=aHR0cHM6Ly9vZHVtLnVuYy5lZHUvYWJvdXQvZmFxLw%3D%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+). 
+
+January Short Courses (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=aHR0cHM6Ly9vZHVtLnVuYy5lZHUvMjAxOC8wMS9qYW51YXJ5LXNob3J0LWNvdXJzZXMv&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+)
+
+Basic Access to Census Data
+
+January 17 | 9:00am - 12:00pm | Health Sciences Library, Room 227
+ This is a hands-on workshop organized by the UNC ResearchHub (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=aHR0cDovL2xpYnJhcnkudW5jLmVkdS9odWIv&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) to help users understand the strengths of various Census data retrieval tools, both freely available ones and those to which the library subscribes:
+American FactFinder, the Census Bureau’s freely available database; Social Explorer, a commercially licensed tool to which the library subscribes;
+and the grant-supported (so, free to you) National Historical Geographic Information System (NHGIS).
+These tools provide access to pre-constructed data tables published by the Census Bureau. Some are better for the most recent data and others are
+useful for historical data. Come learn how to choose the best tool for your research, and the ins and outs of each tool.
+Visit the event (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=aHR0cHM6Ly9vZHVtLnVuYy5lZHUvZXZlbnQvYmFzaWMtYWNjZXNzLWNlbnN1cy1kYXRhLw%3D%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) on our website for more information.
+
+Getting Started with R (Part 1)
+
+January 18 | 2:00 - 3:30pm | Davis Library ResearchHub
+ We are kicking off R Open Labs with two full-length short courses: Getting Started in R – Part 1 and Part 2. These short courses will help you
+install the necessary software and introduce you to the fundamentals of working in R.
+Once you’ve completed Getting Started in R, you can continue to practice and develop your skills by attending our weekly R Open Labs. Each lab will
+include a period of brief instruction on a new topic, followed by time to practice, work together, ask questions and get help.
+For information about this week’s topic and R Open Labs in general, visit http://ropenlabs.web.unc.edu/ (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=aHR0cDovL3JvcGVubGFicy53ZWIudW5jLmVkdS8%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+). R Open Labs is a collaboration between the UNC Chapel Hill Libraries Research Hub and the Odum Institute for Research in Social Science.
+
+Advanced Access to Census Data
+
+January 23 | 9:00am - 12:00pm | Health Sciences Library, Room 227
+ This is a hands-on workshop organized by the UNC ResearchHub (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=aHR0cDovL2xpYnJhcnkudW5jLmVkdS9odWIv&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) to help users understand the strengths of various Census (and other survey) data retrieval tools which allow the creation of custom
+cross-tabulations (that is, custom data tables).
+Tools to be covered include: DataFerrett; iPUMS; TerraPopulus (in beta); and the Triangle Research Data Center (TRDC). The first three tools are
+freely available and we will focus on their census data content (U.S. for DataFerrett; U.S. and international for iPUMS and TerraPopulus).
+Researchers must apply to the Census Bureau (or other federal agency, e.g., the Centers for Disease Control) for access to the TRDC in order to
+utilize various survey microdata. Application procedures will be discussed.
+Visit the event (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=aHR0cHM6Ly9vZHVtLnVuYy5lZHUvZXZlbnQvYWR2YW5jZWQtYWNjZXNzLWNlbnN1cy1kYXRhLw%3D%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) on our website for more information.
+
+Making an Impact with Data Visualization
+
+January 23 | 2:00 - 4:00pm | Davis Library ResearchHub
+ Collecting data is now easier than it has ever been. But, as data becomes more prolific, datasets become larger and more complex. How do we find
+meaningful patterns in our data? How can we communicate those patterns to others? Data visualization allows us to make sense of today’s ever
+evolving information landscape.
+This workshop, organized by the UNC ResearchHub (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=aHR0cDovL2xpYnJhcnkudW5jLmVkdS9odWIv&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+), organized by will introduce the history and basic principles of data visualization. Learn about best practices and resources for making an impact
+with your data through compelling charts, graphs and maps.
+
+Getting Started with R (Part 2)
+
+January 25 | 2:00 - 3:30pm | Davis Library ResearchHub
+ We are kicking off R Open Labs with two full-length short courses: Getting Started in R – Part 1 and Part 2. These short courses will help you
+install the necessary software and introduce you to the fundamentals of working in R.
+Once you’ve completed Getting Started in R, you can continue to practice and develop your skills by attending our weekly R Open Labs. Each lab will
+include a period of brief instruction on a new topic, followed by time to practice, work together, ask questions and get help.
+For information about this week’s topic and R Open Labs in general, visit http://ropenlabs.web.unc.edu/ (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=aHR0cDovL3JvcGVubGFicy53ZWIudW5jLmVkdS8%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+). R Open Labs is a collaboration between the UNC Chapel Hill Libraries Research Hub and the Odum Institute for Research in Social Science.
+
+Stata with Cathy Zimmer
+
+January 29, 30, February 2 | 3:30 - 5:00pm | Davis Library, Room 219
+ This is a 3-part short course (held over three afternoons). Stata part 1 will offer an introduction to Stata basics. Part 2 will teach entering data
+in Stata, working with Stata do files, and will show how to append, sort, and merge data sets. Part 3 will cover how to perform basic statistical
+procedures and regression models in Stata.
+For more information please visit the event (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=aHR0cHM6Ly9vZHVtLnVuYy5lZHUvZXZlbnQvc3RhdGEtY2F0aHktemltbWVyLTMvMjAxOC0wMS0yOS8%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) on our website.
+
+NVivo Hands-on Workshop (Part 1)
+
+January 30 | 2:00 - 4:00pm | Davis Library, Room 3010
+ This session will allow participants to work through a textual document in the PC version of NVivo, a software program for coding textual data such
+as interviews, focus groups, and field notes. It combines editable text and multimedia capabilities with searching and linking, as well as theory
+building.
+Text files can also be linked to graphics or audio files. The program provides an attribute system which can be used for coding demographic variables.
+It supports visual models, including the specification of types of links between objects in the model.
+For more information, please contact Paul Mihas (paul_mihas@unc.edu ( mailto:paul_mihas@unc.edu )).
+
+Python I
+
+January 30 | 4:00 - 6:00pm | Davis Library ResearchHub
+ This workshop, organized by the UNC ResearchHub (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=aHR0cDovL2xpYnJhcnkudW5jLmVkdS9odWIv&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+), will introduce attendees to the Python programming language. We’ll help you install Python 3 and the Anaconda distribution, execute your first
+lines of code, and explore the basic functionality of Python.
+After this workshop, attendees should be better placed to start working on a specific project in Python, learning along the way, or work through more
+in-depth training.
+Python is widely used by researchers in many disciplines, and can be used to accomplish or automate many tasks outside academia. General computer
+skills are required, but specialized prior knowledge in computer programming is not required.
+Click here (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=aHR0cDovL2NhbGVuZGFyLmxpYi51bmMuZWR1L2V2ZW50LzM4MjIyNjM%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) to register.
+
+Unsubscribe (
+http://odum.unc.edu/?email_id=33&user_id=12564&urlpassed=W3Vuc3Vic2NyaWJlX2xpbmtd&controller=stats&hash=8e25be64d4e2cf59e4ddb322663e2b1c&action=analyse&wysija-page=1&wysijap=subscriptions
+)
+
+228 Davis Library, CB #3355, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599-3355
+
+Website: www.odum.unc.edu | Phone: 919-962-3061 | Email: odum@unc.edu | Hours: 9:00AM - 5:00PM
+

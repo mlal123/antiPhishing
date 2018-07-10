@@ -1,0 +1,23 @@
+Instructor Maxwell Daum posted a new Note. Your instructor selected to notify everyone in real time of this post, bypassing user email preferences.
+
+For some reason DelNode 3 was not in test dump
+
+here it is for your reference
+Case3: (Add After Del 2)addNode(1,f)addNode(2,x)numNodes==2addEdge(0,f,x,0,null)numEdges==1delNode(x)numNodes==1numEdges==0addNode(2,x)==TrueaddEdge(0,f,x,0,null)==true
+
+Sorry about that!
+
+Go to https://piazza.com/class?cid=iw89i8viwqg76m&nid=is6wk5m47ay4zy&token=f2GxNxqCfOm to view. Search or link to this question with @469.  
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 410 (section 002) at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll from this class.

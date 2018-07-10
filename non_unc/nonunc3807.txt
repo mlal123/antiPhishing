@@ -1,0 +1,40 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+An 8 bit breadboard computer computing Fibonacci numbers  (12/11/16 1:02 PM)
+
+I saw this today and thought other people might be interested.
+
+https://www.youtube.com/watch?v=a73ZXDJtU48
+
+This guy built a simple 8 bit computer on a breadboard, compiled a C program to his assembly language, and then manually puts the program into memory.
+
+He's got the clock, bus, memory, registers, program counter, etc. connected to LEDs and digital displays, so it's neat to see it all working together given the context from our course.
+
+You can skip to ~6:40 if you just want to see the program running (to skip the code compiling and assembly explanation).
+
+Go to https://piazza.com/class?cid=iwkyk767zy82ue&nid=irqp4hpe58u5rs&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+ps4 flip flop  (12/11/16 3:32 PM)
+
+How is my flip frlop here incorrect? apparently the very end is wrong (the instructor said it was incorecct at the 8th dash line). But after going back through it I can't find anything wrong.
+
+Go to https://piazza.com/class?cid=iwl3wy1t81t5jq&nid=irqp4hpe58u5rs&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 411 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2GxNxqCfOm

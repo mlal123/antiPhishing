@@ -1,0 +1,34 @@
+Your classmate posted a new Question.=20
+
+#15 on 14.3
+
+Is there any way to do this problem other than finding the double partial d=
+erivatives with respect to both x and y for every equation and adding them =
+to see if they equal zero? That seems really time consuming... especially s=
+ince if you get one wrong you don't know which one it is since WebAssign on=
+ly tells you if you didn't check the right group of equations
+
+Determine whether each of the following functions is a solution of Laplace'=
+s equation=C2=A0uxx=C2=A0+=C2=A0uyy=C2=A0=3D 0. (Select all that apply.)
+
+Go to https://piazza.com/class?cid=3Diz95pamq8vi6un&nid=3Diw5tgq5i54x11i&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @96. Follow=
+ it to get notified when a response comes in: https://piazza.com/follow/iz9=
+5pamq8vi6un/f2GxNxqCfOm/c2e3fcc9=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in MAT=
+H 233 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/iw5tgq5i54x11i to un-enroll from this class.=

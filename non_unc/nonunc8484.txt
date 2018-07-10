@@ -1,0 +1,6 @@
+@mlal123 great info ... i will work to incorporate this into the readme. the "consider ..." line is not a warning but a strong suggestion more or less. perhaps we should add some text as such. also adding a closing success is a good idea. will do what i can. thx!
+
+-- 
+You are receiving this because you were mentioned.
+Reply to this email directly or view it on GitHub:
+https://github.com/swimit/swim/issues/6#issuecomment-365136072

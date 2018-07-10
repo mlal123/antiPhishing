@@ -1,0 +1,49 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in MATH 233 on Piazza:
+
+------------------------------------------------------------
+Above cone and inside sphere  (4/10/17 6:36 PM)
+
+When we derive the equation for a sphere, we write 2 *sqrt(f(x,y)) because =
+we want the two hemispheres and we integrate from 0 to 2pi -- but why is it=
+ that when we want a cone inside a sphere, we only consider=C2=A0sqrt(f(x,y=
+)) (getting the top hemisphere), but we still integrate from 0 to 2pi, why =
+doesn't 0 to pi work? And should it be 0 to 2pi for both polar and spherica=
+l coordinates?=C2=A0
+
+Go to https://piazza.com/class?cid=3Dj1cp6crlw2k2s9&nid=3Diw5tgq5i54x11i&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Line integrals  (4/10/17 7:52 PM)
+
+When computing line integrals, and they mention a full circle counterclockw=
+ise, we integrate from 0 to 2 pi -- if they asked us to integrate a full ci=
+rcle's work clockwise, do we integrate 2 pi to 0?=C2=A0
+
+Go to https://piazza.com/class?cid=3Dj1crvunmskc5zl&nid=3Diw5tgq5i54x11i&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Careers Tip: Update where you're headed this summer so employers can=
+ invite you to local events.
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in MAT=
+H 233 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/iw5tgq5i54x11i to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

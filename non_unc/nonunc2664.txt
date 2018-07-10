@@ -1,0 +1,49 @@
+Your classmate posted a new Question.=20
+
+About compareTo method
+
+Hi! Can someone explain to me how java compare two integrals as String?=C2=
+=A0
+I did
+and got -4.=C2=A0
+But I did "800".compareTo("57") and got 3.
+
+Does it matter?=C2=A0
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3dit5pf2hvnrz76g%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7cf75f267cbf2e4936910c08d=
+3de27cb4c%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DBO6fQWz3v8nCbgWAh0=
+0hrTwd6J5qUgeidIlUIFH%2fIBE%3d to view. Search or link to this question wit=
+h @94. Follow it to get notified when a response comes in: https://na01.saf=
+elinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.com%2ffollow%2fit=
+5pf2hvnrz76g%2ff2GxNxqCfOm%2f5d41d851&data=3D01%7c01%7cmlal123%40live.unc.e=
+du%7cf75f267cbf2e4936910c08d3de27cb4c%7c58b3d54f16c942d3af081fcabd095666%7c=
+1&sdata=3DlAiz%2ff9cX0HkyyZGq7jYHxofQJpXFJfukH1SNYVjQTI%3d=20
+
+Sign up for more classes at https://na01.safelinks.protection.outlook.com/?=
+url=3Dhttp%3a%2f%2fpiazza.com%2func&data=3D01%7c01%7cmlal123%40live.unc.edu=
+%7cf75f267cbf2e4936910c08d3de27cb4c%7c58b3d54f16c942d3af081fcabd095666%7c1&=
+sdata=3DIzs4tDAsUACBetUDCW%2fCBSRfDpJ%2fAFdNT1llFu9a2OM%3d
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.co=
+m%2flogin&data=3D01%7c01%7cmlal123%40live.unc.edu%7cf75f267cbf2e4936910c08d=
+3de27cb4c%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3Dw9NsAtwkFj03PfE1Ys=
+B%2fN9XCquFdkDK5blNLmu0bA6I%3d to sign in and manage your email preferences=
+ or proceed to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3=
+a%2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2fis6wk5m47ay4zy&data=3D01%7c01%7c=
+mlal123%40live.unc.edu%7cf75f267cbf2e4936910c08d3de27cb4c%7c58b3d54f16c942d=
+3af081fcabd095666%7c1&sdata=3DhzRbxWy3IF0bjM8fvcR9NuR%2bZpsxOQfTLaf673aGUpE=
+%3d to un-enroll from this class.=

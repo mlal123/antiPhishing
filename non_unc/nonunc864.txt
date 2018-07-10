@@ -1,0 +1,46 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+4.4 getPixel  (11/16/15 9:53 PM)
+
+Aside from 5.2, I'm having some troubles with the getPixel method. My setPi=
+xel method is running, but getPixel isn't returning the color set within se=
+tPixel. The instructions says to "Returns the Color object stored at index=
+=C2=A0pixels[x][y],"=C2=A0so how do I do that? Simply returning pixels[x][y=
+] isn't working.=C2=A0
+
+Go to https://piazza.com/class?cid=3Dih2sd2ajbqp2jk&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+5.1  (11/17/15 12:10 AM)
+
+I am still stuck on 5.1
+
+Go to https://piazza.com/class?cid=3Dih2x8s4awxk1h&nid=3Didk60wfq88174f&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

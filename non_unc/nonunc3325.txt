@@ -1,0 +1,66 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+Return type of Splay  (11/02/16 2:26 PM)
+
+Hey all,
+If you have a moment, would you mind explaining what the return type of spl=
+ay() should be?
+
+I am not getting an intact Splay tree after trying to insert more than one =
+node into the=C2=A0tree. Using a System.out.println(), the program is indic=
+ating that it does find the correct condition for splaying a node, (e.g. wh=
+en it is supposed to call rotateLeft(), it does). However, the tree itself =
+seems to disappear!
+
+Here is an example of what is happening:
+
+IN SPLT Playground:
+SPLT tree2=3D new SPLT();    tree2.insert("hello");    printLevelOrder(tree=
+2);
+returns: =C2=A0
+Level 0:hello=C2=A0
+
+Yet when attempting to insert a second node:=C2=A0
+
+    SPLT tree2=3D new SPLT();
+    tree2.insert("hello");
+    tree2.insert("world");
+    printLevelOrder(tree2);
+=C2=A0returns:
+Current parent is: null
+Rotating Left:=C2=A0
+
+Any/all help is appreciated! Please let me know if I should include more in=
+formation.
+
+Thank you!
+
+Go to https://piazza.com/class?cid=3Div198o9grc56bh&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

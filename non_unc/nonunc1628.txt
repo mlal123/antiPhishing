@@ -1,0 +1,37 @@
+Your classmate posted a new Question.=20
+
+Generics
+
+I was looking over the explanation for generic types here. =C2=A0The page g=
+ives the example=C2=A0
+Box  integerBox;
+and says, "You can think of a generic type invocation as being similar to a=
+n ordinary method invocation, but instead of passing an argument to a metho=
+d, you are passing a=C2=A0type argument=C2=A0=E2=80=94=C2=A0Integer=C2=A0in=
+ this case =E2=80=94 to the=C2=A0Box=C2=A0class itself."=C2=A0
+
+I'm confused by the last part. =C2=A0Wouldn't you be passing the type argum=
+ent Integer=C2=A0to the CONSTRUCTOR of the generic Box class? =C2=A0
+
+Go to https://piazza.com/class?cid=3Dil5jj3z9sr61xw&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @768. Follo=
+w it to get notified when a response comes in: https://piazza.com/follow/il=
+5jj3z9sr61xw/f2GxNxqCfOm/cc902eb3=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.=

@@ -1,0 +1,225 @@
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+span.EmailStyle20
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.apple-converted-space
+	{mso-style-name:apple-converted-space;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+
+
+Hello Mangza,
+
+ 
+I hope you have a good Fall Break and are great to finish the semester strong. I write to touch base with you to see how classes and life is going for you. I also want
+ to try to schedule a time to meet with you in the next two weeks – perhaps over a meal.
+
+ 
+Below are some dates, times and restaurant locations  to choose from  --- I will pay for our meal. If none of these times fit your
+ schedule, do provide me 3-4 options of your availability between September 13 and September 18 (this includes Saturday and Sunday.) Again, if you are not available for lunch or dinner perhaps you can suggest a breakfast time (normally from 7:45 – 8:45 am at
+ Ye Olde Waffle Shoppe on Franklin Street) or even a time for us to meet at the Daily Grind inside the Bookstore. We can also find a time to just meet me in my office.
+
+ 
+Please respond by Thursday, October 29  regarding your availability and interest in meeting with me over a meal, remember it is on me.   
+·         
+Friday, October 23 from 12:00 pm at McAlister’s on Franklin Street
+ 
+·         Saturday,
+ October 24 at 10 am at Panera Bread on Franklin Street
+·         Saturday,
+ October 24 at 3pm at Mello Mushroom on Franklin Street
+ 
+·         Sunday,
+ October 25 at noon Panera Bread on Franklin Street
+·         Sunday,
+ October 25 at 5 pm at Spanky’s  on Franklin Street
+ 
+·         Monday,
+ October 26 at 11:45 am at McAlister’s on Franklin Street
+ 
+·         Tuesday,
+ October 27 at 5:30 pm at Carolina Brewery on Franklin Street
+ 
+·         Wednesday,
+ October 28 at 12:30 pm at Sutton’s on Franklin Street
+        Wednesday, October 29 at 5:30 pm at Mello Mushroom on Franklin Street
+
+       
+
+Monday, November 2 at 11:45 am at McAlister’s on Franklin Street
+ 
+Wednesday, November 3 at 12:30 pm at Sutton’s on Franklin Street
+        Wednesday, November 3 at 5:30 pm at Mello Mushroom on Franklin Street
+
+ 
+        Lastly, please note that we can change the restaurant location to best fit your need – these are just suggestions that are close to campus.
+
+ 
+  
+Take good care,
+Andrea
+ 
+ 
+ 
+
+ 
+ Andrea Caldwell
+Assistant Dean, Academic Advising Program
+1015 Steele Building
+andreac@email.unc.edu
+Telphone: (919) 843-6052
+Fax: (919) 962-6888
+ 
+The University of North Carolina at Chapel Hill
+College of Arts and Sciences and General College
+Academic Advising’s webpage:
+http://advising.unc.edu
+
+ 
+ 
+
+
+From: mlal123
+
+Sent: Monday, August 17, 2015 10:40 AM
+To: Caldwell, Andrea L <andreac@email.unc.edu>
+Subject: Re: HELLO from your Achieve Carolina /Carolina Covenant Scholar MENTOR!
+
+
+
+ 
+
+Hello! My name is Mangza Lal, I currently reside in Hinton James and I plan to double major in computer science and business. I live in Chapel Hill, about 10 minutes away
+ from campus and I am very excited to start my college years!
+ 
+
+
+
+
+
+
+From: Caldwell, Andrea L <andreac@email.unc.edu>
+Sent: Sunday, August 16, 2015 5:45 PM
+To: Caldwell, Andrea L
+Subject: HELLO from your Achieve Carolina /Carolina Covenant Scholar MENTOR!
+
+
+ 
+
+
+
+
+Hello, I am Andrea Caldwell and I serve as Assistant Dean in the Academic Advising Program. Most importantly, I look forward to serving as YOUR MENTOR for
+ the Carolina Covenant and Achieve Scholars Program.  So that you can learn a little about me, below is a brief bio of me from the Advising Academic Program website. If you will, please
+send me an introduction email of you and do let me know if you have any immediate questions or concerns. In the coming days, I will send another e-mail out to you with a list of dates/times requesting an individual meeting time with you.
+
+
+ 
+
+
+I also look forward to seeing you at the Welcome Reception on Monday, August 17th from 5 – 7:00 p.m. at the Blue Zone.
+
+ 
+Take care,
+Andrea
+919-843-6052 (office number with voicemail)
+919-361-5513 (cell phone)
+andreac@email.unc.edu (email is checked often)
+
+
+
+ 
+
+
+------
+
+
+From:
+http://advising.unc.edu/ 
+
+
+Andrea earned her MS Ed in Higher Education from Southern Illinois University and a BS in Management Information Systems from Winston-Salem State University.
+ Before coming to Carolina, she held student affairs positions at Duke University, The University of South Carolina and The University of Illinois. Andrea is an award-winning academic advisor who believes each student possesses a set of unique strengths, talents
+ and abilities; each one needs to feel connected to the University, know how to find and use appropriate resources, and have the confidence to make their own life decisions.
+Her calling is to inspire Carolina students to explore beyond the familiar, to engage fully in their curricular and co-curricular pursuits, and to empower them to envision greater possibilities. 
+ Andrea lives in Durham and has a large and rambunctious extended family in Statesville, NC who she considers to be some of her greatest life teachers and beloved friends. During quiet times, you may find her reading a good book, listening to jazz music or
+ watching well-written television shows. 
+
+
+ 
+
+
+
+
+ 
+ 
+Andrea Caldwell
+Assistant Dean, Academic Advising Program
+1015 Steele Building
+andreac@email.unc.edu
+Telphone: (919) 843-6052
+Fax: (919) 962-6888
+ 
+The University of North Carolina at Chapel Hill
+College of Arts and Sciences and General College
+Academic Advising’s webpage:
+http://advising.unc.edu
+
+ 
+
+
+
+
+
+
+

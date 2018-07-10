@@ -1,0 +1,27 @@
+
+Site Title: COMP410.002.FA16
+Site ID: 41a09363-ba03-4d7b-8594-d466a078cbd6
+
+Assignment title: Assignment3
+Assignment Due Date: Oct 4, 2016 11:55 pm
+
+Student: Mangza Lal( mlal123 )
+
+Submission ID: c8317520-5a97-4f4e-9f40-b13e784086d6
+Submitted on: Oct 4, 2016 12:37 am
+
+Attachments
+
+mlal123_assignment3.zip (8 KB)Assignment3/src/MinBinHeap_A3/MinBinHeap.java (3 KB)
+Assignment3/src/MinBinHeap_A3/EntryPair_Interface.java (1 KB)
+Assignment3/bin/MinBinHeap_A3/EntryPair.class (1 KB)
+Assignment3/bin/MinBinHeap_A3/EntryPair_Interface.class (1 KB)
+Assignment3/src/MinBinHeap_A3/MinBinHeap_Playground.java (2 KB)
+Assignment3/bin/MinBinHeap_A3/MinBinHeap_Playground.class (2 KB)
+Assignment3/.project (1 KB)
+Assignment3/src/MinBinHeap_A3/EntryPair.java (1 KB)
+Assignment3/.classpath (1 KB)
+Assignment3/bin/MinBinHeap_A3/Heap_Interface.class (1 KB)
+Assignment3/src/MinBinHeap_A3/Heap_Interface.java (1 KB)
+Assignment3/bin/MinBinHeap_A3/MinBinHeap.class (2 KB)
+Assignment3/.settings/org.eclipse.jdt.core.prefs (1 KB)

@@ -1,0 +1,29 @@
+Your classmate posted a new Question.=20
+
+install Oracle JDK 7?
+
+When I try to update my OpenSSL library it says I need to install Oracle JD=
+K 7. I know at the beginning of the semester we were told not to update a l=
+ot of things in the VM; is this ok to install?=C2=A0
+
+Go to https://piazza.com/class?cid=3Dja0cbi2t7u84ne&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @207. Follo=
+w it to get notified when a response comes in: https://piazza.com/follow/ja=
+0cbi2t7u84ne/f2GxNxqCfOm/f4cc3325=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 435 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/j5vi9cpw2jn336 to un-enroll from this class.=

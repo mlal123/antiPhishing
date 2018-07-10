@@ -1,0 +1,43 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 435 on Piazza:
+
+------------------------------------------------------------
+Syntax error in sniffex  (12/06/17 11:00 AM)
+
+Not sure if this has already been covered, but when I try to run the downloaded and compiled sniffex.c program I get the following syntax error:
+
+./sniffex.c: line 6: syntax error near unexpected token `('
+
+I can't for the life of me, find this error in the code. If anyone has experienced this, where was the error?
+
+Go to https://piazza.com/class?cid=jav8q939hzk252&nid=j5vi9cpw2jn336&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Last day for online course evaluation  (12/06/17 8:58 AM)
+
+You will likely have some down time during the poster session today, please use it to fill out the evaluation. Today is the last day to do so.
+
+Go to https://piazza.com/class?cid=jav4dblknw86d2&nid=j5vi9cpw2jn336&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Late for OH  (12/06/17 8:37 AM)
+
+i will be there at 9:15 instead of 9
+
+Go to https://piazza.com/class?cid=jav3lrl8g6i2l2&nid=j5vi9cpw2jn336&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 435 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/j5vi9cpw2jn336 to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2GxNxqCfOm

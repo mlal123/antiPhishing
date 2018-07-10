@@ -1,0 +1,6 @@
+Failed to read artifact descriptor for io.novaordis.utilities:novaordis-utilities:jar:4.7.14: Could not transfer artifact io.novaordis.utilities:novaordis-utilities:pom:4.7.14 from/to novaordis-nexus (https://maven.apps.openshift.novaordis.io/repository/maven-releases//../repository): sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target ->
+
+-- 
+You are receiving this because you were assigned.
+Reply to this email directly or view it on GitHub:
+https://github.com/swimit/swim/issues/39#issuecomment-366380572

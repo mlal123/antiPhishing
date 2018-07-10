@@ -1,0 +1,37 @@
+------------------------------------------------------------------
+ADOBE  CREATIVE CLOUD------------------------------------------------------------------
+
+Mangza, you now have access to All Apps plan.
+
+Your administrator at UNC Chapel Hill has given you access to All Apps plan.   You are now ready to explore, create, and share your best work with Creative Cloud.
+To start using your membership, please click on Get Started.
+Get Started:
+https://ims-na1.adobelogin.com/ims/authorize/v1?client_id=oc_welcome&scope=AdobeID,openid&response_type=token&locale=en_US&redirect_uri=https://www.adobe.com/creativecloud/catalog/desktop.html
+
+ With a Creative Cloud plan, you can:
+- Instantly access your apps and receive updates on new versions
+- Work, save, and access your files anytime, anywhere with Cloud services- Create wherever inspiration strikes with connected desktop and mobile apps
+- Share exceptional content for any screen, in any format
+- Collaborate more effectively and maintain version control- Access hundreds of online tutorials to make the most of your experience
+If you have questions about installing the apps on your desktop or mobile device, email your administrator.
+
+------------------------------------------------------------------
+
+Manage Your Account:
+https://www.adobe.com/go/cc_manage_act
+
+Customer Support:
+https://www.adobe.com/go/cc_customersupport
+
+Forums:
+https://www.adobe.com/go/cc_forums
+
+
+******************************************************************
+
+
+Adobe, the Adobe logo, Creative Cloud, and the Creative Cloud logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. All other trademarks are the property of their respective owners.
+
+(C) 2018 Adobe Systems Incorporated. All rights reserved.
+
+ Adobe Systems Incorporated, 345 Park Ave., San Jose, CA 95110 USA 

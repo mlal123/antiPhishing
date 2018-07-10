@@ -1,0 +1,140 @@
+Nieman Lab: The Daily Digest
+Tuesday=2C March 27=2C 2018
+http://www.niemanlab.org/2018/03/homepages-may-be-dead-but-are-daily-news-=
+podcasts-are-the-new-front-page/
+
+
+** Homepages may be dead=2C but are daily news podcasts the new front page=
+? (http://www.niemanlab.org/2018/03/homepages-may-be-dead-but-are-daily-ne=
+ws-podcasts-are-the-new-front-page/)
+------------------------------------------------------------
+Plus: What=E2=80=99s going on with Stitcher Premium=2C Gimlet isn=E2=80=99=
+t actually going to buy NPR One=2C and how membership works in the age of=
+ podcasts. By Nicholas Quah.
+http://www.niemanlab.org/2018/03/newsonomics-will-facebooks-troubles-final=
+ly-cure-publishers-of-platformitis/
+
+
+** Newsonomics: Will Facebook=E2=80=99s troubles finally cure publishers o=
+f platformitis? (http://www.niemanlab.org/2018/03/newsonomics-will-faceboo=
+ks-troubles-finally-cure-publishers-of-platformitis/)
+------------------------------------------------------------
+The Cambridge Analytica story is a reminder of the value of a trusted=2C d=
+irect connection between publisher and consumer. Building more of them is=
+ the news industry=E2=80=99s best strategy available. By Ken Doctor.
+http://www.niemanlab.org/2018/03/what-the-guardians-mobile-innovation-lab-=
+has-learned-after-two-years-of-experimenting-with-better-news-delivery-on-=
+phones/
+
+
+** What The Guardian=E2=80=99s Mobile Innovation Lab has learned after two=
+ years of experimenting with better news delivery on phones (http://www.ni=
+emanlab.org/2018/03/what-the-guardians-mobile-innovation-lab-has-learned-a=
+fter-two-years-of-experimenting-with-better-news-delivery-on-phones/)
+------------------------------------------------------------
+Two dozen experiments=2C one Brexit and one U.S. presidential election=2C=
+ and hundreds of thousands of readers later=2C the Mobile Innovation Lab h=
+as some thoughts about what newsroom innovation and experimentation requir=
+es on a practical level. By Shan Wang.
+Public broadcasters feel tension between their public service mandate and=
+ their reliance on platforms like Facebook (http://www.niemanlab.org/2018/=
+03/public-broadcasters-feel-tension-between-their-public-service-mandate-a=
+nd-their-reliance-on-platforms-like-facebook/)
+What We=E2=80=99re Reading
+Axios / Sara Fischer
+The Wild West of digital marketing will be getting reined in =E2=86=92 (ht=
+tps://www.axios.com/wild-west-of-digital-marketing-reined-in-1601df93-3fa3=
+-49f3-86ae-62fac7e897c8.html)
+=E2=80=9CThe Advertising Research Foundation will announce an initiative t=
+o develop industry guidelines on consumer data privacy and protection. Suc=
+h efforts by industry groups and regulators to rein in those practices cou=
+ld have a significant impact on the way advertisers spend their marketing=
+ budgets online.=E2=80=9D
+Variety / Todd Spangler
+Turner Sports is launching Bleacher Report Live=2C a paid streaming servic=
+e for live sporting events =E2=86=92 (http://variety.com/2018/digital/news=
+/turner-sports-bleacher-report-streaming-service-uefa-nba-1202737168/)
+=E2=80=9CInterestingly=2C B/R Live will let users buy only a portion of NB=
+A games that are already in progress=2C instead of (as with the existing m=
+odel) a full subscription to a package of games. Under the =E2=80=98micro-=
+transaction=E2=80=99 model=2C fans will be able to pay perhaps 99 cents fo=
+r five minutes of live action=2C NBA commissioner Adam Silver said.=E2=80=
+=9D
+Poynter / Kristen Hare
+Philadelphia Media Network is adding six fellows to engage diverse audienc=
+es that they are =E2=80=98simply not reaching=E2=80=99 =E2=86=92 (https://=
+www.poynter.org/news/philadelphia-media-network-adding-six-fellows-engage-=
+diverse-audiences-they-are-simply-not)
+=E2=80=9CThe six fellows are Kristen Balderas=2C Jesenia De Moya Correa=2C=
+ TyLisa Johnson=2C Heather Khalifa=2C Aneri Pattani and DeArbea Walker. (L=
+enfest=2C the nonprofit owner of PMN=2C gave PMN a $650=2C000 grant for th=
+e two-year program.) In addition to their full-time assignments as journal=
+ists=2C they will all have mentors=2C participate in regular seminars and=
+ work on a fellows-only product development project designed to bring more=
+ younger readers to PMN=E2=80=99s news platforms.=E2=80=9D
+Bloomberg View / Joe Nocera
+Imagine if Gordon Gekko bought newspaper chains =E2=86=92 (https://www.blo=
+omberg.com/view/articles/2018-03-26/alden-global-capital-s-business-model-=
+destroys-newspapers-for-little-gain)
+Heath Freeman=2C the hedge fund manager whose Alden Global Capital owns th=
+e Digital First Media chain=2C doesn=E2=80=99t see the papers he owns as i=
+nstitutions to inform the public or hold officialdom to account=2C but to=
+ supply cash for him to use elsewhere=2C writes Joe Nocera: =E2=80=9CAccor=
+ding to figures compiled by the union that represents workers at DFM prope=
+rties=2C the staff of the Denver Post has fallen from 184 journalists to 9=
+9 between 2012 and 2017. Yet last year=2C DFM=E2=80=99s chief executive se=
+nt a company-wide email saying that the company was =E2=80=98solidly profi=
+table.'=E2=80=9D
+Recode / Kurt Wagner
+Facebook won=E2=80=99t say if Mark Zuckerberg will testify before Congress=
+ =E2=86=92 (https://www.recode.net/2018/3/27/17168614/facebook-mark-zucker=
+berg-testify-congress-cambridge-analytica)
+Officially=2C Facebook says that it is still undecided=2C and a spokespers=
+on declined to confirm CNN=E2=80=99s story=2C which states Zuckerberg =E2=
+=80=98has come to terms with the fact that he will have to testify before=
+ Congress within a matter of weeks=2C and Facebook is currently planning t=
+he strategy for his testimony.=E2=80=99 (http://money.cnn.com/2018/03/27/t=
+echnology/mark-zuckerberg-testify-congress-facebook/) =E2=80=9C
+Digiday / Tim Peterson
+Google=E2=80=99s General Data Protection Regulation consent plan in Europe=
+ could become a template for other tech giants =E2=86=92 (https://digiday.=
+com/media/googles-gdpr-consent-plan-template-tech-giants/)
+=E2=80=9CUnder GDPR=2C for Google to sell targeted ads to publishers=E2=80=
+=99 European readers=2C it needs to obtain their permission. Legal experts=
+ said it=E2=80=99s legal for Google to obtain that consent secondhand. Goo=
+gle also said that it would accept the role of co-controller of that data=
+ for publishers using its DoubleClick ad server and AdX ad exchange. That=
+ joint controller role means Google is taking ownership of the data and ca=
+n do what it likes with it.=E2=80=9D
+Shorenstein Center / Wael Ghonim
+What=E2=80=99s gone wrong with social media and what can we do about it?=
+ =E2=86=92 (https://shorensteincenter.org/transparency-social-media-wael-g=
+honim/)
+=E2=80=9CWe believe that all platforms using algorithms to distribute cont=
+ent should develop a standardized public interest API that provides a deta=
+iled overview of the information distributed on their networks=2C while re=
+specting concerns for user privacy=2C trade secrets=2C and intellectual pr=
+operty. Social media companies already use aggregate data as a means to al=
+ter their own algorithms=2C introduce new product features=2C and define t=
+he company=E2=80=99s strategy.=E2=80=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3D9da3279c1a)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3D9da3279c1a)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

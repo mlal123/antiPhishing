@@ -1,0 +1,153 @@
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.xmsonormal, li.xmsonormal, div.xmsonormal
+	{mso-style-name:x_msonormal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.xmsolistparagraph, li.xmsolistparagraph, div.xmsolistparagraph
+	{mso-style-name:x_msolistparagraph;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.xmsochpdefault, li.xmsochpdefault, div.xmsochpdefault
+	{mso-style-name:x_msochpdefault;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;}
+span.xemailstyle17
+	{mso-style-name:x_emailstyle17;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle23
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+
+
+Hey Mangza,
+
+ 
+I will be sending you some documents that you will need to fill out, scan and then send back to me. You will probably get these tomorrow. Thanks.
+ 
+Regards,
+
+Andrew
+ 
+
+
+From: Lal, Mangza
+
+Sent: Wednesday, April 18, 2018 3:15 PM
+To: Castle, Andrew William <awcastle@email.unc.edu>
+Subject: Re: Spring Meeting Updates
+
+
+ 
+
+Hi Andrew, I will not be able to make the meeting. Let me know whatever it is you need me to do!
+
+
+
+
+
+From: Castle, Andrew William
+Sent: Wednesday, April 18, 2018 1:46:36 PM
+To: Adams, Frank Wesley III; Baker, Crystal Reshea; Bass, Dean Moshe; Castle, Andrew William; Cooper, Kane Kane; Gadson, Lati Demesha; Heslop, Kai Ayana; Hodges, Sam Jasper V; Lal, Mangza; Meeks, Michael; O'Shaughnessy, Meghan Chapin; Park, Aaron Yaechan;
+ Parker, Myra Raven; Petersen, Mark Richard; Rodriguez, Carly Sage; Rucker, Nicholous Benjamin; Sikka, G; Simpson, Alex Jenine; White, Keena Mone'T; Williams, Treasure D
+Subject: Spring Meeting Updates 
+
+ 
+
+
+
+
+Hey Ya’ll, 
+ 
+I am excited to meet with you all Friday at 6pm. I have attached a meeting agenda that is packed with pretty much everything we will go over this evening. As you can see there is a lot to cover, so please make sure you come ready to be
+ engaged. 
+ 
+Friendly reminder:
+We will meet in Morrison TV Lounge which is on the left side of the lobby if you are facing the desk. I am excited about bringing all of you together. Just wanted to give you all some updates as we head into next week.
+ 
+-         
+For All NEW Staff Members (Those currently not on Housing’s Spring 2018 Payroll) There will be some key documents you need to gather in the coming weeks.
+o  
+For the Spring Meeting you will need items for your Direct Deposit. This can come in either a Direct Deposit Form from your bank or a Voided Preprinted Check. (It cannot be a starter check.) I have attached examples in a PDF to this email. You should
+ bring this completed to the meeting Monday.
+ 
+o  
+For Payroll Sign Up which is May 2nd you will need I-9 documents for payroll so original copies of your Passport, Birth Certificate, Driver’s License, or Social Security Card. I have attached the I9 Document PDF as well. Please note that you
+ either need 1 item from list A (Like your Passport) or 1 item from both List B and C (like your Driver’s License and social Security Card). You will not need these documents until Payroll Sign Up day on May 2nd but in case they aren’t in your possession
+ you should grab  them if you travel home or begin conversations with your families on getting the documents to you.
+ 
+-         
+Everyone, remember to plan for this meeting to last about 2 hours which will be consistent with how staff meetings will go next year. You get to meet the rest of the staff, hear about the changes happening in Manning West, find out your floor placement,
+ and learn some important information.
+ 
+Lastly, if you are the one or two that cannot make this meeting, I know some of you have reached out already but please e-mail me again to confirm so that we can find a time for you to come and complete the hiring paperwork that is
+ needed. Thanks. 
+ 
+See you all Friday, 
+
+Regards, 
+Andrew
+ 
+ 
+
+
+
+
+

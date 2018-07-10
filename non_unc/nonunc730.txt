@@ -1,0 +1,51 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Stuck on rolledOneOnlyOnce  (11/03/15 1:28 PM)
+
+I have no idea what I'm supposed to be doing.
+
+Go to https://piazza.com/class?cid=igjpljajdexw8&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A3: Holding Unrecognized Option Message  (11/03/15 1:54 PM)
+
+Are we supposed to print only the "Unrecognized Option" if input is incorrect, or are we supposed to print "Unrecognized Option" and "please press 1 to hold, or press 2 to roll again" ?
+Example---------------------------------------------------
+
+EX 1:Your opponent's current score is 52please press 1 to hold, or press 2 to roll again3Unrecognized option! Please try again.[scanner]
+
+----or----
+
+EX 2:Your opponent's current score is 52please press 1 to hold, or press 2 to roll again3Unrecognized option! Please try again.please press 1 to hold, or press 2 to roll again[scanner]
+
+Go to https://piazza.com/class?cid=igjqiupuqtp6j2&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+importing GIT  (11/03/15 2:00 PM)
+
+I understand that this is probably a very elementary question, but for some reason, whenever i trying to import the git it says this message on the last step:
+"Some or all projects cannot be imported because they already exist in the workspace"
+
+do i delete all my projects on the left panel?
+
+
+
+Go to https://piazza.com/class?cid=igjqqgb3oyu27l&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 110 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2GxNxqCfOm

@@ -1,0 +1,252 @@
+
+Currently seeking 40 engineering interns for the 2018 Summer Corporate=
+ Intern Program at Spectrum!
+   =20
+    
+    
+    
+        /* FONTS */
+        @media  screen {
+            @import  url('https://fonts.googleapis.com/css?family=3DHind:30=
+0,400,500,600')
+        }
+
+        /* CLIENT-SPECIFIC STYLES */
+        body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-=
+adjust: 100%; }
+        table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+        img { -ms-interpolation-mode: bicubic; }
+
+        /* RESET STYLES */
+        img { border: 0; height: auto; line-height: 100%; outline: none; te=
+xt-decoration: none; }
+        table { border-collapse: collapse !important; }
+        body { height: 100% !important; margin: 0 !important; padding: 0 !i=
+mportant; width: 100% !important; }
+
+        /* iOS BLUE LINKS */
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+
+        /* MOBILE STYLES */
+        @media  screen and (max-width:600px){
+            h1 {
+                font-size: 32px !important;
+                line-height: 32px !important;
+            }
+        }
+
+        /* ANDROID CENTER FIX */
+        div[style*=3D"margin: 16px 0;"] { margin: 0 !important; }
+    
+
+
+    
+        Currently seeking 40 engineering interns for the 2018 Summer Corpor=
+ate Intern Program at Spectrum!
+    
+
+    
+        
+            
+            
+                
+                    
+                        
+                            Note: You are 1 of 6 students =
+at University of North Carolina at Chapel Hill graduating in 2019 to receiv=
+e this Opp!
+                        
+                    
+                
+            
+        
+    
+    
+        
+            
+                
+                    
+                        
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        Spectrum
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+    
+        
+            
+                
+                   
+                    
+                        
+                            Currently seeking 40 engineering interns for th=
+e 2018 Summer Corporate Intern Program at Spectrum!
+                        
+                    
+                
+                
+                    
+                        
+                          
+                              I am interes=
+ted
+                          
+                          
+                              
+                                I'll pass for now
+                            
+                        
+                    
+                
+            
+            
+                
+                    The 2018 Summer Corporate Intern Program is open for=
+ dedicated and hardworking students.The goal of the Spectrum Corporate Inte=
+rn Program is to provide current students with exposure to a real-life busi=
+ness setting, while giving them the opportunity to learn about our industry=
+.
+ 
+The program is 10 weeks in length and will run from May 29, 2018 through=
+ August 3, 2018. 
+ 
+Here in Denver, our Engineering teams are hiring dedicated and hardworki=
+ng students to intern in our Denver-based offices this summer.
+ 
+Our Wireless Technology, Technology Services, Software Engineering, and =
+Advanced Engineering Teams are seeking students interested in networking, s=
+oftware, programming, QA, testing, and much more!
+ 
+Spectrum provides an atmosphere that is intended to broaden an entry lev=
+el candidate=E2=80=99s professional understanding while promoting self-conf=
+idence, accomplishment, and career development.
+ 
+Browse our current openings and apply now!
+ 
+ 
+                
+            
+        
+            
+        
+    
+    
+        
+            
+                
+                    
+                      
+                        What is this?
+                    
+                
+                
+                  
+                    This email is an Opp. An Opp is=
+ an opportunity shared by an employer who is interested in you.
+                
+            
+            
+              
+              
+          
+      
+            
+        
+    
+    
+        
+            
+                
+                    
+                      
+                          
+                             
+                                
+                                    
+                                        
+                                    
+                                
+                                
+                                    
+                                        Delivered to you by Door of Clubs
+                                    
+                                
+                            
+                            
+                             
+                                Need more help? We=E2=
+=80=99re here, ready to talk
+                            
+                        
+                    
+                
+            
+        
+            
+        
+    
+    
+        
+            
+                
+                  
+                    
+                      
+                        Leaderboa=
+rd -
+                        About -
+                        Help
+                    
+                
+            
+            
+                
+                    Our Blog - Facebook - Twitter - LinkedIn - Instagram
+                
+            
+            
+                
+                  You received this email because y=
+ou are part of our community on Door of Clubs.
+              
+          
+          
+            
+                Feel free to change your preferences or unsubscribe.
+            
+        
+        
+            
+              Door of Clubs - 745 Atlantic Ave - Bo=
+ston, MA 02111 - USA
+          
+      
+  
+            
+        
+    
+
+
+
+
+
+
+

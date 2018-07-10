@@ -1,0 +1,67 @@
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+
+
+Mangza,
+ 
+Thanks for stopping by, it was good to meet you this morning.
+
+ 
+For reference, here are the links we talked about today:
+ 
+-The Transfer Credit Evaluation form - 
+http://admissions.unc.edu/credit/credit/transfer-credit-evaluation-for-current-students/
+-The transfer equivalencies list - 
+http://admissions.unc.edu/credit/credit/transfer-equivalencies/
+ 
+Please let me know if you have any questions.
+ 
+Thanks,
+JP Viray
+ 
+JP Viray
+Academic Advisor – Hardin Hub
+College of Arts and Sciences
+The University of North Carolina at Chapel Hill
+ 
+
+
+

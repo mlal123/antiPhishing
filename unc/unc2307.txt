@@ -1,0 +1,72 @@
+ 
+Dear Customer :  
+
+Thank you for contacting us about the issue you reported on 08/08/2016 11:56:21 AM. 
+
+Please review the summary below to ensure that we have addressed the request satisfactorily. 
+
+
+If you have questions or your request has not been completed to your satisfaction, please contact us by email at ConnectCarolina-Admissions@email.unc.edu.  No response after 7 days will result in the ticket being closed.
+
+
+
+Summary of Request 
+
+Status:  Successfully Resolved
+First Name:  mangza
+Last Name:  lal
+Request Number:  3280575
+Problem Description:  08/09/2016 10:29:23 AM hosterma 
+I called the customer and confirmed that he was attempting to apply for the Fall 2017 semester. I have removed the following "Cancelled" row from the Apply Major/Minor Change DEPT page in ConnectCarolina:
+
+Row: 270 	
+Student: Lal,Mangza
+PID: 730006540
+Current Major/Minor: Computer Science
+Requested Major/Minor: UNC Kenan-Flagler Undergraduate Business Program 
+Status: Cancelled
+Audit: mlal123 2016-07-25-14.23.39.749223
+
+Closing ticket.
+
+The following email was sent:  
+To: mlal123@live.unc.edu 
+From: hosterma@email.unc.edu 
+cc:  
+
+Hi Mangza,
+
+As a follow-up to our phone conversation, I have removed the "Cancelled" transfer request in ConnectCarolina for the Fall 2017 term. You should now be able to submit your new request without any issues.
+
+Please let me know if you have any additional questions or concerns.
+
+Thank you,
+
+Joe Hosterman
+Business Systems Analyst
+Information Technology Services
+The University of North Carolina at Chapel Hill 
+ 
+
+8/8/2016 1:37:28 PM hosterma
+Emailed the customer to confirm which term he is trying to apply for in ConnectCarolina.
+
+The following email was sent:  
+To: mlal123@live.unc.edu 
+From: hosterma@email.unc.edu 
+cc:  
+
+Hello Mangza,
+
+I have received your Remedy ticket. I currently see two "Cancelled" requests under your ID in ConnectCarolina. One is for the 2017 Spring term, and the other is for the 2017 Fall term. Since both requests currently have a status of "Cancelled", the system will not allow you to submit another request for the same term until the original "Cancelled" request has been deleted. If you can please confirm the term in which you are attempting to apply, I will go ahead and removed the "Cancelled" request for that term in ConnecCarolina. This will allow you to submit your new request without any issues.
+
+Thank you,
+
+Joe Hosterman
+Business Systems Analyst
+Information Technology Services
+The University of North Carolina at Chapel Hill 
+
+
+8/8/2016 11:56:21 AM cnickens
+Client's Proble

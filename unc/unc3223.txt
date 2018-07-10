@@ -1,0 +1,27 @@
+
+Site Title: COMP410.002.FA16
+Site ID: 41a09363-ba03-4d7b-8594-d466a078cbd6
+
+Assignment title: Assignment4
+Assignment Due Date: Oct 27, 2016 11:55 pm
+
+Student: Mangza Lal( mlal123 )
+
+Submission ID: 1d38d7cd-e7b2-4b8f-ae68-c056ee7d8d34
+Submitted on: Oct 26, 2016 11:02 pm
+
+Attachments
+
+mlal123_assignment4.zip (12 KB)Assignment4/bin/SPLT_A4/SPLT_Playground.class (2 KB)
+Assignment4/bin/SPLT_A4/SPLT.class (2 KB)
+Assignment4/bin/SPLT_A4/SPLT_Interface.class (1 KB)
+Assignment4/.project (1 KB)
+Assignment4/src/SPLT_A4/BST_Node.java (9 KB)
+Assignment4/bin/SPLT_A4/BST_Node.class (4 KB)
+Assignment4/.settings/org.eclipse.jdt.core.prefs (1 KB)
+Assignment4/.classpath (1 KB)
+Assignment4/src/SPLT_A4/BST_Interface.java (1 KB)
+Assignment4/bin/SPLT_A4/BST_Interface.class (1 KB)
+Assignment4/src/SPLT_A4/SPLT_Playground.java (2 KB)
+Assignment4/src/SPLT_A4/SPLT.java (2 KB)
+Assignment4/src/SPLT_A4/SPLT_Interface.java (3 KB)

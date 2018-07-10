@@ -1,0 +1,30 @@
+Your classmate posted a new Question.=20
+
+why is addi operator equivalent to load the addressing?
+
+according to quiz5,
+la $1 a =3D=C2=A0addi $1 $0 a
+
+can anyone please explain this?
+
+Go to https://piazza.com/class?cid=3Diurq30hl885lb&nid=3Dirqp4hpe58u5rs&tok=
+en=3Df2GxNxqCfOm to view. Search or link to this question with @296. Follow=
+ it to get notified when a response comes in: https://piazza.com/follow/iur=
+q30hl885lb/f2GxNxqCfOm/9d460444=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.=

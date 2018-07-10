@@ -1,0 +1,56 @@
+
+Several new resources have been added to the "BIOL101.002.SP17" site at Sakai @ UNC-Chapel Hill (https://sakai.unc.edu/portal)
+
+Location: site "BIOL101.002.SP17" > Resources  > SI PowerPoints > H-W _ KState.-Ans.pdf
+
+
+Resource: H-W _ KState.-Ans.pdf https://sakai.unc.edu/access/content/group/f3c8e6a4-94a6-4b0e-87f8-7e94dbee59c7/SI%20PowerPoints/H-W%20_%20KState.-Ans.pdf
+
+Location: site "BIOL101.002.SP17" > Resources  > SI PowerPoints > H-W _ KState.-probs.pdf
+
+
+Resource: H-W _ KState.-probs.pdf https://sakai.unc.edu/access/content/group/f3c8e6a4-94a6-4b0e-87f8-7e94dbee59c7/SI%20PowerPoints/H-W%20_%20KState.-probs.pdf
+
+Location: site "BIOL101.002.SP17" > Resources  > SI PowerPoints > SI 4-4.pptx
+
+
+Resource: SI 4-4.pptx https://sakai.unc.edu/access/content/group/f3c8e6a4-94a6-4b0e-87f8-7e94dbee59c7/SI%20PowerPoints/SI%204-4.pptx
+
+Location: site "BIOL101.002.SP17" > Resources  > SI PowerPoints > SI 24.pptx
+
+
+Resource: SI 24.pptx https://sakai.unc.edu/access/content/group/f3c8e6a4-94a6-4b0e-87f8-7e94dbee59c7/SI%20PowerPoints/SI%2024.pptx
+
+Location: site "BIOL101.002.SP17" > Resources  > SI PowerPoints > SI_1_17.pptx
+
+
+Resource: SI_1_17.pptx https://sakai.unc.edu/access/content/group/f3c8e6a4-94a6-4b0e-87f8-7e94dbee59c7/SI%20PowerPoints/SI_1_17.pptx
+
+Location: site "BIOL101.002.SP17" > Resources  > SI PowerPoints > SI_3-21_Micro.pptx
+
+
+Resource: SI_3-21_Micro.pptx https://sakai.unc.edu/access/content/group/f3c8e6a4-94a6-4b0e-87f8-7e94dbee59c7/SI%20PowerPoints/SI_3-21_Micro.pptx
+
+Location: site "BIOL101.002.SP17" > Resources  > SI PowerPoints > Cell. Res..pptx
+
+
+Resource: Cell. Res..pptx https://sakai.unc.edu/access/content/group/f3c8e6a4-94a6-4b0e-87f8-7e94dbee59c7/SI%20PowerPoints/Cell.%20Res..pptx
+
+Location: site "BIOL101.002.SP17" > Resources  > SI PowerPoints > Hormones and Membranes.pptx
+
+
+Resource: Hormones and Membranes.pptx https://sakai.unc.edu/access/content/group/f3c8e6a4-94a6-4b0e-87f8-7e94dbee59c7/SI%20PowerPoints/Hormones%20and%20Membranes.pptx
+
+Location: site "BIOL101.002.SP17" > Resources  > SI PowerPoints > Micro and speciation.pptx
+
+
+Resource: Micro and speciation.pptx https://sakai.unc.edu/access/content/group/f3c8e6a4-94a6-4b0e-87f8-7e94dbee59c7/SI%20PowerPoints/Micro%20and%20speciation.pptx
+
+Location: site "BIOL101.002.SP17" > Resources  > SI PowerPoints > BIO 101 Test 1 review.pptx
+
+
+Resource: BIO 101 Test 1 review.pptx https://sakai.unc.edu/access/content/group/f3c8e6a4-94a6-4b0e-87f8-7e94dbee59c7/SI%20PowerPoints/BIO%20101%20Test%201%20review.pptx
+
+----------------------
+This automatic notification message was sent by Sakai @ UNC-Chapel Hill (https://sakai.unc.edu/portal) from the BIOL101.002.SP17 site.
+You can modify how you receive notifications at Home > Preferences.

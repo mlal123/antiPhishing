@@ -1,0 +1,129 @@
+Nieman Lab: The Daily Digest
+Wednesday=2C April 4=2C 2018
+http://www.niemanlab.org/2018/04/what-a-failed-media-startup-can-teach-us-=
+about-involving-readers-in-reporting/
+
+
+** What a failed media startup can teach us about involving readers in rep=
+orting (http://www.niemanlab.org/2018/04/what-a-failed-media-startup-can-t=
+each-us-about-involving-readers-in-reporting/)
+------------------------------------------------------------
+The Canadian startup OpenFile was a bet on collaboration between journalis=
+ts and their audience: =E2=80=9CWe learned that we shouldn=E2=80=99t dismi=
+ss [a story] just because it=E2=80=99s not articulated in a way that we w=
+ould as journalists.=E2=80=9D By Ashley Renders.
+http://www.niemanlab.org/2018/04/coconuts-a-fast-growing-cities-focused-ne=
+twork-of-sites-in-asia-takes-a-hard-right-into-paid-memberships/
+
+
+** Coconuts=2C a fast-growing=2C cities-focused network of sites in Asia=
+=2C takes a hard right into paid memberships (http://www.niemanlab.org/201=
+8/04/coconuts-a-fast-growing-cities-focused-network-of-sites-in-asia-takes=
+-a-hard-right-into-paid-memberships/)
+------------------------------------------------------------
+=E2=80=9CThe main point is that all of these changes have made me realize=
+ that you can=E2=80=99t build a business off Facebook=2C and the only cons=
+tant is that Facebook is going to be constantly changing.=E2=80=9D By Alan=
+ Soon.
+Facebook is adding a button to let users get more =E2=80=9Cbackground info=
+rmation=E2=80=9D (aka information from Wikipedia pages) on publishers (htt=
+p://www.niemanlab.org/2018/04/facebook-is-adding-a-button-to-let-users-get=
+-more-background-information-aka-information-from-wikipedia-pages-on-publi=
+shers/)
+What We=E2=80=99re Reading
+Medium / Ev Williams
+Ev Williams: =E2=80=9CFree=2C cheaply produced content isn=E2=80=99t disap=
+pearing. It will just get worse.=E2=80=9D =E2=86=92 (https://medium.com/@e=
+v/the-rationalization-of-publishing-dc001d509de8)
+=E2=80=9CPeople are not dumb. But their information diet has been subsidiz=
+ed by print ad revenues and no-longer-sustainable digital CPMs for a lot o=
+f years. It will be painful=2C especially for publishers=2C to ween off th=
+at drug. But supply and demand will kick in. As paywalls go up (and=2C ine=
+vitably=2C many publishers go out of business)=2C there=E2=80=99s just goi=
+ng to be less great stuff to get for free.=E2=80=9D
+Global Investigative Journalism Network / Elaine Diaz
+Here are 14 independent news sites changing Cuban journalism =E2=86=92 (ht=
+tps://gijn.org/2018/04/04/14-independent-news-sites-changing-cuban-journal=
+ism/)
+=E2=80=9CThese media organizations innovate without realizing they are bei=
+ng innovative. They develop applications to download content offline=2C ra=
+ise funds in a kind of =E2=80=98Creole=E2=80=99 crowdfunding system that f=
+louts national laws and the US blockade of the island=2C produce podcasts=
+ and create partnerships. Almost all of them survive in an openly illegal=
+ terrain known as =E2=80=98allegality.=E2=80=99 Non-state media in Cuba de=
+fy the very constitution of the country=2C which explicitly prohibits the=
+ existence of private media in Article 52.=E2=80=9D
+Bloomberg / Sarah Frier
+Facebook scans what you send other people on its Messenger app =E2=86=92 (=
+https://www.bloomberg.com/news/articles/2018-04-04/facebook-scans-what-you=
+-send-to-other-people-on-messenger-app)
+=E2=80=9CThe company told Bloomberg that while Messenger conversations are=
+ private=2C Facebook scans them and uses the same tools to prevent abuse t=
+here that it does on the social network more generally: =E2=80=98For examp=
+le=2C on Messenger=2C when you send a photo=2C our automated systems scan=
+ it using photo matching technology to detect known child exploitation ima=
+gery or when you send a link=2C we scan it for malware or viruses=2C=E2=80=
+=99 a Facebook Messenger spokesperson said in a statement.=E2=80=9D
+Wall Street Journal / Benjamin Mullin
+Taboola signed a deal with the Chinese smartphone manufacturer ZTE to surf=
+ace recommended links on some of its phones =E2=86=92 (https://www.wsj.com=
+/articles/taboola-signs-deal-with-zte-to-create-android-rival-to-apple-new=
+s-1522857826)
+=E2=80=9CTaboola has inked a deal with Chinese smartphone manufacturer ZTE=
+ Corp. to incorporate a new feature that displays Taboola=E2=80=99s recomm=
+ended links on some of its phones=2C the companies announced Wednesday. Th=
+e module will initially include only links to news and lifestyle stories f=
+rom some existing publishing partners=2C although the company may eventual=
+ly expand to include paid links from content marketers=2C according to Tab=
+oola Chief Executive Adam Singolda.=E2=80=9D
+Reuters / David Ingram and Joseph Menn
+Mark Zuckerberg isn=E2=80=99t committing to coming European privacy protec=
+tions as a standard for Facebook globally =E2=86=92 (https://www.reuters.c=
+om/article/us-facebook-ceo-privacy-exclusive/exclusive-zuckerberg-says-fac=
+ebook-not-planning-to-extend-european-privacy-law-globally-idUSKCN1HA2M1)
+=E2=80=9CZuckerberg told Reuters in a phone interview that Facebook was wo=
+rking on a version of the GDPR law that would work globally=2C bringing so=
+me European privacy guarantees worldwide=2C but demurred when asked what p=
+arts of the law he would not extend worldwide: =E2=80=98We=E2=80=99re stil=
+l nailing down details on this=2C but it should directionally be=2C in spi=
+rit=2C the whole thing.'=E2=80=9D
+ICFJ
+ICFJ is starting a digital skills training initiative for journalists in t=
+he MENA region =E2=86=92 (https://www.icfj.org/news/google-news-initiative=
+-supports-icfjs-large-scale-digital-program-mideast)
+The trainings are supported by Google through the Google News Initiative=
+=2C and will take place over the next 12 months across six countries (Unit=
+ed Arab Emirates=2C Saudi Arabia=2C Egypt=2C Lebanon=2C Jordan and Tunisia=
+).
+Splinter / David Uberti
+Gothamist=E2=80=99s Kickstarter raises more questions than it answers =E2=
+=86=92 (https://splinternews.com/gothamists-kickstarter-raises-more-questi=
+ons-than-it-an-1824284144)
+=E2=80=9CGothamist=2C the shuttered New York news site being resurrected b=
+y local powerhouse New York Public Radio=2C launched a Kickstarter today t=
+o get =E2=80=98back to full strength and make [Gothamist] sustainable for=
+ years to come.=E2=80=99 And the response is impressive: As of this writin=
+g=2C more than 600 backers have already donated a collective $47=2C000 to=
+ the project=2C putting the soon-to-be relaunched blog well on its way to=
+ its May 4 goal of raising $100=2C000.=E2=80=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3D200fee1df4)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3D200fee1df4)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

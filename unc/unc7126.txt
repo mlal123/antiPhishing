@@ -1,0 +1,162 @@
+Hi all -
+
+Please see this weeks new opportunities for cs majors.  There is also an at=
+tachment for an opp at Fidelity.
+
+Thanks  -
+
+Jeff
+
+The Cognitive Computing Odyssey
+Fall 2017 // Presented by Uncubed & IBM
+
+Note: Travel & lodging are fully covered for accepted students.
+
+Cognitive computing unites fields like Artificial Intelligence, machine lea=
+rning, & natural language processing to "think" about data more like a huma=
+n than a computer.
+
+It treats cancer patients, personalizes education, predicts financial marke=
+ts and the weather, helps governments make decisions, and rethinks retail.
+
+This Fall, students from across the country will meet in San Francisco, Bos=
+ton, Austin, and Toronto - travel & lodging fully covered - to explore the =
+technologies, future, applications, and jobs of AI as part of The Cognitive=
+ Computing Odyssey.
+
+Participation is through application process, and jobs are available in bac=
+k-end, server, cloud, firmware, front-end, full-stack, cognitive, automatio=
+n testing, and client-facing solutions development.
+
+
+APPLY & LEARN MORE HERE: uncubed.com/ibm
+
+
+
+Manufacturing Systems Engineer
+Job Description
+In this role, you will maintain and enhance existing manufacturing systems,=
+ as well as create new systems as needed. This includes interacting with th=
+e underlying data via MS SQL server, writing queries as well as creating ne=
+w tables, functions and stored procedures as needed.  The user-interfaces a=
+re written in .Net, using Visual Basic, and you will be expected to maintai=
+n, improve and create new software as needed.
+
+What can Wolfspeed do for you?
+
+Our commitment to excellence doesn't stop with our technology, it extends t=
+o the people we hire. We want individuals who strive for continual improvem=
+ent.   We offer a dynamic and diverse environment where creative problem so=
+lving is part of your daily life. As a Manufacturing Systems Analyst in a f=
+ast-paced semiconductor environment, you hold a key component to our succes=
+s.
+
+
+What can you do for Wolfspeed?
+
+
+  *   Building New Systems
+     *   Design new applications based on user input
+     *   Create data structure in MS SQL Server
+        *   New Tables (properly normalized)
+        *   New Functions
+        *   New Stored Procedures
+     *   Design User Interface
+     *   Write code to make the application functional
+        *   Visual Studio .NET, Visual Basic language
+        *   Use Team Foundation Server
+     *   Implement the application
+        *   Document use of new system via an Operator "Spec" and DCN the d=
+ocument
+        *   Train affected operators across all shifts
+        *   Monitor records and communicate with users for additional refin=
+ement and error correction
+  *   Maintain Existing Systems
+     *   Repair errors in code (Visual Studio .Net / Visual Basic) and SQL =
+as needed
+     *   Continual improvement of existing systems
+     *   Clean up / consolidate where needed, as systems grow and merge
+     *   Improve SQL efficiency where needed
+     *   Migrate from VB6 to .Net as needed
+  *   User Support
+     *   Data correction as needed (some items cannot be corrected by users=
+)
+        *   Unscrap
+        *   FGI quantity corrections
+        *   Update wafer ID's in a lot, update part number
+        *   New tools / new bays / new part numbers
+     *   Educate users on finding / querying data
+     *   Provide sophisticated queries as needed
+  *   Continuously strive to reduce cost and increase productivity all whil=
+e maintaining exemplary quality delivered to customers
+  *   Maintain positive working relationships with all levels in the organi=
+zation.
+
+What you need for success:
+
+
+  *   Bachelor's Degree in Computer Science, Industrial Engineering or a re=
+lated field
+  *   Data oriented - excels at problem solving and decision making skills.
+  *   Computer skills - SQL, .Net, database administration
+  *   Self-starter. Work independently as well as be a strong team member. =
+  Understand the issues at a high level, and prioritize appropriately.
+  *   Ability to handle change quickly and efficiently - Fast paced work en=
+vironment
+  *   Excellent interpersonal communications
+
+Highly preferred skills and certifications:
+
+
+  *   Experience with SQL
+  *   Experience with Visual Studio .Net
+  *   Experience with Visual Basic
+Overview
+Since our beginning 30 years ago, we have introduced innovative and disrupt=
+ive solutions that enable a more efficient, productive and safer world. We =
+continue our leadership in developing market-leading lighting-class LEDs, l=
+ighting products and semiconductor products for power and radio frequency (=
+RF) applications. We believe in unlocking the power and potential of techno=
+logy, enabling the world to do more with less. We aim to transform the way =
+people experience light and are also leading the innovation of Power/RF pro=
+ducts that move us toward a more energy efficient future.
+
+Be part of our future and have a direct impact while working for an organiz=
+ation that provides a place to work alongside brilliant people, a competiti=
+ve total rewards package, and a problem solving culture. We invite you to s=
+ubmit an application if you feel we would be a good fit.
+
+We are an equal opportunity employer and all qualified applicants will rece=
+ive consideration for employment without regard to race, color, religion, s=
+ex, sexual orientation, national origin, disability status, protected veter=
+an status, or any other characteristic protected by law.
+
+
+Jeff Sackaroff, M.Ed
+Associate Director, External Relations
+University Career Services
+University of North Carolina at Chapel Hill
+219 Hanes Hall,  CB #5140, Chapel Hill, NC 27599
+
+Jeff_sackaroff@unc.edu
+919-962-7658 (direct)
+919-962-6507 (main office)
+
+[UCS_WIN_A1_white-smallest]
+[cid:image002.png@01D2F0E3.C6E0F640]
+
+[cid:image002.png@01CE8D14.D21532B0]  [cid:=
+image003.jpg@01CE8D14.D21532B0]   [cid:image=
+004.png@01CE8D14.D21532B0]   [cid:image005=
+.jpg@01CE8D14.D21532B0]   [cid:image006.jpg@=
+01CE8D14.D21532B0] 
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to careers+unsubscribe@cs.unc.edu.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

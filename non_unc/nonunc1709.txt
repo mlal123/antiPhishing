@@ -1,0 +1,21 @@
+Your classmate posted a new Question. 
+
+A5 Jedi
+
+I doubt there are any TAs looking at this as you are all hopefully enjoying your spring break, but if there is, would you mind looking at my submission for a5Jedi? I'm currentyly debugging but a second pair of eyes would be very much appreciated. I've created a bunch of IF statements that try and determine the next move based on location (whether the iterator is on the edges, a corner, or within the body) and the last move made. In my hasNext(), i told it to return false simply if the x and y >= the width - 1 and height - 1 respectively. Unfortunately, I'm receiving failures (not errors) and can't find where I'm returning the wrong thing, even using the JUnit. Anyways, a second pair of eyes would be much appreciated!
+Thank You, and have a nice spring break!!
+
+Go to https://piazza.com/class?cid=ilsc114m1gxwd&nid=ihs2fbbhsfx37n&token=f2GxNxqCfOm to view. Search or link to this question with @907. Follow it to get notified when a response comes in: https://piazza.com/follow/ilsc114m1gxwd/f2GxNxqCfOm/7b0342e7 
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 401-001 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this class.

@@ -1,0 +1,32 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+Exporting  (9/05/16 1:00 PM)
+
+When we export our assignments, do you want them in a jar file? Also do you want us to label them a specific way?
+
+Go to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2fclass%3fcid%3disqamo00kv312x%26nid%3dis6wk5m47ay4zy%26token%3df2GxNxqCfOm&data=01%7c01%7cmlal123%40live.unc.edu%7cbcbcd85ee68c448801d808d3d5c8b4ca%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=Q04vas18A%2blwVyTHaWThNGn%2bCbVREQ0iqtSnk1krokg%3d to view.
+
+------------------------------------------------------------
+Errors  (9/05/16 3:19 PM)
+
+In cases like insert where we are supposed to return false if the operation we are doing is impossible, should we also be throwing an error?
+
+Go to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2fclass%3fcid%3disqfl4db7lt3lw%26nid%3dis6wk5m47ay4zy%26token%3df2GxNxqCfOm&data=01%7c01%7cmlal123%40live.unc.edu%7cbcbcd85ee68c448801d808d3d5c8b4ca%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=j2ZyLqERmbK1Lprp2DZ5RxCO5gaWTpnrAqnUymYGzvg%3d to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 410 (section 002) at University of North Carolina at Chapel Hill. Go to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2flogin&data=01%7c01%7cmlal123%40live.unc.edu%7cbcbcd85ee68c448801d808d3d5c8b4ca%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=jsx7PzibcKK2k%2fjIEVEOHr%2bWVO3lnTdoZcrLWgntykQ%3d to sign in and manage your email preferences or proceed to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2fis6wk5m47ay4zy&data=01%7c01%7cmlal123%40live.unc.edu%7cbcbcd85ee68c448801d808d3d5c8b4ca%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=qblSeE9C7SuZP8DGP4sCekgWhqCillcAhoIfvJOg3%2fs%3d to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2flink_accounts%2ff2GxNxqCfOm&data=01%7c01%7cmlal123%40live.unc.edu%7cbcbcd85ee68c448801d808d3d5c8b4ca%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=Rm5OlN%2bi2gZwzDuPgsAljbZxtWM9o%2fHROsnHDL2kojU%3d

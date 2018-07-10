@@ -1,0 +1,52 @@
+If you haven't started using a software repository system, you might
+find the following useful. Repos like cvs, svn, and git allow for
+version control, restoration of snapshots, and for multiple people to
+work on a project without getting in each others way.
+
+Also, we have a server supporting this software, information on that
+service is in the link below. Use of this service is highly recommended,
+your repos will be backed up, and since this is not part of your afs
+home directory, it eases transition for your software after you graduate
+or otherwise move on. And if you are working on research or
+instructional projects, we really recommend you put your source code in
+our repo system.
+
+Generally, we recommend using git, but git doesn't work well with large
+datasets (it is designed for managing source code) and it can be complex
+and frustrating, especially when the remote and local repos differ. I've
+heard also that it doesn't play well with the Unity game development
+platform. So it's not the tool for every problem, and we support SVN and
+CVS if you're rather use one of those.
+
+Mike Reiter sent me this link, which is a pretty wonderful rant about
+git. The comments are also very good:
+
+https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2freprog.wordpress.com%2f2010%2f05%2f12%2fstill-hatin-on-git-now-with-added-actual-reasons%2f&data=01%7c01%7cmlal123%40live.unc.edu%7c0f9e7813d75746e68aa708d3e22c6802%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=xFb8X3aFb5jk6RC1XlQ4Illol6LHMStZYUL6q7RS44s%3d
+
+
+And for data, something I just stumbled upon is the dat project. It's in
+beta and looks interesting:
+
+https://na01.safelinks.protection.outlook.com/?url=http%3a%2f%2fdatproject.readthedocs.org%2fen%2flatest%2f&data=01%7c01%7cmlal123%40live.unc.edu%7c0f9e7813d75746e68aa708d3e22c6802%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=rA%2f9FS%2botOGAd%2fb5oM3hUEgTTWHoKniY2BsnTrU86iM%3d
+
+Information on our cvs options here:
+
+https://na01.safelinks.protection.outlook.com/?url=http%3a%2f%2fcs.unc.edu%2fhelp-article%2fcvs-repositories%2f&data=01%7c01%7cmlal123%40live.unc.edu%7c0f9e7813d75746e68aa708d3e22c6802%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=A%2fGs%2bAQRF9pBpM1Nh7ecQ1B4XX5kIAUYLeKZJE3Yjpk%3d
+
+These links may help you get started with git:
+
+https://na01.safelinks.protection.outlook.com/?url=http%3a%2f%2fwww.sitepoint.com%2fintroduction-to-git-1%2f&data=01%7c01%7cmlal123%40live.unc.edu%7c0f9e7813d75746e68aa708d3e22c6802%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=wl0VP%2fFQbEQd%2bChiPJVDidVFB1yEQSZ9UlYUdSimVTY%3d
+
+https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2ftraining.linuxfoundation.org%2ffree-linux-training%2flinux-training-videos%2fintroduction-to-git&data=01%7c01%7cmlal123%40live.unc.edu%7c0f9e7813d75746e68aa708d3e22c6802%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=4k9VI%2bj6PKvpDpDSe%2b7EpELBKL5%2fvwU8ljSLXsLE3PA%3d
+
+https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fgit-scm.com%2fbook%2fen%2fv2%2fGetting-Started-Git-Basics&data=01%7c01%7cmlal123%40live.unc.edu%7c0f9e7813d75746e68aa708d3e22c6802%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=Mk0uiYMCP5h9%2bPly%2fH%2bzn4bFx46bt%2fj7mpSGyqVFoVQ%3d
+
+
+-- 
+_______________________
+bil hays
+IT Manager, Computer Science, UNC CH
+CTC Advisory Board Outreach Manager (https://na01.safelinks.protection.outlook.com/?url=http%3a%2f%2fctc.unc.edu%2f&data=01%7c01%7cmlal123%40live.unc.edu%7c0f9e7813d75746e68aa708d3e22c6802%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=pZ3jIDiGTTw9dmcvVMFVQMLsgrpleoEIxP2GXz8STnw%3d)
+https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fbilhays.wordpress.com%2f&data=01%7c01%7cmlal123%40live.unc.edu%7c0f9e7813d75746e68aa708d3e22c6802%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=v573akL59B%2bA9MfHmYGfAoSaRX%2bqIDDQrRSKzJ69yWg%3d
+verify me at https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fkeybase.io%2fbilhays&data=01%7c01%7cmlal123%40live.unc.edu%7c0f9e7813d75746e68aa708d3e22c6802%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=8jXpMmfTNBjI7D6W3pKEZ62TVswLOzR245l6WOdDgvk%3d
+

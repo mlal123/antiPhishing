@@ -1,0 +1,98 @@
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+
+
+Hello  MANGZA ,
+I hope your time at UNC has been rewarding and productive.  As with all transitions, there can be exciting and stressful moments.  Here at the Covenant Office, we have been thinking about ways to bring
+Covenant Transfer Scholars together to share ideas, to create a community, to offer support for success, and to assist with transition.
+We need your help.  If you are a Covenant Transfer Scholar,
+please plan to join us for an informal Focus Group where you will find an open space for dialogue that will help us with program planning specific to
+Covenant Transfer Scholars.  See details below:
+ 
+Covenant Transfer Scholars Focus Group
+Wednesday, January 31, 2018
+Vance Hall, Room 120
+2:00-3:30 pm
+ 
+ 
+Of course, there will be food.
+Click here to register.
+ 
+ 
+Looking forward to seeing you soon.
+ 
+ 
+Jane Rudenko, Program Assistant
+Carolina Covenant and Achieve Scholars Programs
+UNC Chapel Hill, Class of 2020
+ 
+Dr. Jayne Davis
+Academic Director
+Covenant and Achieve Scholars Programs
+ 
+ 
+
+
+

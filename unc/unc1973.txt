@@ -1,0 +1,203 @@
+*Atlas5D - Cambridge, MA*
+
+Atlas5D is an early stage startup building breakthrough, leading-edge
+medical devices designed to improve the quality of people=E2=80=99s lives.
+
+* Sensor Application Developer (Entry Level): http://goo.gl/UzdYGP
+
+* Back-End Web Developer (Entry Level): http://goo.gl/nJkHFc
+
+* Front-End Web Developer (Entry Level): http://goo.gl/GeASQW
+
+
+
+*BookBub - Cambridge, MA*
+
+BookBub is a rapidly growing book discovery and recommendation startup with
+more than seven million members. Join us to change the way books are found,
+purchased and read.
+
+* Business Analyst (Class of 2016): http://grnh.se/kcph0f
+
+
+
+*CloudHealth - Boston, MA*
+
+CloudHealth Technologies is pioneering IT Service Management for the cloud.
+By combining enterprise requirements, best practices, and cloud technology,
+we are transforming the way in which customers can see, evaluate, and
+manage their entire cloud ecosystem.
+
+* Software Engineer (Intern): https://goo.gl/IFhd38
+
+* Software Engineer (New Grad): https://goo.gl/hVc5s1
+
+
+
+*Cradlepoint - Boise, ID & Kelowna, CAN*
+
+Cradlepoint helps Distributed and Mobile Enterprises extend, augment or
+compliment their existing network infrastructure with Software-Defined
+Wireless & Wired WAN Solutions.
+
+* Java Software Engineer - New Grad (Boise or Kelowna):
+https://goo.gl/DGHqN0
+
+* QA Software Developer - New Grad (Boise or Kelowna): https://goo.gl/bjQWJ=
+b
+
+* QA Software Development - Intern (Boise): https://goo.gl/o76bWI
+
+
+
+*Disqus - San Francisco, CA*
+
+Disqus exists to make better communities and an even better web. Today, our
+product ecosystem includes our established comment network (over 3 million
+websites that cover pretty much any topic imaginable), a growing
+advertising network, and our owned and operated platform.
+
+* Sales Associate (New Grad): https://goo.gl/6Clpnx
+
+
+
+*EnerNOC - Boston, MA*
+
+EnerNOC is the world leader in energy intelligence software. We give
+businesses control over energy costs, and their utilities deeper customer
+relationships.
+
+* Demand Response Operations (Intern): https://goo.gl/usvOO6
+
+* Energy Intelligence (Intern): https://goo.gl/BSe9tw
+
+
+
+*Graphiq - Santa Barbara, CA*
+
+Our mission is to collect, structure and connect the world's data to lead
+people to the best conclusions.
+
+* Product Manager (New Grad): https://goo.gl/QtdapH
+
+* Software Engineer (New Grad): https://goo.gl/QtdapH
+
+
+
+*Imprivata - Lexington, MA*
+
+Imprivata is a leading provider of authentication and access management
+solutions for the healthcare industry.
+
+* Visual Design (UI) =E2=80=93 Intern: https://goo.gl/Sn8sq0
+
+
+
+*NuoDB - Cambridge, MA & Dublin, IRL*
+
+NuoDB, the leader in webscale distributed database technology, is
+redefining relational database technology to tackle the multiple challenges
+associated with cloud computing and the rise of global application
+deployments.
+
+* Developer - Operational Assurance - Intern (Cambridge):
+https://goo.gl/pSAhkW
+
+* Developer - Operational Assurance - New Grad (Dublin):
+https://goo.gl/pSAhkW
+
+
+
+*Occipital - San Francisco, CA & Boulder, CO*
+
+Occipital is equal parts science lab and software startup =E2=80=94 we take
+whatever is at the frontier of =E2=80=9Cpossible=E2=80=9D in computer visio=
+n, and we bring
+it to everyday mobile devices.
+
+* Web - Intern (Boulder): https://goo.gl/CBZxtA
+
+* Web Engineer - New Grad (Boulder): https://goo.gl/Ibjle8
+
+* Mobile Computer Vision Engineer - New Grad (MS/PhD required; SF or
+Boulder): https://goo.gl/sQsVrs
+
+* IOS Engineer - New Grad (SF or Boulder): https://goo.gl/F0x9o3
+
+
+
+*Onera - San Francisco, CA*
+
+Onera is an early-stage Silicon-Valley technology company that aims to use
+discrete algorithms and machine learning to help some of the largest
+multi-channel retailers solve real-time optimization problems.
+
+* Software Engineer (Full-Time): http://goo.gl/71OiML
+
+
+
+*Parallel Machines - Sunnyvale, CA & Tacoma, WA*
+
+Parallel Machines provides a Machine Learning Platform that seamlessly
+scales data science applications to process massive volumes of data at
+unprecedented speeds, resulting in improved accuracy, productivity and
+business results.
+
+* Machine Learning Software Engineer (Full-Time): https://goo.gl/oriSVs
+
+
+
+*PerformLine - Morristown, NJ*
+
+PerformLine is the industry=E2=80=99s leading marketing compliance company =
+bringing
+SaaS automation and scale to companies looking to mitigate risk and ensure
+brand safety.
+
+* Junior Developer | Data Scientist (New Grad): http://bit.ly/1rfjjqX
+
+
+
+*PillPack - Somerville, MA*
+
+PillPack is reinventing pharmacy by using design, service, and technology
+to change the way people think about medicine.
+
+* Front End UI Developer (Full-Time): https://goo.gl/Sr519E
+
+* Full Stack Engineer (Full-Time): https://goo.gl/7UFujW
+
+* iOS Engineer (Full-Time): https://goo.gl/4f1O7O
+
+* Platform Engineer (Full-Time): https://goo.gl/MxuZXY
+
+
+
+*StartFast Venture Accelerator - Syracuse, NY*
+
+StartFast is a 12 week accelerator program for internet/software/mobile
+startups. We're looking for talented developers and designers to assist our
+companies in any area of technical need.
+
+* Designer (Intern): http://startfast.net/developers-page/
+
+* Developer (Intern): http://startfast.net/developers-page/
+
+
+
+*SwiftStack - San Francisco, CA*
+
+SwiftStack provides customers with a software-defined object storage
+platform that gives them the limitless scalability required to manage
+massive data and applications growth, while providing the durability,
+manageability, and enterprise integration they need to stay competitive.
+
+* Software Engineer (Full-Time): https://goo.gl/7SS8Fy
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

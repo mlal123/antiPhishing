@@ -1,0 +1,347 @@
+*Opportunities:*
+
+*Volunteer Web Developer | Hire Heros | Remote Location *
+
+Hire Heroes USA is a 501c3 nonprofit organization that empowers U.S.
+military members, veterans and spouses to succeed in the civilian
+workforce. We work with our clients one-on-one to build the confidence and
+skills necessary to seek civilian or federal employment through our free,
+individualized career coaching and workshops. The Web Developer Volunteer
+will work closely with the Federal Sector and Marketing teams (full time
+staff) to apply several enhancements to a WordPress site for Hire Heroes
+USA clients. The volunteer will also assist in improving the user
+experience and accessibility of materials on the site.
+
+*Responsibilities:*
+
+
+   - Become familiar with programs and resources available for Hire Heroes
+   USA clients, specifically those in the Federal Sector Program
+   - Be prepared to identify technical issues and/or potential solutions on
+   existing WordPress site
+   - Share subject matter expertise in front-end design to improve
+   accessibility to online resources
+   - Create high-quality Federal Sector Program Resource Library
+   enhancements in timely fashion for Federal Sector Program staff approval
+   - Contact Volunteer Program staff immediately if any issues or concerns
+   arise
+   - Other duties as assigned
+
+*Qualifications:* Volunteer must have a high attention to detail and
+comfort using WordPress, HTML, CSS, JavaScript, and knowledge of cookies.
+Ability to access the Internet from their home or office is a must. Strong
+writing background preferred.
+Commitment Expected: Necessary training must be completed. Volunteer must
+provide computer, phone, and Internet access. Volunteers will be expected
+to commit 2-5 hours per week on researching, building, and testing website
+enhancements. Volunteers will be asked to submit to a background check
+(paid for by Hire Heroes USA).
+Training Requirements: Volunteer will undergo an initial orientation and
+training session with Volunteer Program staff. Additional training may be
+provided with Federal Sector Program staff. Training can be conducted in
+person or via phone and video chat.
+Other: Last updated March 2017. Direct supervision will take place by
+Federal Sector staff. Volunteers will not be compensated for this position.
+Any interested individuals should contact Emily Gomez at:
+egomez@hireheroesusa.org and complete the online volunteer application
+available at:
+https://www.hireheroesusa.org/volunteers/volunteer-application/
+
+
+*Unpaid Internship | **Noteninja | Durham NC*
+We at Noteninja are looking for a CS intern to help us build out our latest
+product offering. The internship will entail the following
+responsibilities: Designing and implementing features for our customers.
+Our tech stack includes the following:
+
+   - React.js
+   - GraphQL
+   - Express
+   - Postgres
+   - Elasticsearch
+   - Kubernetes
+   - Google Cloud Services
+
+We will select 1 intern to work closely with our rock-star CTO.  He's built
+companies and apps before, and you'll have the chance to have a lot of
+1-on-1 time to learn from him and build things with him. Check him out on
+LinkedIn or Github. Please email matt@noteninja.com with your resume to
+apply.
+
+*Consulting at BCG for PhD Students | April 2nd deadline*
+Join ADC consultants for BCG ADC Office Hours
+ by Phone
+from March 30-31. Please sign up to select a time slot. Prior to office
+hours, you will receive an email confirming your time slot and sharing dial
+in details. Please note that office hours are a great opportunity to
+explore if consulting is a good fit for you. Bring questions!
+
+Applications for full time consultant positions may be submitted online her=
+e
+ by the following deadlines=
+:
+=C2=B7         April 2, 2017 for positions with start dates from June to Au=
+gust
+2017.
+=C2=B7         July 23, 2017 for positions with 2018 start dates. Please su=
+bmit
+applications after May 1, 2017.
+When preparing your application, please attach your one-page business-style
+resume, cover letter, unofficial undergraduate transcript, undergraduate
+GPA, and self-reported standardized test scores (with sub-score
+breakdowns). Please reach out to Robin Petruzielo at
+AtlantaADCrecruiting@bcg.com with any questions.
+
+
+*Offensive Cyber Intern | Vigilant Cyber Systems, Inc | Mount Airy NC*
+Vigilant Cyber Systems is a small defense contracting firm based in Mt.
+Airy, NC. We have supported a variety of Department of Defense programs in
+the cyberarena since our inception in 2010. Because we are a small company,
+we're looking for someone with an entrepreneurial spirit who is excited
+about getting behind our mission and helping us grow. You will not be a
+number in a system; you will be an integral part of every aspect of the
+business and your opinion will be valued. This internship will take place
+in Mt. Airy, NC at the VCS Headquarters. Interns will be responsible for
+configuring virtual endpoints for various CAN bus nodes. They will also be
+designing, implementing, and testing various exploits against the virtual
+nodes. Applications, interviews, and hiring will be considered in a rolling
+fashion on a first-come, first-served basis and the first two applicants
+that complete the screening process successfully will be hired.
+*Qualifications:* Applicants must be US citizens. They should be familiar
+with creating and using virtual machines and using a hypervisor. They
+should be familiar with Linux and debugging software on both Linux and
+Windows platforms. They should be proficient in programming in C/C++,
+preferably with Python and Assembly experience as well. Additionally, it is
+preferable, though not required, that applicants have experience using the
+QEMU hypervisor and Git for version control.
+*Experience:* We are looking to hire juniors and seniors.
+*Timeline:* Resumes will be considered in a rolling fashion and the job
+will be closed when two interns have been hired. The dates of the
+internship will be flexible on each end. Preferred start and end dates are
+5/23/17 =E2=80=93 8/19/17.
+*Application Instructions:* Please email copies of your resume and
+unofficial transcript to jobs@vigilantsys.com. In the subject line, include
+=E2=80=9COffensive Cyber Internship Application for=E2=80=9D and your name.=
+ You may also
+briefly (1-2 sentences) describe your broad or specific career interests
+and/or cybersecurity experience.
+
+*Paid research Internship | The Office of Science / US Department of Energy
+| Due May 31st *
+The Science Undergraduate Laboratory Internships (SULI) program places
+students from 2 and 4 year undergraduate institutions as paid interns in
+science and engineering research activities at DOE national laboratories
+and facilities, working with laboratory staff scientists and engineers on
+projects related to ongoing research programs. Appointments are for 16
+weeks during the Fall term, are open to US Citizens and US Lawful Permanent
+Residents, include a weekly stipend, reimbursement for one round trip
+domestic travel to the participant=E2=80=99s host DOE laboratory, and possi=
+bilities
+for a housing allowance. More than 850 internships are sponsored annually.
+Application is made online. Full program information and descriptions,
+including links to the online application system, are available at:
+http://science.energy.gov/wdts/suli/
+
+
+*Part-time Web Dev Local Job | Chapel Hill NC*
+We are a brand-new blog aimed at creating a social-media and discussion
+thread regarding sports and other related topics. That being said, we are
+looking to expand our development team by a few members to expedite the
+process. The pay is negotiable, and I'd love to discuss the website in more
+detail anyone who may be interested. Email David Simonds at
+davidj16@live.unc.edu
+
+
+*Web Dev Assist | Victory Investigations & Private Protective Services
+LLC | Apply by April 7th*
+I am seeking assistance with the development of a website for my business.
+I would need a site that has at least 3-5 pages,low maintenance and user
+friendly, and up and ready to go by April 7th. Contact Niksa Balbosa via
+email N.Balbosa@victoryinvestigations.org ,or phone (704) 345-9798.
+
+*Software Engineer | Republic Wireless | Raleigh NC*
+
+How To Apply: Apply online at http://grnh.se/q57nxd1
+
+Contact Name: Alexandra Graham
+
+Contact Email Address: recruiting@republicwireless.com
+
+Contact Phone Number: 919-238-1475 <(919)%20238-1475>
+
+Education: Bachelor's Degree
+
+Experience programming in Java, C/C++ or Objective-C.
+
+Experience using Linux and the Linux tool chain.
+
+Desired Qualifications: Experience with Android and/or iOS nice to have.
+Prior telecom experience nice to have (VoIP experience would be great).
+
+*Software Development Internships | Qualtrics*
+
+Qualtrics is an exciting company and now is an exciting time to join the
+team.  We are a pre-IPO start-up, valued at over $1B dollars and cash-flow
+positive. Our product is the leader in customer experience insights and
+over half of the Fortune 500 companies use ourproduct to improve their
+business and customer experience. If you=E2=80=99re interested in working w=
+ith an
+engineering team with small teams, lots of mentorship and tons of career
+growth, check out the opportunities we have at Qualtrics below. You can
+learn more about Qualtrics here:  https://www.youtube.com/watch
+?v=3D6p46Qx2MNuw
+
+Product Engineer - Full Time (Utah)
+
+
+These teams develop, improve, and deploy our core products to over 35,000
+brands and 9,000_ clients. If you are interested in getting into the weeds
+of the product, this job is for you.
+
+Software Development Engineer in Test - Full Time (Seattle)
+
+
+These teams contribute to automation, help train developers on how to use
+the tools, and establish best practices for testing and releasing software
+used by millions of users daily. If you love finding the tricky concerns of
+an application and discovering bugs worth fixing, this job is for you.
+
+Summer 2017 Product Engineering Internships (Utah)
+
+
+Our Interns take ownership of a project for 12 weeks in the summer. You'll
+work closely with our engineers to implement new features for our 9,000+
+clients. If you like building simple solutions to complex problems an
+owning quality from end to end this role is for you.
+
+Summer 2017 Software Development Engineer in Test Internship (Seattle)
+
+
+Similar to the product engineering internship, you=E2=80=99ll have ownershi=
+p over a
+project for 12 weeks during the summer. As an SDET intern, you=E2=80=99ll w=
+ork
+closely with our Quality Engineering team and focus on the quality of all
+products Qualtrics produces. If you are detail oriented and interested in
+learning more about the test and release software lifecycle, this role is
+for you.
+
+
+*Contract Software Developer |TrackX | Durham NC*
+TrackX Technology, LLC, a company working on a medical device for improving
+productivity and reducing radiation exposure during surgery, is seeking a
+contract Software Developer. The successful candidate will partner with our
+existing team on enhancements to a desktop application that will run on
+dedicated hardware for the operating room environment. Experience with the
+following technologies are *required*: Microsoft C#/WPF desktop application
+development with .Net 4.5 or later using Microsoft Visual Studio 2015.
+Experience with the following technologies are highly *desired*: Visual
+Studio Team Services, Git, NVIDIA CUDA C/C++ development, and Microsoft
+Office. This will be a part time contract position with compensation based
+upon skills and experience. Please send resumes to Recruiting@trackx.tech.
+
+
+*Cont**ract Test Engineer | TrackX | Durham NC*
+TrackX Technology, LLC, a company working on a medical device for improving
+productivity and reducing radiation exposure during surgery, is seeking a
+contract Test Engineer. The successful candidate will partner with our
+existing team on enhancements to a desktop application that will run on
+dedicated hardware for the operating room environment. Experience with the
+following technologies are *required*: Microsoft C#/WPF desktop application
+development with .Net 4.5 or later using Microsoft Visual Studio 2015.
+Experience with the following technologies are highly *desired*: Microsoft
+Test Manager, Visual Studio Team Services, Git, NVIDIA CUDA C/C++
+development, and Microsoft Office. This will be a part time contract
+position with compensation based upon skills and experience. Please send
+resumes to Recruiting@trackx.tech.
+
+
+*The United States Air Force School of Aerospace Medicine Department of
+Aeromedical Research (PhD)*
+
+Seeking  Postdoctoral candidates with a background in electrical
+engineering or computer science with experience in analyzing big data,
+waveforms, advanced machine learning techniques and predictive algorithms.
+This appointment will be administered by the via Oak Ridge Associated
+Universities (ORAU) via the Oak Ridge Institute for Science and Education
+(ORISE) program. This research opportunity will be located in Baltimore,
+MD. U.S. Citizenship is required for this opportunity. Interested
+postdoctoral researchers may apply to this opportunity via the ORAU
+Maryland Office Website:
+
+www.orau.org/maryland
+
+Project ID: USAFSAM-8818401545
+
+Please check out this opportunity and many others located on our website.
+While I have you attention, please note the U.S. Army Research Lab Summer
+Journeyman Fellowship Program is still actively seeking summer interns BS
+candidates to PhD candidates. U.S. Citizenship is NOT required for ARL.
+
+http://www.orau.org/arlfellowship/applicants/programs/journe
+yman-fellows-summer-program.htm
+
+ARL has six directorates seeking candidates this summer:
+
+=C2=B7         Computational and Information Sciences (CISD)
+
+=C2=B7         Human Research and Engineering Directorate (HRED)
+
+=C2=B7         Sensors and Electron Devices Directorate (SEDD)
+
+=C2=B7         Survivability and Lethality Analysis Directorate (SLAD)
+
+=C2=B7         Vehicle Technology Directorate (VTD)
+
+=C2=B7         Weapons and Materials Research Directorate (WMRD)
+
+
+*Multiple Data Science and Engineering Positions | LendUp | San Francisco
+CA & Richmond VA*
+LendUp  builds technology, credit
+products and educational experiences for the more than 80 million Americans
+who are currently shut out of mainstream banking because of poor credit or
+volatile income. That=E2=80=99s 56% of the US population. That=E2=80=99s a =
+lot of
+hardworking, deserving people. Our mission is to provide anyone with a path
+to better financial health. It=E2=80=99s a bold mission, and being a social=
+ly
+responsible lender is a big job. To say we=E2=80=99re up for the challenge =
+is an
+understatement. As we approach our five year anniversary, it=E2=80=99s an e=
+xciting
+time to be LendUp. We=E2=80=99re bringing our mission to life each and ever=
+y day.
+Together, we can turn our mission into an even bigger movement. LendUp is
+located in downtown San Francisco with offices in Richmond, VA. We=E2=80=99=
+re
+backed by prominent Silicon Valley investors including Y-Combinator, Google
+Ventures, Susa Ventures, Data Collective, Kleiner Perkins, Andreessen
+Horowitz Seed Fund, Kapor Capital, QED, Eagle Cliff Investors, Yuri Milner,
+Thomvest Ventures and many others.
+*Data science positions:*
+Data science intern 
+Data scientist 
+Principal data scientist
+
+Senior data analyst 
+*Engineering positions:*
+Engineering manager 
+Principal software engineer - backend
+
+Senior data engineer
+
+Senior DevOps Engineer
+
+*Senior Software Engineer - Back End
+ *
+*Software Engineer - Full Stack
+ *
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

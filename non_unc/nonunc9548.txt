@@ -1,0 +1,134 @@
+
+
+        
+        Udemy
+        
+            img {
+                max-width: 100%;
+            }
+            p{
+                margin-top: 0;
+                margin-bottom: 10px;
+                font-size: 16px;
+            }
+            p a{
+                text-decoration: none;
+            }
+            ul{
+                margin: 0 0 10px 0;
+                padding-left: 10px;;
+            }
+            @media (max-width: 480px) {
+                #logo {
+                    margin: 0 auto;
+                    padding-left: 0 !important;
+                }
+            }
+           =20
+           =20
+        
+    
+    
+        
+            
+                
+                   =20
+                        
+                           =20
+    
+        
+           =20
+                New Educational Announcement
+           =20
+        
+    
+
+                        
+                   =20
+                   =20
+                       =20
+                        
+                            
+                                
+                               =20
+    
+        
+            
+                
+            
+            
+               =20
+                                   =20
+                                Hi Mangza, an announcement has been made from SuperDataScie=
+nce, instructor of Machine Learning A-Z=E2=84=A2: Hands-On Python=
+ & R In Data Science and Artifici=
+al Intelligence A-Z=E2=84=A2: Learn How To Build An AI.
+                                   =20
+                               =20
+            
+        
+    
+
+    
+         The obvious example of forgetfulness is losing a person=E2=80=
+=99s name, or ending an important call and forgetting what you just he=
+ard.Having a great memory is not only useful to avoid the embarrass=
+ment, but is an extremely valuable professional skill as well. Being able to quickly recall facts and figures is a powerful asset whe=
+n you're working with analytics or data.That=E2=80=99s why best-sel=
+ling memory improvement author Anthony Metivier joins us on the SuperDataScience podcast. You=E2=80=99ll get his best tips on how to boost your memory w=
+hich you can start to use in whatever you need (in my case, to keep on=
+ learning Spanish).Tune in here: https://www.superda=
+tascience.com/data-science-podcast-memory-techniques/Some things you'll learn in this episode:The =E2=80=
+=98world=E2=80=99 of memory and memory techniques. (05:45)How the =
+7 magnetic modes can help you memorize through association. (09:47)Common practical application of memory techniques in day to day life. (13:=
+02)Memory techniques that can be applied to data science. (21:17)<=
+/li>The concept of memory reserve. (22:03)What=E2=80=99s the b=
+est solution when you have a problem memorizing names? (26:21)Cons=
+tructing and navigating in your own memory palace. (35:44)How do w=
+e improve our focus? (52:58)Advice for people who are not as comfo=
+rtable being in their own head. (58:20)Happy Analyzing!- Kirill
+    
+
+                               =20
+                                   =20
+                                        
+                                           See Announcement
+                                        
+                                   =20
+                               =20
+                            
+                        
+                   =20
+                   =20
+                       =20
+                   =20
+                
+                
+                    
+                       =20
+                            Delivered by Udemy 600 Harrison Street, 3rd Flo=
+or, San Francisco, CA 94107.
+                       =20
+                       =20
+                           =20
+                               =20
+                                    You may unsubscribe if you prefer n=
+ot to receive messages like these.
+                               =20
+                           =20
+                       =20
+                       =20
+                           =20
+                               =20
+                                    If something isn't right, please report abuse.
+                               =20
+                           =20
+                       =20
+                    
+                
+            
+        
+   =20
+
+
+

@@ -1,0 +1,57 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Study Guide #32  (10/06/15 1:51 PM)
+
+The way that #32 is written, wouldn't "fun!!" be printed on the next line s=
+ince it says System.out.println("fun!!") and not System.out.print("fun!!")
+
+Go to https://piazza.com/class?cid=3Diffnxrkp89k2z4&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Study Guide 38 and 40  (10/06/15 2:20 PM)
+
+Can someone explain why in #38, the original value of i (0) is printed in t=
+he loop but in #40 it is not?
+
+Go to https://piazza.com/class?cid=3Diffoz4b258t2m2&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Study guide #16  (10/06/15 3:51 PM)
+
+Could someone explain why the output would be 13? It seems like it should b=
+e 8 to me...
+
+int y =3D ( 3 + 5 * ( 8 % 6 ) );
+
+Thank you!=C2=A0
+
+Go to https://piazza.com/class?cid=3Diffs8b6th072e9&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

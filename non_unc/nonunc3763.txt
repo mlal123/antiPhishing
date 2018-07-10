@@ -1,0 +1,71 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+URGENT: Lab 6 Problem Source Solved  (12/07/16 11:30 AM)
+
+Looking around I think I found why so many people are having problems with =
+lab 6.=C2=A0
+
+Early on in the submission time of lab 7 the submit had an error where it w=
+ould send files to lab 6. This was later fixed, but I think for people that=
+ may have submitted prior to this being fixed overwrote their old lab 6 wit=
+h their lab 7. I investigated this and have a screenshot of what I found.=
+=C2=A0
+
+
+Basically my lab6 ex1.c and ex2.c were overwritten with my lab7 file. Only =
+difference is between a change I made between my first lab 7 submit, and th=
+e final one that had the corrected script. I think this is why so many peop=
+le are having problems. This also makes sense because within the folder I h=
+ave an ex1.asm and ex2.asm and these are not part of lab6, we didn't do .as=
+m until lab 7.=C2=A0
+
+
+
+I think the lab 7 overwriting lab 6 is why everyone is having problems.=C2=
+=A0
+
+Go to https://piazza.com/class?cid=3Diwf5iduwdbt5nr&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Exam Study Guide  (12/07/16 1:32 PM)
+
+Does anyone know of a study guide for the final?
+
+Go to https://piazza.com/class?cid=3Diwf9v39g4x8339&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+PS 5 Grade/Feedback  (12/07/16 2:30 PM)
+
+Is it going to be possible to see our grade and feedback for the last probl=
+em set anytime soon to use as a reference to study for the final?
+
+Go to https://piazza.com/class?cid=3Diwfbxzrnl3335i&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

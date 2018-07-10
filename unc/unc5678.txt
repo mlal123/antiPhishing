@@ -1,0 +1,31 @@
+*** This is an automated message. ***
+
+A ticket has been created for you in the UNC-Chapel Hill problem
+tracking system.  Please keep this confirmation message so that you
+may reference the ticket number associated with your issue.
+
+If you need to provide additional information about your issue or have
+questions about your ticket, please contact the Help Desk via Live Chat, 
+Phone (919) 962-HELP, or Walk-in (http://help.unc.edu).
+
+------------------
+Ticket Information
+
+Create Date: 07/13/2017 09:41:57 AM
+Ticket #: 3504363
+Email Address: mlal123@live.unc.edu
+Phone Number: (919) 590-6000
+-------------------
+Brief Description: Online Help Request: ITS Services 
+This request was submitted by: Lal, Mangza (mlal123)
+Device Name: Unable to retrieve device name
+
+Problem Selected: ITS Internal Support
+
+Problem Description: 
+Please provide a detailed description of your request below:    Hi I had a brainfart moment and wasn't really paying attention and I just clicked on a suspicious-ish link so I thought I'd just let you guys know and see if there's anything that needs to be done on my end or your end to make sure I didn't do anything harmful to my account or unc server. This is what the email looked like.
+
+Important Reminder: To ensure prompt service, please remember to check the phone number field and update your contact information before submitting a help request
+
+
+

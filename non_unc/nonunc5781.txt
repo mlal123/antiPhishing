@@ -1,0 +1,122 @@
+-->
+
+Codecademy's ReactJS courses get an upgrade =C2=B7 Build your own
+Chrome extension =C2=B7 America's top jobs now require coding =C2=B7 Try a
+code challenge =C2=B7 Read more in our newsletter!
+
+Newsletter #32
+August 10, 2017
+
+Essential news, trends, and stories from Codecademy and the
+world of code.
+
+------------------------------
+Free ReactJS Courses: Upgraded
+------------------------------
+
+React is one of the hottest libraries in tech =E2=80=93 powering
+Pinterest, Dropbox, Netflix, and more =E2=80=93 and its recent upgrades
+made it even better. Now, we've rewritten our React courses to
+teach the latest version.
+
+Facebook, the creators of React, say that the ES6 revisions
+are essential to learn. Here's why:
+
+* React is now faster to write and easier to read
+* The new React syntax is simpler and more similar to vanilla
+JavaScript
+* The old ES5 standards will steadily be deprecated (made
+obsolete)
+* Facebook's changes allow for future optimizations, making React
+faster
+
+There's never been a better time ever to start learning React:
+this year, it topped Stack Overflow's ranking of developers'
+most-loved technologies. Get up-to-date =E2=80=93 take our new and
+improved free React courses.
+
+LEARN REACT ( https://www.codecademy.com/learn/react-101?utm_source=3Dcodec=
+ademy&utm_medium=3Dnewsletter&utm_content=3DCTA )
+
+In Other News
+
+Free: Build Your Own Chrome Extension
+-------------------------------------
+
+Generate coding tips in every new tab with this free
+step-by-step project! In one hour you'll build your own Chrome
+extension, taking flash cards to the next level.
+
+Build it yourself ( https://medium.com/@codecademy/javascript-tips-tab-4e90=
+81b4132?utm_source=3Dcodecademy_newsletter ).
+
+Code Challenge: Test Your Scripting Skills
+------------------------------------------
+
+Finished a Codecademy course? Test your skills each week
+with real questions asked in full stack job interviews. This
+time, try a brain-teaser from Microsoft!
+
+Take the challenge ( https://discuss.codecademy.com/t/challenge-comparative=
+-weights/203431/1?utm_source=3Dcustomerio&utm_medium=3DFortnightly-2017-07-=
+12&utm_campaign=3Dnewsletter_a&utm_content=3Dthis_code_challenge ) and see =
+last week's results ( https://discuss.codecademy.com/t/challenge-egg-droppe=
+r/198589/1?utm_source=3Dcustomerio&utm_medium=3DFortnightly-2017-08-09&utm_=
+campaign=3Dnewsletter_a&utm_content=3Dlast_code_challenge ).
+
+50% of Top US Jobs Now Require Coding
+-------------------------------------
+
+Coding isn't just for developers: a new study shows that
+half of America's top-earning jobs now involve some knowledge or
+skill in coding.
+
+Learn more ( http://www.marketwatch.com/story/half-of-the-high-paying-jobs-=
+in-america-now-require-this-skill-2016-06-21?utm_source=3Dcodecademy_newsle=
+tter ).
+
+Codecademy Pro In The News
+--------------------------
+
+This month, we officially launched our all-new Codecademy
+Pro to the public, getting coverage in Quartz ( https://qz.com/1045567/code=
+cademy-has-launched-a-new-type-of-coding-bootcamp/?utm_source=3Dcodecademy_=
+newsletter ), Edsurge ( https://www.edsurge.com/news/2017-08-03-as-in-perso=
+n-bootcamps-falter-codecademy-introduces-paid-online-options ), TechCrunch =
+( https://techcrunch.com/2017/08/03/codecademy-pro/ ), The Next Web ( https=
+://thenextweb.com/dd/2017/08/03/codecademy-adds-new-intensive-options-help-=
+beginners-learn-code-quicker/ ), and more.
+
+Read our announcement ( https://medium.com/@codecademy/introducing-the-all-=
+new-codecademy-pro-9568c97f329b?utm_source=3Dcodecademy_newsletter ).
+
+CODE SOMETHING ( https://codecademy.com/learn?utm_source=3Dcustomerio&utm_m=
+edium=3DFortnightly-2017-08-09&utm_campaign=3Dnewsletter_a&utm_content=3DCo=
+de_Something_CTA_end )
+
+Connect with Us
+
+( https://facebook.com/codecademy?utm_source=3Dcustomerio&utm_medium=3DFort=
+nightly-2017-08-09&utm_campaign=3Dnewsletter_a&utm_content=3Dfacebook_link )
+( https://twitter.com/codecademy?utm_source=3Dcustomerio&utm_medium=3DFortn=
+ightly-2017-08-09&utm_campaign=3Dnewsletter_a&utm_content=3Dtwitter_link )
+( https://discuss.codecademy.com?utm_source=3Dcustomerio&utm_medium=3DFortn=
+ightly-2017-08-09&utm_campaign=3Dnewsletter_a&utm_content=3Dforums_link )
+
+Codecademy
+
+49 W 27th Street, New York, NY 10001
+
+( https://www.facebook.com/codecademy/timeline?utm_source=3Dcustomerio&utm_=
+campaign=3Demail_footer&utm_medium=3Demail )
+( https://www.twitter.com/codecademy?utm_source=3Dcustomerio&utm_campaign=
+=3Demail_footer&utm_medium=3Demail )
+( https://www.instagram.com/codecademy?utm_source=3Dcustomerio&utm_campaign=
+=3Demail_footer&utm_medium=3Demail )
+( https://www.linkedin.com/company/codecademy?utm_source=3Dcustomerio&utm_c=
+ampaign=3Demail_footer&utm_medium=3Demail )
+( http://discuss.codecademy.com?utm_source=3Dcustomerio&utm_campaign=3Demai=
+l_footer&utm_medium=3Demail )
+
+Unsubscribe ( http://track.customer.io/unsubscribe/Mzc0NTU6FwEv4wJkAAJzABcl=
+zz0aAVKPJkWdFU4YWYw1qAFtOjUyOTc3MgA=3D ) from these alerts.

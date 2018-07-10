@@ -1,0 +1,235 @@
+
+Software Development in Test Intern - Sonos Platform
+   =20
+    
+    
+    
+        /* FONTS */
+        @media  screen {
+            @import  url('https://fonts.googleapis.com/css?family=3DHind:30=
+0,400,500,600')
+        }
+
+        /* CLIENT-SPECIFIC STYLES */
+        body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-=
+adjust: 100%; }
+        table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+        img { -ms-interpolation-mode: bicubic; }
+
+        /* RESET STYLES */
+        img { border: 0; height: auto; line-height: 100%; outline: none; te=
+xt-decoration: none; }
+        table { border-collapse: collapse !important; }
+        body { height: 100% !important; margin: 0 !important; padding: 0 !i=
+mportant; width: 100% !important; }
+
+        /* iOS BLUE LINKS */
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+
+        /* MOBILE STYLES */
+        @media  screen and (max-width:600px){
+            h1 {
+                font-size: 32px !important;
+                line-height: 32px !important;
+            }
+        }
+
+        /* ANDROID CENTER FIX */
+        div[style*=3D"margin: 16px 0;"] { margin: 0 !important; }
+    
+
+
+    
+        Software Development in Test Intern - Sonos Platform
+    
+
+    
+        
+            
+            
+                
+                    
+                        
+                            Note: You are 1 of 19 students=
+ at University of North Carolina at Chapel Hill graduating in 2019 to recei=
+ve this Opp!
+                        
+                    
+                
+            
+        
+    
+    
+        
+            
+                
+                    
+                        
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        Sonos
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+    
+        
+            
+                
+                   
+                    
+                        
+                            Software Development in Test Intern - Sonos Pla=
+tform
+                        
+                    
+                
+                
+                    
+                        
+                          
+                              Apply Here!
+                          
+                          
+                              
+                                I=
+'ll pass for now
+                            
+                        
+                    
+                
+            
+            
+                
+                    At Sonos, we're passionate about creating the f=
+inest HiFi audio experiences in the world for our customers.=E2=80=AF Our p=
+artners share our passion and build compelling experiences that showcase th=
+eir ingenuity alongside our own. The lever that moves this world: our =
+platform. Come help us test the next generation IoT platform and =
+API for controlling the Sonos system as part of a smart, Internet=
+-connected home. Interested in joining our team this summer? Click "Ap=
+ply Here" for more info!
+                
+            
+        
+            
+        
+    
+    
+        
+            
+                
+                    
+                      
+                        What is this?
+                    
+                
+                
+                  
+                    This email is an Opp. An Opp is=
+ an opportunity shared by an employer who is interested in you.
+                
+            
+            
+              
+              
+          
+      
+            
+        
+    
+    
+        
+            
+                
+                    
+                      
+                          
+                             
+                                
+                                    
+                                        
+                                    
+                                
+                                
+                                    
+                                        Delivered to you by Door of Clubs
+                                    
+                                
+                            
+                            
+                             
+                                Need more help? We=E2=
+=80=99re here, ready to talk
+                            
+                        
+                    
+                
+            
+        
+            
+        
+    
+    
+        
+            
+                
+                  
+                    
+                      
+                        Leaderboard -
+                        About -
+                        Help
+                    
+                
+            
+            
+                
+                    Our Blog - Facebook - Twitter - LinkedIn - =
+Instagram
+                
+            
+            
+                
+                  You received this email because y=
+ou are part of our community on Door of Clubs.
+              
+          
+          
+            
+                Feel free to change your preferences or unsubscribe.
+            
+        
+        
+            
+              Door of Clubs - 745 Atlantic Ave - Bo=
+ston, MA 02111 - USA
+          
+      
+  
+            
+        
+    
+
+
+
+
+
+
+

@@ -1,0 +1,65 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+A6 dependence on A5  (11/29/16 6:42 PM)
+
+If we failed some test cases on A5, do we have to fix the code for A6 or wi=
+ll our a6 grade be independent of A5?=C2=A0
+
+Go to https://piazza.com/class?cid=3Diw45enr5hnu6cz&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Min heap  (11/29/16 6:51 PM)
+
+Do you need a min heap for this assignment or will a priority queue suffice?
+
+Go to https://piazza.com/class?cid=3Diw45qeejw3j4lp&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Are all A5 grades back?  (11/29/16 7:15 PM)
+
+I submitted my A5 one class day late, but am not seeing it as graded yet. I=
+s that okay, or do I need to be concerned?
+
+Go to https://piazza.com/class?cid=3Diw46la9sv5s1t8&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A6 Path List Order  (11/29/16 9:21 PM)
+
+I'm confused what will be the order of output list order?
+
+I use=C2=A0from=C2=A0the smallest path to the largest, but the=C2=A0JUnit t=
+est Case 3 doesn't follow this. It seems neither=C2=A0alphabetical nor foll=
+ow the order of the edges of the starting nodes.=C2=A0
+
+Go to https://piazza.com/class?cid=3Diw4b421e9y108&nid=3Dis6wk5m47ay4zy&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

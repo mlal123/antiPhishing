@@ -1,0 +1,135 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+Midterm Makeup  (2/15/16 10:51 AM)
+
+Hi KMP, I'm one of the students who let you know I'll be out of town for th=
+e midterm date. Would you mind please posting alternatives dates so I can p=
+repare? Thanks!
+
+Go to https://piazza.com/class?cid=3Diko5se5i7b757u&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Have we covered iterator design pattern?  (2/15/16 11:14 AM)
+
+
+
+Go to https://piazza.com/class?cid=3Diko6ljen3nd3yg&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A4 novice  (2/15/16 12:09 PM)
+
+I am a little confused by what xOffset and yOffset represent. I was wonderi=
+ng if someone could explain this to me. Also, in the constructor for SubPic=
+tureImpl the assignment says to check if xOffset and yOffset are within sou=
+rce, does this just mean check to see if that point is within the picture?
+
+Go to https://piazza.com/class?cid=3Diko8ktanuag57o&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Sample Test - Midterm 1 Spring 2014 #14.C  (2/15/16 12:26 PM)
+
+14) Which of the following statements is true of classes?
+* c) A public class field can be accessed using the class name.
+
+Why is c). true? Isn't a static modifier required for a field so that we ca=
+n access it directly by "className.fieldName"? =C2=A0
+
+Go to https://piazza.com/class?cid=3Diko963pj2pg3b0&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Midterm and the big game  (2/15/16 12:52 PM)
+
+I know there is a lot of interest in not having the midterm right after the=
+ big game on Wed. night. Normally, that is exactly the kind of thing that I=
+ would move things around for, but this time, I'm afraid I'm going to stick=
+ with the schedule. Moving the midterm until the following week will just p=
+ress it up next to the next assignment due date and I fear that will be jus=
+t as painful in a different way.
+
+Sorry!
+
+Go to https://piazza.com/class?cid=3Dikoa3ifhl1l1bv&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Alternate Midterm 1 Time Request  (2/15/16 12:58 PM)
+
+If you have a valid reason for why you can't take the midterm on Thursday, =
+please fill out the following form so that I can schedule an alternate exam=
+ time.
+
+http://goo.gl/forms/h3mGTyraLQ
+
+
+
+Go to https://piazza.com/class?cid=3Dikoabi4nlnm6cp&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Taking the midterm at ARS  (2/15/16 1:01 PM)
+
+If you have a learning accommodation, you should make arrangements to take =
+the midterm at ARS. I will upload the midterm to their exam dropbox either =
+the night before or early Thursday morning. I will indicate that you can ta=
+ke the exam at anytime that day (although, I would prefer it to overlap wit=
+h when the class takes it if possible). Afterwards, you should plan on drop=
+ping the completed exam off at my office.
+
+Go to https://piazza.com/class?cid=3Dikoaej5dckhq4&nid=3Dihs2fbbhsfx37n&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Question about Midterm  (2/15/16 1:38 PM)
+
+For the midterm, should we know how to use switch statements and ternary op=
+erators?
+
+Go to https://piazza.com/class?cid=3Dikobqmgbdzv5rr&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Midterm 1  #8  (2/15/16 1:57 PM)
+
+Hi, so this may seem very basic, but I'm not understanding why the answer t=
+o this statement=C2=A0is false.
+
+8. A variable can be assigned the result of any expression.
+
+Would anyone mind clarifying why a variable can't be assigned to the result=
+ of an expression? Does this apply to expressions that use methods?
+
+Thanks!
+
+Go to https://piazza.com/class?cid=3Dikocf0nim071ol&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

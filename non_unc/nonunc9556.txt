@@ -1,0 +1,1569 @@
+
+
+Udemy
+
+@import url('https://fonts.googleapis.com/css?family=3DSource+Sans+Pro:300,=
+400,600');
+@import url('https://fonts.googleapis.com/css?family=3DZilla+Slab:300,400,6=
+00');
+/* CLIENT-SPECIFIC STYLES */
+body, table, td, a, p {-webkit-text-size-adjust: 100%; -ms-text-size-adjust=
+: 100%; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;}
+table, td {mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: c=
+ollapse;}
+img { -ms-interpolation-mode: bicubic; }
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+.appleFooter a {
+color:#ffffff !important;
+text-decoration: none!important;
+}
+.courseBadge {
+vertical-align: middle;=20
+font-size: 9px;=20
+border: none;=20
+font-weight: 700;=20
+line-height: 1.5;=20
+text-align: center;=20
+text-transform: uppercase;   =20
+}
+.heroHeadline {line-height: 44px !important;} .heroSubhead {line-height: 25=
+px !important;}
+/* DESKTOP STYLES */
+@media only screen and (min-width: 481px){
+.desktopNavBarText {
+display:block !important;
+padding: 24px 0px 5px 10px !important;
+float: right !important;
+}
+.navBarImage{
+float:left !important;
+width: 150px !important;
+padding: 5px 0px 5px 0px !important;
+}=20
+}
+/* MOBILE STYLES */
+@media only screen and (max-width: 480px){
+#container{
+width:100% !important;
+}
+#banner_text {
+text-align: center !important;
+padding-bottom: 10px;
+}
+.deviceWidth{
+display:block !important;
+width:100% !important;
+}
+.hidden{
+display: none;
+}
+.courseCardTop{
+width:30% !important;
+float: left;
+min-width: 30% !important;
+}
+.courseCardBottom{
+width:70% !important;
+float: left;
+min-width: 70% !important;=20
+border-bottom: 0px !important;
+}
+.mobileColor{
+background-color: #ffffff !important;
+}
+.mobileCourseLine{
+border-bottom: 2px #edece6 solid;
+}
+.titleHeight{
+height: auto;
+}
+.titlePadding{
+padding-top: 0px !important;
+padding-bottom: 10px !important;
+font-size: 16px !important;
+}
+.starPricePadding{
+padding-top: 0px !important;
+padding-bottom: 5px !important;
+font-size: 80% !important;
+}
+.courseImage{
+width: 100%;
+height: auto !important;
+}
+.moduleTitlePadding{
+padding: 20px 5px 5px 5px !important;
+}
+.mobileCoursePadding{
+padding: 15px 5px 0px 5px !important;
+width: 100% !important;
+}
+.targetedSpacer{
+width: 5%;
+}
+.mobileNavBarImage{
+height: 30px !important;
+width: auto !important;
+}
+.instImage{
+width: 30% !important;
+float: left !important;
+min-width: 30% !important;
+padding-top: 15px !important;
+}=09
+.instDescription{
+width: 70% !important;
+float: right !important;
+min-width: 70% !important;
+border: none !important;
+padding-bottom: 20px;
+padding-top: 15px;
+height: auto !important;
+}
+.instText{
+text-align: left !important;
+padding-left: 0px !important;
+padding-right: 0px !important;
+padding-bottom: 0px !important;
+}
+.heroHeadline {font-size: 30px !important; line-height: 34px !important;} .=
+topSpacer {padding-top: 35px !important;} .bottomSpacer {padding: 25px 0px =
+35px 0px !important;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+Still haven=E2=80=99t =
+found the right Mother=E2=80=99s Day gift? We=E2=80=99ve got you covered. C=
+heck out on-sale courses now. Prices start at just $9.99.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+My Courses | Featured
+ 
+=20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Just one more day to enroll in courses=
+ for $9.99 each
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Find a course
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+=20
+
+=20
+=20
+
+
+
+
+
+
+ 
+Students who enrolled in Artificial Intelligence A=
+-Z=E2=84=A2: Learn How To Build An AI also enrolled in:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Deep Learning A-Z=E2=84=A2: Hands=
+-On Artificial Neural Networks
+
+
+
+             4.47&nb=
+sp;(2,476)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Deep Learning and Computer Vision=
+ A-Z=E2=84=A2: OpenCV, SSD & GANs
+
+
+
+             4.40&nb=
+sp;(483)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+=20
+=20
+
+
+
+=20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+See trending Data and Analyti=
+cs courses:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Apache Spark Hands on Specializat=
+ion for Big Data Analytics
+
+
+
+             4.61&nb=
+sp;(50)
+
+
+
+
+
+$149.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Interactive Python Dashboards wit=
+h Plotly and Dash
+
+
+
+             4.70&nb=
+sp;(174)
+
+
+
+
+
+$194.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+The Business Intelligence Analyst=
+ Course 2018
+
+
+
+             4.45&nb=
+sp;(55)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Business Analysis: Conduct a Stra=
+tegy Analysis
+
+
+
+             4.68&nb=
+sp;(11)
+
+
+
+
+
+$164.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Microsoft Power BI - Up & Run=
+ning With Power BI Desktop
+
+
+
+             4.66&nb=
+sp;(70)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Intro to Data Science: Your Step-=
+by-Step Guide To Starting
+
+
+
+             4.27&nb=
+sp;(55)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Advanced Excel Dashboard - Busine=
+ss Intelligence & Analytics
+
+
+
+             4.37&nb=
+sp;(19)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Applied Time Series Analysis and =
+Forecasting with R Projects
+
+
+
+             4.51&nb=
+sp;(24)
+
+
+
+
+
+$94.99=
+  $=
+9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Introduction to Time Series Analy=
+sis and Forecasting in R
+
+
+
+             4.28&nb=
+sp;(104)
+
+
+
+
+
+$74.99=
+  $=
+9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+See trending Business courses:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+10 Shopify Dropshipping Strategie=
+s That Make Me 6-Figures
+
+
+
+             4.92 =
+;(77)
+
+
+
+
+
+$99.99=
+  $=
+9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Make Full-Time Money Trading the =
+Forex Market Part-Time
+
+
+
+             4.53&nb=
+sp;(14)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+The Complete Startup Bootcamp - 7=
+ Courses in 1
+
+
+
+             4.61&nb=
+sp;(30)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Building a Team from Scratch: Rec=
+ruit, Hire, Onboa...
+
+
+
+             4.31&nb=
+sp;(15)
+
+
+
+
+
+$144.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Growth Mindset for Leadership and=
+ Organizations
+
+
+
+             4.53&nb=
+sp;(24)
+
+
+
+
+
+$149.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Presentation Skills: Master Confi=
+dent Presentations
+
+
+
+             4.39&nb=
+sp;(19)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Linkedin Marketing: B2B Sales &am=
+p; Lead Generation From Scratch
+
+
+
+             4.49&nb=
+sp;(94)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Advanced Cryptocurrency Investing=
+ for 2018 & Beyond
+
+
+
+             4.44&nb=
+sp;(65)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Get started with top categories:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    =20
+
+
+    UNSUBSCRIBE  |  SUPPORT  |  VIEW ONLINE
+
+
+
+Ude=
+my.com 600 Harrison Street, 3rd Floor San Francisco, CA 94107 USA
+
+
+
+    Careers at Ude=
+my | Get Udemy at Work | Become an Instructor
+
+
+
+
+Download our apps for Offline Coursetaking
+
+
+
+        
+     =
+  =20
+    
+        
+           =20
+  =
+          =20
+    
+                    
+                        
+                    =20
+                    
+                      =20
+                    
+                    
+                        
+                    
+                
+            
+           =20
+        
+    
+             =20
+
+    
+
+    
+        
+        
+            
+                =20
+                     
+                
+            
+        
+            
+               
+    
+
+    
+    *Some exclusions apply. Coupon cod=
+e expires 2018-=
+05-15 07:00 AM GMT.
+
+
+    
+        
+            Connect with us
+        
+    
+    
+        
+     =
+  =20
+    
+        
+           =20
+  =
+          =20
+    
+                    
+                        
+                    =20
+                    
+                      =20
+                    
+                    
+                        
+                    
+                
+            
+           =20
+        
+    
+             =20
+
+    
+   =20
+    =20
+   =20
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+
+
+.bodyblack { font-family: Verdana, Arial, Helvetica, sans-serif; font-size:=
+ 12px; }
+.small { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10p=
+x; }
+td { font-size: 12px; }
+.footer { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10=
+px; }
+
+
+
+
+Dear Mangza,Thank you for your interest in a career at Inte=
+ractive Intelligence Inc..What happens now? We will review your inf=
+ormation and will contact you if there is a good match at Interactive Intel=
+ligence Inc..Sincerely,The Interactive Intelligence Inc. Re=
+cruiting TeamYou can change your email pr=
+eferences at:https://ap=
+p.jobvite.com/l?ks8hETgwH
+
+

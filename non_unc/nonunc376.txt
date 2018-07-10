@@ -1,0 +1,49 @@
+Your classmate posted a new Question.=20
+
+Study Guide Quiz 3
+
+For question 1 on the study guide (see below), should i =3D=3D 100, and not=
+ -100? I can get more numbers to run if changing it to a positive number, o=
+therwise it just always prints "1".
+
+1. Given the following code, find values you could assign to 'a' that would=
+ cause the numbers 1, 2, 3, 4, 5 to be printed out? Note: not all numbers m=
+ay be possible to reach.
+=C2=A0int a =3D ?;
+=C2=A0if(a < 10) {
+=C2=A0=C2=A0 if(a < 5) {
+=C2=A0=C2=A0=C2=A0=C2=A0 System.out.println("1");
+=C2=A0=C2=A0 } else {
+=C2=A0=C2=A0=C2=A0=C2=A0 System.out.println("2");
+=C2=A0=C2=A0 }
+=C2=A0} else if(a =3D=3D -100) {
+=C2=A0=C2=A0 System.out.println("3");
+=C2=A0} else {
+=C2=A0=C2=A0 System.out.println("4");
+=C2=A0}
+=C2=A0if(a > 10) {
+=C2=A0=C2=A0 System.out.println("5");
+=C2=A0}
+
+
+Go to https://piazza.com/class?cid=3Dietyihytvph75o&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @100. Follo=
+w it to get notified when a response comes in: https://piazza.com/follow/ie=
+tyihytvph75o/f2GxNxqCfOm/51e68602=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.=

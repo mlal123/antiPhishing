@@ -1,0 +1,124 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+A2Novice  (2/02/16 4:06 PM)
+
+My output still won't print right. Every time I run the code I get the foll=
+owing=C2=A0
+
+
+
+Go to https://piazza.com/class?cid=3Dik5walt04as4ma&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A3 Novice  (2/02/16 4:35 PM)
+
+For the grey scale class, should the constructor take in an intensity value=
+ that can be set using the scanner.nextDouble or should take in the intensi=
+ty calculated after being given 3 values for red, green, and blue like in t=
+he ColorPixel class?
+
+Go to https://piazza.com/class?cid=3Dik5xc5itfyi1jb&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Is autograder script for A3 posted yet?  (2/02/16 4:45 PM)
+
+Is autograder script for A3 posted yet?
+
+Go to https://piazza.com/class?cid=3Dik5xoskjz8b108&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+When is it better to use a parent class and when is it better to use an int=
+erface?  (2/02/16 4:45 PM)
+
+They seem pretty similar to me so I was just hoping for some clarification.
+
+Go to https://piazza.com/class?cid=3Dik5xpggt9rm301&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Output  ()
+
+can any body advise what to do to fix test 1
+
+Go to https://piazza.com/class?cid=3Dik5xppurnel5np&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Grader not giving me point  (2/02/16 5:54 PM)
+
+When I check the grader feedback, it says the expected output is this:
+*   *=20=20=20=20=20=20=20=20=20=20
+*   *=20=20=20=20=20=20=20=20=20=20
+*   *=20=20=20=20=20=20=20=20=20=20
+*   *=20=20=20=20=20=20=20=20=20=20
+*   *=20=20=20=20=20=20=20=20=20=20
+*   *=20=20=20=20=20=20=20=20=20=20
+*   *=20=20=20=20=20=20=20=20=20=20
+*   *=20=20=20=20=20=20=20=20=20=20
+*   *=20=20=20=20=20=20=20=20=20=20
+*   *=20=20=20=20=20=20=20=20=20=20
+*   *=20=20=20=20=20=20=20=20=20=20
+** ***     *  *
+** ***     *  *
+** ***     *  *
+** ***     *  *
+** ***     *  *
+** ***     *  *
+** ***     *  *
+** ***     *  *
+** ***     *  *
+** ***     *  *
+** ***     *  *
+---------------
+  1223445677899
+074185296307418and that my output is this:*   *=20=20=20=20=20=20=20=20=20=
+=20
+*   *=20=20=20=20=20=20=20=20=20=20
+*   *=20=20=20=20=20=20=20=20=20=20
+*   *=20=20=20=20=20=20=20=20=20=20
+*   *=20=20=20=20=20=20=20=20=20=20
+*   *=20=20=20=20=20=20=20=20=20=20
+*   *=20=20=20=20=20=20=20=20=20=20
+*   *=20=20=20=20=20=20=20=20=20=20
+*   *=20=20=20=20=20=20=20=20=20=20
+*   *=20=20=20=20=20=20=20=20=20=20
+*   *=20=20=20=20=20=20=20=20=20=20
+** ***     *  *
+** ***     *  *
+** ***     *  *
+** ***     *  *
+** ***     *  *
+** ***     *  *
+** ***     *  *
+** ***     *  *
+** ***     *  *
+** ***     *  *
+---------------
+  1223445677899
+074185296307418I have no conceivable idea what the difference between them =
+could be.=20
+
+Go to https://piazza.com/class?cid=3Dik605cubwg57if&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 novice for loop conditions  (2/02/16 7:07 PM)
+
+I'm a little confused as to what the values inside my 2 for loops should be=
+. Is it a combination of i and j?
+
+This is what I have:
+
+
+   int width =3D s.nextInt();
+   int height =3D s.nextInt();
+   int pixeldata[][] =3D new int [height][width];
+   for (int j=3D0; j

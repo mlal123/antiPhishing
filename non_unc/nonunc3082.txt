@@ -1,0 +1,123 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+Problem 4 on Sample Problems  (10/16/16 7:49 PM)
+
+Why is the answer to this question TBD? Should it not be that the number of=
+ nodes is between 2^k and 2^(k+1) - 1?
+
+Go to https://piazza.com/class?cid=3Diudaambgeh87g3&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Build Heap Big Oh  (10/16/16 9:41 PM)
+
+I'm a bit confused with the Big Oh of build heap. An insert of N items shou=
+ld be O(N log N), + O(N) for traversing. Why would it reduce to O(N)? Shoul=
+dn't it reduce to O(N log N)?
+
+Go to https://piazza.com/class?cid=3Diudeakqdxuh5wa&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Tight Big Oh analysis  (10/16/16 10:28 PM)
+
+How is this O(N^7)?
+sum =3D 0;
+        for (int i =3D 0; i < N; i++)
+          for (int j =3D 0; j < i*i; j++)
+            for (k=3D0; k < j*j; k++)
+              sum++;
+
+Go to https://piazza.com/class?cid=3Diudfyuv41ik31n&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+O(N) build algorithm  (10/16/16 10:50 PM)
+
+what exactly is meant by question # 17? Do I need to just construct an unso=
+rted heap with these numbers and then sort afterwards or do I sort as I bui=
+ld?
+For the following items in the order given, construct
+    a minimum binary heap.  Use the O(N) "build" algorithm we studied.
+    Show the steps in your work.
+
+      6, 3, 29, 21, 7, 2, 19, 24, 8, 4, 61, 16, 9
+
+
+Go to https://piazza.com/class?cid=3Diudgrw1gn0d5f4&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+1a  (10/16/16 11:14 PM)
+
+Can someone explain why it is log(n) runtime for this? I can only see that =
+this is true if we are given the i to look for=C2=A0as opposed to asking if=
+ there exists any i where a[i] =3D=3D i. So if it is asking if there is any=
+ i as opposed to for the given i, then wouldn't we need to do work proporti=
+onal to n?
+
+(a) Given an array A of integers, sorted into ascending order,
+   design an efficient algorithm for finding is there is any=20
+   array subscript i where A[i] =3D=3D i.  What is the worst case run=20
+   time of your algorithm (in "Big-Oh" notation)?
+
+Go to https://piazza.com/class?cid=3Diudhm1qpkla6ln&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Previous Exam  (10/16/16 11:44 PM)
+
+For number 6 why is the answer binary heap and not AVL? Doesn't AVL fulfill=
+ the character of a and b?
+
+6) We have a tree with the following properties:
+
+    (a) It is a binary tree.
+    (b) For any two paths P1 and P2 that go from root to a leaf,
+        the AbsoluteValue(length(P1)-length(p2)) is either 0 or 1.
+
+        This tree is a (circle one):=20
+          Binary Search Tree,=20
+          AVL Tree,=20
+          Left-Right Topo Tree,
+          Binary Heap
+          Splay Tree,=20
+          not something we have studied
+=20=20=20
+    Answer:
+    binary heap (but we are not doing binary heaps on this exam);
+    a binary heap is structurally a complete binary tree, which
+    has the specified property.  None of the other structures
+    given will always have the property.=20=20
+    BTW, there is no such thing as a left-right topo tree (not
+    that I know or anyway).
+
+Go to https://piazza.com/class?cid=3Diudioeopuqbq0&nid=3Dis6wk5m47ay4zy&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

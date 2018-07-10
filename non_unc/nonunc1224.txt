@@ -1,0 +1,80 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+Autograder Question  (1/23/16 11:36 AM)
+
+Hi everyone!
+
+1. Is our program expected to follow the style guide document? I submitted =
+my JAR file to auto grader and it produced the correct answers for all the =
+input, but my codes are not very efficient and has repeated codes as well b=
+ad comments.
+
+2. Is the grade we got from the auto grader the=C2=A0actual grade we're rec=
+eiving for the assignment 1?
+
+Thanks!
+
+Go to https://piazza.com/class?cid=3Dijrc8z1qqyp4st&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Questions  (1/23/16 12:47 PM)
+
+1. At exactly what time is the assignment due?
+2. With all this amazing snow on the ground, how do we get the help that we=
+ would normally get in office hours? I really need it.
+
+
+
+Go to https://piazza.com/class?cid=3Dijret4ll4r83i6&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Assignment 2 Posted  (1/23/16 2:10 PM)
+
+
+http://www.cs.unc.edu/~kmp/comp401sp16/assignments/a2/sp16-a2.html
+
+
+Go to https://piazza.com/class?cid=3Dijrhrsmyh7y6ri&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 grader not running yet  (1/23/16 2:18 PM)
+
+Although the autograder is already set up to accept A2 submissions, the gra=
+ding script for A2 hasn't been set up yet and probably won't be until late =
+next week. But you shouldn't be relying on the grading script for testing i=
+n any case. You should be developing your own test inputs/outputs to confir=
+m that your code works as expected. You are free (and in fact encouraged) t=
+o share test cases with your classmates.
+
+Go to https://piazza.com/class?cid=3Dijri0yeh8xta5&nid=3Dihs2fbbhsfx37n&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

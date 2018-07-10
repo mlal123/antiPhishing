@@ -1,0 +1,60 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+multiple Topological sort possible  (11/08/16 2:19 PM)
+
+what should toposort do when there're multiple possibilities? return the sh=
+ortest path? or just any path? or all of them?
+
+Go to https://piazza.com/class?cid=3Div9vsgki3h537e&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+After toposorting, is the original DiGraph emptied?  (11/08/16 2:32 PM)
+
+As the toposorting is essentially removing nodes with in-degree value of 0,=
+ after the sort there should be nothing left in the Graph. Is that what we =
+want or should we make a copy of the original Graph so that the Graph itsel=
+f is not deleted?
+
+Go to https://piazza.com/class?cid=3Div9w8sycl092g3&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Time Out Error but still passing  (11/08/16 3:16 PM)
+
+Hi when I run the grader, it gives me a bunch of:=C2=A0
+DiGraph_A5.DiGraph@1efbd816=C2=A0519821334 method: public boolean DiGraph_A=
+5.DiGraph.addNode (long,java.lang.String)args:[Ljava.lang.Object;@3c756e4dt=
+imeOut:200=C2=A0but I'm still passing all of the grader tests. Is this some=
+thing I should be worried about potentially hurting my final grade? Or is t=
+his just connected to the RunTests grader?
+
+Go to https://piazza.com/class?cid=3Div9xsni7bkoyr&nid=3Dis6wk5m47ay4zy&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

@@ -1,0 +1,24 @@
+Your classmate posted a new Question. 
+
+ether spoof sendp issues, and default route warnings
+
+2 Questions,
+
+I cannot manage to send a packet correctly when using sendp. if I literally copy the code from the documentation that Connor linked, it gives me errors, I've tried changing the interface, and just cant find anything about this. Is there something I need to be doing thats different from what is in the documentation.
+
+Is it ok that all of my python files give the warning "N route found for IPv6 destination :: (no default route?)
+
+Go to https://piazza.com/class?cid=jaunirgtizz6a6&nid=j5vi9cpw2jn336&token=f2GxNxqCfOm to view. Search or link to this question with @278. Follow it to get notified when a response comes in: https://piazza.com/follow/jaunirgtizz6a6/f2GxNxqCfOm/1ed6ec87 
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 435 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/j5vi9cpw2jn336 to un-enroll from this class.

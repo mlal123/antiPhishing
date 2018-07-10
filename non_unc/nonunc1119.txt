@@ -1,0 +1,10 @@
+We received a request to reset the password associated with the email address mlal123@live.unc.edu on Piazza. If you made this request, follow this link to reset your password: 
+
+https://piazza.com/reset_password?token=H13B0b5vKCF
+
+If you did not make this request, you can safely disregard this email. 
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com

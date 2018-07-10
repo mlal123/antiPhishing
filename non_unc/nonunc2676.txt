@@ -1,0 +1,75 @@
+**************************
+Important Changes Upcoming
+**************************
+
+In an effort to ensure that we always offer the
+best courses for learning to code, we'll be releasing new
+versions of some of our centerpiece courses over the next couple
+of months. For more information on our broader roll out plan and
+the associated changes, you can check out our blog post here ( https://na01=
+.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fwww.codecademy.com%2=
+fblog%2fimportant-changes-to-codecademy-courses%2f%3futm_source%3dcustomeri=
+o%26utm_medium%3demail%26utm_campaign%3dpython_announcement&data=3D01%7c01%=
+7cmlal123%40live.unc.edu%7c4f49bf5806294278402408d3de57a3ac%7c58b3d54f16c94=
+2d3af081fcabd095666%7c1&sdata=3DS7JVsukhRbeVmTLvrIipLxPqh5m3ZGx2iJuf3rS6zJQ=
+%3d ).
+
+In summary: we're really excited about
+introducing new, up-to-date courses; however, as we roll them
+out, there might be changes that impact your learning experience.
+
+--------------------
+Python Course Impact
+--------------------
+
+As someone who has used our Python course, we
+wanted to let you know that the changes we=E2=80=99re implementing will
+cause any partial or full progress in the course to be lost. All
+achievements will be maintained though, so if you=E2=80=99ve finished the
+course already you=E2=80=99ll be able to show that you completed it -
+even after the switch.
+
+We=E2=80=99ll be making this change on September 26th, so
+if you=E2=80=99d like to, make sure you complete the course by then.
+Otherwise, you can start learning again in the new course and
+really get the content down! We apologize for any inconvenience
+this may cause, but we=E2=80=99re excited to be offering a better
+learning experience in this course!
+
+The Codecademy Team
+
+Codecademy
+
+49 W 27th Street, New York, NY 10001
+
+( https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fwww.fa=
+cebook.com%2fcodecademy%2ftimeline%3futm_source%3dcustomerio%26utm_campaign=
+%3demail_footer%26utm_medium%3demail&data=3D01%7c01%7cmlal123%40live.unc.ed=
+u%7c4f49bf5806294278402408d3de57a3ac%7c58b3d54f16c942d3af081fcabd095666%7c1=
+&sdata=3DI1TS6%2fqg%2bPxD13PRaF5fS6OXlgcrHgbwZS9zWcLMo0c%3d )
+( https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fwww.tw=
+itter.com%2fcodecademy%3futm_source%3dcustomerio%26utm_campaign%3demail_foo=
+ter%26utm_medium%3demail&data=3D01%7c01%7cmlal123%40live.unc.edu%7c4f49bf58=
+06294278402408d3de57a3ac%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3D3Lx=
+6Mza8Sk%2bBT0sjVVtBvIbeIdh6cO0LtXvq45FjNyI%3d )
+( https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fwww.in=
+stagram.com%2fcodecademy%3futm_source%3dcustomerio%26utm_campaign%3demail_f=
+ooter%26utm_medium%3demail&data=3D01%7c01%7cmlal123%40live.unc.edu%7c4f49bf=
+5806294278402408d3de57a3ac%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3Du=
+nX6NrrpcgtnIkdueaC9jk4AtHcTj%2fz9oXqmL0fZ1pw%3d )
+( https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fwww.li=
+nkedin.com%2fcompany%2fcodecademy%3futm_source%3dcustomerio%26utm_campaign%=
+3demail_footer%26utm_medium%3demail&data=3D01%7c01%7cmlal123%40live.unc.edu=
+%7c4f49bf5806294278402408d3de57a3ac%7c58b3d54f16c942d3af081fcabd095666%7c1&=
+sdata=3DkaQidxvzVSArdGNPFqC9iI587E4X6mSFs8NMIWuSJb4%3d )
+( https://na01.safelinks.protection.outlook.com/?url=3Dhttp%3a%2f%2fdiscuss=
+.codecademy.com%3futm_source%3dcustomerio%26utm_campaign%3demail_footer%26u=
+tm_medium%3demail&data=3D01%7c01%7cmlal123%40live.unc.edu%7c4f49bf580629427=
+8402408d3de57a3ac%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DOB%2bH119o=
+f%2bUlcCg8vw4peI2mPkgnNNrCecdWtKE%2fMVk%3d )
+
+Unsubscribe ( https://na01.safelinks.protection.outlook.com/?url=3Dhttp%3a%=
+2f%2ftrack.customer.io%2funsubscribe%2fMzc0NTU6FwEv4wJkAAJzABclzz0aAVKPJkWd=
+FU4YV9wdewFtOjM4MTA5NgA&data=3D01%7c01%7cmlal123%40live.unc.edu%7c4f49bf580=
+6294278402408d3de57a3ac%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DlSVL=
+Q4egJEU8%2bYRRfytI99EEgRhvIy5L%2fBY%2bNX9Wefw%3d=3D ) from these emails.

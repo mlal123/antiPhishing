@@ -1,0 +1,19 @@
+
+Site Title: COMP110.001.FA15
+Site ID: 4070724c-dd1b-483b-9bfb-b6da5a9fb0c3
+
+Assignment title: Lab2
+Assignment Due Date: Oct 21, 2015 11:55 pm
+
+Student: Mangza Lal( mlal123 )
+
+Submission ID: 6de69de3-6725-40c8-889c-4d9bd981a91c
+Submitted on: Oct 21, 2015 3:14 pm
+
+Attachments
+
+mlal123_Lab2.zip (3 KB)Lab2/.settings/org.eclipse.jdt.core.prefs (1 KB)
+Lab2/bin/Lab2.class (2 KB)
+Lab2/.project (1 KB)
+Lab2/src/Lab2.java (2 KB)
+Lab2/.classpath (1 KB)

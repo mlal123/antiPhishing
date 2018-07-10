@@ -1,0 +1,82 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+Normalized/Curve Table Not Linear  (1/18/16 1:36 PM)
+
+The table under the Jedi section for Normalized/Curved transformation is no=
+t represented linearly.=C2=A0
+
+
+Go to https://piazza.com/class?cid=3Dijkbbqhfcwi2yt&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A1 Jedi  (1/18/16 3:02 PM)
+
+If we copy and paste the input, does it matter if we have to press enter on=
+ce we paste the input?
+
+Go to https://piazza.com/class?cid=3Dijkefc14q8o1sk&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A1 Novice Input and Output  (1/18/16 3:29 PM)
+
+Hello everyone!
+I just finished the A1 Novice portion of the assignment, and I've noticed t=
+hat the output acts a little strangely. Whenever I paste a block of input i=
+nto the program, I get the following output.
+
+
+
+I then have to press enter one more time to get this output:
+
+
+
+However, if each line is entered individually followed by enter, then I get=
+ this output:
+
+
+
+Will the auto grader take away points since it must press enter to obtain t=
+he third and final output after pasting the text? Also, will I lose points =
+since the output in the first two images are not a single block, but are in=
+stead separated by a blank line? Thank you for any help!
+
+
+Go to https://piazza.com/class?cid=3Dijkfd2udqqm675&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Submission Method  (1/18/16 3:58 PM)
+
+When can we expect more details on how to submit our assignment?=C2=A0
+
+Go to https://piazza.com/class?cid=3Dijkgfal1pbd2du&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

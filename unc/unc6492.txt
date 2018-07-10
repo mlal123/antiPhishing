@@ -1,0 +1,80 @@
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+
+
+Hello Lal,
+
+ 
+First congratulations and I support your decision.
+
+ 
+Just to clarify, you will finish this term Fall 2017 out and will not be returning for Spring 2018 as a Resident Advisor for Morrison Residence Hall.  
+ 
+
+
+From: Lal, Mangza
+
+Sent: Wednesday, September 27, 2017 8:53 AM
+To: Stone, Andrew <ahstone@email.unc.edu>; Idahor, Uyi <uidahor@unc.edu>; Anerao, Aditya <anerao@email.unc.edu>; Lugten, Jennie Laine <lugtenj@live.unc.edu>
+Subject: Spring Semester Resignation
+
+
+ 
+
+Hello gang, this is just a follow-up from the other night. I have been accepted into the Burch Silicon Valley program for next semester, Spring 2018, and this means that I will have the opportunity
+ to work in Silicon Valley for an entire semester while finishing up a minor. This is an opportunity that I don't want to miss out on and therefore I will sadly have to leave my position as a Residential Advisor for next semester in order to pursue this opportunity.
+ I apologize for any inconvenience this may cause, thanks. Cheers and have a great day.
+
+
+
+

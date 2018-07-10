@@ -1,0 +1,47 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+SPLT Remove Special Cases  (10/19/16 3:08 PM)
+
+After our contains method splays=C2=A0the node to be removed to the root, t=
+he assignment instructions specify what to do when the new root has both a =
+left subtree and a right subtree. Is there a particular way in which we sho=
+uld handle the cases of the new root having just a left subtree or having j=
+ust a right subtree?
+
+Go to https://piazza.com/class?cid=3Diuhaktfny5r16k&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+onyen.unc  ()
+
+Should we expect MC scores to appear on onyen.unc.edu over break?
+
+Go to https://piazza.com/class?cid=3Diuhh1mz8m2el2&nid=3Dis6wk5m47ay4zy&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

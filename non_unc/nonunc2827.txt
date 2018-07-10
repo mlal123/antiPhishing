@@ -1,0 +1,66 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+Addressing Modes  (9/27/16 6:30 PM)
+
+Looking at prof Fuchs' slides I really don't understand ppt. 6b slide 5, wh=
+ich we just covered last class. I guess I understand the things in the yell=
+ow box, but what does everything else really mean? if someone could give a =
+brief explanation I would appreciate it thanks
+
+Go to https://piazza.com/class?cid=3Ditm23od7xr05xx&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Extending Lab 4  (9/27/16 8:05 PM)
+
+Since we aren't having our regular scheduled lab session on Friday, can the=
+ lab 4 deadline be extended until Monday?
+
+Go to https://piazza.com/class?cid=3Ditm5i4fnm5e683&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Lab 4 ex5 appending to same line  (9/27/16 8:37 PM)
+
+So the output of our program should look like Enter a number: !(number) =3D=
+ (factorial), right?
+
+How can I go about printing "Enter a number:", then scanning, then appendin=
+g the "=C2=A0!(number) =3D (factorial)" to the same line?? I am only able t=
+o make it look like this as of now.=C2=A0
+
+Enter a number: //the user of course enters whatever number they want here
+!(number) =3D (factorial)
+
+I hope my question makes sense, I just don't see how to printf a string, sc=
+anf something into a value/do stuff with that value, and then print the rem=
+ainder on the same line. Thanks!
+
+Go to https://piazza.com/class?cid=3Ditm6nikq1xe6nc&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

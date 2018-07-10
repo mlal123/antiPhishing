@@ -1,0 +1,61 @@
+Build great websites, from scratch. Learn the tips, tricks, and
+design hacks that make websites better, faster.
+
+*********************************
+Jumpstart Your Projects with APIs
+*********************************
+
+TAKE THE FASTER PATH ( http://ready.codecademy.com/?utm_source=3Dcustomer_i=
+o&utm_campaign=3Dbws_08_07_US_engaged&utm_medium=3Demail&utm_term=3Da&utm_c=
+ontent=3Dtop_cta_build_website )
+
+Good developers know that, sometimes, shortcuts are the
+smart choice. If you want to build a website to show your latest
+photos, you don't need to manually upload them every day =E2=80=93 you
+can just connect to Instagram using an API! APIs let you add
+advanced functionality from across the Web so that you can build
+better websites, faster. Take for example Trackster, a playlist
+generator site that students build in our Build Websites from
+Scratch ( http://ready.codecademy.com/?utm_source=3Dcustomer_io&utm_campaig=
+n=3Dbws_08_07_US_engaged&utm_medium=3Demail&utm_term=3Da&utm_content=3Dbody=
+_mention ) program.
+
+( https://ready.codecademy.com?utm_source=3Dcustomer_io&utm_campaign=3Dbws_=
+08_07_US_engaged&utm_medium=3Demail&utm_term=3Da&utm_content=3Dimage )
+
+Trackster, a project in Codecademy's Build Websites from
+Scratch program.
+
+Trackster doesn't need to host thousands of .MP3 files to
+work =E2=80=93 it uses the Last.fm API to find them online! Using APIs
+to power your projects, you can stand on the shoulders of giants.
+
+With Codecademy's Build Websites from Scratch ( http://ready.codecademy.com=
+/?utm_source=3Dcustomer_io&utm_campaign=3Dbws_08_07_US_engaged&utm_medium=
+=3Demail&utm_term=3Da&utm_content=3Dbody_mention_2 ) program, you'll build =
+the Trackster site and fifteen other
+projects yourself over ten weeks. You'll learn the tips and
+tricks real developers use to make good websites great =E2=80=93 skills
+that most courses won't teach you.
+
+BUILD GREAT WEBSITES ( http://ready.codecademy.com/?utm_source=3Dcustomer_i=
+o&utm_campaign=3Dbws_08_07_US_engaged&utm_medium=3Demail&utm_term=3Da&utm_c=
+ontent=3Dbottom_cta_build_website )
+
+Codecademy
+
+49 W 27th Street, New York, NY 10001
+
+( https://www.facebook.com/codecademy/timeline?utm_source=3Dcustomerio&utm_=
+campaign=3Demail_footer&utm_medium=3Demail )
+( https://www.twitter.com/codecademy?utm_source=3Dcustomerio&utm_campaign=
+=3Demail_footer&utm_medium=3Demail )
+( https://www.instagram.com/codecademy?utm_source=3Dcustomerio&utm_campaign=
+=3Demail_footer&utm_medium=3Demail )
+( https://www.linkedin.com/company/codecademy?utm_source=3Dcustomerio&utm_c=
+ampaign=3Demail_footer&utm_medium=3Demail )
+( http://discuss.codecademy.com?utm_source=3Dcustomerio&utm_campaign=3Demai=
+l_footer&utm_medium=3Demail )
+
+Unsubscribe ( http://track.customer.io/unsubscribe/Mzc0NTU6FwEv4wJkAAJzABcl=
+zz0aAVKPJkWdFU4YWXeO8wFtOjUyMzY3NAA=3D ) from these alerts.

@@ -1,0 +1,193 @@
+Startup internships and two REUs
+
+---------- *FirstMark Elite Internship Program*
+
+From: Andrew Oved 
+Date: Tue, Jan 5, 2016 at 12:56 PM
+Subject: Paid Internships for UNC CS/Engineering Students
+To: lastra@cs.unc.edu
+
+
+Hi Professor,
+
+I hope you had a fantastic New Year. We'd like to extend an invitation to
+your students at UNC to apply to FirstMark Elite
+, a competitive program that matches
+outstanding computer science and engineering students with paid summer
+internships at leading startups across the country. Any help spreading the
+word is greatly appreciated.
+
+As a professor, we know you'd know best regarding which of your students
+would be interested in such a program. Last year over 1000 students applied
+and, after such a very successful program, we expect even more applications
+this year.
+
+All the details are below for you to easily forward. We'd love to see a
+strong showing of UNC applications. Please let me know if you or your
+students have any questions.
+
+Thank you,
+Andrew
+
+~~~~~~~~~~~
+Andrew Oved
+andrew@firstmarkcap.com
+FirstMark  // firstmarkelite.com
+
+
+*FirstMark Elite Internship Program*
+
+UNC students are invited to apply to FirstMark Elite, a competitive program
+that matches outstanding computer science and engineering students
+(undergraduates and graduates) with paid summer internships at leading
+startups across the country.
+
+The program provides exposure to the rapidly growing tech ecosystem and the
+opportunity to meet with some of the best entrepreneurs, founders, and
+technologists in the country. Students also benefit from a summer
+curriculum consisting of networking and mentoring events like =E2=80=9CTech=
+ Talks=E2=80=9D
+with founders, and social and educational workshops with leading venture
+capitalists and CTOs.
+
+
+*Details:*
+
+   - *With one application, students are applying to 30+ startups* includin=
+g
+   Shopify, Schoology, Knewton, Omaze, NewsCred, Tapad, and more
+
+
+   - We are currently accepting applications on a rolling basis. The final
+   deadline is Friday, January 15th but we strongly encourage students to
+   apply early
+
+
+   - A group of Semi-Finalists will be invited to FirstMark's headquarters
+   in NYC on Friday, February 5th to interview with a handful of
+   participating startups
+
+
+   - From those Semi-Finalists, a select group will be offered paid summer
+   internships at the most innovative companies in the world
+
+*Application:* firstmarkelite.com
+
+*About FirstMark Capital*
+
+FirstMark Capital is an early stage venture capital firm based in New York
+City. Our mission is to partner with exceptional entrepreneurs who are
+changing the world by solving meaningful problems. We have built a deeply
+engaged community among the extraordinary teams in our network to spread
+ideas and opportunities. We are privileged to work alongside the founders
+of remarkable businesses like Pinterest, Shopify, Riot Games, InVision,
+Tapad, NewsCred and dozens more. Visit us in New York City or online at
+firstmarkcap.com and @FirstMarkCap.
+
+---------- Secure Software Testing for Web and Mobile Applications REU
+From: Hashem, Yassir 
+Date: Tue, Jan 5, 2016 at 9:07 PM
+Subject: UNT REU Program Summer 2016
+To: "lastra@cs.unc.edu" 
+
+
+Dear Professor Lastra,
+
+
+
+I am Yassir Hashem, graduate student supervisor of the UNT REU
+Program. Will you please share the opportunity below with your students?
+
+
+
+We will host the =E2=80=9CSecure Software Testing for Web and Mobile Applic=
+ations=E2=80=9D
+Research Experience for Undergraduates Site at University of North Texas
+this summer.    Accepted students will receive:
+
+   - The opportunity to work on exciting research in the areas of testing
+      and security for Web and Mobile applications.
+      - $5,000 stipend for 10 weeks.
+      - Housing at UNT for no cost to the student
+      - Some students will receive a travel stipend for moving expenses.
+      - The opportunity to be part of program that has a strong emphasis on
+      collaboration with other students on research projects (you
+won=E2=80=99t sit at a
+      computer by yourself all day/every day).
+      - The opportunity to interview faculty and current graduate students
+      about their research and graduate school.
+
+More details and the application are available:
+http://www.cse.unt.edu/~reneebryce/Renee_Bryce/REU.html
+
+
+
+
+
+We will begin review of applications starting on Feb 1,  2016.
+
+
+
+Sincerely,
+
+Yassir Hashem
+
+
+---------- *Computational Sensing and Medical Robotics REU*
+From: Anita Sampath 
+Date: Tue, Jan 5, 2016 at 11:24 AM
+Subject: Summer Research Experience at Johns Hopkins
+To: Anita Sampath 
+
+
+Dear Faculty,
+
+
+
+I am writing to announce the *2016 Computational Sensing and Medical
+Robotics Research Experience for Undergraduates Program* at The Johns
+Hopkins University in the Laboratory for Computational Sensing and Robotics
+(LCSR). The REU program is an intensive ten-week program of laboratory
+research and instruction. In the program, each REU student receives
+hands-on laboratory research experience under the guidance from faculty and
+graduate student mentors. The students may also receive classes on ethics
+in research and technical communication. The students will have the
+opportunity to tour a local government laboratory and a private company. *T=
+he
+students will be provided housing and a stipend of $5000 for the 10-week
+period will be paid.*
+
+
+
+I would greatly appreciate, if you can pass on to your students this
+information and promotional flyer (attached). The deadline to apply is
+March 1, 2016. Your students can access the following link to learn more
+details on how to apply: - http://lcsr.jhu.edu/REU
+
+
+
+If your students have any questions, they can email me at asampath@jhu.edu
+
+
+
+Thank you very much.
+
+Sincerely,
+
+
+
+Anita Sampath
+
+REU Program in Computational Sensing and Medical Robotics
+
+The Johns Hopkins University
+
+Email: asampath@jhu.edu
+
+Website: http://lcsr.jhu.edu/REU
+
+--=20
+You received this message because you are subscribed to the Google Groups "=
+Majors" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to majors+unsubscribe@cs.unc.edu.

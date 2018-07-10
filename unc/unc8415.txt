@@ -1,0 +1,60 @@
+---------- Forwarded message ----------
+
+*From: *Jan Trmal 
+
+
+Subject: Supported Undergraduate Positions on Summer Research Teams
+
+The Johns Hopkins University Center for Language and Speech Processing is
+hosting the Fifth Frederick Jelinek Memorial Summer Workshop (
+http://www.clsp.jhu.edu/workshops/current). We are seeking outstanding
+members of the current junior class to join a summer research workshop on
+language engineering from June 11 to August 3, 2018.
+
+The 8-week workshop provides an intense intellectual environment.
+Undergraduates work closely alongside senior researchers as part of a
+multi-university research team, which has been assembled for the summer to
+attack some problem of current interest.
+
+The teams for summer 2018 include:
+
+* Multilingual End-to-End ASR for Incomplete Data
+* Grounded Sequence-to-Sequence Transduction
+* General-Purpose Sentence Representation Learning
+
+We hope that this stimulating and selective experience will encourage
+students to pursue graduate study in human language technology, as it has
+been doing for many years.
+
+The summer workshop provides:
+
+* An opportunity to explore an exciting new area of research
+* A two-week tutorial on current speech and language technology
+* Mentoring by experienced researchers
+* Participation in project planning activities
+* Use of cloud computing services
+* A $5,600 stipend and $2,300 towards per diem expenses
+* Private furnished accommodation for the duration of the workshop
+* Travel expenses to and from the workshop venue
+
+The application is linked from the workshop=E2=80=99s page (http://www.clsp=
+.jhu.edu/
+workshops/current). Applications should be received by Friday, March 2nd,
+2018. The applicant must provide the name and contact information of a
+faculty nominator, who will be asked to upload a recommendation letter by
+March 9, 2018. Please note that the application will not be considered
+complete until it includes both the CV and the letter.
+
+Questions can be directed to the JSALT2018 committee at
+jsalt2018@clsp.jhu.edu .
+
+Applicants are evaluated only on relevant skills, employment experience,
+past academic record, and the strength of letters of recommendation.  No
+limitation is placed on the undergraduate major.  Women and minorities are
+encouraged to apply.
+
+--=20
+You received this message because you are subscribed to the Google Groups "=
+Majors" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to majors+unsubscribe@cs.unc.edu.

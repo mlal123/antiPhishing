@@ -1,0 +1,74 @@
+*New Media WordPress Web Developer*
+
+New Media Group is looking for a Wordpress Developer to join their Digital
+Marketing department. The candidate doesn=E2=80=99t **necessarily** have to=
+ have a
+ton of experience, so they could be a recent grad, however at least some
+experience with Wordpress on their own or in class would be very useful.
+That said, if they have a solid background in Computer Science and can
+write PHP, Javascript & CSS then we are definitely interested in talking to
+them.This is the job description:
+https://workforcenow.adp.com/jobs/apply/posting.html?client=3Dcapitolbci&jo=
+bId=3D107290&lang=3Den_US&source=3DCC3
+
+
+*Research Assistant, Health Sciences Library, Data Management*
+
+Join a project to develop new ways to organize and share neuroimaging
+data.  We are interested in hiring a graduate research assistant to help us
+work with these data sets and help us build a prototype database to
+demonstrate our methods. I think this would be an interesting opportunity
+for a computer science student who is looking for experience in managing
+medical research data.
+
+ The position description is available on the UNC Libraries site here:
+http://library.unc.edu/jobs/research-assistant-health-sciences-library-data=
+-management/
+
+
+*The Horizons Fellowship *
+The Horizons Fellowship supports 10 outstanding university students in
+their pursuit to become tomorrow's leaders in technology. The program is a
+part-time 6-month experience (or full-time summer experience) that teaches
+software engineering and provides students with the network and perspective
+needed to launch their careers in tech. The program requires no prior
+computer science or programming knowledge. It is open to current university
+students of all ages. Students develop the arsenal of highly employable
+software engineers as well as the perspective of entrepreneurs.
+
+*Application Process/Criteria*
+
+=C2=B7         Currently enrolled in a 4-year university program
+
+=C2=B7         Submission of transcript, resume, and standardized test scor=
+es on
+horizonsbootcamp.com 
+.
+
+=C2=B7         Series of fit and technical interviews
+
+=C2=B7         Applications are on a rolling basis. The final deadline is J=
+uly
+20th 2016 but we encourage students to apply sooner as the program is
+already filling up.
+
+*Horizons Fellowship Details*
+
+=C2=B7         800+ hours of learning to build web applications
+
+=C2=B7         1-on-1 mentorship from technology industry leaders
+
+=C2=B7         Speaker series consisting of entrepreneurs, engineers, inves=
+tors,
+product managers and designers from successful technology companies &
+leading venture capital firms
+
+=C2=B7         Lifelong access to the Horizons Career Network
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

@@ -1,0 +1,255 @@
+
+
+Udemy
+
+@import url('https://fonts.googleapis.com/css?family=3DSource+Sans+Pro:300,=
+400,600');
+@import url('https://fonts.googleapis.com/css?family=3DZilla+Slab:300,400,6=
+00');
+/* CLIENT-SPECIFIC STYLES */
+body, table, td, a, p, ul, li {-webkit-text-size-adjust: 100%; -ms-text-siz=
+e-adjust: 100%; font-family: 'Source Sans Pro', Helvetica, Arial, sans-seri=
+f;}
+a { color:#000000; }
+table, td {mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: c=
+ollapse;}
+img { -ms-interpolation-mode: bicubic; border:none; }
+a img { text-decoration: none; border: none; }
+ul {padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: =
+0px;}
+li {margin-top: 0px; margin-bottom: 0px;}
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+.appleFooter a {
+color:#999999!important;
+text-decoration: none!important;
+}
+.bodyContainer li {color: #645a53 !important; margin-bottom: 1em !important=
+;} .bodyContainer a {color: #000000 !important; font-weight: 700 !important=
+;} .headerContainer {font-size: 32px !important; line-height: 36px !importa=
+nt; text-align: center !important; color: #645A53 !important; padding: 21px=
+ 0px 0px 0px !important;} .bodyContainer {font-size: 18px !important; color=
+: #645A53 !important; padding: 0px 0px 21px 0px !important;}
+/* MOBILE STYLES */
+@media only screen and (max-width: 480px){
+ul {padding-top: 20px; padding-bottom: 20px;}
+#container{
+width:100% !important;
+}
+#banner_text {
+text-align: center !important;
+padding-bottom: 10px;
+}
+.deviceWidth{
+display:block !important;
+width:100% !important;
+}
+.hidden{
+display: none;
+}
+.courseCardTop{
+width:30% !important;
+float: left;
+min-width: 30% !important;
+}
+.courseCardBottom{
+width:70% !important;
+float: left;
+min-width: 70% !important;=20
+border-bottom: 0px !important;
+}
+.mobileColor{
+background-color: #ffffff !important;
+}
+.mobileCourseLine{
+border-bottom: 2px #edece6 solid;
+}
+.titleHeight{
+height: auto;
+}
+.titlePadding{
+padding-top: 0px !important;
+padding-bottom: 10px !important;
+font-size: 16px !important;
+}
+.starPricePadding{
+padding-top: 0px !important;
+padding-bottom: 5px !important;
+font-size: 80% !important;
+}
+.courseImage{
+width: 100%;
+height: auto !important;
+}
+.moduleTitlePadding{
+padding: 20px 5px 5px 5px !important;
+}
+.mobileCoursePadding{
+padding: 15px 5px 0px 5px !important;
+width: 100% !important;
+}
+.targetedSpacer{
+width: 5%;
+}
+.headerLogo{
+width: 125px !important;
+}
+.bodyWrapper {
+font-size: 18px !important;
+line-height: 24px !important;
+}
+.headerContainer {font-size: 24px !important; line-height: 28px !important;=
+ text-align: center !important;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+=20
+=20
+We=E2=80=99ve simplified our Terms of Use and Privacy Policy and updated th=
+em to keep up with new international data privacy standards.
+
+
+
+
+
+
+
+
+
+    Hello, You=E2=80=99re receivi=
+ng this email because we=E2=80=99ve updated our Terms of Use and Privacy Policy, which apply to all students and instructors=
+ on Udemy. We=E2=80=99ve made these updates to ensure that our terms are ea=
+sier to understand and to keep up with evolving international data privacy =
+standards. Here=E2=80=99s a quick summary of the changes:  =
+=
+Simplified terms - We=E2=80=99ve re-organized our Terms of Use and=
+ Privacy Policy to make them more clear and understandable. This reorganiza=
+tion hasn=E2=80=99t changed your rights as a user, we=E2=80=99ve just made =
+it easier to understand these rights. More clarity on our refund and c=
+redits policy - Since factors like your payment method or device c=
+an affect your options under our 30-day guarantee, we've added additional d=
+etail about when we issue credits versus refunds. Data privacy updates=
+ - As international data privacy standards evolve, particularly in=
+ the EU with General Data Protection Regulation (GDPR), we=E2=80=99ve updat=
+ed our Terms of Use and Privacy Policy to give you more control over your d=
+ata and make it more clear how we use your data. All users, not just those =
+in the EU, will have the same data privacy rights.  There is no a=
+ction required on your end, we just wanted to inform you. Thank you for usi=
+ng Udemy!   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUPPORT | VIEW ONLINE
+  =20
+
+
+Udemy.com 60=
+0 Harrison Street, 3rd Floor San Francisco, CA 94107 USA
+
+
+
+
+*You received this transa=
+ctional email because it contains information about your relationship with =
+Udemy.
+
+ =20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,238 @@
+Hello Everyone,
+
+See below for available opportunities.
+
+*Internships! (Yes, these are still available)*
+
+*Sciome LLC* is a local Scientific Data Analytics company founded by a UNC
+Alumni. Sciome has a multidisciplinary team of scientists and
+informaticians from all local universities (UNC, NCSU, Duke) and beyond.
+Sciome has openings for Paid Summer Internships for students interested in
+software development. Selected interns will have an opportunity to
+contribute towards software development efforts in the domains of
+bioinformatics, text mining and data analytics.
+
+
+*Please apply if you have experience with:*
+Software development (Preferably Java)
+Relational databases (MySQL, SQL Server, etc.)
+Object Oriented Programming with design and architecture patterns
+User Interface design and development
+
+
+
+*Start Date and Duration*: Summer internship start date and duration are
+negotiable. Duration of 10 weeks or more is preferred. Full time or part
+time options are available, and there may be a possibility to extend beyond
+the summer.
+
+
+
+*More about Sciome LLC *:
+We are a science and technology consulting company, based in RTP, NC. We
+provide our scientific consulting services to the US Federal Government,
+Academic institutes, Non-profit research organizations, and
+Bio-pharmaceutical companies. We have a small team (PhD/Masters/Bachelors
+level scientists and developers) and we are growing!
+
+
+
+One of our main areas of expertise is in biological data and text mining.
+In this domain, we specialize in developing computational methodologies for
+text and scientific literature mining which we implement in the form of
+desktop and web-enabled applications in order to solve real-world problems
+on behalf of our clients. In addition, we also employ these methods in
+concert with other bioinformatics techniques to enable data and literature
+driven discoveries in support of life sciences research.
+
+*How to apply:*
+
+Please send your resume to jobs@sciome.com and please put software
+developer internship in the subject line.
+
+
+*Atrium Health*  in Charlotte, NC is
+offering a 10-week summer internship program. This is a paid opportunity,
+$25/hour. Learn more here
+
+.
+
+
+*Digitsec  *is looking for interns for this
+summer! Learn more here
+.
+
+
+*Full-Time Positions*
+
+*Applied Visions  *is hiring an Applications Security
+Researcher to assist with static and dynamic analyses and pen testing
+applications. See details here
+
+.
+
+
+*Bennett Aerospace* is seeking a C++ Developer
+ at their Raleigh location. Bennett
+Aerospace, Inc.  is located in the Research
+Triangle Park area of North Carolina.  Established in 2008, we are a women
+owned, veteran owned, certified 8(a) small business that provides
+scientific, engineering, and technical advisory services to our customers.
+Primarily focused on Federal Government clients in general, and the
+Department of Defense in particular, Bennett Aerospace provides expert
+guidance and advice on the full spectrum of R&D and its applications in
+engineering, science, medicine, and IT, as well as providing strategic
+programmatic support in order to meet customer goals and objectives.
+Bennett Aerospace is a rapidly growing business focused on hiring and
+retaining the best people. Learn more here
+. View flyer here
+
+.
+
+
+*Bioclinica  is hiring 2 positions*
+Senior Support Engineer
+
+Software Support Specialist
+
+Learn more about Bioclinica here
+.
+
+
+*NC IDEA  Job Opportunities*
+NC IDEA is a private foundation supporting entrepreneurial ambition and
+economic advancement in North Carolina. We fulfill our mission through
+grant and mentorship programs for entrepreneurs, and through our work with
+partner organizations who do similar work.  Learn more at www.ncidea.org.
+
+*Program Manager*
+The Program Manager will be responsible for leading and executing an NC
+IDEA program.  Some of these duties would include:
+=C2=B7  Identifying opportunities to improve and enhance the program
+=C2=B7  Working with our companies participating in the program to manage
+funding requests, identify mentors or partners who can help the company,
+and monitor company progress
+=C2=B7  Working with our external partner organizations to execute programs
+across the state, including selecting new partners, monitoring progress,
+and facilitating connections between these organizations
+=C2=B7  Working with our volunteer mentors and speakers =E2=80=93 schedulin=
+g,
+identifying new mentors, and building a helpful, connected community
+For this position, we require a bachelor=E2=80=99s degree and several years=
+ of
+experience managing programs or projects.  You must be comfortable working
+externally with entrepreneurs, companies, and organizations in the
+entrepreneurial ecosystem.  Experience working at a startup or an
+entrepreneurial support organization would be a plus.  We imagine the ideal
+candidate would currently be a program or project manager at a growth stage
+company or a grant manager at a foundation or non-profit.
+This is a full-time salaried position with benefits.
+
+*Data Specialist/Project Coordinator*
+NC IDEA places a high value on measuring the impact of our grants and
+programs and it is important that we track outcomes achieved by the
+companies we serve.  The data specialist will
+=C2=B7  Work with and improve NC IDEA CRM databases (salesforce and other
+systems)
+=C2=B7  Manage collection of data from our companies and partner organizati=
+ons
+through interviews, surveys, and other external sources
+=C2=B7  Use the data to design and build reports for NC IDEA=E2=80=99s team=
+ and partners
+=C2=B7  Assist in understanding and improving the data
+In terms of time, we estimate this is 33% of the job, but will be the most
+important consideration in hiring for the role.  The remainder of time will
+be assisting the team on various project management tasks such as:
+=C2=B7  Managing the recruitment, intake, and application review of NC IDEA
+companies
+=C2=B7  Assisting the NC IDEA team in engaging with companies, including th=
+e
+management of grant opportunities and assistance
+=C2=B7  Liaison with our outsourced IT team, maintaining our software and
+hardware licenses.
+It may be helpful to know what this position is not: an executive
+assistant, office administrator, salesforce administrator, or data entry
+person.  We are looking for a creative thinker who will do the nuts and
+bolts tasks that make our programs excellent.
+The key qualification for this position is strong technical and data
+analysis skills.  Experience with salesforce is a plus.  Experience working
+at either a startup or a non-profit is a plus.  We imagine the ideal
+candidate may be working with a sales team at a startup or growth company,
+working at a college or university admissions department, or working at a
+non-profit or foundation.  We would consider a recent graduate.
+This is a full-time salaried position with benefits.
+
+***Search Handshake for these positions!*
+
+*Other Opportunities*
+*Microsoft's Student Partners (MSP) program* is open! This program shares
+the latest tech with MSPs and, you can serve as a campus rep for Microsoft.
+The deadline to apply is June 30th. Learn more here
+ and apply
+here . View
+the flyer here
+
+.
+
+*BlackRock=E2=80=99s Fast-Track to FinTech* (see flyer
+
+)
+
+*Program Overview: *An interactive workshop and accelerated interview
+process for female students interested in BlackRock=E2=80=99s tech internsh=
+ip
+opportunities
+
+*Eligibility requirements:* Students who identify as female and are
+graduating between December 2019-June 2020
+
+*Program Dates:* August 17-18, 2018
+
+*Application Deadline: *July 1, 2018
+
+
+
+*BlackRock Founders Scholarship* (see flyer
+
+)
+
+*Program Overview:* A scholarship program and accelerated interview process
+for diverse individuals interested in BlackRock internship opportunities
+across the firm
+
+*Eligibility requirements: *Undergraduate students who identify as Black,
+Hispanic, Native American, LGBTQ+ or disabled and are graduating between
+December 2019-June 2020
+
+*Application Deadline: *August 16, 2018 @ 8:00AM EST
+
+*Bank of America Summer Campus Connect Webcast Series*
+Sign-up for webinars with information on company culture, global markets,
+recruiting information, and interview information. See dates and sign-up
+here
+
+.
+
+Thank you,
+*Catherine Allen*
+Assistant Director & Liaison to Computer Science, UNC-CH
+*University Career Services*
+224 Hanes Hall
+Email: catherine_allen@unc.edu, Tel: 919-843-9533 <(919)%20843-9533>
+
+*Department of Computer Science*
+121 Sitterson Hall
+Tel: 919-590-6034
+<(919)%20590-6034>
+
+<(919)%20590-6034>
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to careers+unsubscribe@cs.unc.edu.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

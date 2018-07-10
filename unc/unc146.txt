@@ -1,0 +1,11 @@
+Folks -- Office hours and Lab sessions start tomorrow (Fri, Aug 21). The
+lab session tomorrow will end 1/2 hour early.
+
+Also, please use both office hours and lab sessions to help you download
+and install jdk and eclipse. We will announce labs for submission starting
+next week.
+
+See the class home page, click on "Labs and Office hours".
+https://jayaikat.web.unc.edu/comp110/office-hours/
+
+To unsubscribe from this group and stop receiving emails from it, send an email to comp110-001+unsubscribe@cs.unc.edu.

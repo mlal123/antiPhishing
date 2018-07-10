@@ -1,0 +1,40 @@
+ 
+Dear Customer :  
+
+Thank you for contacting us about the issue you reported on 05/05/2017 01:28:37 PM. 
+
+We invite you to visit this web address and take a short survey that will provide feedback on your experience with the ITS Service Desk. 
+
+Click here to complete survey
+
+ITS Service Desk
+(919) 962-HELP
+http://help.unc.edu
+
+
+
+
+Summary of Request 
+
+Status:  Successfully Resolved
+First Name:  mangza
+Last Name:  lal
+Request Number:  3457797
+Problem Description:  
+05/05/2017 01:28:38 PM  fss_livechat
+   Chat started: 05/05/2017 1:25:45 PM
+   Chat ended: 05/05/2017 1:28:34 PM
+   
+   Agent ID: zharknes@email.unc.edu
+   Agent Onyen: zharknes
+   Tags: 
+   
+   Zack (1:25:45 PM): Hello Mangza Lal. How may I help you?
+   Mangza Lal (1:25:58 PM): I cannot connect to connectcarolina
+   Mangza Lal (1:26:06 PM): I'm stuck on an endless loop
+   Mangza Lal (1:26:17 PM): of it confirming to sign out or not
+   Mangza Lal (1:26:22 PM): everytime I log in
+   Zack (1:26:37 PM): Okay can you do me a favor and clear the browsers cache?
+   Mangza Lal (1:27:15 PM): how does one do that?
+   Mangza Lal (1:27:42 PM): oh nvm
+   Mangza Lal (1:27:43 PM): got it

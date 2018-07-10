@@ -1,0 +1,45 @@
+Your classmate posted a new Question.=20
+
+BHeap build() input
+
+Can we assume that the array provided as input to the BHeap build() functio=
+n will not contain null indexes?=C2=A0
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Fpi=
+azza.com%2Fclass%3Fcid%3Ditj1wmn3y1z11i%26nid%3Dis6wk5m47ay4zy%26token%3Df2=
+GxNxqCfOm&data=3D01%7C01%7Cmlal123%40live.unc.edu%7C4d385990ffee41c6035008d=
+3e57ec691%7C58b3d54f16c942d3af081fcabd095666%7C1&sdata=3DVU7ty%2F5EYwm30a%2=
+Bgx3a0pj4iNW46Rf%2BNGgke8s6LMMk%3D&reserved=3D0 to view. Search or link to =
+this question with @165. Follow it to get notified when a response comes in=
+: https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Fpiazza=
+.com%2Ffollow%2Fitj1wmn3y1z11i%2Ff2GxNxqCfOm%2F44586f74&data=3D01%7C01%7Cml=
+al123%40live.unc.edu%7C4d385990ffee41c6035008d3e57ec691%7C58b3d54f16c942d3a=
+f081fcabd095666%7C1&sdata=3DvCc08BJWH0GKMgkXcTaeidl1gszf%2BjGh9L%2FUQhRIzOc=
+%3D&reserved=3D0=20
+
+Sign up for more classes at https://na01.safelinks.protection.outlook.com/?=
+url=3Dhttp%3A%2F%2Fpiazza.com%2Func&data=3D01%7C01%7Cmlal123%40live.unc.edu=
+%7C4d385990ffee41c6035008d3e57ec691%7C58b3d54f16c942d3af081fcabd095666%7C1&=
+sdata=3DFQhM%2B3z9Zh28SrVjzUY%2BptlQdd6R6SFwbtyevGDDqmQ%3D&reserved=3D0
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://na01.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Fpiazza.co=
+m%2Flogin&data=3D01%7C01%7Cmlal123%40live.unc.edu%7C4d385990ffee41c6035008d=
+3e57ec691%7C58b3d54f16c942d3af081fcabd095666%7C1&sdata=3DyaZb0puX1pErSXSPKN=
+UC0ViViZt7fH7gLc2alosOBXE%3D&reserved=3D0 to sign in and manage your email =
+preferences or proceed to https://na01.safelinks.protection.outlook.com/?ur=
+l=3Dhttps%3A%2F%2Fpiazza.com%2Fremove%2Ff2GxNxqCfOm%2Fis6wk5m47ay4zy&data=
+=3D01%7C01%7Cmlal123%40live.unc.edu%7C4d385990ffee41c6035008d3e57ec691%7C58=
+b3d54f16c942d3af081fcabd095666%7C1&sdata=3DNDx7E0LnRqLbs%2FQA3uE2Yxq2aim0Kg=
+VWeeA6rE3exE8%3D&reserved=3D0 to un-enroll from this class.=

@@ -1,0 +1,36 @@
+Folks -- This is an important clarification.  In assignment1, we said in #7=
+:
+
+Using an if-else statement, print which team won the game by how much.
+There are three possible scenarios:
+
+a.     if *uncScore* is more than *dukeScore*, print =E2=80=9CUNC won the g=
+ame!=E2=80=9D
+along with the *difference*.
+
+b.     If *uncScore* is less than *dukeScore* print =E2=80=9CDuke won the g=
+ame.=E2=80=9D
+along with the *difference.*
+
+c.      Otherwise, if *uncScore* is equal to *dukeScore* print =E2=80=9CIt =
+was a
+tie.=E2=80=9D  You do not need to print difference.
+
+
+
+And then in the grading rubric, we said:
+*15 points *Your program contains the three if-statements
+
+Sorry for the confusion this has created. We should have written the rubric
+as:
+*15 points *Your program checks for the three scenarios in #7.  How many if
+statements or if-else you use to do this is not being counted. You simply
+need to check for and act upon each of the three scenarios. That's it.
+
+Thanks.
+=E2=80=8B
+
+   1.
+
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to comp110-001+unsubscribe@cs.unc.edu.

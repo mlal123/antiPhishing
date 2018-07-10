@@ -1,0 +1,226 @@
+Find out what's up at Odum this summer
+
+View this email in your browser (https://mailchi.mp/16143f40cb9d/april-new=
+s-updates-1324561?e=3D1da053ce48)
+
+
+** Summer at Odum
+------------------------------------------------------------
+
+
+** Congratulations to all the Tar Heels graduating this weekend!
+------------------------------------------------------------
+Special shoutout to our wonderful work study students Melissa and Akbar. T=
+hank you for all your hard work and congratulations from all the staff her=
+e at Odum.
+
+
+**
+In this newsletter:
+------------------------------------------------------------
+* Staff Member Milestones
+* Walk-in Consulting Summer Schedule
+* Short Course Spotlight - Growth Mixture Models
+* ICPSR Summer Program
+* Qualitative Research Summer Intensive
+* Data Matters: Data Science Short Course Series
+
+
+** Staff Member Milestones
+------------------------------------------------------------
+Congratulations to our staff members hitting big milestones in their caree=
+rs here at UNC-Chapel Hill:
+
+Cathy Zimmer=2C Statistical Analyst - 30 years
+Jon Crabtree=2C Assistant Director of Cyberinfrastructure - 25 years
+
+Thank you for your years of service to the Carolina community and to Odum!
+
+
+** Walk-in Consulting Summer Schedule
+------------------------------------------------------------
+
+
+**
+Stats Desk
+------------------------------------------------------------
+Beginning Monday=2C May 14=2C our statistical consultants will have a new=
+ schedule for walk-in  consulting hours at the Davis Library Research Hub:
+Check out our website (https://unc.us12.list-manage.com/track/click?u=3Ddc=
+6b6f7f1e3fcba719e7ed3b0&id=3D2721c019f6&e=3D1da053ce48) for more inf=
+ormation on our quantitative research support services and resources.
+
+
+**
+Qualtrics
+------------------------------------------------------------
+Our walk-in consultating hours for Qualtrics will remain the same:
+* Wednesdays: 1:00PM - 4:00PM
+* Fridays: 10:00AM - 1:00PM
+
+Please visit our website (https://unc.us12.list-manage.com/track/click?u=
+=3Ddc6b6f7f1e3fcba719e7ed3b0&id=3D458efe73f6&e=3D1da053ce48) for mor=
+e information on Qualtrics consulting.
+
+
+** Short Course Spotlight
+------------------------------------------------------------
+
+
+** Growth Mixture Models: A Structural Equation Modeling Approach
+------------------------------------------------------------
+
+Instructor: Shawn Bauldry=2C Purdue University
+
+The Growth Mixture Model (GMM) is an extension of the Latent Growth Curve=
+ Model (LGCM) that identifies distinct subgroups of growth trajectories an=
+d allows individuals to vary around subgroup-specific mean trajectories.
+
+Conventional growth modeling estimates a single mean intercept and slope f=
+or each individual and variance parameters around the mean intercept and s=
+lope. The GMM relaxes the assumption that all individuals are drawn from a=
+ single population with common parameters by using latent trajectory class=
+es=2C resulting in separate intercepts=2C slopes=2C and variance parameter=
+s for each subgroup.
+
+This three-day workshop will provide training in estimating GMMs to analyz=
+e growth trajectories. Key features of this model are that it can:
+* Identify the number and form of distinct subgroups of growth trajectorie=
+s
+* Estimate the proportion of the population in each subgroup
+* Model predictors of the trajectories and predictors of class membership
+
+In addition to the basic model=2C this workshop will cover several extensi=
+ons=2C such as including a distal outcome predicted by the trajectories=2C=
+ multiple group GMMs=2C and parallel process or joint trajectory models.
+
+This course is a part of the ICPSR Summer Program (https://unc.us12.list-m=
+anage.com/track/click?u=3Ddc6b6f7f1e3fcba719e7ed3b0&id=3D4a338e69db&e=3D=
+1da053ce48) . To register=2C please visit their website (https://unc.u=
+s12.list-manage.com/track/click?u=3Ddc6b6f7f1e3fcba719e7ed3b0&id=3Dbad0dd3=
+a3b&e=3D1da053ce48) .
+* Dates: June 25 - 27
+* Time: 9:00AM - 5:00PM
+* Location: Davis Library Room 219=2C UNC-Chapel Hill
+
+Prerequisites: Participants should be familiar with LGCMs. Familiarity wit=
+h MPlus would be helpful but is not required.
+
+Fee: Members =3D $1500; Non-members =3D $2800
+
+
+** ICPSR Summer Program
+------------------------------------------------------------
+
+This series is presented as a part of the ICPSR Summer Program in Quantita=
+tive Methods of Social Research (https://unc.us12.list-manage.com/track/cl=
+ick?u=3Ddc6b6f7f1e3fcba719e7ed3b0&id=3D3827362f84&e=3D1da053ce48)  i=
+n collaboration with the Inter-university Consortium for Political and Soc=
+ial Research (https://unc.us12.list-manage.com/track/click?u=3Ddc6b6f7f1e3=
+fcba719e7ed3b0&id=3D1e091e9d28&e=3D1da053ce48) (ICPSR).
+
+Rigorous instruction in a range of statistical techniques=2C research meth=
+odologies and data analyses allows attendees to expand their knowledge and=
+ skills in just a few days.
+
+These courses are designed from a social science perspective and welcome p=
+articipants from all social and behavioral science backgrounds.
+
+Visit our website (https://unc.us12.list-manage.com/track/click?u=3Ddc6b6f=
+7f1e3fcba719e7ed3b0&id=3D994d50ada8&e=3D1da053ce48) for more informa=
+tion and the upcoming course schedule.
+
+
+** Qualitative Research Summer Intensive
+------------------------------------------------------------
+Presented by ResearchTalk=2C Inc.=2C (https://unc.us12.list-manage.com/tra=
+ck/click?u=3Ddc6b6f7f1e3fcba719e7ed3b0&id=3D157c38df21&e=3D=
+1da053ce48) in collaboration with the Odum Institute.
+
+QRSI offers a unique opportunity to gain both theoretical and practical un=
+derstanding of qualitative inquiry. The five-day course series covers a ra=
+nge of topics to help you synthesize your data and develop a deeper unders=
+tanding of qualitative research tools.
+
+Join us for five days of qualitative research professional development cou=
+rses and networking opportunities. This year we are introducing seven new=
+ courses and one new instructor!
+
+Visit our website (https://unc.us12.list-manage.com/track/click?u=3Ddc6b6f=
+7f1e3fcba719e7ed3b0&id=3D31dc951bbe&e=3D1da053ce48) for more informa=
+tion.
+Dates:
+July 23 - 17=2C 2018
+
+Times:
+9:30 A.M. - 4:00 P.M.
+
+Location:
+The Carolina Inn
+211 Pittsboro Street
+Chapel Hill=2C NC 27516
+
+
+** Data Matters: Data Science Short Course Series
+------------------------------------------------------------
+
+Dates:
+August 13 - 17=2C 2018
+
+Times:
+10:00 A.M. - 4:00 P.M.
+
+Location:
+James B. Hunt Jr. Library
+Centennial Campus
+North Carolina State University
+
+Data Matters=E2=84=A2 (https://unc.us12.list-manage.com/track/click?u=3Ddc=
+6b6f7f1e3fcba719e7ed3b0&id=3Df0de3416fa&e=3D1da053ce48) is a week-lo=
+ng series of one and two-day courses aimed at students and professionals i=
+n business=2C research=2C and government sponsored by the National Consort=
+ium for Data Science (https://unc.us12.list-manage.com/track/click?u=3Ddc6=
+b6f7f1e3fcba719e7ed3b0&id=3D61c0790516&e=3D1da053ce48)  (NCDS) in co=
+llaboration with North Carolina State University (https://unc.us12.list-ma=
+nage.com/track/click?u=3Ddc6b6f7f1e3fcba719e7ed3b0&id=3D773819c7da&e=3D=
+1da053ce48) =2C RENCI (https://unc.us12.list-manage.com/track/click?u=
+=3Ddc6b6f7f1e3fcba719e7ed3b0&id=3D33982902ae&e=3D1da053ce48)  and th=
+e Odum Institute.
+
+Full course descriptions (https://unc.us12.list-manage.com/track/click?u=
+=3Ddc6b6f7f1e3fcba719e7ed3b0&id=3Dc11c14e048&e=3D1da053ce48) & instr=
+uctor bios (https://unc.us12.list-manage.com/track/click?u=3Ddc6b6f7f1e3fc=
+ba719e7ed3b0&id=3D2435cd5121&e=3D1da053ce48) are available on the Da=
+ta Matters=E2=84=A2 website.
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+** (https://unc.us12.list-manage.com/track/click?u=3Ddc6b6f7f1e3fcba719e7e=
+d3b0&id=3Db29c6256da&e=3D1da053ce48)
+** (https://unc.us12.list-manage.com/track/click?u=3Ddc6b6f7f1e3fcba719e7e=
+d3b0&id=3D5ab0dd41d5&e=3D1da053ce48)
+** (https://unc.us12.list-manage.com/track/click?u=3Ddc6b6f7f1e3fcba719e7e=
+d3b0&id=3D64360c2df8&e=3D1da053ce48)
+Copyright =C2=A9 The Odum Institute=2C All rights reserved.
+ You are receiving this email because you opted into receiving our mailing=
+s.
+
+Our mailing address is:
+The Odum Institute
+208 Raleigh Street
+Davis Library Suite 228 Campus Box 3355
+Chapel Hill=2C NC 27599-3355
+USA
+
+Contact us:
+Phone: (919) 962-3061
+Email: oduminstitute@unc.edu
+
+Want to change how you receive these emails?
+You can ** update your preferences (https://unc.us12.list-manage.com/profi=
+le?u=3Ddc6b6f7f1e3fcba719e7ed3b0&id=3D09dc111e06&e=3D1da053ce48)
+or ** unsubscribe from this list (https://unc.us12.list-manage.com/unsubsc=
+ribe?u=3Ddc6b6f7f1e3fcba719e7ed3b0&id=3D09dc111e06&e=3D1da053ce48&c=3D8ddef1=
+08e1)
+=2E

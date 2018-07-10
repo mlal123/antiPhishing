@@ -1,0 +1,23 @@
+
+Hey there, we=E2=80=99re just writing to let you know that you=E2=80=99ve b=
+een automatically subscribed to a repository on GitHub.
+
+    swimit/swim-js
+    Swim JavaScript development tooling
+    https://github.com/swimit/swim-js
+
+You=E2=80=99ll receive notifications for all issues, pull requests, and com=
+ments that happen inside the repository. If you would like to stop watching=
+ this repository, you can manage your settings here:
+
+    https://github.com/swimit/swim-js/subscription
+
+You can unwatch this repository immediately by clicking here:
+
+    https://github.com/swimit/swim-js/unsubscribe_via_email/AQKbX6jHBvR6okH=
+k4jJKwK7bV6cOOM2Tks5tR2KRgaJpZM4GUfdM
+
+You were automatically subscribed because you=E2=80=99ve been given access =
+to the repository.
+
+Thanks!

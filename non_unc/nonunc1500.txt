@@ -1,0 +1,96 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+Adept Lighten  (2/12/16 12:34 AM)
+
+So I initially wrote out my code for the lighten method like this
+
+public Pixel lighten(double factor){  Pixel whitePixel =3D new ColorPixel(1=
+,1,1);  Pixel.blend(whitePixel, (1-factor)); return new ColorPixel(newRed, =
+newGreen, newBlue);}
+It takes issue with the last two lines. I can't figure out how to pass the =
+pixel that the lighten method is working on to also go through the internal=
+ blend method (I tried "Pixel" cause that's the type the lighten method is =
+supposed to output=E2=80=A6 but I guess that's not the same as what it's re=
+ady to take as input). I figure it'll return a ColorPixel like blend, but I=
+'m not sure if I have to reset the red, blue and green values here individu=
+ally like I did in the blend method.
+
+Go to https://piazza.com/class?cid=3Dikj9fas3ezm41i&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Midterm 1: Study Program  (2/12/16 12:47 AM)
+
+I made a Java Project to help study for the midterm (midtermReviewV1.2.jar)
+
+You can run the program by compiling the Play.java file. =C2=A0
+
+It's still in it's beginning phase. =C2=A0There are only about 47 practice =
+questions on there right now straight from the practice midterms.
+
+Each problem is worth a different amount of points. =C2=A0True/False questi=
+ons are 5 points and Short answer questions are 25 points. =C2=A0
+
+Updates will come this weekend.
+
+If you would like to add practice questions, please send me a plain text (.=
+txt) document with the questions in the same format as in the data director=
+y=C2=A0of the project. =C2=A0
+
+As always, please let me know of any bugs and/or errors. =C2=A0:)
+
+
+
+
+
+Go to https://piazza.com/class?cid=3Dikj9w9m2jx36j0&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+About JavaBean Convention  (2/12/16 1:12 AM)
+
+
+Can anyone kind explain to me what is the exact definition of getters and s=
+etters follow JavaBeans convention?
+
+
+Go to https://piazza.com/class?cid=3Dikjarsquv173rn&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Recitation switch  (2/12/16 2:51 AM)
+
+I was wondering if i was unable to make it to my normal recitation time if =
+i could go to a later one and it would be okay or if that would cause troub=
+le. Its only for this one time and i was thinking of going to the recitatio=
+n at 1:25, is it at f007 still?
+
+Go to https://piazza.com/class?cid=3Dikjeaolnxbi6bi&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

@@ -1,0 +1,434 @@
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.pslongeditbox
+	{mso-style-name:pslongeditbox;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1886865372;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-51986612 67698703 67698713 67698715 67698703 676987=
+13 67698715 67698703 67698713 67698715;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1
+	{mso-list-id:2094887973;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1728117928 1922607070 67698713 67698715 67698703 676=
+98713 67698715 67698703 67698713 67698715;}
+@list l1:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-weight:bold;}
+@list l1:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+
+
+
+Greetings, Freshmen!
+ 
+I hope you are all doing well, and that you’re=
+ looking forward to your second semester here at UNC.  I realize that =
+many of you are still trying to finalize your Spring 2016 schedule, so I th=
+ought I would highlight some great English and
+ Comparative Literature courses that are perfect for first-year students an=
+d still have several open spots.  Some of these were opened after you =
+registered for Spring, so it’s unlikely they are on your radar as opt=
+ions for the coming term.  Below you’ll find
+ scheduling information and course descriptions for:
+ 
+1.     &=
+nbsp;
+CMPL 143-001, History of Global Cinema
+2.     &=
+nbsp;
+ENGL 087-002, First-Year Seminar: Jane Austen, Then=
+ and Now
+3.     &=
+nbsp;
+ENGL 89H-002, First-Year Seminar: Special Topics
+4.     &=
+nbsp;
+ENGL 123-003, Introduction to Fiction
+5.     &=
+nbsp;
+ENGL 142-001, Film Analysis
+6.     &=
+nbsp;
+ENGL 146-003, Science Fiction/Fantasy/Utopia
+7.     &=
+nbsp;
+ENGL 225-003, Shakespeare
+8.     &=
+nbsp;
+ENGL 282-001 Travel Literature
+ 
+I hope this information is helpful to you as you con=
+tinue to finalize your Spring plans.  I look forward to seeing everyon=
+e back on campus next week! 
+
+ 
+ 
+-Tara Cowan
+Undergraduate Programs Assistant
+Department of English & Comparative Literature <=
+o:p>
+UNC Chapel Hill
+&nbs=
+p;
+&nbs=
+p;
+1.     =
+; 
+CMPL 143-001, History of Global Cinema
+MW 3:35-6:25 with recitat=
+ion (meetings are longer because films are screened in class)
+Peabody 104
+Professor Rick Warner
+General Education Requirements: VP – Visual or Performing Arts=
+; GL – Global Issues
+Description: =
+ This course will take you on a journey through the history of global cinem=
+a from its origins to the present. We will closely examine several of the m=
+ost groundbreaking and influential movements
+ in film history, including: German expressionism; Soviet montage; film noi=
+r in classical Hollywood; Italian neorealism; "new waves" in post=
+-World War II Europe and beyond; politically militant cinema of Latin Ameri=
+ca and Sub-Saharan Africa; popular and art-house
+ Indian cinema; transnational blockbusters; East Asian martial arts genres;=
+ emergent Middle Eastern cinemas; and more. We will undertake a comparative=
+ study of these cinematic traditions and contexts, with an eye to exploring=
+ their aesthetic, cultural, and
+ political interrelations.    
+Students enrolling in CMP=
+L 143 must also enroll in one recitation section numbered CMPL 143-601 thro=
+ugh 143-604.
+ 
+ 
+2.     =
+; 
+ENGL 087-002, First-Year Seminar: Jane Au=
+sten, Then and Now
+Tuesday/Thursday 3:30-4:4=
+5
+Greenlaw 319
+Professor Jeanne Moskal
+General Education Requ=
+irements: VP – Visual or Performing Arts
+Description: In th=
+is section of English 87, students will reflect on a startling feature of J=
+ane Austen’s career: her most popular novel,
+Pride and Prejudice (1813), was quickly followed by her least popula=
+r, the problematic
+Mansfield Park (1814). What happened? Our shared investigation will =
+be founded on (1) careful reading of the novels; (2) exploration of real-li=
+fe analogues to Austen’s situations and characters; (3) discerning th=
+e Regency literary conventions that Austen
+ uses and ignores; and (4) discovering what readers, then and now, have exp=
+ected of heroines, as registered in these two novels’ literary and ci=
+nematic afterlives.
+This research-exposure co=
+urse meets the General Education requirement for VP (Visual and Performing =
+Arts).  
+Print texts include: Jane=
+ Austen, 
+Mansfield Park; Jane Austen, Pride and Prejudice; Jo Baker, L=
+ongbourn; Paula Byrne,
+Belle: The Slave Daughter and the Lord Chief Justice; and Elizabeth =
+Inchbald,
+Lovers’ Vows. Cinematic texts include: Mansfield Park, =
+dir. Rozema (1999);
+Pride and Prejudice, dir. Leonard (1940); and Belle, d=
+ir. Asante (2013).
+ 
+&nbs=
+p;
+3.     =
+; 
+ENGL 89H-002, First-Year Seminar: Special=
+ Topics*
+Tuesday, Thursday 9:30-10=
+:45
+Greenlaw 317
+Professor Florence Dore
+*You do not need to be an=
+ honor student to enroll in this course.  If you have a 3.0 GPA, you a=
+re qualified to take this class!
+
+General Education Requ=
+irements: LA – Literary Arts; CI – Communication Intensive<=
+o:p>
+Description: From =
+Scotty's wandering on the streets of San Francisco in Alfred Hitchcock's Ve=
+rtigo to Oedipa Maas's obsessive California trek in The Crying of Lot 49, p=
+ostwar filmmakers and authors frequently
+ employ the allegory of the lost driver on the road.  The Federal Aid =
+Highway Act of 1956 provided 25 billion dollars to create 41,000 miles of i=
+nterstate highways over the next twenty years.  In this course, we wil=
+l examine the contemporary problem Jack Kerouac's
+ On the Road famously encapsulated when it was published in 1957: what happ=
+ens to literary meaning in an age of unprecedented mobility?  In the e=
+arly 1960s the cultural critic Marshall McLuhan argued that highways and te=
+chnology were shrinking space by decreasing
+ the amount of time between points on the globe.  In such an environme=
+nt, postwar critics suggested, Americans became ungrounded, and literature =
+was becoming outmoded as film and popular music came to dominate.  Thi=
+s course examines the contemporary American
+ novel in this context.  Should we understand the American novel as a =
+"literature of exhaustion," to use the novelist's John Barth's te=
+rm?  Do Flannery O'Connor's novel-like short stories exhibit a need fo=
+r brevity in a world in which novels no longer seem
+ to fit?  Does the contemporary novel's obsession with rock and roll--=
+in writing by John Jeremiah Sullivan, Jonathan Lethem, and Dana Spiotta, to=
+ name a few--indicate that the novel has at last caved in, has become a med=
+ia form in its own right?  Or is it the
+ reverse: has the novel's staying power allowed literature to dominate even=
+ in a media-saturated present?  Our goal in answering all of these que=
+stions will be to analyze changes to the novel form as highways and other t=
+echnological developments altered the
+ American cultural landscape.
+
+
+
+4.     =
+; 
+ENGL 123-003, Introduction to Fiction=
+
+Mondays and Wednesdays, 3=
+:35-4:50
+Greenlaw 222
+Instructor Jameela Dallis=
+
+General Education Requ=
+irements: LA – Literary Arts
+Description: Intro=
+duction to Fiction: Love, Magic, and Fascination: This course explores them=
+es of love, magic, and fascination in a variety of contexts and places (fro=
+m the Caribbean to Appalachia to post-apocalyptic
+ societies) through a selection of novels and short stories. Authors includ=
+e Louise Erdrich, Charlotte Bront=EB, Octavia Butler, Kazuo Ishiguro, Randa=
+ll Kenan, Jean Rhys, Lee Smith, and Yevgeny Zamyatin.
+ 
+&nbs=
+p;
+5.     =
+; 
+ENGL 142-001, Film Analysis
+Tuesday/Thursday 2:00-3:5=
+0 with recitation meetings Tuesday/Thursday 4:00-4:50 (meetings are long be=
+cause films are screened in class)
+Murphey 116
+Professor Todd Taylor
+General Education Requ=
+irements: VP – Visual or Performing Arts
+Description: This =
+course offers an introduction to the technical, formal, and narrative eleme=
+nts of the cinema.
+        &nbs=
+p;       
+&nbs=
+p;
+6.     =
+; 
+ENGL 146-003, Science Fiction/Fantasy/Uto=
+pia
+Monday/Wednesday/Friday, =
+9:05-9:55
+Bingham 317
+Instructor Vaughn Stewart=
+
+General Education Requ=
+irement: LA, Literary Arts
+Description: Readi=
+ngs in and theories of science fiction, utopian and dystopian literatures, =
+and fantasy fiction.
+ 
+&nbs=
+p;
+7.     =
+; 
+ENGL 225-003, Shakespeare<=
+/b>
+Tuesday/Thursday, 9:30-10=
+:20 and required recitation
+Hanes Art Center, 121
+Professor Megan Matchinsk=
+e
+General Education Requ=
+irements:
+LA – Literary Arts; NA
+– North Atlantic World; WB – The World Before 1750
+Description: 
+For centuries, artists have been performing and rewriting the pl=
+ays of William Shakespeare. Of late the big screen has become a preeminent =
+site for such adaptation. From low budget parodies like Billy Morrissette's=
+ campy 2002 comic portrayal of Macbeth,
+ Scotland, PA, to more "faithful" productions like Branagh's BBC =
+supported and Royal Shakespeare Company-cast Henry V, popular film has embr=
+aced Shakespearean theater as its own. This course will engage that passion=
+ to the fullest, examining nine Shakespeare
+ plays and their modern cinematic equivalents.
+Students will be asked to=
+ attend several night viewings of the films. Format: Lecture and recitation=
+. Requirements: three papers (4-6 pages); weekly quizzes; final exam.<=
+/o:p>
+Students enrolling in thi=
+s section of ENGL 225 must also enroll in one recitation section numbered E=
+NGL 225-601 through ENGL 225-606.
+ 
+ 
+8.     =
+; 
+ENGL 282-001 Travel Literature=
+
+Tuesday/Thursday 3:30-4:4=
+5
+Dey 313
+Marsha Collins=
+
+General Education Requ=
+irements: LA – Literary Arts; GL – Global Issues=
+
+Description: Come =
+along on the journey! Pilgrimage has many definitions, including a long jou=
+rney, life considered as a journey, or a journey to a sacred place as an ac=
+t of religious devotion, and so forth. 
+ What the diverse definitions seem to share is the concept of a transformat=
+ive journey, whether that journey is literal or figurative, undertaken by c=
+hoice, which involves dramatic change of self and community, and is usually=
+ tied to a profound spiritual experience
+ of some sort.  We will explore transformative journeys in works from =
+different times, places, and cultures, including Apuleius' Golden Ass, Cerv=
+antes' Persiles, Basho's Journey to the Far North, and Woolf's Orlando, as =
+well as the movies The Way and Like Water
+ for Chocolate.
+ 
+ 
+
+
+

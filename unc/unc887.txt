@@ -1,0 +1,50 @@
+Shoeboxed  is a local tech startup based
+out American Underground@Main in Durham. We're currently looking for some
+bright talent to work for us as a *Senior Software Engineer/Director of
+Software Engineering. *
+
+
+
+We're looking for an experienced software engineer to build and refine our
+one-of-a-kind web and mobile apps. They would lead our development team and
+play a critical role in the ideation, production and execution of our
+software. Ideally we're looking for someone who knows at least 1-2 modern
+languages (such as Python, Scala, Ruby, Go, Elixir, and/or Java/Spring
+Framework) as well as older languages. Machine learning experience would be
+a huge plus, but not required.
+
+
+
+*Responsibilities: *
+
+   - Work on the JSON API that powers the mobile and web app. It's written
+   in Scala and talks to internal services that are written in Go, Python and
+   Java
+   - Work on the iOS and Backbone.js frontends
+   - Lead the greenfield development on new apps and concepts built on
+   machine learning work that we have developed over the past few years
+
+*Required Qualifications:*
+
+   - 5+ years combined Python, Scala, Ruby, Go, Elixir, and/or Java/Spring
+   Framework
+   - 5+ years relational database experience
+   - Agile teamwork experience or strong desire to work on an agile team
+   - Fluency with HTTP, JSON & experience consuming & designing RESTful web
+   services
+   - Git experience
+
+*Bonus Points For: *
+
+   - Machine learning experience.
+   - Web scraping experience.
+   - Mac OS X / Unix / Linux user with command-line experience.
+
+A little more about the position we have available (and here is the link to
+our careers  page):
+
+-- 
+To unsubscribe from this group and stop receiving emails, visit the group page linked below and go to "my settings (top right), leave this group."
+--- 
+You received this message because you are subscribed to the Google Groups "Careers" group.
+Visit this group at http://groups.google.com/a/cs.unc.edu/group/careers/.

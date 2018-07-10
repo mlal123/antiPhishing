@@ -1,0 +1,91 @@
+
+
+
+<!-- P {margin-top:0;margi=
+n-bottom:0;} -->
+
+
+
+It keeps giving me this and I haven't been able to use Tim at all since,=
+ 
+"The HTML Framework has detected an exception in the application tha=
+t you are attempting to access. The exception has not been caught; the appl=
+ication has failed to load. Please contact
+ your system administrator."
+
+
+
+
+From: Lal, Mangza
+Sent: Monday, February 8, 2016 10:57 AM
+To: Beth E Mayo
+Subject: Re: missing punch in TIM
+ 
+
+
+
+Oh yes! Hi I couldn't clock out because Tim gave me some runtime error a=
+nd I couldn't clock out at all. I finished work around 6:30
+
+
+
+
+From: Beth E Mayo <bethm=
+@cs.unc.edu>
+Sent: Monday, February 8, 2016 9:02 AM
+To: Mangza Lal
+Subject: missing punch in TIM
+ 
+
+
+Hi Mangza -
+
+
+Looks like you didn't clock out when you left work on Friday, 2/5.&nbs=
+p; I have one punch for you at 4:29 pm.  Can you please let me know AS=
+AP what to put in for you so I can fix your time card?
+
+
+Thanks,
+
+
+Beth
+
+
+-- 
+
+
+
+
+
+
+
+
+
+
+Beth Mayo | Hum=
+an Resources Specialist
+
+UNC Chapel Hill - Department of Computer Science CB 3175
+SN149 | Sitterson Hall | Chapel Hill, NC 27599 | 919.590.6100=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+Hi Mangza" "lal,
+
+Your Midterm Exam for COMP 410, Fall 2016 has been graded! You can access your graded submission using the link below.
+
+There were 34 points to be earned on this part:
+Q26: 8
+Q27a: 8
+Q27b: 8
+Q28: 10
+
+Your score on this part will appear in Sakai as a percentage.
+Your scantron section will also appear in Sakai as a percentage, and I will send another email when that is entered explaining how to arrive at a "total" midterm grade.
+
+View your graded work:
+
+https://gradescope.com/courses/5021/assignments/14757/submissions/1559902
+
+If you have never logged in to this site before, you can set your password using the following link. The login for your Gradescope account is mlal123@live.unc.edu.
+
+https://gradescope.com/password_resets/t9CJvIgVdk1Fvl9Jj2FVBg/edit
+
+If you have any problems accessing the site, please contact help@gradescope.com.
+
+Statistics:
+  Minimum: 11.0
+  Maximum: 34.0
+  Mean: 29.32
+  Median: 31.0
+  Standard Deviation: 4.12
+
+Your COMP 410 Instructor,
+
+David Stotts

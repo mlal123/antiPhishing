@@ -1,0 +1,106 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+Grading question  (2/03/16 10:42 AM)
+
+On the syllabus, it says that late assignments are only eligible for a maxi=
+mum of 50% credit... So if, on A2 for example, you successfully complete ad=
+ept and novice, but not jedi, and you submit what you have and get the 8/10=
+... Can you submit after the due date if you finish jedi and end up with 9/=
+10 -- 8/10 + 50% of points from jedi? Or would your grade be dropped to a 5=
+/10 since you submitted the completed assignment late?
+
+Go to https://piazza.com/class?cid=3Dik706pbb9gh5rg&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Where can we find sample midterm exams?  (2/03/16 10:48 AM)
+
+Will there be any sample exams/past exams to look at for midterm 1?
+
+Go to https://piazza.com/class?cid=3Dik70e5zyifz7mt&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Opening the lecture code  (2/03/16 11:51 AM)
+
+I am unsure why it is happening, but I cannot access your lecture code. I h=
+ave a JRE, yet I cannot open any jar file. I am not sure if this is somethi=
+ng that is wrong on my end, however I can see this being a problem in the f=
+uture.
+
+Go to https://piazza.com/class?cid=3Dik72ms9ddf31ye&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A3 and declaring objects  (2/03/16 12:17 PM)
+
+I am a little confused about declaring objects using interfaces. Is the typ=
+e of the object the interface name or the name of the class that implements=
+ the object?
+
+Thanks!
+
+Go to https://piazza.com/class?cid=3Dik73kfushme1ch&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 adept  (2/03/16 1:04 PM)
+
+I see no need for a 2d array in this part, can this be done with a basic ar=
+ray?
+
+Go to https://piazza.com/class?cid=3Dik75876rd5121u&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+a2 jedi  (2/03/16 1:13 PM)
+
+is each=C2=A0asterisk an individual row?
+
+Go to https://piazza.com/class?cid=3Dik75k82o2w1ry&nid=3Dihs2fbbhsfx37n&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Opening Lecture Code  (2/03/16 1:53 PM)
+
+Has anyone else had trouble opening the jar files of lecture code? They'll =
+download on my laptop, but when I try to open it, I get an error message th=
+at it's from an unidentified developer and I can't open the file.=C2=A0
+
+Go to https://piazza.com/class?cid=3Dik7700hx7ce21o&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Auto Grader  (2/03/16 2:25 PM)
+
+What time on the hour is the auto grader grading?
+
+Go to https://piazza.com/class?cid=3Dik785gj9wpx5vi&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

@@ -1,0 +1,5 @@
+Folks -- As you install jdk (instructions are in the link in assignment0),
+please install jdk 7 and NOT jdk 8. Let us know if you have any questions.
+Thanks.
+
+To unsubscribe from this group and stop receiving emails from it, send an email to comp110-001+unsubscribe@cs.unc.edu.

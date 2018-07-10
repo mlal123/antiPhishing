@@ -1,0 +1,75 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+Pointers  (10/10/16 11:48 PM)
+
+I am having a bit of trouble understanding the syntax of a pointer and what=
+ we can and can't do. When we define a pointer as "int *p" but then we say =
+p =3D &i (assuming i is some variable defined somewhere in memory) does p =
+=3D the dereferenced i (because p was defined as a pointer) or is *p =3D to=
+ the dereferenced i and p =3D the address of i?=C2=A0
+
+Sorry if this is a confusing question. I can clear parts of it up of someth=
+ing is unclear.=C2=A0
+
+Go to https://piazza.com/class?cid=3Diu4y6t11tek1p&nid=3Dirqp4hpe58u5rs&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Is lecture 8 on the exam  (10/11/16 1:52 AM)
+
+So I know transistors are not included in the midterm. Does the content in =
+lecture 8 included, since it's not about transistors?
+
+Go to https://piazza.com/class?cid=3Diu52lne22jw4fl&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Quizlets!  (10/11/16 3:23 AM)
+
+Depending on what class you're in, there's 12+ hours left to study! As we k=
+now, sleep is for the weak (or better prepared...), so I present to you my =
+set of Quizlets I made for this exam. Definitions are exact quotes from lec=
+tures or the textbook, wherever possible. I did include some stuff on trans=
+istors, so if you think that won't be on the exam, then of course don't swe=
+at it too much. Additionally, there are no formulas, equations, etc. on her=
+e or basically anything that I assumed most people would put on their cheat=
+ sheet and thus would not need to memorize, etc.
+
+Basics (Ch. 1 textbook; what is a silicon wafer, what is throughput, etc.)
+Representation + Other (Ch. 2 mostly; how do we encode information; von Neu=
+mann computers; C (de)referencing; etc.)
+MIPS (what is MIPS; how do its instructions work; operand / instruction for=
+mat types; etc.)
+Transistors (what is a digital system; parallel vs. series circuits; combin=
+ational vs. sequential; etc.)
+All (combination of all of the above, i.e. no new flash cards included here=
+, just for convenience)
+
+Go to https://piazza.com/class?cid=3Diu55v3nkgjf5s&nid=3Dirqp4hpe58u5rs&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

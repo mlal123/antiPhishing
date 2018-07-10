@@ -1,0 +1,20 @@
+Your classmate posted a new Question. 
+
+p.605 CLRS Depth First question
+
+Node x is visited, turned grey, then turned black. Time is 4 and Final time is then 5. That makes sense after following the algorithm up till that point. But then, why is node 'y' visited next and turned black? I don't understand.
+
+Go to https://piazza.com/class?cid=j8xepp8qmgg7bu&nid=j6mrr1h4rm42m4&token=f2GxNxqCfOm to view. Search or link to this question with @111. Follow it to get notified when a response comes in: https://piazza.com/follow/j8xepp8qmgg7bu/f2GxNxqCfOm/8991b9d8 
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 550.02 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/j6mrr1h4rm42m4 to un-enroll from this class.

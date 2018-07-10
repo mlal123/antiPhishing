@@ -1,0 +1,59 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+RunTests  (10/03/16 2:47 PM)
+
+No matter what I do runTests does not work. =C2=A0My package is named corre=
+ctly and I followed the steps to put in the localchecks Jar as usual(includ=
+ing buildpath). =C2=A0I always get "Assignment3Suite cannot be resolved" =
+=C2=A0as if the jar and build path are not correct. =C2=A0
+
+Go to https://piazza.com/class?cid=3Dituerfwzx7n6h3&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+binary heap v.s minimum binary heap  (10/03/16 2:56 PM)
+
+Is there a difference between binary heap and a minimum binary heap?
+
+Seems like both are BST with the following properties:
+1) a node's child is always larger than the node;
+2) the BST is complete (each node except the leaves have both left and righ=
+t child)
+
+Go to https://piazza.com/class?cid=3Dituf477imd2c&nid=3Dis6wk5m47ay4zy&toke=
+n=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Where to start  (10/03/16 3:52 PM)
+
+Which method is the best to start with?
+
+Go to https://piazza.com/class?cid=3Dituh33u73f32pf&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

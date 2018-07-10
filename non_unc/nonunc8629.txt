@@ -1,0 +1,60 @@
+=C2=A0=0D=0A[Your first week on Coursera. Become an expert with a Specializ=
+ation... ]=0D=0A=0D=0ACOURSERA 101: GETTING STARTED=0D=0AMaster the skill=
+s you need in a Specialization=0D=0AA Specialization is a focused sequence =
+of 3 or more courses, designed to =0D=0Ahelp you master the skills you need=
+ to get ahead in your career. Each =0D=0Aseries includes hands-on projects =
+and culminates in a Specialization =0D=0ACertificate.=0D=0APopular in Data =
+Science=0D=0A[Data Science]=0D=0AData Science=0D=0A=0D=0A10 courses | Johns=
+ Hopkins University=0D=0A=0D=0ABuild foundational data science skills in th=
+is hands-on introduction to R, =0D=0Amachine learning, and more.=0D=0A=0D=
+=0A=0D=0AEnroll Now=0D=0A=0D=0A[Business Analytics]=0D=0AB=
+usiness Analytics=0D=0A=0D=0A5 courses | The Wharton School of the Universi=
+ty of Pennsylvania=0D=0A=0D=0AMake data-driven marketing, HR, finance, and =
+operations decisions.=0D=0A=0D=0A=0D=0AEnroll Now=0D=0A=0D=0A[ML]=0D=0AMachine Learning=0D=0A=0D=0A4 courses | University of Wa=
+shington=0D=0A=0D=0AFit models, analyze data, and build an end-to-end pract=
+ical machine =0D=0Alearning applications.=0D=0A=0D=0A=0D=0AEnroll Now=0D=0A=0D=0A[Stats]=0D=0AStatistics with R=0D=0A=0D=0A5 courses =
+| Duke University=0D=0A=0D=0APerform frequentist and Bayesian statistical i=
+nference and modeling in R.=0D=0A=0D=0A=0D=0AEnroll Now=0D=0A=0D=0APopular=
+ in Business=0D=0A[Business Foundations]=0D=0ABusiness Foundations=0D=0A=0D=
+=0A6 courses | The Wharton School of the University of Pennsylvania=0D=0A=
+=0D=0ADevelop basic literacy and skills in marketing, finance, accounting, =
+and =0D=0Aoperations.=0D=0A=0D=0A=0D=0AEnroll Now=0D=0A=0D=0A[Project Management]=0D=0AIntroduction t=
+o Project Management=0D=0APrinciples and Practices=0D=0A=0D=0A4 courses | U=
+C Irvine=0D=0A=0D=0ACoordinate and scope complex projects; fufill PMI educa=
+tion requirements.=0D=0A=0D=0A=0D=0AEnroll Now=0D=0A=
+=0D=0A[Marketing]=0D=0ADigital Marketing=0D=0A=0D=0A6 courses | University =
+of Illinois at Urbana-Champaign=0D=0A=0D=0AStrategic planning and analytics=
+ for digital marketing channels.=0D=0A=0D=0A=0D=0AEnroll Now=0D=0A=0D=0A[Leading]=0D=0ALeading People and Teams=0D=0A=0D=0A5 course=
+s | University of Michigan=0D=0A=0D=0AInspire, motivate, and influence indi=
+viduals and groups.=0D=0A=0D=0A=
+=0D=0AEnroll Now=0D=0A=0D=0APopul=
+ar in Computer Science=0D=0A[Python]=0D=0APython for Everybody=0D=0A=0D=0A5=
+ courses | University of Michigan=0D=0A=0D=0AGet a beginner-friendly introd=
+uction to programming and processing data in =0D=0APython.=0D=0A=0D=0A=0D=0AEnroll Now=0D=0A=0D=0A[Java Programming]=0D=0AJava Programming=0D=0Aand Software En=
+gineering Fundamentals=0D=0A=0D=0A5 courses | Duke University=0D=0A=0D=0ALe=
+arn how to build scalable products in this introduction to software =0D=0Ad=
+evelopment.=0D=0A=0D=0A=0D=0A=
+Enroll Now=0D=0A=0D=0A[Data E=
+ngineering]=0D=0AData Engineering on Google Cloud Platform=0D=0A=0D=0A5 cou=
+rses | Google=0D=0A=0D=0AGain practical, hands-on machine learning and big =
+data experience.=0D=0A=0D=0A=0D=0AEnroll Now=0D=0A=0D=0A[Full Stack]=0D=0AFull Stack Web and=0D=0AMultiplatfo=
+rm Mobile App Development=0D=0A=0D=0A5 courses | Hong Kong University of Sc=
+ience and Technology=0D=0A=0D=0AMaster frameworks like Bootstrap and Angula=
+r to be a versatile web =0D=0Adeveloper.=0D=0A=0D=0A=0D=0AEnroll Now=0D=0A=0D=0APopular=
+ in Social Science=0D=0A[Psychology]=0D=0AFoundations of Positive Psycholog=
+y=0D=0A=0D=0A5 courses | University of Pennsylvania=0D=0A=0D=0APractice res=
+earch-based skills and exercises to increase well-being.=0D=0A=0D=0A=0D=0AEnroll Now=0D=0A=0D=0A[English]=0D=0AAcademic English=
+=0D=0A=0D=0A5 courses | University of California, Irvine=0D=0A=0D=0APrepare=
+ for university and professional-level writing and research.=0D=0A=0D=0A=0D=0AEnroll Now=0D=0A=0D=0AExplore All Courses=0D=0A=0D=0ALearner Outcome=0D=0A=E2=80=9CI stated on my CV that I had exper=
+ience in regression modelling and =0D=0Acluster analysis, could code in R a=
+nd SAS, and had trained younger staff - =0D=0Aalmost all of this was as a d=
+irect result of the Coursera courses I'd =0D=0Ataken. A week later an agenc=
+y called and said they'd love to take me on =0D=0Awith a flexible schedule =
+and for more than double my previous salary.=E2=80=9D=0D=0A=0D=0ACharlotte =
+S., UK=0D=0AData Science Specialization=0D=0A=0D=0AJohns Hopkins University=0D=0AConnect with Coursera=
+=0D=0A[FB]=0D=0A =09=0D=0A[Twitter]=0D=0A =09=0D=0A[LI=
+]=0D=0A=0D=0ADownload the Apps=0D=0A[iOS]=0D=0A =09=0D=0A[Android]=0D=0A=0D=0ALearner Help Center  |  =0D=0A =0D=
+=0APrivacy Policy  |  =0D=0A =0D=0AEmail Settings  |  =
+=0D=0A =0D=0AUnsubscribe=0D=0A=0D=0A=0D=0ACopyright 2017 Coursera | 3=EF=BB=BF=
+81 E. E=EF=BB=BFvelyn A=EF=BB=BFve, M=EF=BB=BFountain V=EF=BB=BFiew, C=EF=
+=BB=BFA 9=EF=BB=BF4041 =0D=0AU=EF=BB=BFSA

@@ -1,0 +1,71 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Arrays Program suspends and won't end itself  (10/01/15 10:33 AM)
+
+So in class today we did this code:
+
+public class arrays {public static void main(String[] args){  int[] myArray=
+ =3D new int[3];  myArray[0] =3D 12; myArray[1] =3D 25; myArray[2] =3D 50; =
+int j =3D 0;  for (int i =3D 0; 1 < myArray.length; i++){  j =3D i*10; Syst=
+em.out.println(myArray[i] + " " + j);}}}Whenever I run this code, a window =
+pops up that says "confirm perspective swtich" where it basically says this=
+ kind of launch is configured to open when it suspends."Why is my program s=
+uspending and not terminating?
+
+Go to https://piazza.com/class?cid=3Dif8bnt507z4yn&nid=3Didk60wfq88174f&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Game Over Phrase Placement (Assignment 2)  (10/01/15 10:51 AM)
+
+In Assignment 2, the directions say to print "Game Over" after the last att=
+empt at the story has been completed. Does this mean we should put the "Gam=
+e Over" phrase outside of the loop=C2=A0that causes the game to repeat? My =
+output looks like the sample output, but I want to be sure that I have it i=
+n the right place.
+
+Go to https://piazza.com/class?cid=3Dif8cast4z5e4tx&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Assignment 2 Question  (10/01/15 11:06 AM)
+
+Hi there,
+
+At the beginning of the program, I'm finding that I have to input twice bef=
+ore the first path is taken (Story A to B, E, or H).
+
+If that isn't descriptive enough, essentially I've declared the scanner key=
+board, and set up nested if-else statements for the path. The paths work wi=
+th the correct input, however, the program the first integer. Are there any=
+ thoughts as to why this is happening? I'm just trying to make the very fir=
+st input on the keyboard begin the story.
+
+Go to https://piazza.com/class?cid=3Dif8cu15m7h11z5&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

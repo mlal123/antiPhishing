@@ -1,0 +1,25 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 435 on Piazza:
+
+------------------------------------------------------------
+unable to see the password in wireshark for task 1b  (12/06/17 1:17 AM)
+
+I have tried looking in both the eth13 and lo interfaces but I cannot seem to find the password for task 1b. In lo none of the packets appear and in eth13 when i right click to follow the tcp stream none of the packets seem to be what I am looking for. Could anyone help me with this?
+
+Go to https://piazza.com/class?cid=jaunvzw2sa7636&nid=j5vi9cpw2jn336&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 435 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/j5vi9cpw2jn336 to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2GxNxqCfOm

@@ -1,0 +1,42 @@
+Instructor Connor Hamlet posted a new Note.=20
+
+Two Notes: Sniffing and Spoofing
+
+Thank you for the good questions. A correction on the assignment:
+
+For task 2b.) You should only spoof an ICMP request from a valid IP other t=
+han your own, to a live server (such as google.com). You do not have to see=
+ a response from the server because the server's response is sent to the sp=
+oofed source.
+For Task 2c.) A python file should be submitted. Name it:
+a5_onyen_etherspoof.py
+Do not answer Question #3 because the answer depends on your network config=
+uration in the VM. If you are interested learning more about promiscuous mo=
+de, feel free to come in.
+
+For the poster presentations, we've received some questions about technical=
+ content. If your topic is related to a vulnerability, check it out on vuln=
+ers.com and exploit-db.com Exploit-db is an open source database of exploit=
+s along with the code which exploits it. It should give you=C2=A0the most t=
+echnical information on how a vulnerability is exploited.=C2=A0
+
+
+Go to https://piazza.com/class?cid=3Djalj1mqrp7j6af&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @238.=20=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 435 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/j5vi9cpw2jn336 to un-enroll from this class.=

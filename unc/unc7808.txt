@@ -1,0 +1,129 @@
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.xmsonormal, li.xmsonormal, div.xmsonormal
+	{mso-style-name:x_msonormal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.xmsochpdefault, li.xmsochpdefault, div.xmsochpdefault
+	{mso-style-name:x_msochpdefault;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.xemailstyle17
+	{mso-style-name:x_emailstyle17;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle23
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+
+
+Just your UNC ID! Thanks for checking!
+ 
+
+
+From: Lal, Mangza 
+Sent: Thursday, December 14, 2017 12:53 PM
+To: Allen, Madeline <madeline@unc.edu>
+Subject: Re: ACTION REQUIRED: Menlo Housing Application
+
+
+ 
+
+Is our Student ID just our UNC ID or do we have one for Menlo?
+
+
+
+
+
+From: Allen, Madeline <madeline@unc.edu>
+Sent: Thursday, December 14, 2017 8:56:45 AM
+To: Burch Entrepreneurship in Silicon Valley Spring 2018
+Subject: [burchsiliconvalley2018] ACTION REQUIRED: Menlo Housing Application
+
+
+ 
+
+
+
+
+Good morning all,
+ 
+I hope this email finds you well, and starting to get excited for your adventures next semester!
+ 
+Attached is your housing application for next semester at Menlo College—we need to move quickly with these, so please fill out and
+return the form to me (via email, PDF format) by tomorrow—Friday, December 15—at 5pm. I know this is a short turnaround time, but the form is very basic and shouldn’t take you more than 5 minutes.
+ 
+As always, don’t hesitate to ask if you have any questions.
+ 
+Good luck with the rest of finals if you’re not done already!
+ 
+Madeline
+ 
+Madeline Allen
+Marketing and International Programming Assistant
+Honors Carolina
+University of North Carolina at Chapel Hill
+229 Graham Memorial
+ 
+madeline@unc.edu
+c: 919.621.0458
+ 
+
+---
+You are currently subscribed to burchsiliconvalley2018 as: 
+mlal123@live.unc.edu.
+To unsubscribe click here: 
+http://lists.unc.edu/u?id=91389500.fc7a36e532f8cbd7cf3f8bdfd3100db9&n=T&l=burchsiliconvalley2018&o=39566199
+(It may be necessary to cut and paste the above URL if the line is broken)
+or send a blank email to 
+leave-39566199-91389500.fc7a36e532f8cbd7cf3f8bdfd3100db9@listserv.unc.edu 
+
+
+
+
+

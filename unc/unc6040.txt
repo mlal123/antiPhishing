@@ -1,0 +1,162 @@
+Odum Weekly Newsletter 
+
+Display problems? View this newsletter in your browser. (
+http://odum.unc.edu/?email_id=22&user_id=12564&urlpassed=W3ZpZXdfaW5fYnJvd3Nlcl9saW5rXQ%3D%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+)
+
+Welcome back!
+
+The beginning of the school year is always an exciting time for us here at the Odum Institute. Students, faculty and staff come back with all sorts of
+new questions and projects, and our staff is ready to help. This year, remember that the Odum Institute is dedicated to making the research process
+easier and more productive for you, your colleagues, and your students.
+We have experts in quantitative, qualitative & mixed methods and analyses, survey design & methodology, data science, data management & curation, and
+cyberinfrastructure. Most are available to the Carolina community for brief, no-cost consultations in person or over email. To find the consultants
+and services you need, please visit the Research Support page (
+http://odum.unc.edu/?email_id=22&user_id=12564&urlpassed=aHR0cHM6Ly9vZHVtLnVuYy5lZHUvcmVzZWFyY2gtc3VwcG9ydC8%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) of our website. 
+Despite the ongoing construction in Davis Library, we are still open and accessible during our regular hours of 9:00AM to 5:00PM, Monday through
+Friday. See below for a map of the best way to get to us.
+Wishing you all an excellent fall semester!
+
+R Open Labs with Chelsea Estancona
+
+From R Open Labs at UNC
+Whether you are a beginner or an expert, you are welcome to join us and develop your skills!
+R Open labs are (mostly) unstructured workshops designed to help you learn R. Each week, brief instructions will be provided, followed by time to
+practice, work together, ask questions, and get help. Participants can join the lab any time during the session and are welcome to work on unrelated
+projects.
+Our goal is to connect researchers and foster a community for R users on campus. For more information, visit our website:
+https://ropenlabs.web.unc.edu (
+http://odum.unc.edu/?email_id=22&user_id=12564&urlpassed=aHR0cHM6Ly9yb3BlbmxhYnMud2ViLnVuYy5lZHU%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) .
+R Open Labs is a collaboration between the UNC Chapel Hill Libraries Research Hub (
+http://odum.unc.edu/?email_id=22&user_id=12564&urlpassed=aHR0cDovL2xpYnJhcnkudW5jLmVkdS9odWIv&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) and the Odum Institute for Research in Social Science. (
+http://odum.unc.edu/?email_id=22&user_id=12564&urlpassed=aHR0cHM6Ly9vZHVtLnVuYy5lZHUv&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+)
+
+Dates:
+
+August 31, Davis Library room 219, 2:00pm - 3:30pm
+September 7, Davis Library room 219, 2:00pm - 3:30pm
+September 14, Davis Library room 3010, 2:00pm - 3:30pm
+September 21, Davis Library room 3010, 2:00pm - 3:30pm
+September 28, Davis Library room 3010, 2:00pm - 3:30pm
+October 5, Davis Library room 3010, 2:00pm - 3:30pm
+October 12, Davis Library room 3010, 2:00pm - 3:30pm
+October 26, Davis Library room 3010, 2:00pm - 3:30pm
+November 2, Davis Library room 3010, 2:00pm - 3:30pm
+November 16, Davis Library room 3010, 2:00pm - 3:30pm
+November 23, Davis Library room 3010, 2:00pm - 3:30pm
+November 30, Davis Library room 3010, 2:00pm - 3:30pm
+
+To stay up to date on upcoming R Open Labs and other short courses, check out our events calendar: https://odum.unc.edu/events/ (
+http://odum.unc.edu/?email_id=22&user_id=12564&urlpassed=aHR0cHM6Ly9vZHVtLnVuYy5lZHUvZXZlbnRzLw%3D%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) .
+
+September Short Courses (
+http://odum.unc.edu/?email_id=22&user_id=12564&urlpassed=aHR0cHM6Ly9vZHVtLnVuYy5lZHUvMjAxNy8wOC9zZXB0ZW1iZXItc2hvcnQtY291cnNlcy8%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+)
+
+R Open Labs
+
+September 7 | 2:00-3:30pm | Davis Library Room 219
+ September 14, 21, 28 | 2:00-3:30pm | Davis Library Room 3010
+ R Open labs are (mostly) unstructured workshops designed to help you learn R. Each week, brief instruction will be provided, followed by time to
+practice, work together, ask questions and get help. Participants can join the lab any time during the session and are welcome to work on unrelated
+projects. For more information, visit https://ropenlabs.web.unc.edu (
+http://odum.unc.edu/?email_id=22&user_id=12564&urlpassed=aHR0cHM6Ly9yb3BlbmxhYnMud2ViLnVuYy5lZHU%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+). R Open Labs is a collaboration between the UNC Chapel Hill Libraries Research Hub and the Odum Institute for Research in Social Science.
+
+ATLAS 8 Hands-On Workshop (part 1)
+
+September 5 | 2:00-4:00pm | Davis Library Room 3010
+ This hands-on short course will illustrate the capabilities of the PC version of ATLAS.ti 8.0, a software program for coding and interpreting
+qualitative text. Click here (
+http://odum.unc.edu/?email_id=22&user_id=12564&urlpassed=aHR0cDovL29kdW0udW5jLmVkdS9ldmVudC9hdGxhcy04LWhhbmRzLXdvcmtzaG9wLXBhcnQtMS8%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) for more information.
+
+SAS with Chris Wiesen
+
+September 11 - September 14 | 11:00am-1:00pm | Davis Library Room 3010
+ This is a four-part course. SAS part 1 of 4 will give an introduction to the SAS system and SAS windows. Click here (
+http://odum.unc.edu/?email_id=22&user_id=12564&urlpassed=aHR0cDovL29kdW0udW5jLmVkdS9ldmVudC9zYXMtY2hyaXMtd2llc2VuLw%3D%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) for more information.
+
+Stata with Cathy Zimmer
+
+September 11, September 13, September | 3:30pm-5:00pm | Davis Library Room 3010
+ This is a 3-part short course (held over three afternoons). Stata part 1 will offer an introduction to Stata basics. Click here (
+http://odum.unc.edu/?email_id=22&user_id=12564&urlpassed=aHR0cDovL29kdW0udW5jLmVkdS9ldmVudC9zdGF0YS1jYXRoeS16aW1tZXIvMjAxNy0wOS0xMS8%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) for more information.
+
+ATLAS 8 Hands-On Workshop (part 2)
+
+September 12 | 2:00pm-4:00pm | Davis Library Room 3010
+ This hands-on short course will cover analysis features (co-occurrence explorer, the query tool, the codes-primary-documents table) and using
+diagrams in your analysis. Click here (
+http://odum.unc.edu/?email_id=22&user_id=12564&urlpassed=aHR0cDovL29kdW0udW5jLmVkdS9ldmVudC9hdGxhcy04bC1oYW5kcy13b3Jrc2hvcC1wYXJ0LTIv&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) for more information.
+
+Introduction to Linux with Bill Shi
+
+September 14 | 2:00-3:30pm | Davis Library Room 219
+ This course is intended for people who have no experience with linux-like systems. Click here (
+http://odum.unc.edu/?email_id=22&user_id=12564&urlpassed=aHR0cDovL29kdW0udW5jLmVkdS9ldmVudC9pbnRyb2R1Y3Rpb24tbGludXgtYmlsbC1zaGkv&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) for more information.
+
+Introduction to R with Chelsea Estancona
+
+September 18 & 20 | 1:00pm-3:30pm | Davis Library Room 3010
+ This is a two-day course on R, an open-source programming language for statistical analysis and graphics. Click here (
+http://odum.unc.edu/?email_id=22&user_id=12564&urlpassed=aHR0cDovL29kdW0udW5jLmVkdS9ldmVudC9pbnRyb2R1Y3Rpb24tci1jaGVsc2VhLWVzdGFuY29uYS0yLzIwMTctMDktMTgv&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) for more information.
+
+ATLAS 7: Hands-On Workshop (Part 1)
+
+September 19 | 2:00pm-4:00pm | Davis Library Room 3010
+ This hands-on short course will illustrate the capabilities of the PC version of ATLAS.ti 7, a software program for coding and interpreting
+qualitative text. Click here (
+http://odum.unc.edu/?email_id=22&user_id=12564&urlpassed=aHR0cDovL29kdW0udW5jLmVkdS9ldmVudC9hdGxhcy03LWhhbmRzLXdvcmtzaG9wLXBhcnQtMS8%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) for more information.
+
+Designing and Conducting Surveys of Businesses and Organizations with Diane Willimack and Chris Ellis
+
+September 21 | 9:00am-4:30pm | Davis Library Room 219
+ This course will include topics related to survey planning, questionnaire design and pretesting, data collection modes, and communication and
+response improvement strategies. Click here (
+http://odum.unc.edu/?email_id=22&user_id=12564&urlpassed=aHR0cDovL29kdW0udW5jLmVkdS9ldmVudC9kZXNpZ25pbmctY29uZHVjdGluZy1zdXJ2ZXlzLWJ1c2luZXNzZXMtb3JnYW5pemF0aW9ucy1kaWFuZS13aWxsaW1hY2stY2hyaXMtZWxsaXMv&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) for more information.
+
+Intermediate R with Chelsea Estancona
+
+September 25 & 27 | 1:00pm-3:30pm | Davis Library Room 3010
+ This is a two-day course on R, an open-source programming language for statistical analysis and graphics. Click here (
+http://odum.unc.edu/?email_id=22&user_id=12564&urlpassed=aHR0cDovL29kdW0udW5jLmVkdS9ldmVudC9pbnRlcm1lZGlhdGUtci1jaGVsc2VhLWVzdGFuY29uYS8yMDE3LTA5LTI1Lw%3D%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) for more information.
+
+SPSS with Cathy Zimmer
+
+September 25, 27, 29 | 3:30pm-5:00pm | Davis Library Room 219
+ This course will offer an introduction to SPSS and will demonstrate how to work with data saved in SPSS format. Click here (
+http://odum.unc.edu/?email_id=22&user_id=12564&urlpassed=aHR0cDovL29kdW0udW5jLmVkdS9ldmVudC9zcHNzLWNhdGh5LXppbW1lci8yMDE3LTA5LTI3Lw%3D%3D&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) for more information.
+
+Data Collection Using Mobile Phones in Developing Countries: New Approaches with SMS, IVR, and CATI
+
+September 28 | 9:00am-1:00pm | Davis Library Room 219
+ This course will introduce students to the design and implementation of SMS, IVR, Web, and CATI surveys in low- and middle-income countries. Click
+here (
+http://odum.unc.edu/?email_id=22&user_id=12564&urlpassed=aHR0cDovL29kdW0udW5jLmVkdS9ldmVudC9kYXRhLWNvbGxlY3Rpb24tdXNpbmctbW9iaWxlLXBob25lcy1kZXZlbG9waW5nLWNvdW50cmllcy1uZXctYXBwcm9hY2hlcy1zbXMtaXZyLWNhdGkv&controller=stats&action=analyse&wysija-page=1&wysijap=subscriptions
+) for more information.
+
+Unsubscribe (
+http://odum.unc.edu/?email_id=22&user_id=12564&urlpassed=W3Vuc3Vic2NyaWJlX2xpbmtd&controller=stats&hash=8e25be64d4e2cf59e4ddb322663e2b1c&action=analyse&wysija-page=1&wysijap=subscriptions
+) - Edit your subscription (
+http://odum.unc.edu/?email_id=22&user_id=12564&urlpassed=W3N1YnNjcmlwdGlvbnNfbGlua10%3D&controller=stats&hash=d9a36f84a8a1f20b9d9f8614d4b5075e&action=analyse&wysija-page=1&wysijap=subscriptions
+)
+
+228 Davis Library, CB #3355, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599-3355
+
+Website: www.odum.unc.edu | Phone: 919-962-3061 | Email: odum@unc.edu | Hours: 9:00AM - 5:00PM
+

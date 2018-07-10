@@ -1,0 +1,40 @@
+Your classmate posted a new Question.=20
+
+14.4 HW #Q12
+
+I am confused about this problem. what does it mean, I guess we need to fin=
+d out the actual volume of the tin with thickness. (the volume is pi*6^2*14=
+ without thickness, then we use differentials to calculate the dV, finally =
+we should use pi*6^2*14 minus dV) =C2=A0any suggestions?
+
+"Use differentials to estimate the amount of tin in a closed tin can with d=
+iameter=C2=A012=C2=A0cm and height=C2=A014=C2=A0cm if the tin is 0.04 cm th=
+ick. (Round your answer to two decimal places.)"
+
+
+
+Instructor: Dr. Etheridge
+
+Thx
+
+Go to https://piazza.com/class?cid=3Diyyze7m724n53t&nid=3Diw5tgq5i54x11i&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @92. Follow=
+ it to get notified when a response comes in: https://piazza.com/follow/iyy=
+ze7m724n53t/f2GxNxqCfOm/cfa7f934=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in MAT=
+H 233 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/iw5tgq5i54x11i to un-enroll from this class.=

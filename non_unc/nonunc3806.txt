@@ -1,0 +1,43 @@
+Instructor Maxwell Daum posted a new Note.=20
+
+A6 on-time Grades up (may take a bit for sakai to update)..test dump
+
+Also note that the algorithm as presented required a priority queue (or som=
+ething close to this). We stressed this in class, OH and on piazza. As per =
+usual, if you have questions about your grade (perhaps submitted incorrectl=
+y etc) please email us at help-comp410@cs.unc.edu=C2=A0please include A6 an=
+d your onyen in the subject line! Helps us handle students in each of our g=
+rading ranges. please DO NOT just resubmit to sakai...we would like you to =
+email a corrected zip file to the help email address (or the LA will ask yo=
+u do something else)
+
+Here is the dump (pdf form this time, as I describe a couple tests pictoria=
+lly). As I mentioned on piazza, one test would stress your graph implementa=
+tion a bit (calling delNode before running shortestPaths) for those that mi=
+ssed any of the shortestPath test cases, this was normally the one.
+
+A6AllTestDump.pdf
+
+I will try to grade A6 lates Tuesday night or Wednesday, have to worry abou=
+t my tuesday final and project first.
+
+Go to https://piazza.com/class?cid=3Diwl4eozq5ela&nid=3Dis6wk5m47ay4zy&toke=
+n=3Df2GxNxqCfOm to view. Search or link to this question with @488.=20=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.=

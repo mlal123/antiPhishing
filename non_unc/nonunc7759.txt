@@ -1,0 +1,36 @@
+Your classmate posted a new Question.=20
+
+MASTER THEOREM IN THE SLIDES WHICH THE CLASS WAS TAUGHT HAS BEEN INCORRECT =
+FOR THE ENTIRE SEMESTER
+
+It turns out that the Master Theorem which we were taught to use for recurr=
+ence relations is incorrect, and I believe that this just might have an eff=
+ect on the exam (/s). The correct Master Theorem is here:=C2=A0https://www.=
+wikiwand.com/en/Master_theorem_(analysis_of_algorithms). This is different =
+from the one which is listed in the slides:=C2=A0https://sakai.unc.edu/acce=
+ss/content/group/2ba5ac9f-8aa8-4c5a-833d-c1ce15564080/pdfs%20of%20video%20l=
+ectures/5.%20Recurrence%20solns%20%20via%20recursion%20trees%20and%20master=
+%20theorem.video%20w%20sound.pdf,=C2=A0slide 15.=C2=A0
+
+Go to https://piazza.com/class?cid=3Djb2ql1eswaz1eg&nid=3Dj6mrr1h4rm42m4&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @217. Follo=
+w it to get notified when a response comes in: https://piazza.com/follow/jb=
+2ql1eswaz1eg/f2GxNxqCfOm/85a235f6=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 550.02 at University of North Carolina at Chapel Hill. Go to https://piaz=
+za.com/login to sign in and manage your email preferences or proceed to htt=
+ps://piazza.com/remove/f2GxNxqCfOm/j6mrr1h4rm42m4 to un-enroll from this cl=
+ass.=

@@ -1,0 +1,460 @@
+*Upcoming Events:*
+
+
+*TONIGHT!*
+
+*WillowTree Apps Tech Talk- The Path to Building Great Mobile Apps *@
+5:30pm in SN 011
+*RSVP Here: https://unc.az1.qualtrics.com/SE/?SID=3DSV_06adr8g20m6R2Tj
+*
+
+
+*Wednesday, November 11th*
+
+*GENWORTH Tech Talk- **USB Attack to Decrypt Wi-Fi Communications**: *@
+5:30pm in SN011
+The term =E2=80=9CBad USB=E2=80=9D has gotten some much needed press in las=
+t few months.
+There have been talks that have identified the risks that are caused by the
+inherent trust between the OS and any device attached by USB. I found in my
+research that most of the available payloads for the USB rubber ducky would
+be stopped by common enterprise security solutions. I then set out to
+create a new exploit that would force the victim to trust my
+Man-In-The-Middle access point. After my payload is deployed, all Wi-Fi
+communications will be readable, including usernames, passwords and
+authentication cookies. The attack will work without the need of elevating
+privileges, which makes it ideal for corporate environments.
+
+*RSVP Here: https://unc.az1.qualtrics.com/SE/?SID=3DSV_7WJInvzgTkbiZNP
+*
+
+
+*Tuesday, November 17th*
+
+*RED HAT Tech Talk: *@ 5:30pm in SN 011
+
+Interested in learning about how Red Hat is changing the way people build
+applications and how you can become a part of it?  Join us to hear about
+how OpenShift (https://www.openshift.com/), the latest generation of
+Platform as a Service built on Kubernetes (http://kubernetes.io/) and
+Docker (https://www.docker.com/), is the biggest change to computing since
+virtual machines.  Expect to hear about OpenShift's technical architecture
+as well as Red Hat's approach to open source software engineering.  And if
+that isn't enough, food will be provided and we are hiring!
+
+*RSVP Here: **https://unc.az1.qualtrics.com/SE/?SID=3DSV_3gheYozfMVxawrX
+*
+
+
+
+*Other Opportunities:*
+
+
+*Quora Internships:*
+
+Quora is a group of exceptionally talented people all working together to
+share and grow the world's knowledge. We believe our progress toward this
+mission will have a great long-term impact on the world. When people have
+access to more knowledge, they can make better decisions, find better jobs
+and do them better, solve problems in their life, raise their families
+better, and much more. Much of the fundamental work has yet to be done.
+Low-hanging fruit is everywhere. The vast majority of knowledge is still
+not on the internet -- that is the opportunity in front of us.
+
+Every intern will have a full-time data scientist as a mentor and weekly
+1:1s with their managers to get feedback and ensure things are going well
+
+To give you a taste of what interns could do at Quora, here are some
+projects interns have worked on in the past:
+
+=C2=B7         Building predictive models for user engagement
+
+=C2=B7         Constructing Feed features
+
+=C2=B7         Research on statistical methodology of running experiments
+
+=C2=B7         Building tools to visualize how users navigate Quora
+
+=C2=B7         Development on our experiment analysis framework
+
+*Software Engineering Internship*
+
+
+*Data Scientist Internship*
+
+
+
+*Vanguard IT Full-time and Internships:*
+
+*Technology Leadership Program:*
+Job ID: 101844
+Click here
+
+to apply
+The ideal candidate is a graduating college senior or college graduate who
+possesses:
+=C2=B7        Cumulative GPA of 3.0 or higher (preferred)
+=C2=B7        A major in computer science, computer engineering, or a relat=
+ed
+technical or engineering discipline
+=C2=B7        Experience with or working knowledge of JAVA
+=C2=B7        Effective analytical, leadership, communication, and
+problem-solving skills
+=C2=B7        Ability to work independently and as part of a team
+
+*IT Developer Position:*
+Job ID: 101918
+Click here 
+to apply
+The ideal candidate is a graduating college senior or college graduate who
+possesses:
+=C2=B7        Cumulative GPA of 3.0 or higher (preferred)
+=C2=B7        A major in computer science, computer engineering, or a relat=
+ed
+technical or engineering discipline
+=C2=B7        Experience with or working knowledge of JAVA
+=C2=B7        Effective analysis and problem solving skills, written and or=
+al
+communication skills, attention to detail
+
+*IT College to Corporate Internship Program:*
+Job ID: 101847
+Click here
+
+to apply
+The ideal candidate is a college junior graduating in December 2016 or May
+2017 who possess:
+=C2=B7        Cumulative GPA of 3.2 or higher (preferred)
+=C2=B7        A major in computer science, computer engineering, or a relat=
+ed
+technical or engineering discipline
+=C2=B7        Experience with or working knowledge of JAVA
+=C2=B7        Effective analytical, leadership, communication, and
+problem-solving skills
+=C2=B7        Ability to work independently and as part of a team
+
+
+*TASC Jobs and Internships:*
+
+TASC is seeking young professionals to join the Space Systems Account. We
+provide specialized engineering, analysis, and operations support to a
+variety of Intelligence Community (IC) and Department of Defense (DoD)
+customers.
+
+
+
+Our group has openings for a Jr. Modeling & Simulation Engineer to develop
+software to enable mission analysis and technical advisory services for an
+IC research and development (R&D) customer. This customer is developing the
+next generation of IC space systems and ground architectures.
+
+
+
+Applicants should be interested in writing software every day and learning
+from experienced developers in the field.
+
+
+
+*If interested, please apply for the appropriate position below:*
+
+
+
+*Entry Level: *
+
+https://careers.tasc.com/job/Chantilly-Modeling-&-Simulation-Engineer-Entry=
+-Level-VA-20151/305356100/
+
+
+
+*Intern: *
+
+https://careers.tasc.com/job/Chantilly-Modeling-&-Simulation-Engineer-Inter=
+n-VA-20151/305356600/
+
+
+Also, feel free to contact me directly with questions at
+alana.green@tasc.com
+
+*NOTES:*
+
+*****Intern candidates will be vetted and selected by** Tuesday, November
+3rd***
+
+*****These positions require a US citizenship and the ability to obtain a
+security clearance*****
+
+
+
+*Venture for America Fellowship:*
+
+Venture for America  is a fellowship program
+for recent grads who want to learn how to build a business while making an
+impact. VFA Fellows get training and join a startup in an emerging US city,
+where they live and work for two years at one of our hundreds of partner
+companies. They learn hands-on what it takes to build a company, while
+getting the mentorship, network, and ongoing support to prepare them to
+become successful entrepreneurs. Our goal is to spark job growth in cities
+that need it by sending our top talent to help grow the businesses that
+will make it happen.
+
+   - Watch
+   why
+   our Fellows love VFA
+   - Read
+   
+   about how VFA helped this Fellow start an ecommerce business
+   - Check out  some of
+   our partner companies
+
+*Victor Bartash*
+
+Community Growth
+
+Venture for America 
+
+m: (732) 757-7981
+
+
+
+*Raytheon IIS Hot Jobs:*
+
+*Click on a Req ID to apply to one of our Current Opportunities **below:*
+
+*Req ID*
+
+*Job Title*
+
+*Work Location*
+
+*Clearance Type*
+
+*66010BR* 
+
+Software Configuration Management Architect
+
+TX - Garland
+
+SSBI - Current
+
+*68048BR* 
+
+Sr. Java Engineer I
+
+TX - Garland
+
+Top Secret
+
+*68197BR* 
+
+Principal Java Engineer
+
+TX - Garland
+
+TSSCI
+
+*68210BR* 
+
+Sr. Java Engineer II
+
+TX - Garland
+
+TSSCI
+
+*69389BR* 
+
+Senior Linux System Administrator
+
+CO - Aurora
+
+TS/SCI - Current
+
+*70501BR* 
+
+System Administrator
+
+TX - Garland
+
+TS/SCI - Current
+
+*71408BR* 
+
+Sr Windows System Administrator
+
+CO - Aurora
+
+TS/SCI with CI Poly - Current
+
+*72091BR* 
+
+Software Architect
+
+TX - Garland
+
+TSSCI
+
+*72100BR* 
+
+Sharepoint Developer
+
+CO - Colorado Springs
+
+Secret
+
+*72103BR* 
+
+Sr. Algorithm Engineer
+
+TX - Garland
+
+TSSCI
+
+
+If you would like to view or update your current status on the positions
+you have applied
+
+
+   - Log into your www.raytheon.com/careers account
+   - Click on "View Job Submissions" on the left hand navigation
+   - Click on "Application Center" under US jobs
+
+
+*IBM Technology Academy AoT THINK Event:*
+
+***************************************************************************=
+******************************************************
+
+
+
+* November 12th*
+
+* 10:00-12:15 p.m. New York time*
+
+* Closed caption will be available. Location: Livesteam*
+*http://www.livestream.com/ibmaotthink*
+
+
+* Register today: **http://www-03.ibm.com/ibm/academy/think/think_iot.shtml=
+*
+
+Use *our Twitter handle @ibmaot*, *hashtags #ibmaotthink #ibmiotskirt* to
+send questions during the event - and "light-up" our host. More on this
+coming soon!
+
+
+
+* Security & Internet of Things: *
+
+*A world of possibilities!*
+
+
+
+
+
+Our next THINK Event is open to everyone age 10 and up. Why? Because
+everywhere around us there are objects that can connect to the Internet --
+from smart phones to TV's to thermostats, refrigerators and cars. Have you
+ever stopped to wonder that with so many devices connected, collecting and
+transmitting data about our lives, what are the security implications of
+these "Things"? How do we protect ourselves as they become ever embedded
+within our homes, work, and lives?
+
+This public event is designed for all ages to enlighten us on the exciting
+opportunities - and security implications - of IoT. Gartner, Inc.
+ estimates that there are
+nearly 5 billion "Things" connected to the Internet and in use today, and
+that by 2020 there will be over 25 billion.
+
+Our panel of IBM experts
+ will be joined by
+students in these exciting topic segments:
+
+   - *H.A.C.K. - Homes Are Compromisable by Kids! *Our homes today are
+            already filled with many Internet connected technologies
+from smart phones,
+            web / IP cameras and baby monitors, to personal fitness monitor=
+s,
+            children's toys, thermostats, lighting systems and more.
+The natural,
+            logical question has to be asked, "How secure are these
+technologies?" Our
+            two youngest contributors, ages 10 and 12, (AKA
+post-millennials, iGen or
+            @generation) wanted to find out more about the Internet of
+Things (IoT) and
+            how secure it really is.  Join these two youthful
+innovators as they
+            describe their use of the scientific method and outlined a
+hypothesis, a
+            series of test cases as well as found some interesting outcomes=
+ and
+            observations. The goal of this segment is to inspire the
+future generation
+            of engineers, designers and entrepreneurs to dream of the
+possibility of
+            IoT - and why we must collaborate to make it more secure.
+            - *Zombie Drones *
+            Drones? Unmanned Aircraft? Flying Robots?!? This is an
+            exciting, new and different kind of technology that
+enables us to explore
+            new physical spaces and see things from new perspectives.
+Drone technology
+            is evolving very rapidly - they are becoming lighter,
+cheaper, and easier
+            to use as they become more technologically advanced. Join
+this fun, fast,
+            and informative session to learn about drones, why they
+are an important
+            part of the Internet of Things family, how our guest
+speaker hacked his own
+            drone into a "self-flying zombie", and why security for
+drones will be
+            critical as we leverage this technology in the future.
+            - *Cybersecurity: Help us protect our devices*
+            As the number of 'connected' devices grows, the potential for
+            people to gain access to these devices and the information on t=
+hem
+            increases as well. Help us protect our computers, mobile
+phones, connected
+            cars, sensors and other devices from unauthorized access
+or control by
+            becoming a cybersecurity researcher for a day! We will
+explore a few of the
+            techniques that are used to hack these devices and what we
+can collectively
+            do to help prevent this from occurring.
+            - *Medication Dispensing in the Internet of Things*
+            The use of tiny sensors will enable medication management to
+            become less costly and more manageable.
+            - *The Imitation Game of Tomorrowland *
+            Disney Infinity Game Design Clubs provide many opportunities
+            for computer science education, from basic concepts at an
+elementary school
+            level to Agile Development experience at a high school
+level. Combining a
+            cast of characters from Disney, Pixar, Marvel, and Star
+Wars, Disney
+            Infinity provides a unique ability to interest both boys
+and girls to STEM,
+            with a unique virtual artistry through storytelling to spark th=
+e
+            imagination. This presentation will feature a gameplay
+video of the first
+            project from our club at the Newburgh, NY P-TECH school, Excels=
+ior!
+
+
+We encourage you to invite your family and friends to register today
+ to share in this
+timely THINK event. Visit our event page
+ for full details
+on our speakers and topics.
+
+Frequently asked questions are attached.
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at http://groups.google.com/a/cs.unc.edu/group/careers/.

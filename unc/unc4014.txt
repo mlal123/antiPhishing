@@ -1,0 +1,61 @@
+
+
+	
+	
+		
+			Hello there, CS Club!
+		
+			Remember us?  Last semester, the Computer Science Club flew under t=
+he radar.  We focused the majority of our efforts on putting HackNC to=
+gether, and we hope you enjoyed it! 
+		
+			This semester, we'd very much like to bring back weekly meetings.  =
+Sticking with the pattern set by our predecessor Ryan Oberfelder, we will a=
+lternate scheduled programming like tech talks and workshops with social ni=
+ghts and possible outings.
+		
+			Regular Meeting Details:
+		
+			
+				TIME: Thursdays at 6:00 PM
+			
+				PLACE: Sitterson 115 (Lib Moore Jones Classroom)
+			
+				First Meeting: Thursday, Jan 19th
+		
+		
+			Schedule of upcoming meetings and events:
+		
+			
+				Jan 19: Welcome back and hackathon bootcamp!  We will introduce th=
+e spring schedule for North American hackathons and apply to as many as we =
+can.  Don't know what a hackathon is?  Come find out :)
+			
+				Jan 20 4:00 pm -- Jan 22 6:00 PM - Global Game Jam!  More details =
+at http://globalgamejam.=
+web.unc.edu/ 
+			
+				Jan 26: Social night!  Come play games and meet your fellow CS stu=
+dents.  We will have board games, video games, and any other kinds of =
+games we can think of.  Want something in particular?  Email and =
+let us know!
+			
+				Feb 2: Faculty speaker.  This will be a tech-talk style meeting - =
+more details forthcoming!
+			
+				Feb 9: Social/hack night.  Possibly held in the hackerspace (SN027=
+), depending on attendence.  We'll drag out our hardware and toys for =
+you to play with!  Bring something to hack on or just come to say hi!<=
+/li>
+		
+		
+			If you have any questions, or to scold us for our inconsistency last sem=
+ester, please send email to csclub@cs.unc.edu.
+		
+			Cheers!
+		
+			Luke & Brandon
+	
+
+
+

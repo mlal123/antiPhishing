@@ -1,0 +1,75 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 435 on Piazza:
+
+------------------------------------------------------------
+In-class exercises  (11/05/17 11:56 PM)
+
+where can we get access to the inclass=C2=A0exercises?
+
+Go to https://piazza.com/class?cid=3Dj9npsn8dvr3k6&nid=3Dj5vi9cpw2jn336&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+About task 7  (11/05/17 11:29 PM)
+
+Hey I just noticed that in the submission list task 7 step 4 and 5 are not =
+included. Is this intended or accidental? Thanks!
+
+Go to https://piazza.com/class?cid=3Dj9notjc32k76gp&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+what is the significance of source port ?  (11/05/17 10:36 PM)
+
+https://gyazo.com/fe5edc3d6549230f1bee7244f438c898=C2=A0
+
+If the traffic direction is inbound, then source port doesn't matter as it'=
+s selection is entirely at the discretion of whoever is sending the packet.
+If the traffic direction is outbound, then source port is randomly chosen i=
+n most cases. What is the significance of having one?
+
+Go to https://piazza.com/class?cid=3Dj9nmy04cm1w15u&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Charger found in SN11  (11/05/17 10:16 PM)
+
+Someone left a charger in SN11 during office hours sometime between 1-5 tod=
+ay. If it is yours, send me an email describing it and I'll give it to you.=
+=C2=A0
+
+Go to https://piazza.com/class?cid=3Dj9nm74scy794za&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+TCP Packet Slide  (11/05/17 8:13 PM)
+
+This slide was going to be fixed. Can we get an updated version?
+
+
+Go to https://piazza.com/class?cid=3Dj9nhtsc374bpa&nid=3Dj5vi9cpw2jn336&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 435 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/j5vi9cpw2jn336 to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

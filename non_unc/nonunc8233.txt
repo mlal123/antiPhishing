@@ -1,0 +1,7 @@
+You=E2=80=99ve been added to the Interns team for the Swim organization.  I=
+nterns has 4 members and gives *pull* access to 24 swimit repositories.
+
+View Interns: https://github.com/orgs/swimit/teams/interns
+
+Read more about team permissions here: https://help.github.com/articles/wha=
+t-are-the-different-access-permissions

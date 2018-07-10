@@ -1,0 +1,13 @@
+Folks -- The final exam study guide is at:
+
+http://comp110.com/final-study-guide
+
+And we will have two review sessions:
+
+Thu, Dec 3 (reading day) and Mon, Dec 7 (exam day, but right before our
+exam)
+Exact timings will be announced.
+
+-- 
+You received this message because you are subscribed to the Google Groups "Comp 110-001" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to comp110-001+unsubscribe@cs.unc.edu.

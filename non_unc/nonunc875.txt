@@ -1,0 +1,14 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Not understanding 5.1  (11/17/15 6:17 PM)
+
+I can't figure out what I'm doing wrong when constructing a blank canvas. T=
+his is what I have so far:
+
+public Image(int width, int height) {=C2=A0 =C2=A0 Color[][] pixels =3D new=
+ Color [width][height];=C2=A0 =C2=A0 =C2=A0 =C2=A0 for (int i =3D 0; i

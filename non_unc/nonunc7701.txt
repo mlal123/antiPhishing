@@ -1,0 +1,32 @@
+Your classmate posted a new Question.=20
+
+Solution to linear programming exercise from class
+
+Does anyone have a solution to the linear programming exercise from class? =
+I'm looking through Dr.Pizer's solution on the class website and there isn'=
+t much explanation so I'm confused by some of the steps. I'm especially con=
+fused on how we were supposed to plot the constraint polygon (or rather a p=
+olyhedron) as the slack form contains 6 variables.=C2=A0
+
+Go to https://piazza.com/class?cid=3Djawq9napp906q9&nid=3Dj6mrr1h4rm42m4&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @187. Follo=
+w it to get notified when a response comes in: https://piazza.com/follow/ja=
+wq9napp906q9/f2GxNxqCfOm/e33ad04c=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 550.02 at University of North Carolina at Chapel Hill. Go to https://piaz=
+za.com/login to sign in and manage your email preferences or proceed to htt=
+ps://piazza.com/remove/f2GxNxqCfOm/j6mrr1h4rm42m4 to un-enroll from this cl=
+ass.=

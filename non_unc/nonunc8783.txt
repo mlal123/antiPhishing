@@ -1,0 +1,278 @@
+
+
+Udemy
+
+@import url('https://fonts.googleapis.com/css?family=3DSource+Sans+Pro:300,=
+400,600');
+@import url('https://fonts.googleapis.com/css?family=3DZilla+Slab:300,400,6=
+00');
+/* CLIENT-SPECIFIC STYLES */
+body, table, td, a, p {-webkit-text-size-adjust: 100%; -ms-text-size-adjust=
+: 100%; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;}
+table, td {mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: c=
+ollapse;}
+img { -ms-interpolation-mode: bicubic; }
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+.appleFooter a {
+color:#999999!important;
+text-decoration: none!important;
+}
+
+/* MOBILE STYLES */
+@media only screen and (max-width: 480px){
+#container{
+width:100% !important;
+}
+#banner_text {
+text-align: center !important;
+padding-bottom: 10px;
+}
+.deviceWidth{
+display:block !important;
+width:100% !important;
+}
+.hidden{
+display: none;
+}
+.courseCardTop{
+width:30% !important;
+float: left;
+min-width: 30% !important;
+}
+.courseCardBottom{
+width:70% !important;
+float: left;
+min-width: 70% !important;=20
+border-bottom: 0px !important;
+}
+.mobileColor{
+background-color: #ffffff !important;
+}
+.mobileCourseLine{
+border-bottom: 2px #edece6 solid;
+}
+.titleHeight{
+height: auto;
+}
+.titlePadding{
+padding-top: 0px !important;
+padding-bottom: 10px !important;
+font-size: 16px !important;
+}
+.starPricePadding{
+padding-top: 0px !important;
+padding-bottom: 5px !important;
+font-size: 80% !important;
+}
+.courseImage{
+width: 100%;
+height: auto !important;
+}
+.moduleTitlePadding{
+padding: 20px 5px 5px 5px !important;
+}
+.mobileCoursePadding{
+padding: 15px 5px 0px 5px !important;
+width: 100% !important;
+}
+.targetedSpacer{
+width: 5%;
+}
+.headerImage{
+height: 30px !important;
+padding: 5px 0px !important;
+}
+.navBarTextTest{
+padding: 5px 10px 5px 0px !important;
+}
+.navBarImageTest{
+height: 30px !important;
+padding: 5px 0px 5px 10px !important;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+Discover top courses i=
+n a new topic. Learn the skills needed to reach your goals for only $18.99 =
+this week.
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     =20
+$COND(LE(SUB(COUNT(LOOKUP(ENROLLED_COURSES), LOOKUP(COURSE_LIST) LOOKUPRECO=
+RDS(!MasterDealQueries, CATEGORY_ID, pairs(CATEGORY_ID, LOOKUP(CATEGORY_ID)=
+, LANG, LOOKUP(LANG), DEAL_ID, LOOKUP(DEAL_ID), COURSES_3, 1), COURSEID)), =
+COUNT(UNIQUE(LOOKUP(ENROLLED_COURSES), LOOKUP(COURSE_LIST), LOOKUPRECORDS(!=
+MasterDealQueries, TOPIC_TOP, pairs(CATEGORY_ID, LOOKUP(CATEGORY_ID), LANG,=
+ LOOKUP(LANG), DEAL_ID, LOOKUP(DEAL_ID), COURSES_3, 1), COURSEID)))), 1), f=
+oreachnobr(CATEGORY_ID, LOOKUP(CATEGORY_ID), contentlibrary/STUDENT_MODULES=
+, CATEGORY_SHOWCASE_2A.htm), NOTHING())$
+     =20
+$COND(LE(SUB(COUNT(LOOKUP(ENROLLED_COURSES), LOOKUP(COURSE_LIST) LOOKUPRECO=
+RDS(!MasterDealQueries, CATEGORY_ID, pairs(CATEGORY_ID, LOOKUP(CATEGORY_ID)=
+, LANG, LOOKUP(LANG), DEAL_ID, LOOKUP(DEAL_ID), COURSES_3, 1), COURSEID)), =
+COUNT(UNIQUE(LOOKUP(ENROLLED_COURSES), LOOKUP(COURSE_LIST), LOOKUPRECORDS(!=
+MasterDealQueries, TOPIC_TOP, pairs(CATEGORY_ID, LOOKUP(CATEGORY_ID), LANG,=
+ LOOKUP(LANG), DEAL_ID, LOOKUP(DEAL_ID), COURSES_3, 1), COURSEID)))), 1), f=
+oreachnobr(CATEGORY_ID, LOOKUP(CATEGORY_ID), contentlibrary/STUDENT_MODULES=
+, CATEGORY_SHOWCASE_2A.htm), NOTHING())$
+     =20
+$COND(LE(SUB(COUNT(LOOKUP(ENROLLED_COURSES), LOOKUP(COURSE_LIST) LOOKUPRECO=
+RDS(!MasterDealQueries, CATEGORY_ID, pairs(CATEGORY_ID, LOOKUP(CATEGORY_ID)=
+, LANG, LOOKUP(LANG), DEAL_ID, LOOKUP(DEAL_ID), COURSES_3, 1), COURSEID)), =
+COUNT(UNIQUE(LOOKUP(ENROLLED_COURSES), LOOKUP(COURSE_LIST), LOOKUPRECORDS(!=
+MasterDealQueries, TOPIC_TOP, pairs(CATEGORY_ID, LOOKUP(CATEGORY_ID), LANG,=
+ LOOKUP(LANG), DEAL_ID, LOOKUP(DEAL_ID), COURSES_3, 1), COURSEID)))), 1), f=
+oreachnobr(CATEGORY_ID, LOOKUP(CATEGORY_ID), contentlibrary/STUDENT_MODULES=
+, CATEGORY_SHOWCASE_2A.htm), NOTHING())$
+     =20
+$COND(LE(SUB(COUNT(LOOKUP(ENROLLED_COURSES), LOOKUP(COURSE_LIST) LOOKUPRECO=
+RDS(!MasterDealQueries, CATEGORY_ID, pairs(CATEGORY_ID, LOOKUP(CATEGORY_ID)=
+, LANG, LOOKUP(LANG), DEAL_ID, LOOKUP(DEAL_ID), COURSES_3, 1), COURSEID)), =
+COUNT(UNIQUE(LOOKUP(ENROLLED_COURSES), LOOKUP(COURSE_LIST), LOOKUPRECORDS(!=
+MasterDealQueries, TOPIC_TOP, pairs(CATEGORY_ID, LOOKUP(CATEGORY_ID), LANG,=
+ LOOKUP(LANG), DEAL_ID, LOOKUP(DEAL_ID), COURSES_3, 1), COURSEID)))), 1), f=
+oreachnobr(CATEGORY_ID, LOOKUP(CATEGORY_ID), contentlibrary/STUDENT_MODULES=
+, CATEGORY_SHOWCASE_2A.htm), NOTHING())$
+     =20
+$COND(LE(SUB(COUNT(LOOKUP(ENROLLED_COURSES), LOOKUP(COURSE_LIST) LOOKUPRECO=
+RDS(!MasterDealQueries, CATEGORY_ID, pairs(CATEGORY_ID, LOOKUP(CATEGORY_ID)=
+, LANG, LOOKUP(LANG), DEAL_ID, LOOKUP(DEAL_ID), COURSES_3, 1), COURSEID)), =
+COUNT(UNIQUE(LOOKUP(ENROLLED_COURSES), LOOKUP(COURSE_LIST), LOOKUPRECORDS(!=
+MasterDealQueries, TOPIC_TOP, pairs(CATEGORY_ID, LOOKUP(CATEGORY_ID), LANG,=
+ LOOKUP(LANG), DEAL_ID, LOOKUP(DEAL_ID), COURSES_3, 1), COURSEID)))), 1), f=
+oreachnobr(CATEGORY_ID, LOOKUP(CATEGORY_ID), contentlibrary/STUDENT_MODULES=
+, CATEGORY_SHOWCASE_2A.htm), NOTHING())$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUPPORT | UNSUBSCRIBE | VIEW ONLINE | GET UDEMY AT WORK
+
+
+
+Udemy.com 600 Harrison Street, 3rd Floor =
+San Francisco, CA 94107 USA
+
+
+
+
+*Some exclusions apply. Coupon will expire 14 days after v=
+isiting Udemy from this email.=20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

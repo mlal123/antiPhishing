@@ -1,0 +1,39 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 435 on Piazza:
+
+------------------------------------------------------------
+What is the wisdom in Biba and Bell-LaPadula  (12/09/17 3:03 AM)
+
+I don't understand why it would ever be prohibited to read or write down, since those positions require less clearance. Is this to keep bosses of companies from abusing power or something along those lines?
+
+Go to https://piazza.com/class?cid=jaz20gvrfoq3f2&nid=j5vi9cpw2jn336&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+MT2 Q11 and Q12  (12/09/17 1:16 AM)
+
+Why is #11 increases exponentially when relatively few machines are affected and #12 is increases linearly when many more machines are affected. Shouldn't it be the other way around?
+
+Go to https://piazza.com/class?cid=jayy5mp2m1b1se&nid=j5vi9cpw2jn336&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+MT1 Q 31  (12/09/17 1:11 AM)
+
+Could someone explain how to get 0xcafecafe as the answer?
+
+Go to https://piazza.com/class?cid=jayy0chrt7x1x6&nid=j5vi9cpw2jn336&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 435 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/j5vi9cpw2jn336 to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2GxNxqCfOm

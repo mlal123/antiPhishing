@@ -1,0 +1,68 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+Study Guide 1A  (10/15/16 3:15 PM)
+
+Why does binary search work here? if duplicates are allowed, what is to say=
+ that somewhere later down the line, A[i] cannot equal i? LIke I don't see =
+how you are able to use binary search because you could be throwing away an=
+ instance of a[i] =3D=3Di if duplicates are allowew.
+
+Go to https://piazza.com/class?cid=3Diubl2ckqdlj258&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+ADT Queue  (10/15/16 3:44 PM)
+
+Screen_Shot_20161015_at_3.42.25_PM.png
+
+Does anyone know what ite=C2=A0does/mean?
+Thanks!
+
+Go to https://piazza.com/class?cid=3Diubm3k2xlmh7e6&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Midterm Sample Problems  (10/15/16 3:59 PM)
+
+Is there a key for the midterm sample problems?=C2=A0
+If not, how would y'all students feel about pooling all of our answers here?
+
+Go to https://piazza.com/class?cid=3Diubmmwakl2410&nid=3Dis6wk5m47ay4zy&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+What is the difference between a stack adt and a bounded stack adt?  (10/15=
+/16 4:17 PM)
+
+Both of these were listed under topics that the midterm covered and I'm not=
+ sure what differentiates the two.
+
+Go to https://piazza.com/class?cid=3Diubnahccirh40u&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

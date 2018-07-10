@@ -1,0 +1,64 @@
+Updated Terms of Service and new Site Policy repository
+------------------------------------------------------------
+
+We're updating our Terms of Service (https://help.github.com/articles/githu=
+b-terms-of-service/) and Corporate Terms of Service (https://help.github.co=
+m/articles/github-corporate-terms-of-service/). These revisions are the res=
+ult of community feedback, along with clarifications and improvements to th=
+e readability of both documents. All changes are in separate pull requests =
+in a new working repository, github/site-policy (https://github.com/github/=
+site-policy). Here, you can view, comment, and suggest additional updates=
+=E2=80=94or fork a copy to adapt for your own site.
+
+Please submit your comments by 5:00 pm PST on Friday, July 28. After that, =
+we=E2=80=99ll take a week to go through your comments and make changes to i=
+mprove the Terms. The new Terms will become effective on Monday, August 7.
+
+
+Pull requests welcome
+------------------------------------------------------------
+
+We welcome you to look over our changes and share your input using the new =
+Site Policy repository. Please follow our Contributor Guidelines (https://g=
+ithub.com/github/site-policy/blob/master/CONTRIBUTING.md) , and let us know=
+ if you see anything you think should be different=E2=80=94whether it=E2=80=
+=99s a missed typo or a rule that might have implications we haven=E2=80=99=
+t thought of.
+
+
+Overview of changes
+------------------------------------------------------------
+* Updates to GitHub Terms of Service (https://github.com/github/site-policy=
+/pull/1) : Added a =E2=80=9CPrivate Repositories=E2=80=9D section as Sectio=
+n E, updated the licenses granted in Section D for clarity, and updated the=
+ Complete Agreement subsection in Section S, =E2=80=9CMiscellaneous=E2=80=
+=9D
+* Updates to GitHub Corporate Terms of Service (https://github.com/github/s=
+ite-policy/pull/2) : Added a "Private Repositories" section as Section E, u=
+pdated the licenses granted in Section D for clarity, updated the Complete =
+Agreement subsection, and added a Publicity subsection to Section S, "Misce=
+llaneous"
+* Added a product description to the GitHub Business Plan Addendum (https:/=
+/help.github.com/articles/github-business-plan-addendum/)
+* Updated the Amendment to GitHub Terms of Service Applicable to U.S. Feder=
+al Government Users (https://help.github.com/amendment-to-github-terms-of-s=
+ervice-applicable-to-u-s-federal-government-users/) to reflect previous cha=
+nges to notification policy
+
+Can't comment before July 28? No problem! The site policy repository is alw=
+ays open, so you can send us feedback any time. Check out the blog post (ht=
+tps://github.com/blog/2393-open-sourcing-our-site-policies-and-new-changes-=
+to-our-terms-of-service) to learn more, or give us your feedback (https://g=
+ithub.com/github/site-policy/issues/). We'd love to hear if our project hel=
+ped you create policy foundations for your business.
+
+------------------------------------------------------------
+
+Email preferences (https://github.com/settings/emails) =C2=B7 Terms (https:=
+//help.github.com/articles/github-terms-of-service/) =C2=B7 Privacy (https:=
+//help.github.com/articles/github-privacy-policy/) =C2=B7 Sign into GitHub =
+(https://github.com/login)
+
+GitHub, Inc.
+88 Colin P Kelly Jr St.
+San Francisco, CA 94107

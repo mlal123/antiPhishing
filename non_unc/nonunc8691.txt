@@ -1,0 +1,132 @@
+Nieman Lab: The Daily Digest
+Wednesday=2C February 28=2C 2018
+http://www.niemanlab.org/2018/02/news-in-a-disintegrating-reality-tows-jon=
+athan-albright-on-what-to-do-as-things-crash-around-us/
+
+
+** News in a disintegrating reality: Tow=E2=80=99s Jonathan Albright on wh=
+at to do as things crash around us (http://www.niemanlab.org/2018/02/news-=
+in-a-disintegrating-reality-tows-jonathan-albright-on-what-to-do-as-things=
+-crash-around-us/)
+------------------------------------------------------------
+=E2=80=9CThe kinds of things that I often see could literally be stopped b=
+y one person. I mean: 4chan trending on Google during the Las Vegas shooti=
+ng? How that even happened=2C I have no idea=2C but I do know that one per=
+son could have stopped that.=E2=80=9D By Laura Hazard Owen.
+http://www.niemanlab.org/2018/02/how-photojournalism-can-survive-the-digit=
+al-revolution-and-your-short-attention-span/
+
+
+** How photojournalism can survive the digital revolution (and your short=
+ attention span) (http://www.niemanlab.org/2018/02/how-photojournalism-can=
+-survive-the-digital-revolution-and-your-short-attention-span/)
+------------------------------------------------------------
+=E2=80=9CHow many photographs have crossed your screen today? Dozens? Hund=
+reds? How many have you looked at? How many did you really see?=E2=80=9D B=
+y Jeff Israely.
+For social publisher LittleThings=2C Facebook=E2=80=99s =E2=80=9Cprioritiz=
+ation of friends/family content over publishers was the last straw=E2=80=
+=9D (http://www.niemanlab.org/2018/02/for-social-publisher-littlethings-fa=
+cebooks-prioritization-of-friends-family-content-over-publishers-was-the-l=
+ast-straw/)
+What We=E2=80=99re Reading
+Broadcasting Cable / John Eggerton
+A federal appeals court rules that media monitoring company TVEyes=E2=80=
+=99 archive of Fox News clips isn=E2=80=99t fair use =E2=86=92 (http://www=
+=2Ebroadcastingcable.com/news/washington/court-says-tveyes-fox-clips-not-fai=
+r-use/172077)
+=E2=80=9CTVEyes records more than 1=2C400 TV and radio channels=2C and pro=
+vides a database that allows clients who pay a monthly fee to search the p=
+rogramming and view up to 10-minute clips. The court agreed with Fox News=
+ that TVEyes=E2=80=99 redistribution of the network=E2=80=99s content was=
+ a transformative use=2C but because it potentially made virtually all of=
+ FNC=E2=80=99s copyrighted content available=2C and because the network do=
+esn=E2=80=99t get any of the monthly subscriber fees=2C the service =E2=80=
+=98deprives Fox of revenue that properly belongs to the copyright holder.'=
+=E2=80=9D
+Poynter / Daniel Funke
+Three publications are suing the EU over fake news allegations =E2=86=92 (=
+https://www.poynter.org/news/three-publications-are-suing-eu-over-fake-new=
+s-allegations)
+=E2=80=9CThree media sites in The Netherlands filed a lawsuit against an E=
+U project aimed at curbing online misinformation. The suit claims that EUv=
+sDisinfo (https://euvsdisinfo.eu/) erroneously labeled the publishers as=
+ =E2=80=98disinforming outlets=E2=80=99 on its website=2C and that the pro=
+ject should remove those accusations from all of their publications and pu=
+blish a correction=2C under penalty of a =E2=82=AC20=2C000 fine per day th=
+e content remains online. First reported in Lead Stories (https://hoax-ale=
+rt.leadstories.com/3468982-dutch-newspaper-and-two-websites-sue-european-u=
+nion-over-fake-news-accusations.html) =2C the suit=E2=80=99s plaintiffs in=
+clude Dutch blogs GeenStijl.nl and TPO.nl=2C as well as the publisher of D=
+e Gelderlander=2C a regional newspaper.=E2=80=9D
+Medium / BBC News Labs
+Can facial recognition technology help news editors and producers? =E2=86=
+=92 (https://medium.com/bbc-news-labs/face-recognition-what-use-is-it-to-n=
+ewsrooms-9f51f00f832a)
+BBC=E2=80=99s R&D arm =E2=80=9Cdesigned a web-based prototype to help high=
+light and identify the most important people in raw video footage=E2=80=9D=
+ and tested it with its newsroom. The team wrote about its process and fin=
+dings here. (https://medium.com/bbc-news-labs/face-recognition-what-use-is=
+-it-to-newsrooms-9f51f00f832a)
+Politico / Michael Calderone
+Former Gawker and Deadspin editor Tom Scocca is launching a new site on th=
+e blockchain-based platform Civil =E2=86=92 (https://www.politico.com/medi=
+a/tipsheets/morning-media)
+=E2=80=9CHmm Daily (http://news.joincivil.com/hmm-daily/) is carrying on t=
+he tradition of alt-weeklies and now-shuttered sites like Gawker and The A=
+wl in letting =E2=80=98people write and publish stuff that they wouldn=E2=
+=80=99t be able to do in other legacy and more established outlets.'=E2=80=
+=9D
+Digiday / Tim Peterson
+Despite subsidies disappearing=2C some publishers see hope for Facebook Li=
+ve post-algorithm change =E2=86=92 (https://digiday.com/media/despite-subs=
+idies-disappearing-publishers-see-hope-facebook-live-post-algorithm-change=
+/)
+=E2=80=9CThroughout 2017=2C Super Deluxe=E2=80=99s live videos on Facebook=
+ averaged half a million views=2C but this year=2C that number has hovered=
+ around 250=2C000 views. Despite that decline=2C Super Deluxe plans to do=
+ more: By the end of 2018=2C it plans to produce one brand-sponsored live=
+ video every week=2C according to its head of live programming. That=E2=80=
+=99s because while Super Deluxe=E2=80=99s live viewership has fallen=2C it=
+s engagement rates have risen=2C and Facebook=2C along with brands=2C is p=
+rioritizing engagement.=E2=80=9D
+Poynter / Tiffany Walden
+She didn=E2=80=99t see herself or the young Black community in Chicago=E2=
+=80=99s main media outlets=2C so she started her own =E2=86=92 (https://ww=
+w.poynter.org/news/she-didnt-see-herself-or-young-black-community-chicagos=
+-main-media-outlets-so-she-started-her)
+=E2=80=9CThe TRiiBE is a digital media platform that is helping reshape th=
+e narrative of Black Chicago through storytelling and art. Its mission is=
+ to raise new voices and extend a platform to a generation of readers that=
+ has long been overlooked.=E2=80=9D
+BuzzFeed / Katie Notopoulos and Alex Kantrowitz
+This spicy drama about Facebook CPMs has people like =E2=80=9CWahh?=E2=80=
+=9D and =E2=80=9CWhoaaa=E2=80=9D =E2=86=92 (https://www.buzzfeed.com/katie=
+notopoulos/facebook-cpms-trump-clinton-ad-campaigns)
+=E2=80=9CAndrew Bosworth=2C an executive at Facebook=2C tweeted a graph sh=
+owing that Trump paid slightly higher ad rates than Hillary on most days l=
+eading up to Election Day. But Facebook=E2=80=99s data only accounts for p=
+aid=2C not organic=2C reach=2C so doesn=E2=80=99t account for how far the=
+ posts actually spread after the ad buys. So we still don=E2=80=99t know w=
+hat each campaign=E2=80=99s money got them.=E2=80=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3Df6983cfeae)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3Df6983cfeae)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

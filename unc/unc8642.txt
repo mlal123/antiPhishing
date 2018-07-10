@@ -1,0 +1,37 @@
+*Building Your First Android App *
+
+All mobile devices now a day come with a list of sophisticated sensors to
+allow developers and consumers to use the device in a variety of ways.
+Sensors make mobile devices more intuitive to use and make it more
+productive by extending its usability in range of application areas. Androi=
+d
+devices support a multitude of different types of sensors that measure
+motion, orientation, and various environmental conditions. In this tutorial
+session, we are going to develop our first Android app, which utilizes one
+specific sensor to detect rotation of the device. We will learn about the
+steps to develop an app in Android Studio, the structure of an Android app,
+the Android sensor framework, how to utilize the framework and how to test
+the developed app.
+
+
+*Bio*:
+Dr. Muztaba Fuad is an Associate Professor of Computer Science in The
+College of Winston-Salem State University. He received his doctoral degree
+in Computer Science from Montana
+State University, USA and Master=E2=80=99s degree from University of Adelai=
+de,
+Australia. His research interests include self-adaptive computing, mobile
+computing, and computer science education. His research activities have
+resulted in NSF funded work and numerous publications in prestigious
+journals and proceedings. Dr. Fuad has been awarded Winston-Salem
+State University's
+W. B. Atkinson Distinguished Research Award. Dr. Fuad has more than
+twelve years
+of teaching and advising experience and has been awarded Winston-Salem
+State University=E2=80=99s Wachovia Excellence in Teaching Award.
+
+--=20
+You received this message because you are subscribed to the Google Groups "=
+Majors" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to majors+unsubscribe@cs.unc.edu.

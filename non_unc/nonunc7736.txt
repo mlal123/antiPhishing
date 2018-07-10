@@ -1,0 +1,115 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 435 on Piazza:
+
+------------------------------------------------------------
+Why is this false? (public key encryption)  (12/09/17 3:02 PM)
+
+I forget...why is this question false?
+
+Go to https://piazza.com/class?cid=3Djazroclrbj15lw&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A5 extension until 6 AM tomorrow- same late penalty  (12/09/17 2:16 PM)
+
+Since the only concern is when grading can start, and I assume the TAs will=
+ not be grading between 12AM & 6 AM, could we have a 6-hour extension of th=
+e final submission time?
+
+Go to https://piazza.com/class?cid=3Djazq1pfyynk5t5&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+MT1 Question 24  (12/09/17 1:52 PM)
+
+Does anyone have the right answers for MT1 Q24 A,B,C?
+
+Go to https://piazza.com/class?cid=3Djazp71oitol3x2&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+stealing the association, man in the middle, clarification!  (12/09/17 1:05=
+ PM)
+
+Two unrelated questions for y'all, having to do with defintions:
+
+--Stealing the association:=C2=A0 Is this just like an annoying neighbor wh=
+o uses your wifi, thus stealing association with your router?=C2=A0 OR is i=
+t more like someone who eavesdrops on a legit user's association.=C2=A0 Or =
+both?
+
+--Man In The Middle.=C2=A0 Explain in one sentence, in your own words?
+
+Go to https://piazza.com/class?cid=3Djazni9klk2iww&nid=3Dj5vi9cpw2jn336&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+How much of the new material is on the midterm exactly?  (12/09/17 12:40 PM)
+
+It doesn't seem like there is that much new material, yet prof.Sturton said=
+ it would be a majority of the test. Could someone shine some light on this?
+
+
+Go to https://piazza.com/class?cid=3Djazmlfpb2sb51m&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+regrades  (12/09/17 12:04 PM)
+
+When will midterm regrade requests be finished? Just wondering
+
+Go to https://piazza.com/class?cid=3Djazlc618kr2v3&nid=3Dj5vi9cpw2jn336&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+In-class Exercise that's not on Gradescope  (12/09/17 10:36 AM)
+
+Does anyone have a copy of the in class exercise that we did on C and (I th=
+ink) integer overflows?
+
+Go to https://piazza.com/class?cid=3Djazi5vx4vil5rd&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+MT2 Q17a and Q17b  (12/09/17 9:21 AM)
+
+
+
+Go to https://piazza.com/class?cid=3Djazfi7lbif34xg&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+ARP request  (12/09/17 9:02 AM)
+
+I am having trouble=C2=A0completing the ARP request configuration for the e=
+xtra credit.=C2=A0 I am not sure how to determine a non-existing IP on the =
+same LAN, and where to sub in my VM IP addresses in the examples given in t=
+he assignment sheet.=C2=A0 Any advice for this configuration would be very =
+helpful! Thank you.
+
+Go to https://piazza.com/class?cid=3Djazetugixd84pj&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 435 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/j5vi9cpw2jn336 to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

@@ -1,0 +1,27 @@
+
+Site Title: COMP410.002.FA16
+Site ID: 41a09363-ba03-4d7b-8594-d466a078cbd6
+
+Assignment title: Assignment5
+Assignment Due Date: Nov 10, 2016 11:55 pm
+
+Student: Mangza Lal( mlal123 )
+
+Submission ID: 5da23bce-7edc-4216-a7da-5ad01a6793ff
+Submitted on: Nov 8, 2016 3:02 pm
+
+Attachments
+
+mlal123_assignment5.zip (10 KB)Assignment5/bin/DiGraph_A5/DiGraphPlayground.class (2 KB)
+Assignment5/.classpath (1 KB)
+Assignment5/bin/DiGraph_A5/Edge.class (1 KB)
+Assignment5/src/DiGraph_A5/DiGraphInterface.java (3 KB)
+Assignment5/bin/DiGraph_A5/Node.class (1 KB)
+Assignment5/src/DiGraph_A5/DiGraph.java (5 KB)
+Assignment5/bin/DiGraph_A5/DiGraph.class (4 KB)
+Assignment5/bin/DiGraph_A5/DiGraphInterface.class (1 KB)
+Assignment5/src/DiGraph_A5/Node.java (1 KB)
+Assignment5/src/DiGraph_A5/Edge.java (1 KB)
+Assignment5/.settings/org.eclipse.jdt.core.prefs (1 KB)
+Assignment5/src/DiGraph_A5/DiGraphPlayground.java (1 KB)
+Assignment5/.project (1 KB)

@@ -1,0 +1,121 @@
+*About The Position*
+
+
+
+Are you looking for a position where you can develop apps that make a
+difference? Know Me is a social enterprise startup that helps people with
+communication difficulties paint a vivid picture of who they are and what
+they want and need.
+
+
+
+We have two levels of programming needs (that could likely be filled by one
+right person):
+
+
+
+=C2=B7         A programming adviser who will help us assess what we need a=
+t
+this turning point in our enterprise
+
+=C2=B7         Ongoing programming help including continued new app develop=
+ment
+as well as developing our already existing apps into Android and/or web
+versions
+
+
+
+*A**bout You*
+
+=C2=B7         Work with team members to debug problems that arise througho=
+ut
+all aspects of our current and future apps, front-end and back-end.
+
+=C2=B7         Collaborate with team members to help develop the founder=E2=
+=80=99s
+vision for new iOS apps, providing creative and technical insight
+
+=C2=B7         Create and maintain technical design documentation for new
+features and applications
+
+=C2=B7         Develop iOS apps; building cool features and extensions
+
+=C2=B7         Develop Android versions of current iOS apps
+
+=C2=B7         Potentially develop web versions of current iOS apps
+
+=C2=B7         Familiarity with Amazon S3, Cloudinary, Layer, and Parse
+
+
+
+*Our Current Products*
+
+
+
+We currently have two iOS apps (Know Me and Friends) available in the Apple
+Store. Please check out our website for more information:
+www.knowmetools.com
+
+Know Me 
+
+www.knowmetools.com
+
+Know Me, LLC creates tools that help people with communication difficulties
+paint a vivid picture of who they are and what they want and need.
+
+
+
+*Know Me App*
+
+This app is built for people with communication disabilities who have
+trouble conveying their thoughts. It is a tool to help them be known and
+understood, and for their loved ones to be reassured by that.
+
+
+
+Know Me visually displays important information about you in a way that=E2=
+=80=99s
+easy to access and personalize for different situations in your life.
+
+
+
+*Friends App*
+
+This app was initially designed so people with limited communication
+ability could hear the voices, and see the faces, of people they care about
+any time. It is also a great tool for memorizing names and faces.
+
+
+
+*Contact*
+
+Please send your resume, a short paragraph about your experience with
+people with disabilities, and any additional questions to
+*michelle@knowmetools.com
+*
+
+
+
+
+
+--=20
+
+Michelle Neumann
+
+720-314-5980
+
+www.knowmetools.com
+
+
+
+710 Market Street, Suite 42
+
+Chapel Hill, NC 27516
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

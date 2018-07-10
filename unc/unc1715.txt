@@ -1,0 +1,19 @@
+This is an automated message to confirm that your payment has been submitted.  Please note that this payment is subject to approval and final verification.
+
+If the purpose of your payment was to remove a hold, that hold should be automatically lifted within one business day. For prompter hold release, please respond to this email and just add your PID to the subject line of the email. 
+
+Thank you!
+
+
+
+
+
+Convenience Fee --- [ Amount ]	
+	
+======== PAYMENT DETAILS ========	
+Student Name --- [ Mangza Lal ]	
+Student Account --- [ xxxxx6540 ]	
+Amount --- [ $71.12 ]	
+Confirmation Number --- [ 463678 ] 	
+	
+Always include your student PID in all emails to us so we can respond about the correct student. Students access your ConnectCarolina Student Account through my.unc.edu. Authorized users access the account through a quick link on cashier.unc.edu.

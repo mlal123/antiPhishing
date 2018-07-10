@@ -1,0 +1,79 @@
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+
+
+Thanks for your message, Mangza.  There’s nothing else for you to do; your budget will be revised to reflect your new budget, and your study abroad scholarships
+ will be added to your package once we get the final confirmation from the Study Abroad Office.
+ 
+All the best,
+ 
+dft
+ 
+
+
+From: Lal, Mangza
+
+Sent: Tuesday, October 10, 2017 11:21 AM
+To: OSSA Study Abroad <FA_StudyAbroad@unc.edu>
+Subject: Study Abroad as a Covenant
+
+
+ 
+
+Hello my name is Mangza. I will be taking part in the Burch Silicon Valley Program (next semester) and I am a Carolina Covenant member and  I was wondering would the money I've received as a Covenant
+ will transfer over to the study abroad program? I think the total cost was something like 15,000 and more for the program (I'll get the exact number for you, I just can't find it right now) and I've received additional scholarships (The Shuford Award and the
+ Crawford Award, both 1000 each). are there any steps I need to take for this whole process?
+
+
+
+

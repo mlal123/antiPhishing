@@ -1,0 +1,34 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+CMOS pulldown question  (12/06/16 11:44 PM)
+
+https://i.gyazo.com/94e01f346fcd365f3f8684815084505a.png
+
+Could someone go over how to draw the pull down for this? The B or D in the pfet is tripping me up.
+
+Go to https://piazza.com/class?cid=iwegau853d02md&nid=irqp4hpe58u5rs&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+No office hours on Wednesday for Istvan  (12/06/16 11:34 PM)
+
+
+
+Go to https://piazza.com/class?cid=iwemd8z1u134sc&nid=irqp4hpe58u5rs&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 411 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2GxNxqCfOm

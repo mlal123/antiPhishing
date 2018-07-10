@@ -1,0 +1,45 @@
+Your classmate posted a new Question.=20
+
+Build vs Successive Inserts Create Different Heaps
+
+I just wanted to check to see if there may be something wrong with my build=
+ implementation.=C2=A0 I noticed that under some circumstances, my build im=
+plementation creates a different heap structure as opposed to me doing succ=
+essive inserts on the heap.=C2=A0 My build method is not doing successive i=
+nserts and is percolating down to construct the heap.=C2=A0 Hence, my quest=
+ion is, is this type of behavior fine for this assignment?=C2=A0 After test=
+ing my build on various collections, even though the structure may be diffe=
+rent than successive builds, it still creates a valid minimum binary heap (=
+fulfills order and structure).=C2=A0 I've been using the online data struct=
+ure simulations as a reference.
+
+Example Build with 5,3,1,0:
+
+Online Simulation creates a build of [sentinel, 0,1,3,5]
+My Implementation creates a build of [sentinel, 0,3,1,5]
+
+(P.S. The online simulation and the book have different build structures fo=
+r the minbinheap on p.257, Figure 6.18)
+
+Go to https://piazza.com/class?cid=3Ditvka5gotmf3vl&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @203. Follo=
+w it to get notified when a response comes in: https://piazza.com/follow/it=
+vka5gotmf3vl/f2GxNxqCfOm/3a8b87e6=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.=

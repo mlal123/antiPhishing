@@ -1,0 +1,248 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+Correcting the error in calculating Double values  (1/26/16 8:33 PM)
+
+I am failing several tests due to the error in calculating doubles an examp=
+le is when the value is 2.849999999996 instead of 2.85 and I don't understa=
+nd how to limit the double values.
+
+Go to https://piazza.com/class?cid=3Dijw5rbe9qq70i&nid=3Dihs2fbbhsfx37n&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+No Console  (1/26/16 8:40 PM)
+
+I am trying to test my code but there is no console, there are only tabs sa=
+ying "Problems" "JDoc" and "Declaration". How do i get the console?
+
+Go to https://piazza.com/class?cid=3Dijw60toqyfx1ur&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A1 Jedi - Grades returned are way too high  (1/26/16 8:59 PM)
+
+So when I type in the grades given I get this output:
+A : 1A-: 1B+:2B : 0B-: 0C+:0C : 1C-: 0D+:0D : 0F : 0
+I get these regardless of whether I put them all in at once or one at a tim=
+e. Something is making the grades way too high, but I'm not sure what it wo=
+uld be. My adept and novice program worked fine, so it's something new that=
+ I've added. Any idea what it could be, or is this something I should come =
+to office hours for?
+
+Go to https://piazza.com/class?cid=3Dijw6og1tdb020w&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A1 Novice won't output without manual termination  (1/26/16 9:03 PM)
+
+Unless I manually terminate my process it will not output for some reason. =
+The output is perfect, but I can't make it actually give it to me without m=
+y intervention, even by adding "return;" or "System.exit(0);" at the end of=
+ the process.
+
+Go to https://piazza.com/class?cid=3Dijw6tlpg8c14xn&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A1 Jedi - can I make a change in the main method?  (1/26/16 9:23 PM)
+
+I was playing around with A1 Jedi and I was wondering if I could move the s=
+canner outside the main and into the class to make it private and static so=
+ I could access it in a method, and then simplify the calculating the stand=
+ard deviation in the code to just running my method. Am I even approaching =
+it right? I'm mostly just testing some things/trying to make the code look =
+more simple.=C2=A0
+
+Go to https://piazza.com/class?cid=3Dijw7jxgoazcsb&nid=3Dihs2fbbhsfx37n&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 Novice Output  (1/26/16 9:25 PM)
+
+How can I change my original output:
+
+DDDD<< DDDD<<< =C2=A0 =C2=A0 <# =C2=A0 =C2=A0
+=C2=A0## =C2=A0 =C2=A0 >#DDDD>>>DDDD>> =C2=A0
+=C2=A0=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 MMMMMMMMMMMM
+MM <<=C2=A0 =C2=A0 =C2=A0 <<=C2=A0 =C2=A0 =C2=A0 << =C2=A0 =C2=A0
+=C2=A0 << MMMMMMMMMMMMMM =C2=A0 =C2=A0 =C2=A0
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 XXX =C2=A0 XXXXX XX=C2=A0
+=C2=A0 XXX: =C2=A0 :XX: =C2=A0 :XX: =C2=A0 :X
+
+to the format like this:
+DD   DD  MM    MM    XXXX
+DD   DD  MM<   MM   XX:::
+DD   DD  MM<<  MM  XX=20=20=20=20
+DD   DD  MM << MM  XX=20=20=20=20
+<<   >>  MM  <>>  MM      MM    MM    XXXX
+
+=C2=A0
+
+Go to https://piazza.com/class?cid=3Dijw7m6o8b7f12t&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Time Due?  (1/26/16 10:07 PM)
+
+What time is Assignment 1 due tomorrow? Anyone Know?
+
+ALso where are all of the office hours for TA and LA listed?
+
+
+Go to https://piazza.com/class?cid=3Dijw93vurjct1s1&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Times of submitting  (1/26/16 10:23 PM)
+
+How many times can we submit the assignment before due? If more than 1, wou=
+ld the final grade be the maximal one?
+
+
+Go to https://piazza.com/class?cid=3Dijw9ossg3qz33o&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Submission Time  (1/26/16 10:55 PM)
+
+What time does Assignment 1 neeed to be submitteed by?
+
+Where can we find the times of office hours for TA and LA
+
+Go to https://piazza.com/class?cid=3Dijwatoa2qhq5bd&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Question about grader  (1/26/16 11:37 PM)
+
+In Novice test 3, there are 20 inputs and apparently there are supposed to =
+be 20 outputs. But there were 19 outputs in=C2=A0"expected output" and took=
+ my points off. Why was that?
+
+A1Novice Test 3
+
+Running a1novice.A1Novice
+Input:=20
+20
+Brad Franklin 3.05 2.22 1.46 0.38 1.64
+Finnegan Franklin 0.29 2.10 1.02 0.08 2.71
+Esther Cooper 2.46 3.37 3.91 1.48 3.55
+Dinesh Earhardt 0.12 2.96 2.06 3.06 2.46
+Gayatri Earhardt 0.13 1.15 2.23 0.94 2.03
+Finnegan Dasgupta 1.11 0.93 3.19 1.17 0.70
+Dinesh Cooper 1.38 1.15 0.95 2.81 3.76
+Finnegan Earhardt 2.85 1.95 0.56 0.49 2.77
+Finnegan Bradley 2.14 1.11 1.75 2.27 3.80
+Brad Bradley 3.00 0.70 1.33 3.78 1.52
+Brad Dasgupta 2.32 3.94 1.29 0.45 3.64
+Dinesh Dasgupta 3.77 2.38 3.47 2.72 0.73
+Gayatri Gueye 0.38 0.44 0.80 0.89 2.40
+Finnegan Earhardt 3.05 1.45 1.75 0.03 0.69
+Esther Bradley 2.90 2.37 0.82 0.65 3.88
+Finnegan Gueye 0.30 0.23 3.82 3.75 1.15
+Gayatri Bradley 3.56 3.73 1.93 0.41 1.22
+Gayatri Anderson 3.17 3.63 0.88 1.59 3.11
+Gayatri Anderson 0.54 0.18 0.40 3.21 3.16
+Dinesh Dasgupta 0.63 0.60 2.64 2.97 2.81
+
+
+Output:
+B.Franklin C
+F.Franklin D-
+E.Cooper B-
+D.Earhardt C-
+G.Earhardt D-
+F.Dasgupta D+
+D.Cooper C
+F.Earhardt C
+F.Bradley C+
+B.Bradley C+
+B.Dasgupta C+
+D.Dasgupta B-
+G.Gueye D-
+F.Earhardt C-
+E.Bradley C+
+F.Gueye C-
+G.Bradley C+
+G.Anderson B-
+G.Anderson D+
+D.Dasgupta C-
+
+
+Output did not match expectations.
+Expected output:
+B. Franklin C
+F. Franklin D
+E. Cooper B-
+D. Earhardt C-
+G. Earhardt D
+F. Dasgupta D+
+D. Cooper C
+F. Earhardt C
+F. Bradley C+
+B. Bradley C+
+B. Dasgupta C+
+D. Dasgupta B-
+G. Gueye D
+F. Earhardt C-
+E. Bradley C+
+F. Gueye C-
+G. Bradley C+
+G. Anderson B-
+G. Anderson D+
+
+A1Novice Test 3 fails. 0 points
+
+Go to https://piazza.com/class?cid=3Dijwcc551e251no&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A1  Jedi - "Normalization" not returning the right value?  (1/26/16 11:43 P=
+M)
+
+So the equation for finding the normalized scores seems pretty straight for=
+ward. My raw test scores, average scores, and standard deviations all seem =
+to be correct, but the normalized curve comes out to be something different=
+ than expected. What am I missing here?
+
+One thing to note, and this is kind of hard to explain. I was unsure earlie=
+r if my methods were working, so I went through the program and tested my a=
+verage and standard deviation methods by putting a print statement below ea=
+ch method. So for example, below my method call for my standard deviation m=
+ethod, I would print out the standard deviation value that was returned fro=
+m that method call. The standard deviation value would be returned 5 times =
+(since the loop that this is all inside iterates through 5 times). The firs=
+t four times, the value would be incorrect, but by the final iteration, the=
+ value outputted was the one expected. Could this be the source of the prob=
+lem, as in,=C2=A0should I change the way the program=C2=A0loops? If so, how=
+ exactly should I group everything?
+
+Go to https://piazza.com/class?cid=3Dijwcj5u11ov65b&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

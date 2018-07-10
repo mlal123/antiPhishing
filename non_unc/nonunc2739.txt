@@ -1,0 +1,30 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+Cannot send zip file to TA  (9/20/16 9:09 PM)
+
+When attempting to send the Assignment0 resubmission, I keep getting the message that says the recipient rejected the email. Anyone else having this issue?
+
+mx.google.com rejected your message to the following email addresses:
+
+Your message wasn't delivered because the recipient's email provider rejected it.
+mx.google.com gave this error:This message was blocked because its content presents a potential security issue. Please visit https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fsupport.google.com%2fmail%2f%3fp%3dBlockedMessage&data=01%7c01%7cmlal123%40live.unc.edu%7cf29b00fa0196474dd6ec08d3e1ddb4ca%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=uyORBfABH%2fAhk6Zr1mhtgTxxT3TNcjyJnCedsbd1jZc%3d to review our message content and attachment content guidelines.
+
+Go to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2fclass%3fcid%3ditc7os2nxov3sz%26nid%3dis6wk5m47ay4zy%26token%3df2GxNxqCfOm&data=01%7c01%7cmlal123%40live.unc.edu%7cf29b00fa0196474dd6ec08d3e1ddb4ca%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=b88fMK7AOlgTkxnBYGNnA01za%2fYKlB6852Rrl%2fHRUuQ%3d to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 410 (section 002) at University of North Carolina at Chapel Hill. Go to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2flogin&data=01%7c01%7cmlal123%40live.unc.edu%7cf29b00fa0196474dd6ec08d3e1ddb4ca%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=UBZCECgKyDmJmacUbRR2TEactFd6u%2bsb8Ow5RT%2fFpRo%3d to sign in and manage your email preferences or proceed to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2fis6wk5m47ay4zy&data=01%7c01%7cmlal123%40live.unc.edu%7cf29b00fa0196474dd6ec08d3e1ddb4ca%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=MONBSj9XIfQ7ZIpBm%2fh8JSsh8R4Ia15B%2b6LKcGKBwlk%3d to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2flink_accounts%2ff2GxNxqCfOm&data=01%7c01%7cmlal123%40live.unc.edu%7cf29b00fa0196474dd6ec08d3e1ddb4ca%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=ONk1w3W0ElznJJbvd0%2fjqRtlEnHXdgTq0B0I0yfO760%3d

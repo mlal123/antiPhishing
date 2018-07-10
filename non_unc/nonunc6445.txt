@@ -1,0 +1,41 @@
+Your classmate posted a new Question.=20
+
+Problem 3.4
+
+Assume that source elements of length k are mapped in some uniform fashion =
+into a target elements of length p. If each digit can take on one of r valu=
+es, then the number of source elements is rk and the number of target eleme=
+nts is the smaller number rp.
+A particular source element xi is mapped to a particular target element yj.
+a. What is the probability that the correct source element can be selected =
+by an
+adversary on one try?
+b. What is the probability that a different source element xk (xi =3D=CC=B8=
+ xk) that results in
+the same target element, yj, could be produced by an adversary?
+c. What is the probability that the correct target element can be produced =
+by an
+adversary on one try?
+Could someone go over how to do this one?=C2=A0
+
+Go to https://piazza.com/class?cid=3Dj7zb2n41z861vz&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @69. Follow=
+ it to get notified when a response comes in: https://piazza.com/follow/j7z=
+b2n41z861vz/f2GxNxqCfOm/4db78885=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 435 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/j5vi9cpw2jn336 to un-enroll from this class.=

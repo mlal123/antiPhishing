@@ -1,0 +1,27 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+Treat root as a previous node for doubly linked list?  (9/07/16 1:23 AM)
+
+Should the hasPrev be true or false for the first node (at index 0) in a doubly linked list?
+
+
+
+Go to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2fclass%3fcid%3dissgnv5mvlg773%26nid%3dis6wk5m47ay4zy%26token%3df2GxNxqCfOm&data=01%7c01%7cmlal123%40live.unc.edu%7c9a5fba37dbd242075a9408d3d70199b9%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=C1%2fLJp%2b%2fzhteBrTmmk9lDJiwPWuqEBSgUB%2bMB615ocM%3d to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 410 (section 002) at University of North Carolina at Chapel Hill. Go to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2flogin&data=01%7c01%7cmlal123%40live.unc.edu%7c9a5fba37dbd242075a9408d3d70199b9%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=EkSSD8kXvVBMssMXCrdnzxiHAeqFSucBAn3H9MHZfjM%3d to sign in and manage your email preferences or proceed to https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2fis6wk5m47ay4zy&data=01%7c01%7cmlal123%40live.unc.edu%7c9a5fba37dbd242075a9408d3d70199b9%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=bvY1wE1wTdecleMLcMeyDbIVamc2vaf2frFR7kdklnU%3d to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fpiazza.com%2flink_accounts%2ff2GxNxqCfOm&data=01%7c01%7cmlal123%40live.unc.edu%7c9a5fba37dbd242075a9408d3d70199b9%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=99W5WiO0%2b%2b7NAt25OYFNLlNDtHZ0KmeT2HkCylJ64zQ%3d

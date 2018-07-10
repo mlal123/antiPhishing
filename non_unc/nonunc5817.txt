@@ -1,0 +1,660 @@
+
+
+   =20
+    
+        /* Mobile-specific Styles */
+        @media only screen and (max-device-width: 480px) {
+            table[class=3Dw0],
+            td[class=3Dw0] {
+                width: 0 !important;
+            }
+
+            table[class=3Dw10],
+            td[class=3Dw10],
+            img[class=3Dw10] {
+                width: 10px !important;
+            }
+
+            table[class=3Dw15],
+            td[class=3Dw15],
+            img[class=3Dw15] {
+                width: 5px !important;
+            }
+
+            table[class=3Dw30],
+            td[class=3Dw30],
+            img[class=3Dw30] {
+                width: 10px !important;
+            }
+
+            table[class=3Dw60],
+            td[class=3Dw60],
+            img[class=3Dw60] {
+                width: 10px !important;
+            }
+
+            table[class=3Dw125],
+            td[class=3Dw125],
+            img[class=3Dw125] {
+                width: 80px !important;
+            }
+
+            table[class=3Dw130],
+            td[class=3Dw130],
+            img[class=3Dw130] {
+                width: 55px !important;
+            }
+
+            table[class=3Dw140],
+            td[class=3Dw140],
+            img[class=3Dw140] {
+                width: 90px !important;
+            }
+
+            table[class=3Dw160],
+            td[class=3Dw160],
+            img[class=3Dw160] {
+                width: 180px !important;
+            }
+
+            table[class=3Dw170],
+            td[class=3Dw170],
+            img[class=3Dw170] {
+                width: 100px !important;
+            }
+
+            table[class=3Dw180],
+            td[class=3Dw180],
+            img[class=3Dw180] {
+                width: 80px !important;
+            }
+
+            table[class=3Dw195],
+            td[class=3Dw195],
+            img[class=3Dw195] {
+                width: 80px !important;
+            }
+
+            table[class=3Dw220],
+            td[class=3Dw220],
+            img[class=3Dw220] {
+                width: 80px !important;
+            }
+
+            table[class=3Dw240],
+            td[class=3Dw240],
+            img[class=3Dw240] {
+                width: 180px !important;
+            }
+
+            table[class=3Dw255],
+            td[class=3Dw255],
+            img[class=3Dw255] {
+                width: 185px !important;
+            }
+
+            table[class=3Dw275],
+            td[class=3Dw275],
+            img[class=3Dw275] {
+                width: 135px !important;
+            }
+
+            table[class=3Dw280],
+            td[class=3Dw280],
+            img[class=3Dw280] {
+                width: 135px !important;
+            }
+
+            table[class=3Dw300],
+            td[class=3Dw300],
+            img[class=3Dw300] {
+                width: 140px !important;
+            }
+
+            table[class=3Dw325],
+            td[class=3Dw325],
+            img[class=3Dw325] {
+                width: 95px !important;
+            }
+
+            table[class=3Dw360],
+            td[class=3Dw360],
+            img[class=3Dw360] {
+                width: 140px !important;
+            }
+
+            table[class=3Dw410],
+            td[class=3Dw410],
+            img[class=3Dw410] {
+                width: 180px !important;
+            }
+
+            table[class=3Dw470],
+            td[class=3Dw470],
+            img[class=3Dw470] {
+                width: 200px !important;
+            }
+
+            table[class=3Dw580],
+            td[class=3Dw580],
+            img[class=3Dw580] {
+                width: 280px !important;
+            }
+
+            table[class=3Dw640],
+            td[class=3Dw640],
+            img[class=3Dw640] {
+                width: 300px !important;
+            }
+
+            table[class*=3Dhide],
+            td[class*=3Dhide],
+            img[class*=3Dhide],
+            p[class*=3Dhide],
+            span[class*=3Dhide] {
+                display: none !important;
+            }
+
+            table[class=3Dh0],
+            td[class=3Dh0] {
+                height: 0 !important;
+            }
+
+            p[class=3Dfooter-content-left] {
+                text-align: center !important;
+            }
+
+            #headline p {
+                font-size: 30px !important;
+            }
+
+            .article-content,
+            #left-sidebar {
+                -webkit-text-size-adjust: 90% !important;
+                -ms-text-size-adjust: 90% !important;
+            }
+
+            .header-content,
+            .footer-content-left {
+                -webkit-text-size-adjust: 80% !important;
+                -ms-text-size-adjust: 80% !important;
+            }
+
+            img {
+                height: auto;
+                line-height: 100%;
+            }
+        }
+
+        /* Client-specific Styles */
+        #outlook a {
+            padding: 0;
+        }
+        /* Force Outlook to provide a "view in browser" button. */
+        body {
+            width: 100% !important;
+        }
+
+        .ReadMsgBody {
+            width: 100%;
+        }
+
+        .ExternalClass {
+            width: 100%;
+            display: block !important;
+        }
+        /* Force Hotmail to display emails at full width */
+
+        /* Reset Styles */
+
+        /* Add 100px so mobile switch bar doesn't cover street address. */
+        body {
+            background-color: #f3f3f3;
+            margin: 0;
+            padding: 0;
+        }
+
+        img {
+            outline: none;
+            text-decoration: none;
+            display: block;
+        }
+
+        br,
+        strong br,
+        b br,
+        em br,
+        i br {
+            line-height: 100%;
+        }
+
+        h1 {
+            margin: 1em 0;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            line-height: 100% !important;
+            -webkit-font-smoothing: antialiased;
+            color: black;
+        }
+
+            h1 a,
+            h2 a,
+            h3 a,
+            h4 a,
+            h5 a,
+            h6 a {
+                color: blue !important;
+            }
+
+                h1 a:active,
+                h2 a:active,
+                h3 a:active,
+                h4 a:active,
+                h5 a:active,
+                h6 a:active {
+                    color: red !important;
+                }
+
+                /* Preferably not the same color as the normal header link =
+color.  There is limited support for psuedo classes in email clients, this =
+was added just for good measure. */
+                h1 a:visited,
+                h2 a:visited,
+                h3 a:visited,
+                h4 a:visited,
+                h5 a:visited,
+                h6 a:visited {
+                    color: purple !important;
+                }
+
+        /* Preferably not the same color as the normal header link color. T=
+here is limited support for psuedo classes in email clients, this was added=
+ just for good measure. */
+        table td,
+        table tr {
+            border-collapse: collapse;
+        }
+
+        .yshortcuts,
+        .yshortcuts a,
+        .yshortcuts a:link,
+        .yshortcuts a:visited,
+        .yshortcuts a:hover,
+        .yshortcuts a span {
+            color: black;
+            text-decoration: none !important;
+            border-bottom: none !important;
+            background: none !important;
+        }
+        /* Body text color for the New Yahoo.  This example sets the font o=
+f Yahoo's Shortcuts to black. */
+
+        /* This most probably won't work in all email clients. Don't includ=
+e code _tmplitem=3D"374" blocks in email. */
+        code {
+            white-space: normal;
+            word-break: break-all;
+        }
+
+        #background-table {
+            background-color: #f3f3f3;
+        }
+
+        /* Webkit Elements */
+        #top-bar {
+            border-radius: 6px 6px 0px 0px;
+            -moz-border-radius: 6px 6px 0px 0px;
+            -webkit-border-radius: 6px 6px 0px 0px;
+            -webkit-font-smoothing: antialiased;
+            background-color: #0073AE;
+            color: #ffffff;
+        }
+
+            #top-bar a {
+                font-weight: bold;
+                color: #ffffff;
+                text-decoration: none;
+            }
+
+        #footer {
+            border-radius: 0px 0px 6px 6px;
+            -moz-border-radius: 0px 0px 6px 6px;
+            -webkit-border-radius: 0px 0px 6px 6px;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* Fonts and Content */
+        body,
+        td {
+            font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+        }
+
+        .header-content,
+        .footer-content-left,
+        .footer-content-right {
+            -webkit-text-size-adjust: none;
+            -ms-text-size-adjust: none;
+        }
+
+        /* Prevent Webkit and Windows Mobile platforms from changing defaul=
+t font sizes on header and footer. */
+        .header-content {
+            font-size: 12px;
+            color: #ffffff;
+        }
+
+            .header-content a {
+                font-weight: bold;
+                color: #ffffff;
+                text-decoration: none;
+            }
+
+        #headline p {
+            color: #ffffff;
+            font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-s=
+erif;
+            font-size: 36px;
+            text-align: center;
+            margin-top: 0px;
+            margin-bottom: 30px;
+        }
+
+            #headline p a {
+                color: #ffffff;
+                text-decoration: none;
+            }
+
+        .article-title {
+            font-size: 18px;
+            line-height: 24px;
+            color: #333333;
+            font-weight: bold;
+            margin-top: 0px;
+            margin-bottom: 18px;
+            font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+        }
+
+            .article-title a {
+                color: #333333;
+                text-decoration: none;
+            }
+
+            .article-title.with-meta {
+                margin-bottom: 0;
+            }
+
+        .article-meta {
+            font-size: 13px;
+            line-height: 20px;
+            color: #ccc;
+            font-weight: bold;
+            margin-top: 0;
+        }
+
+        .article-content {
+            font-size: 13px;
+            line-height: 18px;
+            color: #666666;
+            margin-top: 0px;
+            margin-bottom: 18px;
+            font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+        }
+
+            .article-content a {
+                color: #009EF2;
+                font-weight: bold;
+                text-decoration: none;
+            }
+
+            .article-content img {
+                max-width: 100%;
+            }
+
+            .article-content ol,
+            .article-content ul {
+                margin-top: 0px;
+                margin-bottom: 18px;
+                margin-left: 19px;
+                padding: 0;
+            }
+
+            .article-content li {
+                font-size: 13px;
+                line-height: 18px;
+                color: #666666;
+            }
+
+                .article-content li a {
+                    color: #009EF2;
+                    text-decoration: underline;
+                }
+
+            .article-content p {
+                margin-bottom: 15px;
+            }
+
+        .footer-content-left {
+            font-size: 12px;
+            line-height: 15px;
+            color: #e2e2e2;
+            margin-top: 0px;
+            margin-bottom: 15px;
+        }
+
+            .footer-content-left a {
+                color: #ffffff;
+                font-weight: bold;
+                text-decoration: none;
+            }
+
+        .footer-content-right {
+            font-size: 11px;
+            line-height: 16px;
+            color: #e2e2e2;
+            margin-top: 0px;
+            margin-bottom: 15px;
+        }
+
+            .footer-content-right a {
+                color: #ffffff;
+                font-weight: bold;
+                text-decoration: none;
+            }
+
+        #footer {
+            background-color: #0073AE;
+            color: #ffffff;
+        }
+
+            #footer a {
+                color: #ffffff;
+                text-decoration: none;
+                font-weight: bold;
+            }
+
+        #permission-reminder {
+            white-space: normal;
+        }
+
+        #street-address {
+            color: #ffffff;
+            white-space: normal;
+        }
+
+        /* User Data Table */
+        .user-data {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+            .user-data td {
+                border: 1px solid #d9d9d9;
+                font-size: 12px;
+                line-height: 28px;
+            }
+
+                .user-data td.label {
+                    width: 40%;
+                    background: #f8f8f8;
+                    color: #000;
+                    font-weight: bold;
+                }
+    
+
+    
+
+
+
+    
+        
+            
+                
+                    
+                        
+                            
+                                
+                            
+                            
+                                
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                    
+                                
+                            
+                            
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                            
+                                                
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                                    
+                                                                    
+                                                                        ****This is an automatically generated email. Please do not respond as i=
+t will not be received.****
+                                                                       =20
+                                                                        Student Blue Waiver Status
+
+
+    
+        
+            University Name
+            UNC Chapel Hill
+        
+        
+            Waiver Request Confirmation #
+            W-46F89663FC5AB57
+        
+        
+            Waiver Status
+            Pending (Fall 2017)
+        
+    
+
+
+Dear Mangza Lal,
+
+Thank you for submitting your waiver request for student health insuranc=
+e through UNC Chapel Hill. Your online Student BlueSM account ha=
+s been updated to reflect=20
+    the Pending waiver request status. 
+
+Please allow 5 business days for the verification of your insurance info=
+rmation.
+
+Please retain a copy of this email for your records.
+
+Do not hesitate to contact us if you have questions. You can call us at =
+(888) 351-8283 or email us=20
+    at email@studentbluenc.com. Student BlueSM Customer Service =
+is here to assist you.
+
+Important Note: Waivers or Student Health Insurance (SHI) =
+enrollment is a requirement for eligible students each university semester.=
+
+
+Thank You,
+
+Student BlueSM Customer Service
+                                                                       =20
+                                                                    
+                                                                
+                                                            
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                
+                            
+                            
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                             
+Student BlueSM is underwr=
+itten by Blue Cross and Blue Shield of North Carolina.
+Blue Cross and Blue Shield of North =
+Carolina complies with applicable Federal civil rights laws and does not di=
+scriminate on the basis of race, color, national origin, age, disability, o=
+r sex.
+=E2=80=A2 ATENCI=C3=93N: Si habla es=
+pa=C3=B1ol, tiene a su disposici=C3=B3n servicios gratuitos de asistencia l=
+ing=C3=BC=C3=ADstica. Llame al 1-888-206-4697 (TTY: 1-800-442-7028).=
+
+=E2=80=A2 =E6=B3=A8=E6=84=8F=EF=BC=
+=9A=E5=A6=82=E6=9E=9C=E6=82=A8=E8=AC=9B=E5=BB=A3=E6=9D=B1=E8=A9=B1=E6=88=96=
+=E6=99=AE=E9=80=9A=E8=A9=B1=EF=BC=8C =E6=82=A8=E5=8F=AF=E4=BB=A5=E5=85=8D=
+=E8=B2=BB=E7=8D=B2=E5=BE=97=E8=AA=9E=E8=A8=80=E6=8F=B4=E5=8A=A9=E6=9C=8D=E5=
+=8B=99=E3=80=82=E8=AB=8B=E8=87=B4=E9=9B=BB 1-888-206-4697(TTY : 1-800-442-7=
+028).
+ 
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                
+                            
+                            
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

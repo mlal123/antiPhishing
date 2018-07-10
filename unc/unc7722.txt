@@ -1,0 +1,16 @@
+The following assessment submission was recorded by Sakai @ UNC-Chapel Hill:
+
+    Site Title          : COMP550.002.FA17
+    Assessment          : COMP 550.02 Final Examination - Fall 2017
+
+    Student             : Mangza Lal (mlal123)
+    Submission ID       : 3004017
+    Submitted on        : 2017-Dec-08 01:17 PM
+    Confirmation Number : 3004017-127576-ec90a606-8d65-40b1-b530-54ce38797381-Fri Dec 08 13:17:51 EST 2017
+
+    Assessment Due Date : 
+    Site ID             : 2ba5ac9f-8aa8-4c5a-833d-c1ce15564080
+
+---
+This automatic notification message was sent by Sakai @ UNC-Chapel Hill (https://sakai.unc.edu/portal)
+Control what email notifications you receive at Home -> Preferences -> Notifications

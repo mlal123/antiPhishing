@@ -1,0 +1,75 @@
+I know that everyone is focused on finishing up the semester, but it's time
+to give some thought about spring semester as well.  We will be looking for
+LAs next semester.  The process for COMP 110 and 401 is separate from other
+courses.  So there are 3 parts to this email:
+
+*COMP 110 (and 101)*
+COMP 101 is going to be the first half of COMP 110 next semester, so the LA
+Pool will be the same for both courses.  The process and application are to
+be found on the COMP 110 website .
+
+*Courses other than 101, 110, and 401*
+Faculty will select their own LAs for classes, but to simplify the process,
+we collect the names of all students interested and pass those names to the
+faculty members.  The courses that we are recruiting for are
+
+   - 126 (practical web design)
+   - 283 (discrete structures)
+   - 380 (intro to digital culture)
+   - 410 (data strucatures)
+   - 411 (computer organization)
+   - 455 (models of languages & computation)
+   - 535 (intro to security)
+
+If you are interested in any of these opportunities, please fill in the LA
+interest form .
+
+*COMP 401*
+As the department continues to expand and explore ways to effectively use
+undergraduate learning assistants (LAs) in introductory courses, the Spring
+2018 COMP 401 offering will be making use of LAs more than ever. In fact,
+for the first time we'll be using LAs exclusively, including leading the
+recitation sections, and will not be using graduate student TAs at all. In
+addition, we will be structuring the LA experience to more closely connect
+LAs to students in the course as mentors and to foster community among
+students within the course.
+
+If you believe that you can contribute to making COMP 401 better than ever,
+provide students starting out in the major and just learning how to program
+with a positive experience, and are interested in helping develop exercises
+and materials that get used in the course, please consider applying to be a
+Spring 2018 COMP 401 LA.
+
+As an LA for COMP 401, Spring 2018, you will be compensated for 10 hours /
+week of effort and will be expected to:
+
+   - Schedule and hold 4 regular 1-hour weekly meetings with cohorts of 6-7
+   COMP 401 students. The purpose of these meetings is to provide dedicated
+   office hour time to these groups of students, keep tabs on their progress
+   in the course and any difficulties they may be having, and generally mentor
+   students in the course.
+   - Schedule and hold 2 hours of generally available drop-in office hours.
+   These office hours will be available to all students to get programming
+   assignment help as needed.
+   - Attend and facilitate at least 2 of the required Friday recitations.
+   The recitation times for Spring 2018 are as follows:
+   - 9:00 - 9:55
+      - 10:10 - 11:00
+      - 11:15 - 12:05
+      - 12:20 - 1:10
+      - 1:25 - 2:15
+      -  2:30 - 3:20
+   - Attend a regular 1 hour weekly staff meeting (to be scheduled) of all
+   COMP 401 LAs and Prof. Mayer-Patel. We will use this meeting time to go
+   over any course issues and review the exercises for that week's recitation.
+   - Spend on average 1 hour per week answering questions on Piazza,
+   grading exam and assignments that can not be autograded, and other tasks
+   that may come up through the semester. These activities may be heavier on
+   some weeks and lighter on others.
+
+Apply to be a Spring 2018 COMP 401 LA by filling out this form
+
+
+-- 
+You received this message because you are subscribed to the Google Groups "Majors" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to majors+unsubscribe@cs.unc.edu.

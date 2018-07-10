@@ -1,0 +1,74 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+Lab 5  (9/28/16 7:04 PM)
+
+Hi, when I try to run the submit script for lab 5 for ex1.asm, I get an err=
+or:
+
+snapper(12)% /home/lastra/comp411/bin/submitlab5
+/home/lastra/comp411/bin/submitlab5: Command not found.
+
+I ran the command pwd to see if I was in the right directory and indeed I w=
+as:
+/afs/cs.unc.edu/home/yourONYEN/comp411lab/lab5
+
+I just want to know if there is something I did wrong on my part or if the =
+command has not been set up yet.
+
+Thanks.
+
+Go to https://piazza.com/class?cid=3Ditnir555k7q39&nid=3Dirqp4hpe58u5rs&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Helpful MIPS Instructions Reference  (9/28/16 10:42 PM)
+
+Just thought I would share this. I know much of the info is in the green sh=
+eet, but if you want a list of all the MIPS instructions this has been real=
+ly helpful for me. hope someone else finds it useful.=C2=A0
+
+http://www.mrc.uidaho.edu/mrc/people/jff/digital/MIPSir.html
+
+Go to https://piazza.com/class?cid=3Ditnqjepcf785vk&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+xor vs or  (9/28/16 10:50 PM)
+
+does xor not add a 1 to a new bit if both of the bits are 1? is that the di=
+fference between the two?
+
+e.g. the instruction "xor $t0 $t1 $t2":=C2=A0so if $t1 is 01101010and $t2 i=
+s 00100100
+
+then I would get: 01001110 in $t0vs if I did "or $t0 $t1 $t2", I would get:=
+ 01101110is this correct? Am I understanding or vs xor? thanks.
+
+Go to https://piazza.com/class?cid=3Ditnqti8m4e74pq&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

@@ -1,0 +1,82 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+multiple correct answers to Question 9 of part 3 pipelining  (12/04/16 6:08=
+ PM)
+
+For this question, there are two instances of data hazards if forwarding is=
+ not implemented.
+
+one is at
+add $1, $3, $6lw $4, 4($1)
+
+the other is at
+add $4, $2, $3sub $5, $4, $6
+
+both of which require a register from the first instruction to be ready by =
+the time the second instruction executes. However, the problem on sakai onl=
+y allows you to select one as the correct answer. What should I do
+
+Go to https://piazza.com/class?cid=3Diwb9f5m7qb94df&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+ASEL vs BSEL  (12/04/16 6:43 PM)
+
+What is the difference between ASEL and BSEL? Is it the upper/lower registe=
+r select?
+
+Go to https://piazza.com/class?cid=3Diwbanr118r612z&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+PS5 due date  (12/04/16 6:57 PM)
+
+Is the problem set due on Monday or Tuesday? On the calendar it says the as=
+signment is due Monday and the quiz to submit the assignment is due Tuesday.
+
+Go to https://piazza.com/class?cid=3Diwbb64hignl48n&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+RESET and IRQ  (12/04/16 8:55 PM)
+
+What is the use of RESET and IRQ?
+
+Go to https://piazza.com/class?cid=3Diwbfd2vz7lz4nc&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Question 2 2 way associative cache  (12/04/16 9:35 PM)
+
+When it says "where the left cache set has just been replaced", it means th=
+at the left set=C2=A0has the most recent data and the right set holds older=
+ data?
+
+Go to https://piazza.com/class?cid=3Diwbgsge5msxsr&nid=3Dirqp4hpe58u5rs&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

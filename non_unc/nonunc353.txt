@@ -1,0 +1,39 @@
+Your classmate posted a new Question.=20
+
+Assignment 1
+
+The instructions say=C2=A0
+Using an if-else statement, print which team won the game by how much. Ther=
+e are three possible scenarios:
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0if=C2=A0uncScore=C2=A0is more than=C2=A0dukeS=
+core, print =E2=80=9CUNC won the game!=E2=80=9D along with the=C2=A0differe=
+nce.=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0If=C2=A0uncScore=C2=A0is less than=C2=A0d=
+ukeScore=C2=A0print =E2=80=9CDuke won the game.=E2=80=9D along with the=C2=
+=A0difference.=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0Otherwise, if=C2=A0uncSco=
+re=C2=A0is equal to=C2=A0dukeScore=C2=A0print =E2=80=9CIt was a tie.=E2=80=
+=9D=C2=A0=C2=A0You do not need to print difference.
+
+Do I have to write my if statements using if (uncScore < dukeScore) and vic=
+e versa or can I do if (difference < 0) ?
+
+Go to https://piazza.com/class?cid=3Dieobi9pdk6y16u&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @91. Follow=
+ it to get notified when a response comes in: https://piazza.com/follow/ieo=
+bi9pdk6y16u/f2GxNxqCfOm/fc6649e3=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.=

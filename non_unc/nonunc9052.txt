@@ -1,0 +1,371 @@
+
+
+        
+        Udemy
+        
+            img {
+                max-width: 100%;
+            }
+            p{
+                margin-top: 0;
+                margin-bottom: 10px;
+                font-size: 16px;
+            }
+            p a{
+                text-decoration: none;
+            }
+            ul{
+                margin: 0 0 10px 0;
+                padding-left: 10px;;
+            }
+            @media (max-width: 480px) {
+                #logo {
+                    margin: 0 auto;
+                    padding-left: 0 !important;
+                }
+            }
+           =20
+           =20
+        
+    
+    
+        
+            
+                
+                   =20
+                        
+                           =20
+    
+        
+           =20
+                New Promotional Announcement
+           =20
+        
+    
+
+                        
+                   =20
+                   =20
+                       =20
+                        
+                            
+                                
+                               =20
+    
+        
+            
+                
+            
+            
+               =20
+                                   =20
+                                Hi Mangza, an announcement has been made from SuperDataScie=
+nce, instructor of Machine Learning A-Z=E2=84=A2: Hands-On Python & R In Data Science=
+ and Artificial Intelligence A-Z=E2=84=A2: Learn How To Build An AI.
+                                   =20
+                               =20
+            
+        
+    
+
+    
+         Less Than 4&n=
+bsp;Hours Left To Secure Your Early Bird Bonuses
+
+  
+
+
+
+In less than one 4 hours, the Early Bird offer for the Blockchain A=
+-Z=E2=84=A2 - Build Your Own Blockchain, Cryptocurrency & ICO Mega-Cour=
+se will close. In fairness to everyone, we cannot give you this o=
+ffer after the deadline.
+
+  
+
+You will lose the 3 bonus gifts =
+including the Top 3 Crypto Truths, Top Industries to be D=
+isrupted by Blockchain & How to Inves=
+t in ICOs!
+
+  You will risk falling behind other analysts, =
+who ARE learning how to harness the power of this technology that=E2=
+=80=99s changing the world.
+
+  And you will miss out on the limited-time price of just=
+ $39 US. (This course is worth well over $39, so why would y=
+ou pass up the savings?)
+
+  
+
+Since The Fi=
+rst Announcement I Sent You 479 Students Have Already Signed Up A=
+nd Are Enjoying The Unique BonusesThe most im=
+portant advantage of this class is simplicity of explanation. We aimed to c=
+reate a structured, researched course that speaks to YOU and WILL help you =
+master a technology that will play a central role in the future.
+
+  
+
+Plus, this course includes not only how to build all the Blockchain infr=
+astructure, but the concepts, theory and most importantly, the mindset to f=
+ully take advantage and exploit this 21st century game-changer.=
+=20
+
+  
+
+Knowledge is power. By the very same token, ignorance is we=
+akness.
+
+  
+
+Avoid Ignorance.=
+ Join Us In The Blockchain Course And Take Steps to Become the Best Version=
+ of Yourself Today!Sure, you can get the course fo=
+r $17 or $19 or $14.95 + tax during one of Udemy's special of=
+fers.
+
+  
+
+We all know that.
+
+  
+
+Whatever.
+
+  
+
+Go nuts.
+
+  
+
+Don't worry.
+
+  
+
+Be happy.
+
+  
+
+But =E2=80=A6
+
+  
+
+There's A =
+Huge Problem With All Of That
+
+  
+
+What you can't get when you join our course throug=
+h those other channels, are the following limited bonus gifts. We're g=
+iving these gifts only to those of you who join the course in the next 4&nb=
+sp;hours using this coupon-coded link.
+
+  
+
+#1 Vid=
+eo & Report: The Top 3 Crypto Truths
+
+  
+
+Cryptocurrencies are huge right now. And they=E2=80=99re going to play a=
+n even bigger part in our future. But a lot of secrets, questions and confu=
+sion still swirl around them. For example, why do they fluctuate so wildly?
+
+  
+
+Even with all the mystery, they aren=E2=80=99t some oddity you have to s=
+tay away from. We=E2=80=99ve shone a light onto cryptos to help you better =
+understand them, whether you=E2=80=99re an investor, using them to buy thin=
+gs or are just unsure what to make of it all.
+
+  
+
+Don=E2=80=99t miss your chance to demystify the cryptos!
+
+  
+
+<=
+/a>
+
+#2 Video &=
+amp; Report: Top Industries to be Disrupted by Blockchain
+
+  
+
+Banking, healthcare and education are all obvious industries that can be=
+ (and are being) disrupted by Blockchain. But Blockchain can literally turn=
+ up anywhere, from tracking dental records to buying virtual cats. So how d=
+o you know where the biggest opportunities are?=20
+
+  
+
+If you focus on the top industries being disrupted, you=E2=80=99ll have =
+plenty of chances to play your part in the Blockchain revolution. Find the =
+huge opportunities waiting for you with this video and report!
+
+  
+
+
+
+#3 Vide=
+o: How to Invest into ICOs
+
+  
+
+Did you know there=E2=80=99s a cryptocurrency called BunnyToken that=E2=
+=80=99s intended to be a payment solution for the adult industry? And Bunny=
+Token=E2=80=99s just one of over 1,500 cryptocurrencies out there right now=
+. Most are worth practically nothing. Some are ready to explode.
+
+  
+
+How do you spot the diamonds in the rough? Knowing how to pick a winning=
+ ICO from a losing one is a crucial skill if you=E2=80=99re even slightly c=
+urious about cryptocurrencies. This video will reveal the key things to loo=
+k out for and the traps to avoid as you explore this exciting, unpredictabl=
+e world of investment.
+
+  
+
+If you=E2=80=99re even thinking about getting into ICOs, you can=E2=80=
+=99t afford to miss this!
+
+  
+
+=
+
+
+The combined value of these materials is way beyond even the sticker pri=
+ce of the course itself.
+
+  
+
+In fact, if you're the kind of person who takes action, this additional =
+material is going to be downright priceless for you.
+
+  
+
+But here's the thing:
+
+  
+
+Less than 4 =
+;hours remain to join the Blockchain A-Z=E2=84=A2 course =
+
+
+  
+
+and get these bonuses using this special link. It's already coded w=
+ith your discount and everything has been taken care of for you.
+
+  
+
+Join the course, scroll down to the bonuses and lock them imm=
+ediately. They are yours to keep, just for trying the course.
+
+  
+
+And please understand that you have four weeks to go through the courses=
+. If you aren't 100% satisfied this is the best investment for you, simply =
+contact Udemy and you=E2=80=99ll get every last dollar back. No fuss, no ha=
+ssles.
+
+  
+
+And you'll get to keep the bonus materials forever. The risk is entirely=
+ on us.
+
+  
+
+Plus, you get =
+this course for life.
+
+  
+
+That=E2=80=99s right. Once you sign up for the Blockchain Training, you =
+have it for life.=20
+
+  
+
+You will be continuing your education and getting incredible boosts to y=
+our Data Science career, and ultimately - for your life.
+
+  
+
+So if you're interested in taking Blockchain A-Z=E2=84=A2 and learn=
+ing from all of these incredible bonuses, you really do need to take act=
+ion now. You can use the discount coupon only until Friday, March 30th =
+at 23:59 New York time. These bonuses have been made only for peo=
+ple who use this special coupon and will never be available again.
+
+  
+
+Ever. 
+
+  
+
+We look forward to seeing you inside Blockchain A-Z=E2=84=A2
+
+  
+
+Here's where to join us:
+
+  
+
+http=
+s://www.udemy.com/build-your-blockchain-az/?couponCode=3DSDSBLOCKCHAIN
+
+  
+
+Sincerely,
+
+  
+
+Kirill Eremenko & Hadelin de Ponteves
+
+  
+
+P.S. If you're still unsure about taking this course, then watch the intro video right here=
+.
+    
+
+                               =20
+                                   =20
+                               =20
+                            
+                        
+                   =20
+                   =20
+                       =20
+                   =20
+                
+                
+                    
+                       =20
+                            Delivered by Udemy 600 Harrison Street, 3rd Flo=
+or, San Francisco, CA 94107.
+                       =20
+                       =20
+                           =20
+                               =20
+                                    You may unsubscribe if you prefer not to receive messages like these=
+.
+                               =20
+                           =20
+                       =20
+                       =20
+                           =20
+                               =20
+                                    If something isn't right, please report abuse.
+                               =20
+                           =20
+                       =20
+                    
+                
+            
+        
+   =20
+
+
+

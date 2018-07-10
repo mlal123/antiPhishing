@@ -1,0 +1,200 @@
+Hello Everyone,
+
+Happy Friday! See below for opportunities and events... note there are a
+couple on-campus summer opportunities for grads and undergrads.
+
+*Opportunities*
+
+*Rewriting the Code-Fellowship Program for Women in CS*
+Rewriting the Code  is a non-profit
+organization who supports college women in computer science. If you are an
+undergraduate woman pursuing a major that could lead to a career in tech,
+consider applying for the Rewriting the Code Fellowship program
+.
+
+This year long program includes community building and networking with
+college women, mentorship opportunities, opportunities for professional
+growth, internship/full-time job opportunities, and summer programming in
+cities including NYC, Raleigh/Durham, San Francisco, Seattle, Silicon
+Valley, and Washington DC.
+
+Learn more about Rewriting the Code here .
+Learn more about the Fellowship program here
+.
+Questions? Contact Jade Barricelli at jbarricelli@rewritingthecode.org
+
+*UNC CS Department, GE Girls Camp Instructor*
+Paid instructor position for undergraduate students starting in July. This
+camp is in partnership with GE. Hiring 4 instructors!
+Learn more here. 
+
+*UNC Undergraduate Library, Summer Graduate Assistant*
+20 hour/week graduate student research assistant to help develop the
+library's VR & RA services.
+Learn more here.
+
+
+
+*UNC Kenan Science Library, Graduate Student Research Assistant*
+20 hour/week graduate student research assistant in Kenan Science Library
+makerspace.
+Orient patrons using VR equipment and more.
+Learn more here.
+
+
+*NetApp Intern: Sales, Service & Support Academy*
+Job Requirements
+- Excellent written and verbal communication skills.
+- Excellent interpersonal communication and customer service skills are
+needed in order work successfully with prospects, customers, and cross
+functional teams to meet performance goals.
+- Strong aptitude for learning new technologies and understanding how to
+utilize them in a customer facing environment.
+- Ability to follow standard engineering principles and practices.
+- Creative approach to problem solving.
+- Travel to the prospective customer's sites as necessary.
+
+Education
+We are seeking candidates that are pursuing a Bachelor=E2=80=99s, Master=E2=
+=80=99s or Ph.D.
+degree in Business, Computer Science, Computer Engineering, Electrical
+Engineering, Information Systems or an equivalent degree.
+
+Learn more about the position and apply here.
+
+
+*UNC School of Nursing *is hiring a Temp/Part-time Applications Analyst.
+Learn more here.
+
+
+*Launch Chapel Hill, AITS Machine Learning and Artificial Intelligence
+Internship*
+Part-time summer internship (20 hrs/week) with the opportunity of a
+full-time hire or longer-term part-time relationship.  Candidate will be
+assisting in the creation of a customer web portal and scalable website for
+Google-cloud based convolutional neural network used for video analysis in
+research and clinical focused microscopy systems.  Comparable consumer
+websites and customer web portals would be Box and Dropbox.
+
+Our company is a spin-out of research conducted at UNC-CH.  Our founders
+are professors within the Mathematics Department and within the UNC
+Eshelman School of Pharmacy.
+Learn more here.
+
+
+*First Databank, Software Engineering Intern*
+FDB Health  is hiring a Software Engineering
+Intern for their Moorisville, NC office.  Learn more and apply here.
+ Please send
+questions to Brenda Mesalam .
+
+*Red Ventures* *3-Day Internship Summit*
+Learn more on the detailed flyer
+. To
+apply go to redventures.com/careers.
+
+*Barings *has posted two new internship positions for Cybersecurity
+Engineering Summer Intern
+ and Information
+Security Governance Summer Intern
+. Both can be
+found in Handshake .
+
+*Lenovo Summer Product Engineering Intern* (May-August 2018)
+Morrisville, NC
+Lenovo is one of the largest PC companies in world, with products including
+industry-leading ThinkPad & IdeaPad notebook computers and ThinkCentre &
+IdeaCentre desktop computers. Our Morrisville, NC Headquarters is the base
+for our Worldwide Quality organization, responsible for finding, fixing,
+and preventing defects in our systems. The Product Engineering teams handle
+the toughest of these cases, which often require significant persistence in
+problem-solving skills to find the root cause and work with development
+teams to fix in a timely manner.
+
+Position Description: This position offers a broad range of lab-based
+experience inside Desktop and Mobile Product Engineering. This is a
+hands-on position which will expand your understanding of PC hardware,
+subsystems, and the Windows OS & drivers, in addition to the workings of a
+global team within one of the world's leading technology firms. Specific
+tasks will include:
+- Evaluating emerging technology from both a business, technical, and user
+perspective
+- Functional testing on laptop, desktop, and workstation systems
+- Developing process and product measurements that will predict unit
+satisfaction/quality ratings in the marketplace
+- Work with Product Engineers on problem reproduction and debug
+
+Qualifications
+- Pursuing Electrical Engineering, Computer Engineering, or Computer
+Science degree
+- Hobbyist or professional experience with PC assembly/repair preferred
+- Self-motivated
+- Good communication skills
+- Good organizational skills
+
+Contact Robbie Taylor, Lenovo Product Engineer, directly at
+robbiet@lenovo.com or (919) 294-1331
+
+*ECRS Software* is hiring programmers!
+They are located in Boone, NC and are an electronic cash register software
+company.
+Learn more here. 
+
+*Federal Reserve Bank of New York, Research Analyst Position*
+Research Analysts play an integral role in both the policy and research
+functions of the Research and Statistics Group.  Our economists, whose
+specialties include banking and payment systems, capital markets,
+international economics, macroeconomics, and microeconomics, work closely
+with Research Analysts.
+
+We seek candidates who have records of superior scholarship and academic
+curiosity.  Research Analysts usually come from strong economics, policy,
+mathematics, or computer science backgrounds, though a major in one of
+these fields is not a necessity.  Successful candidates often have previous
+research experience, and many are considering careers in economic research,
+public policy, or other related fields.
+
+In addition, we seek candidates from a wide range of backgrounds that are
+typically underrepresented in economics.  It is important to us that we
+succeed in recruiting a diverse cohort of research analysts each year. Thus
+we encourage many students with varying experiences and backgrounds to
+apply. As a representative of your institution and student body, we ask
+that you please help us in passing this message along to any candidates you
+may know who may be otherwise hesitant to apply.
+
+The pamphlet linked here
+
+ provides more details about the Research Analyst position.  Applications
+are being accepted now, on a rolling basis, here
+. It
+is recommended that candidates apply as soon as possible.
+
+
+
+
+
+
+*Searching for more opportunities? Don't forget about Handshake
+! UCS' online system for job and
+internship search which boasts thousands of opportunities. Complete your
+profile, upload your resume, and apply online. You already have an account;
+log-in with your ONYEN.Want to make a career development
+appointment?Use Handshake  to create
+appointments in Sitterson (T/Th) or Hanes Hall to discuss your career
+related needs. Upcoming Events for April
+ 2018:04/19 PointSource Info
+Session from 5:30-7 p.m.Full details can be found on the CS events calendar
+ or in Handshake
+. <(919)%20590-6034>Thank
+you,Catherine AllenUCS Liaison to Computer Science224 Hanes Hall or 121
+Sitterson (T/Th)*
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to careers+unsubscribe@cs.unc.edu.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

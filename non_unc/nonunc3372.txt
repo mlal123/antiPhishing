@@ -1,0 +1,36 @@
+Instructor Maxwell Daum posted a new Note. Your instructor selected to noti=
+fy everyone in real time of this post, bypassing user email preferences.
+
+Posting A5 Oracle on Sakai now (should be up in like 10 mins)
+
+Notice that the prompt does not have a run tests class...just make one and =
+be sure to delete it as usual when it is time to submit:
+
+package DiGraph_A5;import gradingTools.comp410f16.assignment5.testcases.Ass=
+ignment5Suite;public class RunTests {=C2=A0=C2=A0 =C2=A0public static void =
+main(String[] args){ //runs Assignment 5 oracle tests=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0 =C2=A0Assignment5Suite.main(args);=C2=A0=C2=A0 =C2=A0}}
+
+Test Dump will be on sakai too. Be sure to check this as the error messages=
+ on this set of tests won't be too helpful by themselves.
+
+Go to https://piazza.com/class?cid=3Div68b2hwk746ug&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @351.=20=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.=

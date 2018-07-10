@@ -1,0 +1,81 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Assignment3  (10/27/15 2:42 PM)
+
+What does it mean for a method to have "no parameters" or "two parameters?"
+
+Go to https://piazza.com/class?cid=3Dig9q04yh9bq5cb&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Assignment3  (10/27/15 3:44 PM)
+
+What does it mean that the method signatures are fine? What do we actually =
+need to edit/add in the code?
+
+Go to https://piazza.com/class?cid=3Dig9s7hlosjt51d&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+All tests passed but..  (10/27/15 5:35 PM)
+
+I got it to the point where all of my tests passed, but when I ran the code=
+ I got
+
+"Welcome to Pig!
+Player 1: Please type in your name.
+anna
+Player 2: Please type in your name.
+ben
+Round 1
+Enter any key to continue
+
+
+
+
+d
+anna's turn.
+Rolled a [0] and a [0].
+You rolled a one! You do not get any points this round. Sorry!
+Enter any key to continue"
+
+I don't know what I did wrong since I got all of the tests to pass.
+
+Go to https://piazza.com/class?cid=3Dig9w6qbkd781t1&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Assignment3  (10/27/15 5:58 PM)
+
+I'm not sure where to begin on this assignment. What are we supposed to edi=
+t in Die.java? Are we supposed to keep "this.value =3D 0;" the same and add=
+ something new, or do we =C2=A0edit that out completely?
+
+Go to https://piazza.com/class?cid=3Dig9x01f6vve1ld&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

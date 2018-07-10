@@ -1,0 +1,9 @@
+The following SSH key was added to your account:
+
+GitHub Desktop - mlal123-pc
+28:cc:56:28:2d:af:df:02:e5:55:80:f7:0e:03:96:cd
+
+If you believe this key was added in error, you can remove the key and disable
+access at the following location:
+
+https://github.com/settings/keys

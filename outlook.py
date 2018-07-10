@@ -116,7 +116,13 @@ class Outlook():
         r, d = self.imap.search(None, '(SINCE "'+self.today+'")', 'SEEN')
         list = d[0].split()
         return list
-
+    
+    def unchecked_emails(self, _id):
+        #return list of unchecked email_ids, email ids that are greater than or equal to recently checked id (_id),
+        #which gets  updated with each email it checks.
+        result, data = self.imap.search(None, 'UID ' + str(_id) + ':*')
+        return data
+    
     def allIds(self):
         r, d = self.imap.search(None, "ALL")
         list = d[0].split()
@@ -246,4 +252,3 @@ class Outlook():
             #mov, data = self.imap.uid('STORE', uid , '+FLAGS', '(\\Deleted)')
             mov, data = self.imap.store(uid, '+FLAGS', '\\Deleted')
             self.imap.expunge()
-            print(data)

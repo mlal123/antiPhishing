@@ -1,0 +1,83 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+Evaluating Percent  (1/29/16 7:59 PM)
+
+So no matter what I try, my percentage keeps evaluating to 0. The expressio=
+n is inside a method, but I know that the variables I'm passing are correct=
+. Am I making a dumb math mistake?
+
+int percent =3D (num / (w*h))*100;
+That's my code, where num is the number of items in the bin, and w and h ar=
+e width and height respectively. I've also tried adding .5 and casting it a=
+s an int. I have no idea why it isn't working. Sorry if I shouldn't be post=
+ing the code, but I figured it was general enough.=C2=A0
+
+Go to https://piazza.com/class?cid=3Dik0evmf6q1j1i9&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2Novice  (1/29/16 8:18 PM)
+
+My picture is printing out horizontally but when I try to do it vertically =
+it looks even worse. I don't know how to solve this.
+
+Go to https://piazza.com/class?cid=3Dik0fjgwusaua5&nid=3Dihs2fbbhsfx37n&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+importing scanner  (1/29/16 8:50 PM)
+
+Am I correct in assuming that java.util.* is okay to substitute for java.ut=
+il.Scanner, or is there a specific desire to use the later?
+
+Go to https://piazza.com/class?cid=3Dik0go74nwaq438&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Valid method signatures  (1/29/16 8:56 PM)
+
+Do methods need to be declared private or public or is it not necessary?
+Also can the parameters be defined as (string b, c) or do they need to be (=
+string b, string c)
+They need a return type right?
+
+
+Go to https://piazza.com/class?cid=3Dik0gwcmd3kd6z0&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 question  (1/29/16 9:27 PM)
+
+i aimed to update a string array with the asterisks and then print it, it w=
+orked well but their is a "null" before the printing of the=C2=A0asterisks.=
+.. is there anyway to get rid of that?
+
+Go to https://piazza.com/class?cid=3Dik0hzrdjomu68g&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

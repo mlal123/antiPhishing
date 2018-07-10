@@ -1,0 +1,65 @@
+Your classmate posted a new Question.=20
+
+Return in C
+
+Could someone please clarify the function of "return" in C language? It see=
+ms to be quite different from the=C2=A0return=C2=A0in Java. I've tried look=
+ing at the textbook and documentations but I'm still not quite catching the=
+ concept.
+Reference:=C2=A0https://na01.safelinks.protection.outlook.com/?url=3Dhttps%=
+3a%2f%2fmsdn.microsoft.com%2fen-us%2flibrary%2fsta56yeb.aspx&data=3D01%7c01=
+%7cmlal123%40live.unc.edu%7cd22cd314f27549869c4608d3d8f350cf%7c58b3d54f16c9=
+42d3af081fcabd095666%7c1&sdata=3DkF%2bNfADp2Ox%2bqz76G6phxwkIKhMkW9Ysu2sxfx=
+C4fBk%3d
+
+1. What is the difference between
+main() {=C2=A0 =C2=A0printf("Print some float num : %3.2f", 1.23)=C2=A0 =C2=
+=A0return 0;}
+int main() {=C2=A0 =C2=A0printf("Print some float num : %3.2f", 1.23)=C2=A0=
+ =C2=A0return 0;}
+and=C2=A0
+main() {=C2=A0 =C2=A0printf("Print some float num : %3.2f", 1.23)=C2=A0 =C2=
+=A0return;}
+
+2. When you say "The main function then returns the value of x to the opera=
+ting system." What does it mean to return a value to the operating system?
+
+Thanks in advance.
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3disw8p1cdagd6yv%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7cd22cd314f27549869c4608d=
+3d8f350cf%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DU4%2bxRLyKbl0Z4zTl=
+LLI3RwKVbcMlPiH17Gqn%2bb%2bM8T4%3d to view. Search or link to this question=
+ with @71. Follow it to get notified when a response comes in: https://na01=
+.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.com%2ffollow%=
+2fisw8p1cdagd6yv%2ff2GxNxqCfOm%2f6e40810c&data=3D01%7c01%7cmlal123%40live.u=
+nc.edu%7cd22cd314f27549869c4608d3d8f350cf%7c58b3d54f16c942d3af081fcabd09566=
+6%7c1&sdata=3DYV7z1ytvc2WosUO3zeHw34rAk2rXkTzkp%2fPZpdfFO80%3d=20
+
+Sign up for more classes at https://na01.safelinks.protection.outlook.com/?=
+url=3Dhttp%3a%2f%2fpiazza.com%2func&data=3D01%7c01%7cmlal123%40live.unc.edu=
+%7cd22cd314f27549869c4608d3d8f350cf%7c58b3d54f16c942d3af081fcabd095666%7c1&=
+sdata=3DXNgqueBZvtM6msvkC7qFc7sUkXBVyo%2fORDLo0MIOHfQ%3d
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.co=
+m%2flogin&data=3D01%7c01%7cmlal123%40live.unc.edu%7cd22cd314f27549869c4608d=
+3d8f350cf%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DCt5hVaQuPHH7lLBduj=
+gq2hzVb7L8Y6eWoO3h2Cd8s%2bc%3d to sign in and manage your email preferences=
+ or proceed to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3=
+a%2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2fis6wk5m47ay4zy&data=3D01%7c01%7c=
+mlal123%40live.unc.edu%7cd22cd314f27549869c4608d3d8f350cf%7c58b3d54f16c942d=
+3af081fcabd095666%7c1&sdata=3DbHVtCN6mYvzs1vomT2p61wQtK5ND7z97rQWAKDpoutc%3=
+d to un-enroll from this class.=

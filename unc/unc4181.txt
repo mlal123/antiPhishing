@@ -1,0 +1,123 @@
+
+
+  Odum News
+  
+ =20
+
+	
+     
+      
+       
+       
+      
+      
+      
+       
+                  =20
+                  =20
+  
+ 
+
+
+   
+   ADDITIONAL SHORT COURSES
+   
+  
+  
+   
+   =20
+   =20
+    The Odum Institute will be presenting 3 addition=
+al short courses at the end of February that were not listed in the previou=
+s email.Introduction to the QG=
+IS Open Source Software: Part 1Th=
+is will be the first of two 2-hour hands-on workshops using the QGIS open s=
+ource GIS package. This first workshop will begin with an overall introduct=
+ion to the "OSGEO Stack" of open source GIS tools, including QGIS=
+, GRASS, R, and other tools. Then we will explore the QGIS software, which =
+can run on Windows, Mac, or Linux environments, runs in over 40 languages, =
+and includes vector, raster, georegistration, and other capabilities, all u=
+sing ESRI shapefiles as the basic vector data structure and Geotiffs as the=
+ basic raster data structure. The first workshop will be a general introduc=
+tion to the QGIS user interface and will explore the various elementary fun=
+ctions, loading vector and raster data, etc. Additional tutorials and data =
+will be made available to the participants so you can continue to work on y=
+our own. Feel free to bring your laptop so you can download the software, t=
+utorials, and data, or use a computer in the lab. =20
+=20
+  RegisterLocation: Davis Library 247
+Date: February 20, 2017Time: 10:00 - 12:00 p.m. Instructor: Scott Madry Introduction to the QGIS Open Source Software: Part 2The second class will continue the introduction to=
+ the QGIS software. We will explore various plugins, including live linking=
+ OpenStreetMaps and Bing maps and images, creating cartographic maps using =
+the composer cartographic interface, working with vector attribute tables, =
+and downloading and working with raster satellite imagery. Web resources wi=
+ll be explored. Additional tutorials and data will be made available to the=
+ participants so you can continue to work on your own. Feel free to bring y=
+our own laptop so you can download the software, tutorials, and data, or us=
+e a computer in the lab. =20
+=20
+  RegisterLocation: Davis Library 247
+Date: February 22, 2017Time: 10:00 - 12:00 p.m. Instructor: Scott Madry Introduction to the GRASS Open Source GIS and image processing softwar=
+eThis third 2-hour workshop will =
+cover the GRASS GIS package, which is included in the QGIS download and can=
+ be used either as a set of integrated tools in the QGIS environment, or ru=
+n as the stand-alone GRASS package. GRASS is the original open source GIS p=
+ackage, and is a very powerful and integrated GIS, image processing, spatia=
+l analysis, visualization and modeling environment. The first hour of a the=
+ workshop will use GRASS within the QGIS environment, where data can be use=
+d as GRASS files in the same environment as QGIS shapefiles, and can be con=
+verted easily between the two. The current QGIS software can now call all o=
+f the GRASS functions (over 400) remotely and does raster and vector data f=
+ormat conversion on the fly. In the second hour we will use GRASS in its st=
+and-alone configuration. Additional tutorials and data will be made availab=
+le to the participants so you can continue to work on your own. Feel free t=
+o bring your own laptop so you can download the software, tutorials, and da=
+ta, or use a computer in the lab. =20
+=20
+  Register here.=20
+Location: Davis Library 247
+Date: February 24, 2017Time: 10:00 - 12:00 p.m. Instructor: Scott Madry 
+  
+ =20
+ =20
+ =20
+  =20
+
+ =20
+  =20
+ =20
+
+
+            =20
+=20
+
+   
+    To unsubscribe from=20
+  this listserv, send a blank e-mail message to leave-38459271-90028569.519edd28e76e17b9866f1cae416ac17a@listserv.u=
+nc.edu
+  
+
+ 
+  The Odum Institute
+   The University of North=20
+  Carolina at Chapel Hill 
+  Davis Library, 2nd Floor, CB# 3355
+  Chapel Hill, NC 27599-3355 
+  www.odum.unc=
+.edu=20
+  
+  Telephone: 919.962.3061
+Follow us on Twitter here!
+Subscribe to our YouTube =
+channel here!
+       
+      
+  
+       
+      
+  
+
+
+
+
+

@@ -1,0 +1,58 @@
+---------- Forwarded message ----------
+From: Hubbard, Devin 
+Date: Mon, May 1, 2017 at 9:51 AM
+Subject: Upcoming BME Summer Courses for Math, Physics, Chemistry and CS!
+
+
+
+Hi STEM colleagues!
+
+I wanted to reach out to you and ask if you would be willing to
+circulate/advertise the attached Summer Biomedical Engineering courses to
+your UG students. If you have any courses you would like me to advertise to
+our students, please let me know!
+
+"
+*Chemists*: BMME 150 (Material science), BMME 201 (Matlab for Engineers),
+BMME 580: Microcontroller Applications 1 (pairs nicely with analytical
+chemistry instrumentation)
+
+*Physicists*: BMME 580=E2=80=94Microcontroller applications (may be useful =
+for
+advanced lab); BMME 465=E2=80=94Biomedical Instrumentation (nice applicatio=
+n of
+electronics/preparation for advanced lab)
+
+*Computer Scientists:* BMME 355: Electronics, BMME 465: Instrumentation,
+BMME 580: Microcontroller applications (All good courses as pre-requisites
+for robotics, etc.)
+
+*Mathematicians:* BMME 350: electronics, BMME 580: Microcontroller
+applications, and BMME 465: Biomedical Instrumentation =E2=80=93 all potent=
+ially
+useful for applied mathematics.
+
+*For NON-BME Students, we are willing to waive pre-requisites with
+instructor permission!*
+
+Please see attached course descriptions. If you have any questions, please
+feel free to contact the BME Summer School administrator: Devin Hubbard (
+devin@unc.edu)! We hope to see some of you in your courses!
+=E2=80=9C
+
+Best,
+Devin
+--=20
+Devin K. Hubbard, Ph.D.
+Lecturer/Summer School Administrator
+UNC/NC State Joint Department of Biomedical Engineering
+137 MacNider Hall 4012 EBIII
+Chapel Hill, NC 27599 NC State University
+dhubbard@email.unc.edu
+tel: +1 919-445-0739 <(919)%20445-0739>
+
+--=20
+You received this message because you are subscribed to the Google Groups "=
+Majors" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to majors+unsubscribe@cs.unc.edu.

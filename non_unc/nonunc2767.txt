@@ -1,0 +1,150 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+Resubmission Grade  (9/22/16 6:31 PM)
+
+If I were to submit my assignment now, and resubmit it on say, Saturday, wo=
+uld my grade change?
+
+For example, if I submit my assignment now and I would get a 50 on it,
+and I resubmit it on Saturday and it should have gotten 100 but the penalty=
+ marks it down to 90,
+would my final grade on the assignment be a 50 or a 90?
+
+To my understanding, it seems like if I would not get at least a 90 on the =
+assignment now
+I could work on it through the weekend to achieve a (possible) 90?
+
+Thanks.
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Fpi=
+azza.com%2Fclass%3Fcid%3Ditewxqpo5v749r%26nid%3Dis6wk5m47ay4zy%26token%3Df2=
+GxNxqCfOm&data=3D01%7C01%7Cmlal123%40live.unc.edu%7Cebb226a8936646a898fa08d=
+3e35afd93%7C58b3d54f16c942d3af081fcabd095666%7C1&sdata=3DgW2sti4k7BRhhSBH3C=
+Ge%2Be1G3wMg2QcKWpbXAUSPVE4%3D&reserved=3D0 to view.
+
+------------------------------------------------------------
+Failing Test but producing expected result  (9/22/16 6:34 PM)
+
+I am getting an error for Removal test number 4:=C2=A0
+Message:Case 4(complex internal 0): insert(0), insert(C), insert(A), insert=
+(B), remove(C) in-order =3D (0, A, B)
+
+However, when I build it in the playground I get the expected result of=C2=
+=A0(0, A, B). Can anyone tell me why this would be happening and how to fix=
+ it?
+
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Fpi=
+azza.com%2Fclass%3Fcid%3Ditex1edv8io78o%26nid%3Dis6wk5m47ay4zy%26token%3Df2=
+GxNxqCfOm&data=3D01%7C01%7Cmlal123%40live.unc.edu%7Cebb226a8936646a898fa08d=
+3e35afd93%7C58b3d54f16c942d3af081fcabd095666%7C1&sdata=3DcnY7g3rJWk3jFAM6WR=
+N%2BStFpfwqwglMxwu%2BLkz8ccP4%3D&reserved=3D0 to view.
+
+------------------------------------------------------------
+Null Code problem  (9/22/16 6:34 PM)
+
+I've been having a problem with my removal method in actually getting rid o=
+f some of the nodes. I'm correctly locating them all and handling the speci=
+al cases; however, when I attempt to set say root.right =3D null, it instea=
+d just creates a BST_Node with a data value of null and a left and right va=
+lue of null. It still shows up when I print it out.=20
+Ex: =20
+        Root
+ null<-   -> root.right
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Fpi=
+azza.com%2Fclass%3Fcid%3Ditex1lz63gk7i9%26nid%3Dis6wk5m47ay4zy%26token%3Df2=
+GxNxqCfOm&data=3D01%7C01%7Cmlal123%40live.unc.edu%7Cebb226a8936646a898fa08d=
+3e35afd93%7C58b3d54f16c942d3af081fcabd095666%7C1&sdata=3DSFiVs8fu8iPmnAdXiv=
+9R6F0jut7Aexf%2BKRb4uRr%2ByeY%3D&reserved=3D0 to view.
+
+------------------------------------------------------------
+findminmax test 2  (9/22/16 10:11 PM)
+
+Help, I am failing my findminmax test 2!!
+
+all other tests are green, this is literally the only one that fails!
+
+I have reproduced the test in my playground:
+
+BST newBstTree =3D new BST();
+newBstTree.insert("A"); newBstTree.insert("C"); newBstTree.insert("B"); new=
+BstTree.remove("C");=C2=A0
+
+and when i do this:
+
+=C2=A0printLevelOrder(newBstTree);
+
+It prints out:
+OUT: A B=C2=A0
+
+However, the max is shown as c!!
+
+System.out.println("the max of tree is : "+newBstTree.findMax());
+
+OUT: the max of tree is : C
+
+please help, I am simply lost as when i reverse the order like this:
+newBstTree.insert("A");newBstTree.insert("C");
+newBstTree.remove("C");=C2=A0newBstTree.insert("B");
+OUT:=C2=A0
+A B the max of tree is : B
+
+What could be going on?
+(I have also tried to print the root.right.right.data and it has given me a=
+ null)
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Fpi=
+azza.com%2Fclass%3Fcid%3Ditf4sae8rtw2q3%26nid%3Dis6wk5m47ay4zy%26token%3Df2=
+GxNxqCfOm&data=3D01%7C01%7Cmlal123%40live.unc.edu%7Cebb226a8936646a898fa08d=
+3e35afd93%7C58b3d54f16c942d3af081fcabd095666%7C1&sdata=3DsXrrKek5jIrE3IdVal=
+26nFutOeG%2FBOspKPbX4Zkxo4g%3D&reserved=3D0 to view.
+
+------------------------------------------------------------
+My export does not have a settings subfolder but it does have a bin and an =
+src, is that fine?  (9/22/16 10:26 PM)
+
+My export does not have a settings subfolder but it does have a bin and an =
+src, is that fine?
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Fpi=
+azza.com%2Fclass%3Fcid%3Ditf5cjhilwza7%26nid%3Dis6wk5m47ay4zy%26token%3Df2G=
+xNxqCfOm&data=3D01%7C01%7Cmlal123%40live.unc.edu%7Cebb226a8936646a898fa08d3=
+e35afd93%7C58b3d54f16c942d3af081fcabd095666%7C1&sdata=3DUpCPg91%2Fr53fhvIJd=
+NOKnji8egXRukZF8tV6Rx44BmA%3D&reserved=3D0 to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://na01.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Fpiazza.co=
+m%2Flogin&data=3D01%7C01%7Cmlal123%40live.unc.edu%7Cebb226a8936646a898fa08d=
+3e35afd93%7C58b3d54f16c942d3af081fcabd095666%7C1&sdata=3DT2m6g8iYohov%2Bmw7=
+JIuBM7%2BawSdd%2FHZN45pnLNDnJ5A%3D&reserved=3D0 to sign in and manage your =
+email preferences or proceed to https://na01.safelinks.protection.outlook.c=
+om/?url=3Dhttps%3A%2F%2Fpiazza.com%2Fremove%2Ff2GxNxqCfOm%2Fis6wk5m47ay4zy&=
+data=3D01%7C01%7Cmlal123%40live.unc.edu%7Cebb226a8936646a898fa08d3e35afd93%=
+7C58b3d54f16c942d3af081fcabd095666%7C1&sdata=3DUeLyLzjU3mEamntn7CTRL8aD5H%2=
+BdqF1ao3tRIeoZKIQ%3D&reserved=3D0 to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://na01.safelinks.protection.ou=
+tlook.com/?url=3Dhttps%3A%2F%2Fpiazza.com%2Flink_accounts%2Ff2GxNxqCfOm&dat=
+a=3D01%7C01%7Cmlal123%40live.unc.edu%7Cebb226a8936646a898fa08d3e35afd93%7C5=
+8b3d54f16c942d3af081fcabd095666%7C1&sdata=3D6ob8037UVXO8wd%2BJ7ETcX10NCGE0V=
+IO6UCLzDutA6Eg%3D&reserved=3D0=

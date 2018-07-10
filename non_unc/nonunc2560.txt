@@ -1,0 +1,97 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+Assignment 0  (9/08/16 4:54 PM)
+
+If all of our junit tests yielded 100%, but for some reason our grading doe=
+s not go well due to failure to zip project correctly, will we have a way=
+=C2=A0to rectify?
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3disutay4j39m28k%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c931691b6915e436a837e08d=
+3d83d549b%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DmraYqtG4L6Ow%2bYSx=
+YOSi2JbtU5NMP%2bwIu9TTnPpQ7%2fE%3d to view.
+
+------------------------------------------------------------
+Junit test not working  (9/08/16 5:42 PM)
+
+I'm a little confused about getting the tests to work. I dragged the file t=
+o my project, went to configure build path, selected the jar file and selec=
+ted "apply", but nothing seems to happen. I can run the tests class but I g=
+et a 0/100 and the notes say "cannot find LinkedListImpl class".
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3disuv0pbsx1t5gn%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c931691b6915e436a837e08d=
+3d83d549b%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DCzD%2f6YkHLkk%2bp%=
+2bAIxdxPB1gY07nHYxfKMeFeZr3DyAc%3d to view.
+
+------------------------------------------------------------
+Exporting Project on Mac OSX .jar  vs.    .zip  (9/08/16 5:43 PM)
+
+Hey all,
+I'm trying to export my project, following all instructions (as far as I ca=
+n tell), and my computer only provides the options of this type: (*.jar, *.=
+zip). =C2=A0No options of ONLY .jar or .zip
+
+Hence the assignment name is:
+myonyen_assignment0.jar
+
+Is that acceptable?
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3disuv1sgtf2j68f%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c931691b6915e436a837e08d=
+3d83d549b%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DreD5gYpg8iUqs%2bRj=
+tou23SCObBfqSh3D5%2b2EsFRzIaw%3d to view.
+
+------------------------------------------------------------
+root facotred into size  (9/08/16 6:09 PM)
+
+just looking over my submitted code one last time and have a quick clarific=
+ation: should the root factor into the size of our linked list? If I have 0=
+.0->3.0 then the size is 1, correct??? There was a question like this earli=
+er but the instructor answer and the instructor endorsed answer contradicte=
+d each other so I was confused. Thanks
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3disuvzoq5dee4l1%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c931691b6915e436a837e08d=
+3d83d549b%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DRmPEmPjvsiSW5VqMh8=
+G%2fBJ0tEFvI4wBh2czk0r5e0Kk%3d to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.co=
+m%2flogin&data=3D01%7c01%7cmlal123%40live.unc.edu%7c931691b6915e436a837e08d=
+3d83d549b%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DXzPv2Fwtr1eaMidYkL=
+g5R908X8ajZYKWjWh%2fsEYEqH0%3d to sign in and manage your email preferences=
+ or proceed to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3=
+a%2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2fis6wk5m47ay4zy&data=3D01%7c01%7c=
+mlal123%40live.unc.edu%7c931691b6915e436a837e08d3d83d549b%7c58b3d54f16c942d=
+3af081fcabd095666%7c1&sdata=3DHWycJIKqtrNhaKiaO%2fP%2blVjvCz1%2b5uUAdTp1Rq7=
+xRXE%3d to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://na01.safelinks.protection.ou=
+tlook.com/?url=3Dhttps%3a%2f%2fpiazza.com%2flink_accounts%2ff2GxNxqCfOm&dat=
+a=3D01%7c01%7cmlal123%40live.unc.edu%7c931691b6915e436a837e08d3d83d549b%7c5=
+8b3d54f16c942d3af081fcabd095666%7c1&sdata=3Drv8lVZlafejbmSrYyR8Hccshutqxnur=
+qYAB6f0jK5UM%3d=

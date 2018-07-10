@@ -1,0 +1,160 @@
+*Please be reminded that Inmar has rescheduled their info session that was
+originally to be tonight.
+
+*TUESDAY, OCTOBER 6TH:*
+
+*BRING YOUR LAPTOP: RESUME AND COVER LETTER IN 90 MINUTES
+,
+*Hanes
+239 a/b, 3:30-5pm
+
+
+*DUKE ENERGY INFO SESSION,* Sitterson 011, 5:30-7pm
+Come learn about Charlotte based Duke Energy and their rotational
+Internship and Full-time positions!
+*Food provided so RSVP
+Here: https://unc.az1.qualtrics.com/SE/?SID=3DSV_4SWw7Aoy9Eqcqqx
+*
+
+
+*=E2=80=8B*
+
+*WEDNESDAY, OCTOBER 7TH:*
+
+*CAREER BYTES: DEMYSTIFYING THE COVER LETTER, *Sitterson 011, 12-1pm
+
+*VERSAME TECH TALK, *Sitterson 011, 5:30-7pm
+*Food provided so RSVP
+Here: https://unc.az1.qualtrics.com/SE/?SID=3DSV_8l7K5vr9SxbGZtr
+*
+
+=E2=80=8B
+
+
+
+[image: Register me]
+
+                 [image: I can't make it]
+
+
+
+
+
+
+
+
+
+
+
+*THURSDAY, OCTOBER 8TH:*
+
+*BRING YOUR LAPTOP: LINKEDIN LAB
+,* Hanes 239
+a/b, 4-5pm
+
+*IBM MEET MINGLE AND MUNCH, *Sitterson 011, 5:30-7pm
+*Food provided so RSVP
+Here: https://unc.az1.qualtrics.com/SE/?SID=3DSV_6VwiXOq4AY8dcTX
+*
+
+=E2=80=8B
+*TUESDAY, OCTOBER 13th:*
+
+*FIDELITY INFO SESSION: *Sitterson 011, 5:30-7pm
+Did you know that Fidelity is doing great things with Technology? Did you
+know they have a pretty sweet office right in RTP? Did you know they hire
+INTERNS, even students in their sophomore year? Did you know about the LEAP
+program? Come to this session to learn more about this great company!
+*Food Provided so RSVP Here*:
+https://unc.az1.qualtrics.com/SE/?SID=3DSV_bDc4FZlJLJDtQTb
+
+
+*WEDNESDAY, OCTOBER 14th:*
+
+*Learn Over Lunch with Fidelity: **What Makes Your Resume Stand Out to
+Recruiters*
+*Lunches will be provided so you must RSVP by Thursday, October 8th at 5pm!=
+*
+Space limited so its first come, first serve and will then go to waitlist:
+https://unc.az1.qualtrics.com/SE/?SID=3DSV_73NkK7m7F6fFMNf
+
+=E2=80=8B
+
+*OPPORTUNITIES TO JUMP ON NOW:*
+
+
+PHP Developer
+
+RewardStock, Inc. - Cary / Raleigh, NC
+
+Overview=E2=80=AC
+
+Raleigh, NC-based RewardStock, Inc is looking for a full-stack PHP
+Developer to become a key member of our talented startup team and expand
+our capacity. Our primary aim is to fill the opening with a full-time,
+on-site developer but is willing to work with the right person on a
+part-time basis until graduation.
+
+RewardStock is the next big travel tool and the next big personal finance
+tool at the same time. Our software shows you how to travel the world for
+pennies on the dollar by using hotel points, frequent flyer miles and
+credit card rewards to pay for your travel. We=E2=80=99ll show you how to
+strategically acquire points quickly, and the optimal way to use them once
+you have them. We are venture-backed and looking to aggressively develop
+our innovative application.
+
+The ideal candidate is an adaptable, fast learner who is eager to build
+something great! Develops custom, Zend Framework-based solutions and
+general PHP-based solutions. Helps writing and testing complex software
+algorithms. Implements front-end User Interface, AJAX, CSS styling, CSS3
+and jQuery animations, form validations, etc. Writes well-documented,
+well-formatted code. Works with co-founders and contributes own ideas to
+enhance the product. Strategy / product development meetings. Build a SaaS
+product your friends and family will love. Competitive pay based on
+experience plus equity!
+
+Specific Skills Required=E2=80=AC
+
+   -
+
+   Strong understanding of PHP5 back-end development
+   -
+
+   Experience writing well-documented, test-driven (TDD) PHP code
+   -
+
+   Object-Oriented Programming & MVC coding methodologies
+   -
+
+   Good understanding of front-end technologies, including HTML5, CSS3,
+   JavaScript, jQuery, Bootstrap
+   -
+
+   Good understanding of MySQL databases and writing SQL queries
+   -
+
+   Knowledge of version control systems, specifically Git, a plus
+   -
+
+   Knowledge of PHP frameworks a plus; Zend strongly preferred
+   -
+
+   Knowledge of how to interact with RESTful APIs (JSON) a plus
+   -
+
+   Strong verbal & written communication with good time management
+
+
+Required Experience
+
+LAMP stack: 1 year or more of professional experience
+Please submit your resume to Jon Hayes via email: jon@rewardstock.com
+=E2=80=8B
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at http://groups.google.com/a/cs.unc.edu/group/careers/.

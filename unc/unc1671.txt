@@ -1,0 +1,762 @@
+*Upcoming Events:*
+
+
+*Wednesday, March 9th: **Capgemini Info Session, *5:30-7pm, Sitterson 011
+
+Mix and Mingle with Capgemini Leadership and recent alums. They will blend
+presentations with panel discussions to help bring the consulting
+profession to life. RSVP here:
+https://unc.az1.qualtrics.com/SE/?SID=3DSV_0TJ3umVvIz9mmoZ
+
+*Thursday, March 31st: **BYO Laptop- LinkedIn Lab, *1-2:30pm, 239 A/B Hanes
+Hall. No RSVP
+
+*Thursday & Friday, April 7 & 8: **The NYC Startup Odyssey (**Registration
+Deadline: March 15, 2016)*
+
+*Note: Travel scholarships available for accepted students.*
+
+This April, 100 top computer science & engineering students from around the
+country will meet in New York City for 2 days dedicated to technology,
+startups, and their careers. Through the Startup Odyssey, students have
+gone behind the scenes of *BuzzFeed, Spotify, IBM Watson, Vimeo, Flatiron
+Health, Squarespace, Rent The Runway, SeatGeek, Knewton, and more* to...
+
+
+   - Speak with founders, engineers, data scientists, product managers,
+   recruiters, & more
+   - Dive deeper into the real-world problems they=E2=80=99re solving
+   - Learn about company visions and cultures
+   - Find full-time jobs & internships
+
+*APPLY HERE: odyssey.uncubed.com *
+
+** The NYC Startup Odyssey is presented by Uncubed ,
+NYCEDC , & Cornell Tech
+.*
+
+
+
+*Opportunities:*
+
+*Careerolina Listings (Multiple jobs and Internships posted- Check often!)*
+
+https://uncch-csm.symplicity.com/students/jobboard/b6e22a473be8b78084486a70=
+4fa2f92c
+
+
+*CData Software, Entry-Level FT & PT Software Developers (Chapel Hill NC)*
+
+http://www.indeed.com/job/entry-level-software-developer-470a501d2de3da94
+
+
+*Website Assistant for Local Floral Business (Chapel Hill NC)*
+
+Local C.Hill resident has established a Squarespace landing page for a
+floral business. I need help taking it to the next level, organizing &
+learning how to manage this website. This is a paid position. Depending on
+the circumstance this could develope into something more should the parties
+agree. Please have them contact me by text, email or phone.
+
+Nina McPhaul
+
+919-923-6787
+
+ninafargis@gmail.com
+
+*Work Study in Computer Science Department (Chapel Hill NC)*
+If you are looking for a work study position and are interested in
+technology or programming, Computer Science has some positions open. You
+must qualify for work study money and not currently work as a work study
+student to apply. If you have questions, please contact bil hays, b@unc.edu=
+.
+For the Technical and Infrastructure Support position we are looking for
+people who know a bit about computers. Work involves imaging operating
+systems, installing software, basic troubleshooting and moving gear.
+For the web programmer position we are looking for folks with some skills
+in one or more of the following: html, css, javascript, java, php or rails.
+If you have the interest but no experience, let me know and we'll talk.
+Ref#4709             Technical and Infrastructure Support
+Ref#5525             Web Programmer
+
+*Pattern Health Technologies, iOS Developer and Internships (Durham NC)*
+Pattern Health translates world leading behavioral psychology research into
+effective, easy to use health and wellness tools. Our flagship software
+platform, HealthStar, helps people improve their health through durable
+behavior change. HealthStar combines medical expertise and behavioral
+psychology to generate each individual=E2=80=99s personalized plan based on=
+ their
+health, goals, and personality traits. HealthStar helps people accomplish a
+diverse range of health goals such as general fitness, weight loss,
+medication adherence, and many others. Pattern Health's strategic
+partnership with Dan Ariely and Duke University=E2=80=99s Center for Advanc=
+ed
+Hindsight is a unique collaboration that applies evidence-based research in
+our consumer friendly, usable software products.
+At Pattern Health we believe strongly in a collaborative and iterative
+approach to product development. We also believe that happiness drives
+success, not vice versa, and have created a work environment that reflects
+these beliefs. We are looking for team members that have a positive
+attitude, are excited about solving difficult problems (both technical and
+product/market), and thrive in a fast paced team environment. If helping
+people improve healthcare outcomes energizes you, read on!
+Engineering at
+*Pattern Health Technologies *
+Pattern Health=E2=80=99s products are known for exceptional quality, user
+experience, and design. The mission of the Pattern Health engineering team
+is to build scalable, highly polished consumer software applications that
+meet the current and future needs of our customers and users. To achieve
+this, we leverage the best tools and technologies available, whether for
+native mobile or web based client apps, back end server and database
+platforms, or cloud and devops services. PHT engineers:
+=E2=80=A2 play an important role in defining and delivering the details of =
+the
+product experience;
+=E2=80=A2 thrive in a highly supportive, collaborative environment;
+=E2=80=A2 are positive and opinionated;
+=E2=80=A2 love to learn and are up for a good challenge;
+=E2=80=A2 deliver tested, production-ready code;
+=E2=80=A2 are rewarded most of all by building products customers love and =
+value;
+=E2=80=A2 ...and have fun while we=E2=80=99re at it :)
+Generalist, polyglot developers open to a wide range of skill sets and use
+of technology are preferred in our dynamic company. Candidates must
+demonstrate a consistent history of leveraging technology to produce
+quality software.
+
+*Open Positions:*
+*iOS Software Engineer*
+Pattern Health Technologies is seeking an experienced iOS developer to lead
+development of our iOS products. The following qualifications are desired:
+=E2=80=A2 3+ years iOS development experience=E2=80=A2 Experience in one or=
+ more of the
+following: Swift, Objective-C, and/or Javascript/ReactNative
+=E2=80=A2 Some exposure to Android development
+=E2=80=A2 Web front end: HTML5/CSS, JavaScript, RESTful APIs
+=E2=80=A2 Communication with back end services: AWS, Parse, Azure, Node.js,=
+ ASP.NET
+=E2=80=A2 Bachelor=E2=80=99s degree or equivalent experience in computer sc=
+ience or
+software engineering
+*Software Engineering Internship/Co-op*
+Pattern Health Technologies is seeking a rising senior or graduate student
+intern to be an important contributor on our innovative mobile
+applications.  Applicants should be excited about learning new technical
+skills, industry best practice product development methods, and teamwork
+within a fast paced startup.  Opportunities exist before and/or after the
+summer if interests align.  Applicants should have the following
+qualifications:
+=E2=80=A2 Mobile development experience, iOS, Android, or ReactNative
+=E2=80=A2 Familiarity in one or more of the following: Swift, Objective-C, =
+and/or
+Javascript/ReactNative
+=E2=80=A2 Web front end: HTML5/CSS, JavaScript, RESTful APIs
+=E2=80=A2 Aspiring Bachelor=E2=80=99s or Graduate degree or equivalent expe=
+rience in
+computer science or software engineering
+
+Please apply at careers@patternhealthtech.com. Include your resume, and
+tell us about your interests, accomplishments and salary requirements.
+Please also include links to previous work and any online presences, such
+as your blog. If you worked on a team, be specific about how you
+contributed to the work.
+
+*Practical Scientific Solutions, 3D Visualization & Modeling Dev & C++
+Simulation Dev (Raleigh NC)*
+See attached PDF's for details.
+
+
+*Naval Research Labs, Research Associate *Education: Bachelor=E2=80=99s or =
+higher
+in computer science or related discipline (Master=E2=80=99s or higher prefe=
+rred)
+Technical skills:
+   - Programming experience in Python and C
+   - Experience developing and running software in Linux
+   - Knowledge of networking: socket programming, TCP/IP, etc.
+Description:
+We seek a research associate to support a team of top researchers
+developing cutting-edge privacy-enhancing technologies. This team
+includes the inventor of onion routing and Tor, Dr. Paul Syverson, as
+well as Dr. Rob Jansen, the creator of the Shadow network simulator,
+and Dr. Aaron Johnson, a leading researcher in the area of anonymous
+communication security. We wish to find an associate to help support
+our ongoing projects in the areas of onion-routing security, network
+modeling, and onion services (aka Tor hidden services).
+This associate would contribute as a member of the research group. Our
+group produces both research papers and software, and so primary tasks
+of the developer would be to (i) create software prototypes, (ii) run
+network experiments, (iii) collect and analyze data, and (iv) improve
+open-source software products such as Tor and Shadow. A current
+project that would be an initial focus of the associate would be to
+help study and improve the privacy of Internet communications by
+creating and analyzing maps of Internet routing.
+An ideal candidate would have both significant practical programming
+skills and networking expertise. For programming experience we seek a
+candidate with demonstrated ability to write correct, maintainable
+code in both Python and C. In addition to high familiarity with
+networking, a strong candidate will possess knowledge of cryptography,
+operating systems, multiprocessing, databases, and algorithms at the
+BS level or higher. The candidate should be able to work independently
+or as part of a small team, with strong communication skills and the
+capability to understand research papers and other technical
+documents.
+We are looking for a full-time associate to work with us on a long
+term basis (e.g. 2+ years). Candidates must be U.S. citizens or
+permanent residents. Interested applicants can contact Dr. Aaron
+Johnson at.
+
+
+*Bosch Research Visual Computing Group, Internships (Palo Alto CA)*
+
+Looking for multiple summer interns working in the area of computer
+vision/augmented reality. Here is the link to the job posting:
+http://www.bosch.us/content/language1/html/14603.htm.
+
+We are also looking for interns working on gesture recognition and
+interaction: http://www.bosch.us/content/language1/html/14624.htm.
+
+Interested students should contact Dr. Mao Ye (Mao.Ye2@us.bosch.com)
+directly.
+
+
+*Quantworks Front-End Developer, PT Internship (Chapel Hill NC)*
+Are you a Computer Science student or passionate Web Developer/Designer
+looking for a great opportunity to work in a start-up environment and
+develop enterprise-level web front ends?
+Then Quantworks is for you! We are local in Chapel Hill and offer flexible
+hours to fit your class schedule, compelling project scope and $20/hour.
+We are looking for creative, self-starters comfortable with the ambiguities
+of a fast-paced environment. You will have a great degree of freedom on the
+designs and have a voice on the technology to be used in our
+projects. Leaders in the space of business, analytics and software
+development we will guide and mentor you throughout the development
+process, ensuring a rich internship experience.
+Requirements include: Eligible to work off campus,  HTML5, CSS, JavaScript,
+JQuery, Ajax
+Preferred (and strong interest to learn) include: Bootstrap
+framework, Angular JS, Responsive Web Design
+References: Existing Web front end projects that showcase your design,
+creativity and technical skills.
+Contact us at Email: thomas.burkhardt@quantworks.com if interested.
+
+*Quantworks System Engineer, PT Internship (Chapel Hill NC)*
+Are you a Computer Science student or passionate Technologist looking for a
+great opportunity to work in a start-up environment and develop
+enterprise-level web front ends? Then Quantworks is for you! We are local
+in Chapel Hill and offer flexible hours to fit your class schedule,
+compelling project scope and $20/hour. We are looking for passionate,
+creative, self-starters comfortable with the ambiguities of a fast-paced
+environment. You will be exposed to a variety of technology ecosystems. We
+will help you learn to design, monitor and maintain Cloud Environments and
+associated systems for optimal performance, data integrity and security in
+an enterprise environment. Leaders in the space of business, analytics and
+software development we will guide and mentor you throughout the
+development process, ensuring a rich internship experience.
+Requirements include:Eligible to work off campus, Java, Linux or other Unix
+variants, Scripting language: e.g. Perl, Bash, Python
+Preferred (and strong interest to learn) include: AWS Infrastructure: EC2,
+RDS, S3, VPN/VPC, CloudFormation, etc., Oracle or other RDBMS
+technologies, JBoss or other Middleware technology
+Contact us at Email: thomas.burkhardt@quantworks.com if interested.
+
+*Opower Associate Product Manager* *(Arlington VA)*
+
+Great for graduating seniors!
+https://boards.greenhouse.io/opower/jobs/143344?t=3Dgajf5l#.VrykWfkrK70 If
+you want to chat with an recent alum about the position, contact Gautam
+Sanka at gausanka@gmail.com
+
+*Capgemini Tech Consultant (Charlotte NC)*
+
+*APPLY BY MARCH 8th *for on-campus office hours!
+
+Apply in Careerolina job #786480
+
+
+Who are we looking for?
+
+ Our consulting teams work with companies to quickly solve mission-critical
+problems by identifying, designing, and implementing technology enabled
+solutions to improve their strategies and operations. The ideal Capgemini
+consultant possesses the following qualities:
+
+=E2=80=A2           Interest in working with technology to create various s=
+olutions
+and advancements
+
+=E2=80=A2           Excellent communication skills
+
+=E2=80=A2           Ability and desire to continually learn new things in a
+changing environment
+
+=E2=80=A2           Analytical and problem solving way of thought
+
+=E2=80=A2           Desire to work in a culturally diverse, team-based envi=
+ronment
+
+=E2=80=A2           Overall resilient, flexible, and enthusiastic personali=
+ty
+
+Candidates should additionally possess:
+
+=E2=80=A2           A Bachelors degree or Master=E2=80=99s degree
+
+=E2=80=A2           A minimum GPA of 3.3 of 4.0
+
+=E2=80=A2           A willingness to travel and flexibility to relocate
+
+=E2=80=A2           Authorized to work for Capgemini in the US
+
+
+
+We are seeking candidates who have demonstrated exceptional performance in
+these and other related majors:
+
+=E2=80=A2           Technology: Computer Science, Computer Information Syst=
+ems,
+Management Information Systems, Data Science, Business
+
+=E2=80=A2           Engineering: Computer Engineering, Engineering Manageme=
+nt,
+
+
+
+Successful candidates will have experiences in one or more of the following
+areas:
+
+=E2=80=A2           Technical Skills: Java/J2EE, Web Development Technology
+(JavaScript, HTML, CSS, JQuery, JSON), Database (Oracle), Responsive Web
+Design, ETL, PL/SQL, Hadoop
+
+=E2=80=A2           Functional Skills: Business Requirement Analytics, Busi=
+ness
+Reengineering Concepts,  System Analysis, Project Management, Testing
+
+
+
+*KPMG It Risk Consulting Intern and Full time (Charlotte NC)*
+
+Both of these positions can be found in Careerolina # 791906 (internship)
+and #791910 (fulltime)
+
+Or view them here:
+
+Internship:
+ http://jobs.brassring.com/1033/ASP/TG/cim_jobdetail.asp?partnerid=3D25285&=
+siteid=3D5357&AReq=3D8828BR
+
+
+Full-time:
+http://jobs.brassring.com/1033/ASP/TG/cim_jobdetail.asp?partnerid=3D25285&s=
+iteid=3D5357&AReq=3D7163BR
+
+
+*Web Developer Project (Paid)*
+I am a graduate student in the Health Policy and Management department
+working as part of a group for a Capstone project that is in need of
+website developers. My group and I were hoping that we could involve the
+UNC Computer Science department on our project and have this opportunity
+forwarded to the students.
+We are looking for a web developer who can help design and develop a
+functioning website that will serve as a decision making tool for aging
+individuals who are looking for long term and short term medical care. This
+product will go out in the market, so compensation will be provided. This
+will be a great learning and business opportunity for those who would like
+to get involved.
+*About our product:*
+Our product will provide an integrated community that fosters the continuum
+of care for aging individuals and their supporting systems by connecting
+local resources, disseminating information, and providing a reliable portal
+for empowering consumer-driven choices. *Please let us know if you=E2=80=99=
+re
+interested and email me back at vvm@live.unc.edu *
+
+
+*Listen to the Bits, LLC (Part Time Work for GRAD STUDENT)*
+
+We are looking for a part-time software engineering position. I have a
+one-person software shop in Chapel Hill with three main clients that all
+want me full-time, so I'm looking for someone to join me and help out with
+the workload.
+
+
+
+I think that this could be a good opportunity for a student (most likely a
+grad student) to earn money while gaining real-world software development
+experience in different segments of the industry. The three companies I
+work with have very different technology and the work I do includes parts
+of: real-time audio, distributed systems, public API design, real-time
+rendering, geospatial data processing, mobile app development, and front
+and back-end web development including data security. Most of my work is in
+C++ but there is also a fair amount of javascript and small amounts of C,
+python, and objective-c. Some fluency in at least C++ and javascript would
+be a requirement.
+
+
+
+Some background about myself: I graduated with a BS in Computer Science
+from Brown University in 2001 and have been working professionally as a
+software developer ever since. I've been in a technical lead role on
+several teams across different companies and have mentored several junior
+developers as part of that role. I was also an undergraduate TA at Brown
+for two years, so I am comfortable teaching and managing developers. This
+is just to say that if I end up working with any UNC CS students I intend
+to make sure that it is a positive growth experience for them and will
+consider their professional development to be an important outcome of our
+collaboration.
+
+
+
+The position would be very flexible - I would consider as little as 10
+hours a week commitment. I have a small office in Carrboro but all work
+would not need to happen there.
+
+
+Send your resume to Brent Shields @ shieldsbrent@gmail.com
+
+
+
+*Proteus Technologies Entry-level Software Engineer*
+PROTEUS is conducting a search for entry level (new college BS, MS
+graduates) Software Developers to join our focused and highly-specialized
+team. If YOU are a contributor eager to be a part of the complex cyber
+discovery and defense mission with a broad range of solid computer
+development skills and an aptitude for prototyping, innovative development
+and analyzing hacking techniques , this role is for YOU. YOU will be
+working with a small team charged with employing the agile methodology to
+prototype solutions to complex Cyber, SIGINT, Research, or Embedded
+Engineering problems. YOU should be the =E2=80=9CA=E2=80=9D team player, wh=
+o can operate on
+their own or as part of a focused discovery team, enjoy fast-paced,
+ambiguous challenges, bringing solid development chops across several
+technologies including: JAVA, C++, Angular JS, NodeJS, ExtJS, Python, Ruby
+on Rails, Rest services, Tomcat, JSON, IBM InfoStreams, Storm, Map-Reduce,
+Hadoop, Accumulo, Git, and XML. YOU=E2=80=99ll work on small development te=
+ams
+responsible for building mission capabilities from the ground up throughout
+the lifecycle from requirements into development execution and deployment
+in operational environments =E2=80=93 your work matters!
+YOUR Experience and Qualifications:
+Bachelor=E2=80=99s or Master=E2=80=99s degree in Computer Science, Computer=
+ Security,
+Electrical Engineering, Mathematics, or related discipline from an
+accredited college or university is desired. Must be willing to obtain a
+Top Secret Clearance with a full-scope polygraph. U.S. Citizenship is
+required.
+YOUR Compensation Package: The best you=E2=80=99ll be offered in your job s=
+earches
+- we pay the best because our software engineering and computer security
+talent is the best. We=E2=80=99re about hiring the RIGHT person with the RI=
+GHT
+skills and RIGHT attitude. Our benefits truly reflect our desire to provide
+an employee-centric workplace and include perks such as: a $10,000 tuition
+reimbursement for degree.
+To obtain YOUR Dream Job: Simply send your resume to recruit@proteuseng.com
+
+
+*MZ Wallace, Jr. PHP Engineer/Mid-Level PHP Engineer (FT in Soho, NYC)*
+As a PHP Developer, you=E2=80=99ll be a key member of the Engineering team;=
+ working
+side-by-side with the
+Director of Technology. You=E2=80=99ll work closely with cross-functional
+departments to create a fashion forward
+shopping experience for the MZ Wallace customer.This role reports to the
+Director of Technology, and is a full-time employment position. The ideal
+candidate
+will have the following:
+*The ideal candidate will have the following:*
+=E2=80=A2 Ability to write clean, testable, object oriented PHP
+=E2=80=A2 Intermediate experience using an MVC framework
+=E2=80=A2 Working knowledge of relational databases
+=E2=80=A2 Experience in a collaborative development environment using Git
+=E2=80=A2 Able to provide code samples
+=E2=80=A2 2 =E2=80=93 3 years of full-time experience
+
+*Preferred Qualifications:*
+=E2=80=A2 BA/BS in Computer Science, Engineering or similar
+=E2=80=A2 Experience with the Laravel PHP Framework
+=E2=80=A2 Experience with testing frameworks
+=E2=80=A2 Experience with server administration
+=E2=80=A2 Experience in E-commerce
+
+*About the Company:*
+MZ Wallace is a mission driven women=E2=80=99s accessories company. They=E2=
+=80=99re a
+collection of designers,
+stylists and artists who share a love of functional luxury. They enjoy
+developing product that is both
+fashionable and practical. Founded by two native New Yorkers, Monica
+Zwirner and Lucy Wallace
+Eustice -- MZ Wallace embodies SoHo style.
+
+MZ Wallace offers a start-up environment in the heart of SoHo. They are
+well positioned to expand their
+digital offering over the next few years. They provide highly competitive
+salaries, excellent benefits, and
+career advancement. Perks include weekly lunches, a creative environment,
+and more.
+If you want to make your mark within fashion, work with a creative, dynamic
+team while growing your
+career, then we want to hear from you!
+
+Interested candidates should send their resume to Christopher Junkin at
+christopher@vueltatech.com
+
+
+*Lincoln Financial Group* *(Internships in multiple cities including
+Greensboro)*
+
+LFG is looking to fill over 30 intern positions within the information
+technology space.  We are seeking out current sophomores and juniors who
+are looking for experience in specialized areas, such as
+
+=C2=B7         application development and business analysis
+
+=C2=B7         IT strategy, program management
+
+=C2=B7         Infrastructure
+
+=C2=B7         and many other areas
+
+What we look for in candidates
+
+=C2=B7         Working towards a 4 year Information Technology related degr=
+ee
+
+=C2=B7         Graduation date between Dec 2016 =E2=80=93 May 2018.
+
+=C2=B7         GPA of 3.0 or above.
+
+=C2=B7         Demonstrated critical thinking and problem-solving skills
+
+=C2=B7         Must be willing to relocate for summer program
+
+=C2=B7         Authorization to work in the United States without sponsorsh=
+ip
+
+The Internship runs from June 6th to August 12th. As a program participant
+you will earn a competitive salary as you gain valuable work experience.
+Relocation assistance may be available based on internship assignment.
+Positions will be located in one of our key city locations or in field
+offices nationwide. Key city locations include: Greensboro, NC; Fort Wayne,
+IN; Philadelphia, PA; Radnor, PA; Hartford, CT; Omaha, NE; Concord, NH.
+
+ Interested applicants should upload their resume through this link
+.
+If you, or anyone else has any questions please contact Elizabeth
+Binswanger at Elizabeth.Binswanger@lfg.com
+
+
+*Virtual Kinetics Internship (Chapel Hill, NC)*
+Virtual Kinetics, a wearable tech startup, is looking for interns to help
+the company create
+the prototype that will help Physical Therapists give better care to
+injured patients. We
+are looking for people with skills in sensors, 3D emulation,
+microcontrollers, and medical
+devices, however even if you don=E2=80=99t have some(or any) of the above s=
+kills we
+still ask you
+apply as we were looking for a diverse team with a wide variety of skills
+and
+perspectives. Experience gained in the classroom and through personal
+application will
+be accepted.
+
+Responsibilities
+=E2=80=A2 Envisioning and lean-prototyping a device to solve a real-life pr=
+oblem in
+the
+medical space
+=E2=80=A2 End of semester presentation to regional leaders of the entrepren=
+eurship
+community
+=E2=80=A2 Research competitor offerings
+=E2=80=A2 Attend weekly work sessions at our space in Franklin Street=E2=80=
+=99s 1789
+business
+accelerator (Beer and Pizza provided)
+
+Requirements
+=E2=80=A2 Applicants should expect to work around 15 hours a week during th=
+e
+semester
+=E2=80=A2 Applicants must have excellent problem-solving abilities, time-ma=
+nagement
+skills, and have the ability to work in teams
+=E2=80=A2 As we are a startup, the ability to work in a fast-paced and ambi=
+guous
+environment is of absolute necessity
+
+Benefits
+=E2=80=A2 Get out of the classroom! This is an opportunity for broad, on-th=
+e-job
+learning
+=E2=80=A2 Ability to get plugged into the local entrepreneurship community
+=E2=80=A2 This will be a great, tangible project that can be used in your f=
+uture
+job search
+=E2=80=A2 Join a full-time team of experienced entrepreneurs and learn how =
+to run a
+venture
+
+Application
+Please send your resume and any questions to Elliot Krause at
+sekrause@live.unc.edu
+
+*Nyfty (PT Job in Chapel Hill)*
+We=E2=80=99re a Chapel Hill based delivery startup,  and we=E2=80=99re look=
+ing to bring
+someone on part-time to join our development team and help us complete a
+companion iOS app for our service.
+This is a part-time, paid freelance position and you=E2=80=99d be able to w=
+ork from
+home to complete it. It would require dedication over the next 3-4 weeks as
+we dive in to complete the project.
+We=E2=80=99re looking for someone who has experience in PHP and Swift so yo=
+u can
+navigate our current logic easily.
+If you=E2=80=99re interested, please contact Kenan Bateman at khbateman@gma=
+il.com with
+a resume and links to past work =E2=80=93 past app development experience i=
+s
+preferred.
+
+*SproutSocial (FT and Internships in Chicago IL)*
+If you're looking for a full-time position or an engineering internship for
+the summer, send me (Josh Casale, UNC CS alum-find him on Facebook or
+LinkedIn) a PM and I'd be happy to chat a little about your interests and
+your background. We're in a big growth phase, so we've got positions
+available across the stack from design to data engineering (my bread and
+butter). I have nothing but good things to say about Sprout, but obviously
+I'm biased, so I'd invite you to check out our blog as well -- here are a
+couple of good entries:
+
+Internships with Sprout - https://bit.ly/1OG4J0F 
+2015 Deloitte Fast 500 ranking (Spoiler: We're #21): http://bit.ly/1NQ067o
+2015 Year in Review - http://sproutsocial.com/2015
+
+*Zillow, Graphics Engineers (FT & Summer Interns in Seattle WA)*
+Zillow is the largest online real estate database company that was founded
+in 2006. It has great work-life balance, which you can see reviews from
+Glass Door. We're looking for smart and passionate software engineers who
+are specialized in computer graphics. This is a rare opportunity to play a
+key role in solving exciting problems, building Zillow's next-generation
+data platform, and creating a suite of new products.
+You will be joining an R&D team but I=E2=80=99m really needing someone to b=
+e able
+help with production and rapid prototyping. This project has very little
+legacy code and we have not shipped yet.
+
+What you need:
+=E2=97=8F Undergrad or master level degree in Computer Science.
+=E2=97=8F Strong software development experience in C++, 90% of your work w=
+ill be
+done in C++
+=E2=97=8F Strong experience in computer graphics rendering using CUDA and O=
+penGL.
+=E2=97=8F Experience in app development on iOS devices.
+=E2=97=8F Experience developing on a Linux or other Unix OS platform.
+=E2=97=8F A positive attitude and passion for learning and rapid
+iteration/prototyping.
+=E2=97=8F Ability to effectively articulate technical challenges and soluti=
+ons.
+Nice to have:
+=E2=97=8F Development experience in WebGL or OpenCL.
+
+Apply here: http://www.zillow.com/jobs/openings?j=3DobC41fwC
+
+Contact Li Guan with questions at: lig@zillow.com
+
+Summer intern opportunity is also available. (contact Li to inquire)
+
+*ECG, Software Developer (PT or FT in Georgia)*
+
+We are seeking candidates that are interested in working at least 25 hours
+per week (but preferably full time) on some of the programming projects
+that we have on-going. A student soon to graduate would be an ideal pick,
+as they could try us on part time immediately.
+http://www.e-c-group.com/jobs/#op-99678-software-developer-i
+
+
+*Digital Turbine, Data Scientist (MA or PhD)*
+
+Data Science is about mixing technical prowess with creativity, and Mobile
+Advertising represents one of the most exciting frontiers for Data Science.
+On any given day, we work with probabilistic graphical models, Bayesian
+models, collaborative filtering, and many other interesting machine
+learning methodologies. Appia is seeking a Data Scientist to join our team.
+We are looking for a skilled scientist to develop and deploy mathematical
+models via best-of-class high-performance data architectures and scientific
+computing environments. If you are a creative thinker who can employ
+sophisticated mathematical techniques, come join us in solving some of the
+most exciting problems in the industry.
+
+
+*Areas of Responsibility*The successful candidate will work closely with
+Product Management, Technology, and Business stakeholders to extract value
+through improved algorithms and data architectures from Appia=E2=80=99s
+continuously expanding data asset. The ideal candidate will bring a
+high-level of creativity and mathematical expertise to solve the varying
+problems across the organization.
+
+The Data Scientist will utilize their experience in statistical inference,
+information retrieval, and predictive modeling to develop prototype
+solutions and collaborate in implementing solutions in a high-performance
+production environment. They will play a critical role in advancing Appia=
+=E2=80=99s
+mobile performance advertising platform working through both the design and
+development of solutions as well as working hands-on in the data.
+
+
+
+*Duties & Responsibilities*
+
+
+   -         Develop and apply statistical and machine learning techniques
+   to deliver insight into mobile performance data.
+   -         Translate unstructured business problems into well-structured
+   mathematical algorithms and data flows.
+   -         Communicate technical issues and propose solutions with the
+   technology team and others in the company.
+   -         Design and operate experimental and testing environments for
+   the investigation of new algorithmic methods
+   -         Work closely with the Product Management and Technology
+   Development teams to identify solutions to current production issues, wh=
+ile
+   also working on longer-term analytical problems.
+
+*Skills & Background*
+
+
+   -         Ability to communicate and document statistical methods and
+   analyses in a logical and understandable manner for varying audiences
+   -         Rigorous understanding of some or all of the following:
+   forecasting, predictive modeling, information retrieval, probabilistic
+   graphical modeling, Bayesian statistics
+   -         Solid foundation in statistics
+   -        Demonstrated application of software development methodology
+   and protocols, with hands-on experience developing production software
+   -         Solid understanding and extreme comfort with the fundamentals
+   of big data management, with experience in distributed data platforms
+   (Spark, Hadoop, etc)
+   -         Master=E2=80=99s Degree in Statistics, Mathematics, Physics, C=
+omputer
+   Science or related discipline required; PhD preferred
+
+=E2=80=A2         2+ plus years of experience in data mining, information
+retrieval, analytics, or related field required
+
+    For a full list of our current openings, please refer to the following
+link:  http://digitalturbine.com/careers/
+
+Questions? Contact Noel Stradtman at Noel.Stradtman@digitalturbine.com
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

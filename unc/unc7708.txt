@@ -1,0 +1,14 @@
+
+Site Title: COMP435.001.FA17
+Site URL: https://sakai.unc.edu/portal/site/9e98eee2-2345-46ce-b322-2b3f90e5fc0a
+Assignment: Assignment 5 -- Packet Sniffing
+Assignment Due Date: Dec 8, 2017 12:05 am
+
+Student: Mangza Lal( mlal123 )
+
+Submission ID: 551f6307-16e9-460d-8ffc-331745cc5d98
+Submitted on: Dec 7, 2017 5:24 pm
+
+Attachments
+
+a5_mlal123_tcpspoof.py (1 KB)a5_mlal123_icmpspoof.py (1 KB)a5_mlal123_SniffingLab.pdf (788 KB)

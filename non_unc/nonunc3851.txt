@@ -1,0 +1,100 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+Euler Paths  (12/14/16 3:22 PM)
+
+If a graph has a Euler Circuit(has 0 odd vertices) does that it mean it mus=
+t have a Euler path as well?
+
+Go to https://piazza.com/class?cid=3Diwpdv8f2eoxhi&nid=3Dis6wk5m47ay4zy&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+a) Provide a linked-list representation of this graph  (12/14/16 3:40 PM)
+
+Can someone go over what the answer to 18a would look like?=C2=A0
+
+Go to https://piazza.com/class?cid=3Diwpejf8ll8h7e0&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+O(1) Hashing  (12/14/16 3:53 PM)
+
+Will we need to know implementations of hash tables that have a worst-case =
+O(1) cost such as cuckoo hashing?
+
+Go to https://piazza.com/class?cid=3Diwpf00l8hz35ej&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Why is the insert function in AVL tree O(logN)  (12/14/16 3:54 PM)
+
+For each insert, the "insert" action itself is O(1) and the rotation action=
+ should be O(1) as well, since whichever rotation (LL, RR, LR, RL) is used =
+the number of steps is not dependent on any node other=C2=A0than the immedi=
+ate parent and grandparent of the inserted node. So why does the insert opt=
+ion have O(logN)?
+
+Go to https://piazza.com/class?cid=3Diwpf0qotm2o4yt&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+zig-zig v.s LL/RR and zig-zag v.s LR/RL  (12/14/16 4:04 PM)
+
+Seems that the zig-zig rotation in AVL tree=C2=A0is exactly the same as the=
+ LL and RR rotation in Splay tree; and the zig-zag rotation in AVL is exact=
+ly the same as the RL and LR rotation in splay. So the only difference in r=
+otation algorithm between AVL and Splay is that Splay tree has the extra "z=
+ig" rotation?
+
+Go to https://piazza.com/class?cid=3Diwpfdgxkep4602&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Hashmap sample problem- key wrong?  (12/14/16 4:28 PM)
+
+Is the answer key to the hashmap sample problem for the final wrong? For "h=
+ash into lists", I'm getting the reverse of the list order (so I'm getting =
+delta -> zeta, instead of zeta -> delta). My answers seem right, since we'r=
+e inputting these items in from left to right and it seems to be following =
+the example from his slides. Am I missing something here?=C2=A0
+
+Go to https://piazza.com/class?cid=3Diwpg7xq0q6z41q&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Prim's algorithm when there's an unconnected graph  (12/14/16 5:35 PM)
+
+If what we have is not a connected graph, meaning there is at least one nod=
+e with no undirected edge connecting it to the other nodes at all, then whe=
+n we randomly picked it as the starting node of the Prim's algorithm for MS=
+T, wouldn't the algorithm fail, since it can't advance at all?
+
+Go to https://piazza.com/class?cid=3Diwpimdoi4xf17i&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

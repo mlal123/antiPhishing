@@ -1,0 +1,35 @@
+The password for the Onyen 'mlal123' is set to expire at this date and time:
+2016-09-14 13:08:16.0
+
+Visit the following web site to change your password or for
+information on how to reset your password if it was forgotten:
+
+https://na01.safelinks.protection.outlook.com/?url=https%3a%2f%2fitsapps.unc.edu%2fimprov%2f&data=01%7c01%7cmlal123%40live.unc.edu%7cd99499ebf68d40f0161308d3d0f8f0c3%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=QTHFNu7mPhBNMtF7tlGwKX2xW%2fWenon0YJoCBuPjxQY%3d
+
+You will continue to be reminded via email  at 2 weeks, 1 week and 2 days prior
+to your password expiration. For questions about the new Onyen password
+management application, call the ITS Response Center at 919-962-HELP, or visit
+help.unc.edu and search for 'Onyen Password.'
+
+Once you change your password, it will work for another 90 days before it
+expires again.  If you never  use your Onyen, then disregard this notice.
+
+If you have any Laptop, Desktop, or handheld device which uses your old Onyen
+password to automatically login or re-authenticate to services using the
+AD.UNC.EDU domain (Exchange, for example), be sure to logout of those services
+and login again with your new Onyen password within 10 minutes of changing it.
+If you don't, and your devices continue to attempt to re-authenticate using your
+old Onyen password, your AD.UNC.EDU account will be locked for 10 to 20 minutes,
+just as if you repeatedly tried to login with a bad password. During that time
+you will not be able to login.
+
+--------------------------------------------------------------------------------
+If you have questions or need additional assistance with this issue, contact the
+ITS Response Center at 919-962-HELP and we'll be glad to assist you.
+
+This message is being sent to the electronic mail address associated with the
+Onyen 'mlal123' in the UNC Campus Directory.  If this address is not your
+preferred electronic mail address, you may change it by visiting the Campus
+Directory web site:
+
+    https://na01.safelinks.protection.outlook.com/?url=http%3a%2f%2fdir.unc.edu%2fdir%2fhome%2f&data=01%7c01%7cmlal123%40live.unc.edu%7cd99499ebf68d40f0161308d3d0f8f0c3%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=Q0QpBeRtVRB3SkfKFjeSxL7giWVK6HrY5yQ0s0dnuv8%3d

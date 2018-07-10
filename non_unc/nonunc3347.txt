@@ -1,0 +1,40 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+Lab 8 Submission  (11/04/16 12:16 AM)
+
+I submitted lab 8 and I got the following message:
+
+mv: cannot move '/home/lastra/comp411/sdgeorge/lab8' to '/home/lastra/comp411/sdgeorge/lab8.40157': Permission denied/home/lastra/comp411/bin/submitlab8: line 17: /home/lastra/comp411/.log/lab8_sdgeorge_40157: Permission deniedYour work was successfully submitted on Fri Nov 4 00:09:48 EDT 2016
+Quickly checking your work ...
+Files /home/lastra/comp411/samples/lab8/ex1out1 and ex1result1_C are identicalFiles /home/lastra/comp411/samples/lab8/ex1out1 and ex1result1_ASM are identical
+If there were any errors while compiling and running your programs,there should be error messages above. If you don't see any error messages,then your programs compiled and ran correctly.
+Your work has been submitted whether or not it passed the quick check.
+
+Has this submission been successful
+
+Go to https://piazza.com/class?cid=iv39qvipvdr5bi&nid=irqp4hpe58u5rs&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+lab8 test files  (11/04/16 2:12 AM)
+
+The contents of the ex1in1 and ex1out1 test files are exactly the same? Is that correct?
+
+Go to https://piazza.com/class?cid=iv3dwz906n47md&nid=irqp4hpe58u5rs&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 411 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2GxNxqCfOm

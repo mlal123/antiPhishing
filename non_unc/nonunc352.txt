@@ -1,0 +1,41 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Assignment1  (9/16/15 10:31 PM)
+
+what exactly is meant by "Print the welcome message to the user" in assignment 1? does this just mean to create a message that is printed when the program runs that has the words welcome and football in it?
+
+Go to https://piazza.com/class?cid=ienloyffxrv5r3&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Assignment1  (9/16/15 11:11 PM)
+
+In step 2, it says to ask how many points did the Tar Heels score. However, in the example shown at the bottom, the question is "How many points did UNC score in each quarter?" Does it matter if we use Tar Heels or UNC?
+
+Also, after running my program, my output displays "Duke won the game. The difference in points was -2." Is this still okay? (I read the note about ignoring displayed negative numbers, but I still wanted to make sure.)
+
+Go to https://piazza.com/class?cid=ienn4im5q4l3wr&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+negative numbers in assignment1  (9/16/15 11:17 PM)
+
+In the directions when it says to do absolute value to avoid having negative numbers, how do you do this in eclipse?
+
+Go to https://piazza.com/class?cid=ienncxav5lk1ov&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 110 at University of North Carolina at Chapel Hill. Go to http://piazza.com/login to sign in and manage your email preferences or proceed to http://piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: http://piazza.com/link_accounts/f2GxNxqCfOm

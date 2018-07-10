@@ -1,0 +1,176 @@
+Nieman Lab: The Daily Digest
+Tuesday=2C June 26=2C 2018
+http://www.niemanlab.org/2018/06/instead-of-abandoning-print-the-119-year-=
+old-mit-technology-review-is-doubling-down-on-it/?utm_source=3DDaily+Lab+e=
+mail+list&utm_campaign=3D7e3a6ab873-dailylabemail3&utm_medium=3Demail&utm_=
+term=3D0_d68264fd5e-7e3a6ab873-396202213
+
+
+** Instead of abandoning print=2C the 119-year-old MIT Technology Review i=
+s doubling down on it (http://www.niemanlab.org/2018/06/instead-of-abandon=
+ing-print-the-119-year-old-mit-technology-review-is-doubling-down-on-it/?u=
+tm_source=3DDaily+Lab+email+list&utm_campaign=3D7e3a6ab873-dailylabemail3&=
+utm_medium=3Demail&utm_term=3D0_d68264fd5e-7e3a6ab873-396202213)
+------------------------------------------------------------
+The rebrand expands each issue from a summary of articles into a small boo=
+k discussing the past=2C present=2C and future of a single technology. By=
+ Marlee Baldridge.
+http://www.niemanlab.org/2018/06/radiopublic-opens-up-a-new-investment-pla=
+tform-so-individual-users-can-get-a-stake/?utm_source=3DDaily+Lab+email+li=
+st&utm_campaign=3D7e3a6ab873-dailylabemail3&utm_medium=3Demail&utm_term=3D=
+0_d68264fd5e-7e3a6ab873-396202213
+
+
+** RadioPublic opens up a new investment platform so individual users can=
+ get a stake (http://www.niemanlab.org/2018/06/radiopublic-opens-up-a-new-=
+investment-platform-so-individual-users-can-get-a-stake/?utm_source=3DDail=
+y+Lab+email+list&utm_campaign=3D7e3a6ab873-dailylabemail3&utm_medium=3Dema=
+il&utm_term=3D0_d68264fd5e-7e3a6ab873-396202213)
+------------------------------------------------------------
+Plus: Civil + podcasts=2C Anchor=E2=80=99s troublesome TOS=2C and IAB=E2=
+=80=99s standards. By Nicholas Quah.
+What We=E2=80=99re Reading
+NPR Training / Wesley Lindamood
+Take our playbook: NPR=E2=80=99s guide to building immersive storytelling=
+ projects =E2=86=92 (http://training.npr.org/digital/take-our-playbook-npr=
+s-guide-to-building-immersive-storytelling-projects/?utm_source=3DDaily+La=
+b+email+list&utm_campaign=3D7e3a6ab873-dailylabemail3&utm_medium=3Demail&u=
+tm_term=3D0_d68264fd5e-7e3a6ab873-396202213)
+=E2=80=9CIt=E2=80=99s possible to apply a repeatable formula to make forma=
+t-breaking stories.=E2=80=9D
+Columbia Journalism Review / Allison Braden
+Charlotte Agenda has a mighty business model. How=E2=80=99s the journalism=
+? =E2=86=92 (https://www.cjr.org/united_states_project/charlotte-agenda.ph=
+p?utm_source=3DDaily+Lab+email+list&utm_campaign=3D7e3a6ab873-dailylabemai=
+l3&utm_medium=3Demail&utm_term=3D0_d68264fd5e-7e3a6ab873-396202213)
+=E2=80=9CThe infrequent newsletter Charlotte Rebuttal (https://twitter.com=
+/cltrebuttal?utm_source=3DDaily+Lab+email+list&utm_campaign=3D7e3a6ab873-d=
+ailylabemail3&utm_medium=3Demail&utm_term=3D0_d68264fd5e-7e3a6ab873-=
+396202213) devotes pages to criticizing the site. Twitter account @AgendaF=
+ive (https://twitter.com/AgendaFive?utm_source=3DDaily+Lab+email+list&utm_=
+campaign=3D7e3a6ab873-dailylabemail3&utm_medium=3Demail&utm_term=3D0_d6826=
+4fd5e-7e3a6ab873-396202213) mocks the startup=E2=80=99s articles wit=
+h parody headlines (https://twitter.com/AgendaFive/status/9862676136123965=
+46?utm_source=3DDaily+Lab+email+list&utm_campaign=3D7e3a6ab873-dailylabema=
+il3&utm_medium=3Demail&utm_term=3D0_d68264fd5e-7e3a6ab873-396202213)=
+ and lambasts the perceived cozy relationship between the site=E2=80=99s w=
+riters and the businesses they cover. Some of the city=E2=80=99s legacy-me=
+dia journalists believe Charlotte Agenda=E2=80=99s approach fails to treat=
+ readers with intellectual respect (https://www.charlotteagenda.com/13506/=
+i-have-no-real-evidence-but-i-think-charlotte-starbucks-are-in-trouble/?ut=
+m_source=3DDaily+Lab+email+list&utm_campaign=3D7e3a6ab873-dailylabemail3&u=
+tm_medium=3Demail&utm_term=3D0_d68264fd5e-7e3a6ab873-396202213) . Ot=
+hers notice the page view stats that accompany every article and see the s=
+tartup as part of a clickbait culture that relies on popularity to determi=
+ne a story=E2=80=99s value.=E2=80=9D
+The Wrap / Sean Burch
+Tim Cook on why Apple News needs human editors: =E2=80=9CNews was kind of=
+ going a little crazy=E2=80=9D =E2=86=92 (https://www.thewrap.com/tim-cook=
+-on-why-apple-news-needs-human-editors-news-was-kind-of-going-a-little-cra=
+zy/?utm_source=3DDaily+Lab+email+list&utm_campaign=3D7e3a6ab873-dailylabem=
+ail3&utm_medium=3Demail&utm_term=3D0_d68264fd5e-7e3a6ab873-396202213=
+)
+=E2=80=9CFor Apple News=2C we felt top stories should be selected by human=
+s=2C to make sure you=E2=80=99re not picking content that strictly has the=
+ goal of enraging people.=E2=80=9D
+Amazon
+Amazon launches support for Arabic language books on Kindle =E2=86=92 (htt=
+ps://www.businesswire.com/news/home/20180626005631/en/Amazon-Launches-Supp=
+ort-Arabic-Language-Books-Kindle?utm_source=3DDaily+Lab+email+list&utm_cam=
+paign=3D7e3a6ab873-dailylabemail3&utm_medium=3Demail&utm_term=3D0_d68264fd=
+5e-7e3a6ab873-396202213)
+=E2=80=9CAmazon announced today that Kindle customers around the globe can=
+ now enjoy reading from a growing selection of more than 12=2C000 Arabic l=
+anguage Kindle books on Kindle devices and the free Kindle app.=E2=80=9D
+Poynter / Al Tompkins
+Gray Broadcasting to buy Raycom to create third-largest local TV owner =E2=
+=86=92 (https://www.poynter.org/news/gray-broadcasting-buy-raycom-create-3=
+rd-largest-local-tv-owner?utm_source=3DDaily+Lab+email+list&utm_campaign=
+=3D7e3a6ab873-dailylabemail3&utm_medium=3Demail&utm_term=3D0_d68264fd5e-7e=
+3a6ab873-396202213)
+=E2=80=9CRaycom also is unusual in today=E2=80=99s broadcasting business i=
+n that it also holds=2C and now will spin off=2C a number of print propert=
+ies including community newspapers and other properties in 23 states.=E2=
+=80=9D
+Digiday / Max Willens
+How Vogue diversified away from Facebook =E2=86=92 (https://digiday.com/me=
+dia/vogue-diversified-away-facebook/?utm_source=3DDaily+Lab+email+list&utm=
+_campaign=3D7e3a6ab873-dailylabemail3&utm_medium=3Demail&utm_term=3D0_d682=
+64fd5e-7e3a6ab873-396202213)
+Instagram is =E2=80=9Cused as a news source now=E2=80=A6We increased our p=
+osting schedule to include breaking news and exclusives=2C solely as a rea=
+ction to the audience.=E2=80=9D
+Axios / Sara Fischer
+Publishers ditch viral clips for longform video series =E2=86=92 (https://=
+www.axios.com/newsletters/axios-media-trends-06bcbea4-d496-4991-b22a-06e3c=
+4d91139.html?utm_source=3DDaily+Lab+email+list&utm_campaign=3D7e3a6ab873-d=
+ailylabemail3&utm_medium=3Demail&utm_term=3D0_d68264fd5e-7e3a6ab873-=
+396202213)
+=E2=80=9CIn the last year=2C we=E2=80=99ve seen a shift sort of after the=
+ high-high of The Facebook Live =E2=80=98watermelon explosion=E2=80=99 era=
+=2E And publishers across the board=2C I think=2C saw a decline in how many=
+ people were watching their videos. It was an indication that it wasn=E2=
+=80=99t a direction to keep pushing on.=E2=80=9D
+Washington Post / Glenn Kessler
+Rapidly expanding fact-checking movement faces growing pains =E2=86=92 (ht=
+tps://www.washingtonpost.com/news/fact-checker/wp/2018/06/25/rapidly-expan=
+ding-fact-checking-movement-faces-growing-pains/?noredirect=3Don&utm_sourc=
+e=3DDaily+Lab+email+list&utm_campaign=3D7e3a6ab873-dailylabemail3&utm_medi=
+um=3Demail&utm_term=3D0_d68264fd5e-7e3a6ab873-396202213)
+=E2=80=9CFact-checkers are no longer the fresh-faced journalistic reform m=
+ovement pushed forward by the tail winds of positive expectations. We are=
+ wrinkly arbiters of a take-no-prisoners war for the future of the interne=
+t. And yet I think that in too many ways we still behave like in those ear=
+ly days when we were an experiment =E2=80=94 when our good qualities were=
+ refreshing and our bad ones part of the learning curve.=E2=80=9D
+Poynter / Rick Edmonds
+USA Today Network is launching an opinion newsletter aimed at the =E2=80=
+=9Ccenter-right=E2=80=9D =E2=86=92 (https://www.poynter.org/news/usa-today=
+-network-launches-conservative-opinion-newsletter-heartland?utm_source=3DD=
+aily+Lab+email+list&utm_campaign=3D7e3a6ab873-dailylabemail3&utm_medium=3D=
+email&utm_term=3D0_d68264fd5e-7e3a6ab873-396202213)
+A job posting said: =E2=80=9CThere are angry shouts on the far end of both=
+ sides=2C but those in the center of the country =E2=80=94 literally and f=
+iguratively =E2=80=94 have no one to speak to their everyday concerns on j=
+obs and taxes=2C safety and security=2C and their children=E2=80=99s futur=
+es.=E2=80=9D
+TechCrunch / Josh Constine
+Start-up Truepic lets users verify a photo=2C and fights AI deep-fakes =E2=
+=86=92 (https://techcrunch.com/2018/06/20/detect-deepfake/?utm_source=3DDa=
+ily+Lab+email+list&utm_campaign=3D7e3a6ab873-dailylabemail3&utm_medium=3De=
+mail&utm_term=3D0_d68264fd5e-7e3a6ab873-396202213)
+Truepic verifies the image hasn=E2=80=99t been altered already=2C and wate=
+rmarks it with a time stamp=2C geocode=2C URL and other metadata. It just=
+ raised $8 million to go a step further=2C and identify fake videos or pho=
+tos generated by AI.
+
+Nieman Lab (http://www.niemanlab.org/?utm_source=3DDaily+Lab+email+list&ut=
+m_campaign=3D7e3a6ab873-dailylabemail3&utm_medium=3Demail&utm_term=3D0_d68=
+264fd5e-7e3a6ab873-396202213) / Fuego (http://www.niemanlab.org/fueg=
+o/?utm_source=3DDaily+Lab+email+list&utm_campaign=3D7e3a6ab873-dailylabema=
+il3&utm_medium=3Demail&utm_term=3D0_d68264fd5e-7e3a6ab873-396202213)=
+ / Encyclo (http://www.niemanlab.org/encyclo/?utm_source=3DDaily+Lab+email=
++list&utm_campaign=3D7e3a6ab873-dailylabemail3&utm_medium=3Demail&utm_term=
+=3D0_d68264fd5e-7e3a6ab873-396202213)
+
+Twitter (http://twitter.com/niemanlab?utm_source=3DDaily+Lab+email+list&ut=
+m_campaign=3D7e3a6ab873-dailylabemail3&utm_medium=3Demail&utm_term=3D0_d68=
+264fd5e-7e3a6ab873-396202213) / Facebook (http://facebook.com/nieman=
+lab?utm_source=3DDaily+Lab+email+list&utm_campaign=3D7e3a6ab873-dailylabem=
+ail3&utm_medium=3Demail&utm_term=3D0_d68264fd5e-7e3a6ab873-396202213=
+)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3D7e3a6ab873)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3D7e3a6ab873)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

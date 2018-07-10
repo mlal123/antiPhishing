@@ -1,0 +1,40 @@
+Feel free to share with any friends outside of CS that might be interested
+in data science and use the RSVP link to register.
+
+
+*Careers in Data Science Talk *
+
+*Wednesday, March 8th at 5:30pm, Sitterson 011 *
+
+*RSVP Here: *https://unc.az1.qualtrics.com/SE/?SID=3DSV_2rdhxrX0PZj0cgB=E2=
+=80=8B
+
+Yan Kou, head of Health Data Science at Insight Data Science will be
+leading a discussion on careers in data science, health data science, and
+data engineering. Top companies are hiring data scientists and engineers to
+help find insights in the petabytes of data that they collect every day.
+Scientists and engineers from diverse fields, including physics,
+computational biology, neuroscience, math, and statistics are playing key
+roles in transforming the way of working with data to impact our daily
+lives. The Insight Fellows Program is a training fellowship designed to
+bridge the gap between academia and a career in data. Insight provides
+seven-week,
+full-time, training fellowships in Silicon Valley, New York and Boston.
+They offer a full tuition scholarship, dedicated office space, and
+project-based learning under the guidance of top industry mentors. Over 800
+Insight alumni are now working at Facebook, Apple, LinkedIn, Uber, Reddit,
+Netflix, NBC, MTV, Khan Academy, Biogen and other top companies.
+
+In this info session, we will provide a high-level overview of data trends
+in industry and describe the Insight Fellows Program. The session will
+include time for Q&A, and advice for those interested in transitioning to
+careers in data science and data engineering. Learn more at:
+insightdatascience.com
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

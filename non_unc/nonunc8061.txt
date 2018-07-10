@@ -1,0 +1,115 @@
+Nieman Lab: The Daily Digest
+Thursday=2C January 11=2C 2018
+http://www.niemanlab.org/2018/01/global-unhappiness-with-the-news-media-is=
+-high-in-the-u-s-surprise-partisanship-drives-what-people-think-about-the-=
+media/
+
+
+** Global unhappiness with the news media is high. In the U.S. (surprise!)=
+ partisanship drives what people think about the media (http://www.niemanl=
+ab.org/2018/01/global-unhappiness-with-the-news-media-is-high-in-the-u-s-s=
+urprise-partisanship-drives-what-people-think-about-the-media/)
+------------------------------------------------------------
+In the U.S.=2C supporting the party in power correlates with thinking the=
+ media does a terrible job. The opposite is true in nearly every other cou=
+ntry surveyed. By Shan Wang.
+http://www.niemanlab.org/2018/01/its-not-citizen-journalism-but-it-is-citi=
+zens-taking-notes-at-public-meetings-with-no-reporters-around/
+
+
+** It=E2=80=99s not =E2=80=9Ccitizen journalism=2C=E2=80=9D but it is =E2=
+=80=9Ccitizens taking notes at public meetings with no reporters around=E2=
+=80=9D (http://www.niemanlab.org/2018/01/its-not-citizen-journalism-but-it=
+-is-citizens-taking-notes-at-public-meetings-with-no-reporters-around/)
+------------------------------------------------------------
+Chicago=E2=80=99s City Bureau is betting on local residents doing this sor=
+t of low-key not-quite-journalism at meetings=2C and now it=E2=80=99s expa=
+nding the model to Detroit. By Christine Schmidt.
+What We=E2=80=99re Reading
+The Cut / Moira Donegan
+I started the =E2=80=98Shitty Media Men=E2=80=99 list =E2=86=92 (https://w=
+ww.thecut.com/2018/01/moira-donegan-i-started-the-media-men-list.html)
+=E2=80=9C[T]he value of the spreadsheet was that it had no enforcement me=
+chanisms: Without legal authority or professional power=2C it offered an i=
+mpartial=2C rather than adversarial=2C tool to those who used it. It was i=
+ntended specifically not to inflict consequences=2C not to be a weapon =E2=
+=80=94 and yet=2C once it became public=2C many people immediately saw it=
+ as exactly that.=E2=80=9D
+Solution Set / Joseph Lichterman
+How Minnesota-based nonprofit news site MinnPost is helping other local no=
+nprofits and making some extra money at the same time =E2=86=92 (https://w=
+ww.lenfestinstitute.org/solution-set/2018/01/11/news-site-making-extra-mon=
+ey-helping-local-nonprofits-time/)
+=E2=80=9CMinnPost sells ad slots at set rates on a weekly basis=2C so if y=
+ou decide to advertise with the site your ad will run Monday-Sunday and yo=
+u=E2=80=99re guaranteed at least 35=2C000 impressions. Often times=2C howe=
+ver=2C MinnPost will have excess ad inventory. When it does=2C MinnPost wi=
+ll sell it at a steep discount to small local nonprofits with less than $1=
+ million in annual revenue.=E2=80=9D
+Poynter / Daniel Funke
+In Argentina=2C fact-checking organization Chequeado=E2=80=99s latest hire=
+ is a bot =E2=86=92 (https://www.poynter.org/news/argentina-fact-checkers-=
+latest-hire-bot)
+=E2=80=9CChequeabot is a tool that automatically identifies claims in the=
+ media and matches them with existing fact checks. The bot draws upon natu=
+ral language processing and machine learning to help perform everyday task=
+s for fact-checkers =E2=80=94 who are already using it in the newsroom.=E2=
+=80=9D
+Columbia Journalism Review / Mia Shuang Li
+How influential individuals on WeChat are becoming a main news source in C=
+hina =E2=86=92 (https://www.cjr.org/tow_center/how-wechat-became-primary-n=
+ews-source-china.php)
+=E2=80=9CIf a reader likes WeChat content=2C they can tip the creator a sm=
+all amount of money with one click. WeChat columnist He Caitou said earlie=
+r in 2017 that on average he receives $602 per article=2C and once receive=
+d $4=2C815 for a short piece he wrote. He used to get paid $75 per thousan=
+d-words by magazines.=E2=80=9D
+Wall Street Journal / Benjamin Mullin
+How many people did that story reach? It depends who=E2=80=99s counting=
+ =E2=86=92 (https://www.wsj.com/articles/how-many-people-did-that-story-re=
+ach-it-depends-whos-counting-1515668400)
+=E2=80=9CIn several cases=2C audience numbers Nielsen provided digital pub=
+lishers through Digital Content Ratings are dramatically higher than those=
+ provided by comScore=E2=80=99s Media Metrix Multi-Platform product. Mic r=
+eached 11.9 million unique visitors in October=2C according to comScore; N=
+ielsen reported they reached 40 million people. PopSugar reached 34 millio=
+n unique visitors in October=2C according to comScore; Nielsen reported th=
+ey reached 80 million.=E2=80=9D
+The Wrap / Jon Levine
+Vox Media has voted to unionize with the Writers Guild of America=2C East=
+ =E2=86=92 (https://www.thewrap.com/vox-media-votes-unionize-wga-east/)
+=E2=80=9CThe move will affect roughly 400 employees across Vox Media=E2=80=
+=99s eight verticals. In addition to Vox=2C WGA East also represents emplo=
+yees from VICE=2C HuffPost=2C The Intercept=2C Gizmodo Media Group=2C Thin=
+kProgress=2C MTV News=2C Thrillist and Salon.=E2=80=9D
+Recode / Eric Johnson
+Digital media companies are headed for a crash=2C Hearst Magazines preside=
+nt David Carey says =E2=86=92 (https://www.recode.net/2018/1/11/16875358/h=
+earst-magazines-david-carey-advertising-digital-first-toy-story-peter-kafk=
+a-recode-media-podcast)
+=E2=80=9CWe reject this notion of =E2=80=98digital first=2C=E2=80=99 becau=
+se we think that denigrates the core business=2C=E2=80=9D said Carey=2C th=
+e president of Hearst Magazines=2C on the latest episode of Recode Media w=
+ith Peter Kafka. =E2=80=9CWe think there=E2=80=99s a lot of money to be ma=
+de in the print business.=E2=80=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3Dcf9045ff53)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3Dcf9045ff53)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

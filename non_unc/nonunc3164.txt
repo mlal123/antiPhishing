@@ -1,0 +1,29 @@
+Your classmate posted a new Question.=20
+
+PPM_MAX
+
+"The max value for the gray values for the=C2=A0output=C2=A0must be 255." I=
+n ex1in1 the ppm max is 100. All the gray values are correct but the max is=
+ still 100. What exactly am i supposed to do with it?
+
+Go to https://piazza.com/class?cid=3Diuobv0ikep96y9&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @284. Follo=
+w it to get notified when a response comes in: https://piazza.com/follow/iu=
+obv0ikep96y9/f2GxNxqCfOm/d52028b4=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.=

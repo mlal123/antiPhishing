@@ -1,0 +1,63 @@
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+
+
+Hello Mangza,
+ 
+I’m one of the Community Directors in Carolina Housing working on August training for our 2018-2019 Resident Advisors.
+ 
+As part of our training, we wanted to provide our RAs with photos of rooms in several communities which contain items from our prohibited items list in order to train them on general
+ observational skills and spotting these items for health and safety inspections.
+ 
+Here’s where you come in: we are looking for volunteers who would allow us to temporarily place some items in your rooms from our prohibited items list and take photos that will
+ be shown to the RA staffs to see if they can identify them. This process would only take about 30-45 minutes, and we would schedule a time to come in and take these photos with you present. The times and dates for doing this are very flexible, and if you are
+ willing and interested we would work with you on finding a time that best fits your schedule.
+ 
+If you would be willing to please volunteer your time and your room, we would greatly appreciate it! Please reply to this email for more information or to let me know you’d like
+ to assist.
+ 
+I hope your summer is going well!
+ 
+Chris Trautman
+ 
+
+
+

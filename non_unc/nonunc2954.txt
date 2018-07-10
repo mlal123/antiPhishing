@@ -1,0 +1,39 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+what does ".text 0x3000" mean?  (10/06/16 5:27 PM)
+
+I was wondering what ".text 0x3000" does in the program? I just used it because it's present in the given method, but don't really know why it's there.
+
+Go to https://piazza.com/class?cid=ityusqqzrft1hp&nid=irqp4hpe58u5rs&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Output of lab5  (10/06/16 7:58 PM)
+
+I'm just wondering if the output of lab5 has a new line on the very top.
+
+Go to https://piazza.com/class?cid=itz0809bfwq5xm&nid=irqp4hpe58u5rs&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Submitting Lab 5  (10/06/16 8:24 PM)
+
+When I save ex1 in Mars, it saves as ex1.asm.txt. Is that okay for the purposes of the grader?
+
+Go to https://piazza.com/class?cid=itz14zh5ad76if&nid=irqp4hpe58u5rs&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 411 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2GxNxqCfOm

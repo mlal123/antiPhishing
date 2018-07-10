@@ -1,0 +1,21 @@
+John Morrison, who currently teaches at North Carolina School of Science
+and Math is our next Professor of the Practice candidate.  He will be
+speaking at *4 pm this Wednesday in SN011.  *Note that this is a different
+time than the other candidates.
+
+His talk will be on  Event Handling in JavaScript.  It will address the
+general topic of events, and explore events in both the desktop and on
+phones.
+
+I am also looking for students who would like to meet with John after the
+talk.  You do need to be able to attend the talk.  The meeting will run
+from 5-5:45, followed by a 15 minute debrief with me.  If you are
+interested in meeting, please fill in this google form
+.
+
+Thanks,
+Diane
+
+-- 
+You received this message because you are subscribed to the Google Groups "Majors" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to majors+unsubscribe@cs.unc.edu.

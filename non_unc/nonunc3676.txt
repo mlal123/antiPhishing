@@ -1,0 +1,64 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+What does WERF do?  (11/30/16 6:43 PM)
+
+What does WERF do?
+
+Go to https://piazza.com/class?cid=3Diw5kwho536z2wr&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+question on slideset 16 slide 17  (11/30/16 6:59 PM)
+
+in the direct mapping cache, what do the last 3 bits dojQuery17107571875595=
+284514_1480549410873? it says=C2=A0"lWith 8 byte lines, bottom 3 bits deter=
+mine byte within line"
+but I do not understand what that means. Thanks.
+
+Go to https://piazza.com/class?cid=3Diw5lgxucz1i14a&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+question on slideset 16 slide 17  (11/30/16 6:59 PM)
+
+in the direct mapping cache, what do the last 3 bits do??? it says=C2=A0"lW=
+ith 8 byte lines, bottom 3 bits determine byte within line"
+but I do not understand what that means. Thanks.
+
+Go to https://piazza.com/class?cid=3Diw5lh12k73u2&nid=3Dirqp4hpe58u5rs&toke=
+n=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+problemset #3.3  (11/30/16 8:07 PM)
+
+are we expected for the code given to return the same answer as it would or=
+iginally?=C2=A0
+
+Go to https://piazza.com/class?cid=3Diw5nwg13dr24kk&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

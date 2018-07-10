@@ -1,0 +1,6 @@
+Hi,
+
+You requested a password reset for Envoy.
+
+Click here to reset it:
+https://www.parse.com/apps/envoy/request_password_reset?token=9nxtOmvnSm40QPp4SRziAxFoF&username=mlal123%40live.unc.edu

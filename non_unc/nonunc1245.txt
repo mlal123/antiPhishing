@@ -1,0 +1,117 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+A1 Jedi St. Dev help  (1/25/16 9:13 AM)
+
+i am having an incredibly hard time starting the standard deviation for the=
+ Jedi portion of the assignment. I have the entire program essentially in a=
+ for loop, but I don't know how to store the different students' test score=
+s in an array without making a nested for loop. Where do I essentially begi=
+n?=C2=A0
+
+Go to https://piazza.com/class?cid=3Diju20eprxs538j&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Eclipse acting oddly  (1/25/16 10:46 AM)
+
+For some reason, I can't seem to see what my output is. I'm not sure where =
+to get the tab that shows the output either. Can someone help me?=C2=A0
+
+Go to https://piazza.com/class?cid=3Diju5cfmyn9y2im&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+No Console Displayed  (1/25/16 11:46 AM)
+
+
+Can someone please tell me how to fix this?
+
+Go to https://piazza.com/class?cid=3Diju7hp9ceif1cz&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+getting right output in program but not in the grader  (1/25/16 11:46 AM)
+
+OK, so when I run my program, I get the expected output for A1Jedi 2nd test=
+...
+
+...but when I run it through the autograder, the autograder says my output =
+is different...
+Output:
+A : 0
+A-: 0
+B+: 0
+B : 1
+B-: 6
+C+: 3
+C : 3
+C-: 2
+D+: 1
+D : 3
+F : 1
+
+
+Output did not match expectations.
+Expected output:
+A : 0
+A-: 0
+B+: 0
+B : 1
+B-: 6
+C+: 4
+C : 2
+C-: 2
+D+: 3
+D : 1
+F : 1
+So what's up? My code works perfectly for me; it returns the right values w=
+hen I run it. The autograder just doesn't think so???
+
+Go to https://piazza.com/class?cid=3Diju7hrl9j05nz&nid=3Dihs2fbbhsfx37n&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A1 Test  (1/25/16 12:08 PM)
+
+I have written the codes for my programs but dont know how to test them bef=
+ore turning them in; how are people doing this
+
+Go to https://piazza.com/class?cid=3Diju89rptth11h&nid=3Dihs2fbbhsfx37n&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+adept example input  (1/25/16 12:56 PM)
+
+this might be a silly question but what does the=C2=A0
+5 10 10 10 25=20
+in the example input represent?
+
+Go to https://piazza.com/class?cid=3Dijua02n6c8n3ud&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

@@ -1,0 +1,70 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+partial credit on labs  (11/14/16 2:54 PM)
+
+Do we get partial credit on labs? For example if 2 out of 10 outputs are wr=
+ong but the rest are correct do we get partial credit for what's correct or=
+ is the entire thing wrong?
+
+Go to https://piazza.com/class?cid=3Divihnx8543ccz&nid=3Dirqp4hpe58u5rs&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Quiz this week  (11/14/16 4:48 PM)
+
+Is there a quiz this week? I wasn't able to make it to class today and I no=
+ticed there isn't one on the calendar.
+
+Go to https://piazza.com/class?cid=3Divilq9vdid44yk&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Problem Set 3 Grading Error on Question 23 (or Problem 5)  (11/14/16 5:32 P=
+M)
+
+It seems that a slight error on question 23 of Problem set 3 was not fixed =
+after the grading was finished.
+
+For the one where the input is A:1, B:1, C:1, D:0, E:1, F:0, the answer key=
+ says that the Y is 1.
+
+1110100
+
+However, A, B will pass on the NAND as 0,=C2=A0and C, D will pass the NXOR =
+as 0.
+The since two inputs of the OR gate are both 0,=C2=A0the U1 outcome will be=
+ 0.hus the final AND gate in U5 as 0.
+Since one of the inputs of the final AND gate is 0, the result for U5(=3DY)=
+ will be 0.
+
+It would be great if one of the TAs could check on this question.
+Thank you!
+
+Go to https://piazza.com/class?cid=3Divinarp2k9w7iz&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

@@ -1,0 +1,51 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 435 on Piazza:
+
+------------------------------------------------------------
+Python argument for task2.a, task2.b, and task2.c  (12/02/17 4:00 PM)
+
+Is the requirement just sending a random packet to a random destination ip=
+=C2=A0address from a random source ip=C2=A0address(preferably=C2=A0within y=
+our VM LAN)?
+Should there be argument(s) for the two python program, indicating the sour=
+ce and destination address, or is it something that can be coded in the pro=
+gram?
+
+Go to https://piazza.com/class?cid=3Djaptoplk8ej7gx&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Python version related to HW5  (12/02/17 3:39 PM)
+
+For previous HWs the required python version was python3,=C2=A0but for HW5 =
+the provided link for Scapy is for python 2.x, and getting Scapy 3 for pyth=
+on 3.x proves to be rather difficult since pip3 is difficult to install on =
+ubuntu 12.04. Is the python version requirement still in place for this ass=
+ignment?
+
+Go to https://piazza.com/class?cid=3Djapsx53x82t70b&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 435 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/j5vi9cpw2jn336 to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

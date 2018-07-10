@@ -1,0 +1,157 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+Novice Copy and Paste  (1/24/16 3:18 PM)
+
+If i copy and paste the sample input from the assignment page it only shows=
+ the first two names, but if I copy and paste the sample into word and then=
+ into the console it works perfectly. Does that mean it works? Why wouldn't=
+ it work both ways?
+
+Go to https://piazza.com/class?cid=3Dijszmb9xj18ko&nid=3Dihs2fbbhsfx37n&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Review Session Write-Up  (1/24/16 3:18 PM)
+
+Hey, so I wasn't able to make a livestream happen at the review session (so=
+rry D:). However, I do have a write up which I think is similar to a conden=
+sed version of the review session. I'm not completely done with it yet, but=
+ it's mostly done, and I'll keep updating it as I get closer to finishing i=
+t. In the meantime, the link to it is:
+
+http://nikhilprasad.com/COMP401Review/
+
+Go to https://piazza.com/class?cid=3Dijszmj3afsi6wz&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+2nd test didnt pass  (1/24/16 4:21 PM)
+
+So my 2nd test didn't pass, but the first did.
+Output:
+A : 0
+A-: 0
+B+: 0
+B : 0
+B-: 3
+C+: 3
+C : 4
+C-: 0
+D+: 2
+D : 1
+F : 1
+
+
+Output did not match expectations.
+Expected output:
+A : 0
+A-: 0
+B+: 0
+B : 1
+B-: 6
+C+: 4
+C : 2
+C-: 2
+D+: 3
+D : 1
+F : 1
+It was very close though. What could cause this? I know that this is very u=
+nspecific, but would this be an equation error somewhere, or just floating =
+decimals that cause something to round a certain way or another? Just curio=
+us how I can go about figuring this out. Thanks!
+
+Go to https://piazza.com/class?cid=3Dijt1vm9zwua2cf&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A1 Jedi Test 2  (1/24/16 5:04 PM)
+
+The expected output is=C2=A0
+A : 0
+A-: 0
+B+: 0
+B : 1
+B-: 6
+C+: 4
+C : 2
+C-: 2
+D+: 3
+D : 1
+F : 1
+
+but mine is
+
+A : 0
+A-: 0
+B+: 2
+B : 4
+B-: 3
+C+: 4
+C : 0
+C-: 4
+D+: 2
+D : 0
+F : 1
+
+The first test works, so it is probably something about the normalizing pro=
+cess, but I cannot figure out what is wrong.
+
+Go to https://piazza.com/class?cid=3Dijt3ep0x7404fn&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Arrays for Adept and Novice  (1/24/16 6:36 PM)
+
+The assignment says that Adept and Novice can be done without arrays, does =
+that mean we can't use arrays? I am very unfamilliar with scanners and I wa=
+nt to use arrays. Can I do that?
+
+Go to https://piazza.com/class?cid=3Dijt6pek3wvg2zw&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Number of assignments Adept  (1/24/16 7:02 PM)
+
+Is it safe to assume that the number of assignments and how much they are w=
+orth are constants? Or do we need to prepare for example, if there were 6 a=
+ssignments that had possible points: 15,15, 20, 20, 25, 25.
+
+Go to https://piazza.com/class?cid=3Dijt7mj1s49pmv&nid=3Dihs2fbbhsfx37n&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+KMP Office Hours Tomorrow Cancelled  (1/24/16 7:07 PM)
+
+I'll need to cancel my office hours tomorrow morning due to the fact that m=
+y kids' school will still be closed (and technically the University doesn't=
+ open until noon anyway).
+
+Go to https://piazza.com/class?cid=3Dijt7sob4i645c1&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

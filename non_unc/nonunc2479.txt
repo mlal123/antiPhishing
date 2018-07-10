@@ -1,0 +1,54 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+RunTests Error  (9/03/16 1:50 AM)
+
+I think I followed the directions in the powerpoint correctly but when I tr=
+y to run RunTests it gives me this error=C2=A0
+
+Exception in thread "main" java.lang.UnsupportedClassVersionError: gradingT=
+ools/comp410f16/assignment0/testcases/Assignment0Suite : Unsupported major.=
+minor version 52.0
+
+Does anyone know what the issue is?
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3dismrts95k5h4z3%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c1c454e0afde145f6485e08d=
+3d3e11ffc%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DBh2%2bYB0YAiOO0PVp=
+d%2bBz1%2f%2bIlTSYaeoyFfYosS4yo3w%3d to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.co=
+m%2flogin&data=3D01%7c01%7cmlal123%40live.unc.edu%7c1c454e0afde145f6485e08d=
+3d3e11ffc%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3Dl7oa%2bsrYzUcIsJWc=
+oy5daI%2fCoFRu84t7a4LZOLu73yk%3d to sign in and manage your email preferenc=
+es or proceed to https://na01.safelinks.protection.outlook.com/?url=3Dhttps=
+%3a%2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2fis6wk5m47ay4zy&data=3D01%7c01%=
+7cmlal123%40live.unc.edu%7c1c454e0afde145f6485e08d3d3e11ffc%7c58b3d54f16c94=
+2d3af081fcabd095666%7c1&sdata=3D8uTlWTzJqess3s6zCZRY7wEH3Rr6uH5dFhJzHgHwIG0=
+%3d to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://na01.safelinks.protection.ou=
+tlook.com/?url=3Dhttps%3a%2f%2fpiazza.com%2flink_accounts%2ff2GxNxqCfOm&dat=
+a=3D01%7c01%7cmlal123%40live.unc.edu%7c1c454e0afde145f6485e08d3d3e11ffc%7c5=
+8b3d54f16c942d3af081fcabd095666%7c1&sdata=3DEpGJ69DHHSUcgExs%2bX1DE%2biCktR=
+ZGp11n7jpOjygwLk%3d=

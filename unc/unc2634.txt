@@ -1,0 +1,21 @@
+
+An announcement has been added in the "COMP411.002.FA16" site at (https://n=
+a01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fsakai.unc.edu%2fp=
+ortal%2fsite%2f5d7efa4a-b769-4b43-a298-96b46c136e23&data=3D01%7c01%7cmlal12=
+3%40live.unc.edu%7ce7c377b1ff214887930008d3dca76e09%7c58b3d54f16c942d3af081=
+fcabd095666%7c1&sdata=3DxJ8%2bFZC3YBk9L2szSEGCpSuChf330wCEXl%2fyMWpsr9g%3d)=
+ at Sep 14, 2016 10:00 am
+
+The C textbook has changed this semester. =A0We decided to use one that was=
+ more of a beginner's guide than the old textbook.  So please read chapters=
+ 2 through 8 of "C Programming Absolute Beginner's Guide" instead of the ch=
+apters listed at the top of the Lab 2 tutorial (for the old textbook).  =A0
+
+----------------------=20
+ This automatic notification message was sent by Sakai @ UNC-Chapel Hill (h=
+ttps://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fsakai.unc=
+.edu%2fportal&data=3D01%7c01%7cmlal123%40live.unc.edu%7ce7c377b1ff214887930=
+008d3dca76e09%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DFro36XY8m%2fWu=
+sS7N4R4%2ftRLNXruXauo6C7RRHle7CaQ%3d).
+ You can modify how you receive notifications at My Workspace > Preferences=
+.

@@ -1,0 +1,47 @@
+
+
+
+
+Hi All,
+Welcome back! To start off the semester=
+, we have a great opportunity for you to get involved. If interested in hel=
+ping people with disabilities compose music, check =
+;out this message. Variety of skill levels/interests welcomed:
+
+=
+"Hello everyone, my name is Jonathan Liao, and I am an undergraduate s=
+tudent working with CS professor Gary Bishop. We are hoping to develop=
+ software to make the process of composing music easier for kids with disab=
+ilities. Back in 1949, Fred Brooks (founder of the Computer Science departm=
+ent at UNC) started a project with a similar goal. He hoped to develop a pr=
+ogram that would take in various pieces of music and create new songs based=
+ on the input. However, difficulties arose and it was never completed. Now =
+that nearly 70 years have passed, Professor Gary Bishop and I believe that recent advances i=
+n technology can solve the problems that plagued this project and even make=
+ music composition accessible for people with disabilities.
+
+We are currently recruiting students to join ou=
+r team and carry out this project. Although not required, we are looking fo=
+r students with prior experience in programming (COMP 410 & COMP 4=
+11), strong mathematical skills (MATH 547), or experience in music composit=
+ion. If this prospect interests you, please send me an email at&n=
+bsp;jonliao@live.unc.edu and I will get back to you. Th=
+anks so much for your time, and I appreciate your effort in serving people =
+with disabilities!"
+
+Super cool. Look forward to getting involved!
+
+Thanks everybody,
+
+=
+Evan Alpern
+
+=
+UNC Chapel Hill, 2019
+
+=
+evanunc@live.unc.edu | 704-840-2309
+
+
+
+

@@ -1,0 +1,137 @@
+Nieman Lab: The Daily Digest
+Monday=2C April 16=2C 2018
+http://www.niemanlab.org/2018/04/newsonomics-the-news-world-will-miss-mich=
+ael-ferro/
+
+
+** Newsonomics: The news world will miss Michael Ferro (http://www.niemanl=
+ab.org/2018/04/newsonomics-the-news-world-will-miss-michael-ferro/)
+------------------------------------------------------------
+=E2=80=9CTo whom will we now turn to enliven the continuing conflagration=
+ that is the American newspaper industry?=E2=80=9D By Ken Doctor.
+http://www.niemanlab.org/2018/04/newsonomics-eight-questions-as-michael-fe=
+rro-leaves-the-stage-100m-richer/
+
+
+** Newsonomics: 8 questions as Michael Ferro leaves the stage ($100 millio=
+n richer) (http://www.niemanlab.org/2018/04/newsonomics-eight-questions-as=
+-michael-ferro-leaves-the-stage-100m-richer/)
+------------------------------------------------------------
+What are the first challenges the new ownership faces? What happens to the=
+ Tribune name? And could Chicago see two locally owned daily newspapers? B=
+y Ken Doctor.
+Here=E2=80=99s what you need to know to build successful paid newsletters=
+=2C popup newsletters=2C morning digests=2C and community newsletters (htt=
+p://www.niemanlab.org/2018/04/heres-what-you-need-to-know-to-build-success=
+ful-paid-newsletters-popup-newsletters-morning-digests-and-community-newsl=
+etters/)
+What We=E2=80=99re Reading
+Thinknum / Joshua Fruhlinger
+Vox and BuzzFeed show drops in hiring activity=2C according to publicly av=
+ailable data =E2=86=92 (https://media.thinknum.com/articles/buzzfeed-and-v=
+ox-media-hiring-activity-sinks-to-lowest-level-in-years/)
+=E2=80=9CThe trends we found include recent=2C first-time drops in hiring=
+ activity=2C plateaus (and dips) in individuals claiming employment by the=
+ two companies on LinkedIn=2C along with sagging =E2=80=98business outlook=
+=E2=80=99 ratings on Glassdoor.=E2=80=9D
+Medium / Aron Pilhofer
+A growing list of tools=2C practices=2C and platforms you can use to impro=
+ve reader trust in your journalism =E2=86=92 (https://medium.com/@pilhofer=
+/tools-for-trust-the-list-e43a802b44de)
+Design Justice (http://designjusticenetwork.org/) =2C Check (https://meeda=
+n.com/en/check/) =2C DataWrapper (https://www.datawrapper.de/) =2C Documen=
+tCloud (https://www.documentcloud.org/) =2C and on and on.
+MarketWatch / Max A. Cherney
+A veteran Bay Area journalist acquires a San Francisco regional wire servi=
+ce =E2=86=92 (https://www.marketwatch.com/story/veteran-journalist-acquire=
+s-san-francisco-regional-wire-service-2018-04-12)
+=E2=80=9CKatherine Rowlands confirmed the purchase and said she plans to c=
+ontinue the company=E2=80=99s tradition of just-the-facts journalism=2C as=
+ well as establish a nonprofit arm to attract philanthropic support for th=
+e company=E2=80=99s public service mission. BCN=2C which was founded in 19=
+79=2C provides news feeds to about 100 radio stations=2C TV newsrooms and=
+ newspapers around the Bay Area=2C and is the only business that provides=
+ such a service in the region.=E2=80=9D
+Digiday / Lucia Moses
+Google expands its tool for publishers to combat adblocking =E2=86=92 (htt=
+ps://digiday.com/media/google-expands-tool-publishers-combat-ad-blocking/)
+=E2=80=9CThe tool=2C launched a year ago in the U.S and a handful of other=
+ markets=2C is expanding to 31 other countries in Europe and Canada=2C Goo=
+gle is announcing today. Called Funding Choices=2C the tool works by askin=
+g or requiring users to turn off their adblockers after seeing a given num=
+ber of articles.=E2=80=9D
+Business Insider / Kevin Loria
+Does bunching smartphone notifications to send in batches during the day l=
+eave people happier and less stressed? =E2=86=92 (http://www.businessinsid=
+er.com/how-to-improve-smartphone-notifications-2018-4)
+Researchers analyzed the notifications that people got on their phones and=
+ found that the average person got between 65 and 80 notifications per day=
+ (people may check their phones more frequently=2C that=E2=80=99s just the=
+ number of notifications that show up). But three batches of notifications=
+ seemed to be the sweet spot=2C with people feeling more productive=2C pos=
+itive=2C and in control.
+Digiday / Jared Grusd
+HuffPost=E2=80=99s Jared Grusd: Subscriptions won=E2=80=99t work for most=
+ publishers =E2=86=92 (https://digiday.com/podcast/huffpost-jared-grusd-di=
+giday-podcast/)
+=E2=80=9CHuffPost grew on the back of SEO. It figured out social and now i=
+s publishing well on all platforms. The challenge all of us are facing is=
+ the monetization on each of the platforms. We=E2=80=99re seeing dislocati=
+on in the ad markets. Even if we found audiences=2C can monetization catch=
+ up with that?=E2=80=9D
+International Journalism Festival / Jay Rosen
+Jay Rosen: What that phrase =E2=80=9Coptimize for trust=E2=80=9D means in=
+ practice =E2=86=92 (https://www.youtube.com/watch?v=3DiusjWA0EMrw)
+=E2=80=9CDigital paywalls prevent journalism from seeking its natural publ=
+ic=2C and limit the spread of the best work. It=E2=80=99s hard to be a pub=
+lic service when you only speak to the portion of the audience that knows=
+ the product and is willing to pay for regular access.=E2=80=9D
+NBC News / Phil McCausland
+GOP accuses Facebook of censorship but conservative media flourishes onlin=
+e =E2=86=92 (https://www.nbcnews.com/tech/social-media/gop-accuses-faceboo=
+k-censorship-conservative-media-flourishes-online-n865276)
+A handful of Republicans laid into Facebook CEO Mark Zuckerberg during two=
+ days of hearings last week=2C accusing the company of liberal bias and th=
+e censorship of conservative Facebook pages. According to recent NewsWhip=
+ data=2C that doesn=E2=80=99t seem to be the case (http://www.niemanlab.or=
+g/2018/03/has-facebooks-algorithm-change-hurt-hyperpartisan-sites-accordin=
+g-to-this-data-nope/) .
+The New York Times / Nellie Bowles
+Report for America aims to support journalism where cutbacks hit hard =E2=
+=86=92 (https://www.nytimes.com/2018/04/15/business/media/report-for-ameri=
+ca-service.html)
+Report for America=2C a nonprofit organization modeled after AmeriCorps=2C=
+ wants to install 1=2C000 journalists in understaffed newsrooms by 2022. N=
+ow in its pilot stage=2C the initiative has placed three reporters in Appa=
+lachia. It has chosen nine more=2C from 740 applicants=2C to be deployed a=
+cross the country in June.
+Associated Press / Ivan Moreno
+U.S. publishers worry about pricier newsprint with new tariffs =E2=86=92 (=
+https://apnews.com/6d5ab2d12f58491780be69d219338b43)
+=E2=80=9CThe tariffs are a response to a complaint to the U.S. Department=
+ of Commerce from a hedge fund-owned paper producer in Washington state=2C=
+ which argues that its Canadian competitors are taking advantage of govern=
+ment subsidies to sell their product at unfairly low prices. The tariffs=
+=2C imposed in January and increased in March=2C are not permanent yet.=E2=
+=80=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3Df079846790)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3Df079846790)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

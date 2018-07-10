@@ -1,0 +1,32 @@
+Fall enrollment begins MARCH 20 and there is an important change to COMP
+523 (Software Engineering Lab)
+
+You will notice that there are 14 recitation sections associated with COMP
+523.  They each have 4 seats and registration for a section is required.
+With 14 teams of 4 students, scheduling of team meetings has become a
+nightmare.  We have therefore taken the pre-emptive step of creating
+recitations, WHICH WILL BE YOUR TEAM MEETING TIMES WITH ME.  This means
+that your *teams* are defined before the semester begins.  If you are
+interested in working with friends, you all must register for the *same*
+recitation period.  (Projects will be selected by teams once the semester
+begins.)
+
+Be aware that if you want to change a recitation section before the
+semester begins, you should SWAP, not DROP and ADD as you may lose your
+seat doing that.
+
+Once the semester begins, the only way that you will be able to change
+recitation sections is to find someone to SWAP with you.
+
+Given these changes, I have set up a Piazza site (the class is called COMP
+523 FALL 2017 but Piazza believes that it is being taught this semester)
+for you to find out who is planning on taking the course.  You can register
+for the Piazza site at piazza.com/unc/spring2017/523
+
+Have a great spring break.
+
+Diane
+
+-- 
+You received this message because you are subscribed to the Google Groups "Majors" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to majors+unsubscribe@cs.unc.edu.

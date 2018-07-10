@@ -1,0 +1,84 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+Midterm  (9/12/16 8:20 PM)
+
+Will this class have a midterm?
+
+I checked the syllabus and it says to check on the class webpage for the mi=
+dterm date. On the class webpage, all that is listed under "Exams" is the f=
+inal exam (and there is a box for "Midterm" which is left blank). Should I =
+check somewhere else?
+
+Thanks!
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3dit0qfcpat5737%26nid%3dis6wk5m47ay4zy%26token%3df2G=
+xNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7ccd39771bf8ab40dc06f408d3=
+db8a81de%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DQ%2fOP87HZiqWU89j6p=
+lLJlS100LpPvx449Qo18CLAuwQ%3d to view.
+
+------------------------------------------------------------
+What is the scope of tomorrow's quiz?  (9/12/16 9:16 PM)
+
+I remember hearing that there was a going to be a quiz tomorrow (9/13), but=
+ I may be wrong.
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3dit0sf332zcs4oq%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7ccd39771bf8ab40dc06f408d=
+3db8a81de%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DzePm9kmbDqZuhFbO1y=
+gOPVQ1OB1WuniKqmpcTGhbYZc%3d to view.
+
+------------------------------------------------------------
+Assignment 2 Removing root  (9/12/16 11:53 PM)
+
+I'm using recursion of removeNode in the BST_Node class to implement the re=
+move function of the BST. However, I noticed that in the case where the rem=
+oved node is the root node, the recursion of removeNode will not be able to=
+ work properly. Mainly the fact that the removal of the root node is done b=
+y setting the root property in the BST class to null. I have tried many sol=
+utions, whether it is coding a edge case in the BST class, adding extra pro=
+perties that reference the tree in the BST_Node class, but all of them seem=
+ either inefficient or inelegant. Does anyone have a better solution?=C2=A0
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3dit0y0s3aoew5o1%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7ccd39771bf8ab40dc06f408d=
+3db8a81de%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DoMd5Zn7MQb8xHh2g7u=
+WF58lgezmkg036nod%2bNQ%2fg%2bL0%3d to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.co=
+m%2flogin&data=3D01%7c01%7cmlal123%40live.unc.edu%7ccd39771bf8ab40dc06f408d=
+3db8a81de%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DXKn6XHCA7HhH9zJH2Y=
+OXV9CtbejA9ix4YF10dUzmUlc%3d to sign in and manage your email preferences o=
+r proceed to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%=
+2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2fis6wk5m47ay4zy&data=3D01%7c01%7cml=
+al123%40live.unc.edu%7ccd39771bf8ab40dc06f408d3db8a81de%7c58b3d54f16c942d3a=
+f081fcabd095666%7c1&sdata=3D6665QJE4LuJCOEUB0QQdjXXqQn0a9rQ%2fLkNyfUgTx5A%3=
+d to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://na01.safelinks.protection.ou=
+tlook.com/?url=3Dhttps%3a%2f%2fpiazza.com%2flink_accounts%2ff2GxNxqCfOm&dat=
+a=3D01%7c01%7cmlal123%40live.unc.edu%7ccd39771bf8ab40dc06f408d3db8a81de%7c5=
+8b3d54f16c942d3af081fcabd095666%7c1&sdata=3DyuNTSimaylt6ZbUktu1l23D18yaU6L%=
+2fbsFCur2hFz6g%3d=

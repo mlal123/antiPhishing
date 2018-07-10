@@ -1,0 +1,32 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Assignment3  (11/02/15 1:08 AM)
+
+I understand how to call the roll method in RollResult to roll the dice, but how do we then use the two Boolean methods? Not sure how to go about it.
+
+Go to https://piazza.com/class?cid=ighjpoyv95667l&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Pig: Holding test  (11/02/15 2:15 AM)
+
+I can't make the holding test work at all. I'm trying to use keyboard.nextInt()==# for conditionals and whiles to test for the input, but it makes a java error/exception if I use more than one keyboard.nextInt(). I have no clue what I'm supposed to do.
+
+Go to https://piazza.com/class?cid=ighm3ctsklh6k5&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 110 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2GxNxqCfOm

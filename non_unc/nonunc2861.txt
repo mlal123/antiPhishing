@@ -1,0 +1,31 @@
+Your classmate posted a new Question. 
+
+Lab4 Ex5
+
+My output places the answers (1! = 1 etc) on the line after the input instead of the same line. For example:
+Enter a number: (input)
+1! = 1
+Enter a number: (input)
+2! = 2
+...
+as opposed to:
+Enter a number: (input) 1! = 1
+Enter a number: (input) 2! = 2
+
+Does anyone know what the problem might be? There is not a newline statement after the printf for "Enter a number" or after scanf, nor is there one before the output printf. Note that I'm using a function that is called upon, so would that make a difference?
+I look forward to any input!
+
+Go to https://piazza.com/class?cid=itptvs4xp7p7cl&nid=irqp4hpe58u5rs&token=f2GxNxqCfOm to view. Search or link to this question with @167. Follow it to get notified when a response comes in: https://piazza.com/follow/itptvs4xp7p7cl/f2GxNxqCfOm/d312cb71 
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 411 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.

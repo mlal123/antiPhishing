@@ -1,0 +1,20 @@
+Your classmate posted a new Question. 
+
+Hw Question #4
+
+I'm a little confused on how you would break this problem up into paths. Does B(x,y) tell us if we are inside or outside of the boundary? Wouldn't that be the key thing we need to know? What would we use things like the center point for? I understand what we are supposed to do and what we are given, I guess I'm just confused on determining the conditions in which we step in, out or forward. (I'd ask this in office hours as it's a mouthful, but I just figured out I have a fever).
+
+Go to https://piazza.com/class?cid=j8aoh0h2kwz3df&nid=j6mrr1h4rm42m4&token=f2GxNxqCfOm to view. Search or link to this question with @89. Follow it to get notified when a response comes in: https://piazza.com/follow/j8aoh0h2kwz3df/f2GxNxqCfOm/d03a04e7 
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 550.02 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/j6mrr1h4rm42m4 to un-enroll from this class.

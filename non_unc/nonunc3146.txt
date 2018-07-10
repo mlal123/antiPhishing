@@ -1,0 +1,31 @@
+Your classmate posted a new Question.=20
+
+PGM file max scale value for ex2
+
+Are we safe to assume that the max value for PGM format is always 255 for e=
+x2?
+If not, it seems kind of weird since there will be a=C2=A0loss of decimals =
+during the conversion.
+ex. 50/100 : 50*255/100 =3D 127 (not 127.5)
+
+Go to https://piazza.com/class?cid=3Diumxx4ixst92um&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @282. Follo=
+w it to get notified when a response comes in: https://piazza.com/follow/iu=
+mxx4ixst92um/f2GxNxqCfOm/0f8db7c9=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.=

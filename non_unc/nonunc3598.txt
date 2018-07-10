@@ -1,0 +1,42 @@
+Your classmate posted a new Question.=20
+
+Depth First TopoSort
+
+Hey all,
+
+I couldn't finish A5 in time (clearly) and am trying to finish TopoSort met=
+hod at this point.=C2=A0
+I'd like to use the depth-first search strategy since that is how the TA I =
+saw explained it.
+
+depthFirst search method is meant to be recursive, accepting a vertex v=C2=
+=A0as a parameter and then calling depthFirst on all of=C2=A0v's children.
+
+My problem is: How can I feed depthFirst a random vertex to start with?
+
+I store my vertices (as values) associated with their labels (as keys) in a=
+ HashMap. I haven't found a way to get a vertex at random from this HashMap
+
+
+Go to https://piazza.com/class?cid=3Divuc39v6xr41vi&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @434. Follo=
+w it to get notified when a response comes in: https://piazza.com/follow/iv=
+uc39v6xr41vi/f2GxNxqCfOm/ddc872dc=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.=

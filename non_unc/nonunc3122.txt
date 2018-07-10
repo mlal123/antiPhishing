@@ -1,0 +1,29 @@
+Your classmate posted a new Question.=20
+
+BST_Node "removeNode" Function
+
+May we completely remove it if our=C2=A0SPLT implementation does not call i=
+t?
+
+Go to https://piazza.com/class?cid=3Diuha6ri0tix7u&nid=3Dis6wk5m47ay4zy&tok=
+en=3Df2GxNxqCfOm to view. Search or link to this question with @287. Follow=
+ it to get notified when a response comes in: https://piazza.com/follow/iuh=
+a6ri0tix7u/f2GxNxqCfOm/43818574=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.=

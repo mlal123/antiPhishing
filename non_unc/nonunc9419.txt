@@ -1,0 +1,1515 @@
+
+
+Udemy
+
+@import url('https://fonts.googleapis.com/css?family=3DSource+Sans+Pro:300,=
+400,600');
+@import url('https://fonts.googleapis.com/css?family=3DZilla+Slab:300,400,6=
+00');
+/* CLIENT-SPECIFIC STYLES */
+body, table, td, a, p {-webkit-text-size-adjust: 100%; -ms-text-size-adjust=
+: 100%; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;}
+table, td {mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: c=
+ollapse;}
+img { -ms-interpolation-mode: bicubic; }
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+.appleFooter a {
+color:#ffffff !important;
+text-decoration: none!important;
+}
+.courseBadge {
+vertical-align: middle;=20
+font-size: 9px;=20
+border: none;=20
+font-weight: 700;=20
+line-height: 1.5;=20
+text-align: center;=20
+text-transform: uppercase;   =20
+}
+.heroCTA:hover {background-color: #982136 !important; border-color: #982136=
+ !important;}
+/* DESKTOP STYLES */
+@media only screen and (min-width: 481px){
+.desktopNavBarText {
+display:block !important;
+padding: 24px 0px 5px 10px !important;
+float: right !important;
+}
+.navBarImage{
+float:left !important;
+width: 150px !important;
+padding: 5px 0px 5px 0px !important;
+}=20
+}
+/* MOBILE STYLES */
+@media only screen and (max-width: 480px){
+#container{
+width:100% !important;
+}
+#banner_text {
+text-align: center !important;
+padding-bottom: 10px;
+}
+.deviceWidth{
+display:block !important;
+width:100% !important;
+}
+.hidden{
+display: none;
+}
+.courseCardTop{
+width:30% !important;
+float: left;
+min-width: 30% !important;
+}
+.courseCardBottom{
+width:70% !important;
+float: left;
+min-width: 70% !important;=20
+border-bottom: 0px !important;
+}
+.mobileColor{
+background-color: #ffffff !important;
+}
+.mobileCourseLine{
+border-bottom: 2px #edece6 solid;
+}
+.titleHeight{
+height: auto;
+}
+.titlePadding{
+padding-top: 0px !important;
+padding-bottom: 10px !important;
+font-size: 16px !important;
+}
+.starPricePadding{
+padding-top: 0px !important;
+padding-bottom: 5px !important;
+font-size: 80% !important;
+}
+.courseImage{
+width: 100%;
+height: auto !important;
+}
+.moduleTitlePadding{
+padding: 20px 5px 5px 5px !important;
+}
+.mobileCoursePadding{
+padding: 15px 5px 0px 5px !important;
+width: 100% !important;
+}
+.targetedSpacer{
+width: 5%;
+}
+.mobileNavBarImage{
+height: 30px !important;
+width: auto !important;
+}
+.instImage{
+width: 30% !important;
+float: left !important;
+min-width: 30% !important;
+padding-top: 15px !important;
+}=09
+.instDescription{
+width: 70% !important;
+float: right !important;
+min-width: 70% !important;
+border: none !important;
+padding-bottom: 20px;
+padding-top: 15px;
+height: auto !important;
+}
+.instText{
+text-align: left !important;
+padding-left: 0px !important;
+padding-right: 0px !important;
+padding-bottom: 0px !important;
+}
+.heroHeadline {font-size: 28px !important; line-height: 32px !important;} .=
+topSpacer {padding-top: 35px !important;} .bottomSpacer {padding: 25px 0px =
+35px 0px !important;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+Our top instructors ar=
+e known for being experts in their field. Take a new course with them and s=
+tart learning.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+My Courses | Featured
+ 
+=20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore popular course=
+s from favorite instructors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shop $11.99 courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+=20
+
+=20
+=20
+
+
+
+
+
+
+ 
+Students who enrolled in Artificial Inte=
+lligence A-Z=E2=84=A2: Learn How To Build An AI also enrolled in:<=
+/a>
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Deep Learning A-Z=E2=84=A2: Hands=
+-On Artificial Neural Networks
+
+
+
+             4.46&nb=
+sp;(2,559)
+
+
+
+
+
+$199.99  =
+$11.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Deep Learning and Computer Vision=
+ A-Z=E2=84=A2: OpenCV, SSD & GANs
+
+
+
+             4.42&nb=
+sp;(494)
+
+
+
+
+
+$199.99  =
+$11.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+=20
+=20
+
+
+
+=20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+See trending Data and =
+Analytics courses:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Blockchain A-Z=E2=84=A2: Learn Ho=
+w To Build Your First Blockchain
+
+
+
+             4.56&nb=
+sp;(580)
+
+
+
+
+
+$199.99  =
+$11.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Interactive Python Dashboards wit=
+h Plotly and Dash
+
+
+
+             4.56&nb=
+sp;(39)
+
+
+
+
+
+$194.99  =
+$11.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Hands On Natural Language Process=
+ing (NLP) using Python
+
+
+
+             4.88 =
+;(100)
+
+
+
+
+
+$99.99=
+  $=
+11.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Intro to Data Science: Your Step-=
+by-Step Guide To Starting
+
+
+
+             4.75 =
+;(8)
+
+
+
+
+
+$199.99  =
+$11.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Clustering & Classification W=
+ith Machine Learning in R
+
+
+
+             4.65&nb=
+sp;(16)
+
+
+
+
+
+$199.99  =
+$11.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Apache Spark Hands on Specializat=
+ion for Big Data Analytics
+
+
+
+             4.53&nb=
+sp;(36)
+
+
+
+
+
+$149.99  =
+$11.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Applied Time Series Analysis and =
+Forecasting with R Projects
+
+
+
+             4.50&nb=
+sp;(15)
+
+
+
+
+
+$94.99=
+  $=
+11.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Microsoft Power BI - Up & Run=
+ning With Power BI Desktop
+
+
+
+             4.53&nb=
+sp;(10)
+
+
+
+
+
+$199.99  =
+$11.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+The Business Intelligence Analyst=
+ Course 2018
+
+
+
+             4.81 =
+;(16)
+
+
+
+
+
+$199.99  =
+$11.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+See trending Business courses:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Advanced Stock Trading Course =
+3; Strategies
+
+
+
+             4.74&nb=
+sp;(21)
+
+
+
+
+
+$199.99  =
+$11.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Trade Stocks & Invest in the =
+Stock Market for Profit &Wealth
+
+
+
+             4.53&nb=
+sp;(83)
+
+
+
+
+
+$199.99  =
+$11.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+The Complete Startup Bootcamp - 7=
+ Courses in 1
+
+
+
+             4.55&nb=
+sp;(24)
+
+
+
+
+
+$199.99  =
+$11.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Teespring: Build A Successful T-s=
+hirt Business Online (2018)
+
+
+
+             4.74&nb=
+sp;(115)
+
+
+
+
+
+$199.99  =
+$11.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Make Money:The Complete Shopify A=
+liexpress Dropship course
+
+
+
+             4.62&nb=
+sp;(724)
+
+
+
+
+
+$199.99  =
+$11.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Automated Forex trading + 99 =
+Expert Advisors
+
+
+
+             4.87 =
+;(17)
+
+
+
+
+
+$199.99  =
+$11.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+10 Shopify Dropshipping Strategie=
+s That Make Me 6-Figures
+
+
+
+             4.92 =
+;(45)
+
+
+
+
+
+$99.99=
+  $=
+11.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Get started with top categories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    =20
+
+
+    UNSUBSCRIBE  |  SUPPORT  |&n=
+bsp; VI=
+EW ONLINE
+
+
+
+Ude=
+my.com 600 Harrison Street, 3rd Floor San Francisco, CA 94107 USA
+
+
+
+    Caree=
+rs at Udemy | Get Udemy at Wor=
+k | Become an Instructor
+
+
+
+
+Download our apps for Offline Coursetaking
+
+
+
+        
+     =
+  =20
+    
+        
+           =20
+  =
+          =20
+    
+                    
+                        
+                    =20
+                    
+                      =20
+                    
+                    
+                        
+                    
+                
+            
+           =20
+        
+    
+             =20
+
+    
+
+    
+        
+        
+            
+                =20
+                     
+                
+            
+        
+            
+               
+    
+
+    
+    *Some exclusions apply. Coupon cod=
+e expires 2018-=
+05-04 07:00 AM GMT.
+
+
+    
+        
+            Connect with us
+        
+    
+    
+        
+     =
+  =20
+    
+        
+           =20
+  =
+          =20
+    
+                    
+                        
+                    =20
+                    
+                      =20
+                    
+                    
+                        
+                    
+                
+            
+           =20
+        
+    
+             =20
+
+    
+   =20
+    =20
+   =20
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

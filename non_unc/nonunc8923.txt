@@ -1,0 +1,124 @@
+Nieman Lab: The Daily Digest
+Wednesday=2C March 21=2C 2018
+http://www.niemanlab.org/2018/03/holding-algorithms-and-the-people-behind-=
+them-accountable-is-still-tricky-but-doable/
+
+
+** Holding algorithms (and the people behind them) accountable is still tr=
+icky=2C but doable (http://www.niemanlab.org/2018/03/holding-algorithms-an=
+d-the-people-behind-them-accountable-is-still-tricky-but-doable/)
+------------------------------------------------------------
+=E2=80=9CWe were able to demystify this black box=2C this algorithm that h=
+ad very scary connotations=2C and break it down into what ended up being a=
+ very simple linear model.=E2=80=9D By Christine Schmidt.
+http://www.niemanlab.org/2018/03/fill-in-the-blanks-whats-still-missing-fr=
+om-the-study-of-fake-news-a-whole-lot/
+
+
+** Fill in the blanks: What=E2=80=99s still missing from the study of fake=
+ news? (A whole lot.) (http://www.niemanlab.org/2018/03/fill-in-the-blanks=
+-whats-still-missing-from-the-study-of-fake-news-a-whole-lot/)
+------------------------------------------------------------
+A big new report from the Hewlett Foundation pulls together existing resea=
+rch on social media=2C political polarization=2C and disinformation to sho=
+w where we still need to know more. By Laura Hazard Owen.
+=E2=80=9CLongevity drops=E2=80=9D? Sure. Climate change? Not so much: What=
+ are people getting from science Facebook pages? (http://www.niemanlab.org=
+/2018/03/longevity-drops-sure-climate-change-not-so-much-what-are-people-g=
+etting-from-science-facebook-pages/)
+What We=E2=80=99re Reading
+Digiday / Lucia Moses
+The Atlantic=E2=80=99s new family section is built for the post-news feed=
+ era (aka a Facebook group and a newsletter) =E2=86=92 (https://digiday.co=
+m/media/atlantics-new-family-section-built-post-news-feed-era/)
+=E2=80=9CThe section is the first big editorial initiative by The Atlantic=
+=2C now majority owned by Laurene Powell Jobs=2C since the publisher annou=
+nced plans to grow the staff by 100 people (30 percent) overall over the n=
+ext year to 18 months=2C with as much as half going to editorial.=E2=80=9D
+Fast Company / Kelsey Campbell-Dollaghan
+People are developing their own tools for investigating=2C nudging=2C and=
+ altering the world=E2=80=99s largest social network =E2=86=92 (https://ww=
+w.fastcodesign.com/90164935/want-to-fight-back-against-facebooks-algorithm=
+-check-out-these-tools)
+=E2=80=9CAcross the web=2C #deletefacebook is trending=E2=80=93but another=
+ form of user dissent is as well. The work of researchers=2C designers=2C=
+ and artists interrogating the social media giant is reaching a new audien=
+ce intent on understanding and influencing their own digital footprints.=
+=E2=80=9D
+ProPublica / Adriana Gallardo
+How ProPublica collected nearly 5=2C000 stories of maternal harm =E2=86=92=
+ (https://www.propublica.org/article/how-we-collected-nearly-5-000-stories=
+-of-maternal-harm)
+=E2=80=9COf all of the messages we targeted to black mothers in the databa=
+se=2C the one that resonated the most was asking if they wanted to talk wi=
+th their own mothers or daughters about their personal experiences of chil=
+dbirth.=E2=80=9D
+The Conversation / Elissa Redmiles
+Think Facebook can manipulate you? Look out for virtual reality =E2=86=92=
+ (https://theconversation.com/think-facebook-can-manipulate-you-look-out-f=
+or-virtual-reality-93118)
+=E2=80=9CCombined=2C the intensity of virtual reality experiences and the=
+ even more personal data they collect present the specter of fake news tha=
+t=E2=80=99s much more powerful than text articles and memes. Rather=2C imm=
+ersive=2C personalized experiences may thoroughly convince people of entir=
+ely alternate realities=2C to which they are perfectly susceptible. Such i=
+mmersive VR advertisements are on the horizon as early as this year.=E2=80=
+=9D
+Quartz / Joon Ian Wong
+One WhatsApp founder says you should delete Facebook. The other uses it to=
+ share pro-Trump stories =E2=86=92 (https://qz.com/1234223/whatsapp-co-fou=
+nder-jan-koum-uses-facebook-to-share-pro-trump-stories/)
+=E2=80=9CWhatsApp was acquired by Facebook for $19 billion in 2014. One of=
+ the men who founded the chat app=2C Brian Acton=2C generated headlines by=
+ calling for people to #DeleteFacebook following news of the unauthorized=
+ use of 50 million users=E2=80=99 personal data by Cambridge Analytica=2C=
+ a consulting firm that claims credit for Donald Trump=E2=80=99s election=
+ victory. But Acton=E2=80=99s WhatsApp co-founder=2C Jan Koum=2C seems to=
+ have no qualms using his Facebook account.=E2=80=9D
+Columbia Journalism Review / Mathew Ingram
+=E2=80=98It just felt right=E2=80=99: David Carroll on suing Cambridge Ana=
+lytica =E2=86=92 (https://www.cjr.org/q_and_a/lawsuit-cambridge-analytica.=
+php)
+=E2=80=9CWhen I learned of the military work of the parent company [SCL G=
+roup] there was this idea that there was no longer a boundary between civi=
+lian and military sectors of this business. The data itself is intermingle=
+d=2C so there=E2=80=99s election campaign data being used for other unknow=
+n=2C potentially clandestine=2C covert purposes.=E2=80=9D
+Recode / Peter Kafka
+Google and Facebook can=E2=80=99t help publishers because they=E2=80=99re=
+ built to defeat publishers =E2=86=92 (https://www.recode.net/2018/3/20/17=
+144128/google-facebook-news-subsidy-competition)
+=E2=80=9CNot a coincidence: Both Google and Facebook say they want to help=
+ publishers sell subscriptions to their stuff. And both Google and Faceboo=
+k range from uninterested to barely interested in selling subscriptions to=
+ their own stuff.=E2=80=9D
+Journalism.co.uk / Caroline Scott
+How 45 journalists started again=2C and built a profitable news business f=
+rom scratch =E2=86=92 (https://www.journalism.co.uk/news/how-45-journalist=
+s-started-again-and-built-a-profitable-news-business-from-scratch-/s2/a719=
+201/)
+=E2=80=9CFifty per cent of the company is owned by the reporters=2C so it=
+=E2=80=99s in their interest as it is their money =E2=80=93 they are all s=
+hareholders in the paper=2C and are able decide what they want to write ab=
+out.=E2=80=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3D032f1a3178)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3D032f1a3178)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

@@ -1,0 +1,26 @@
+Your classmate posted a new Question. 
+
+Binary files differ exercise 2
+
+When I run the diff command in exercise 2, I get this:
+snapper(33)% diff ex2result1 ex2out1
+Binary files ex2result1 and ex2out1 differ
+The outputs are identical, however.
+
+I don't understand why the diff commands thinks my output is a data file (binary), while ex2out1 is of type ASCII. Any insight?
+
+
+Go to https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpiazza.com%2Fclass%3Fcid%3Dithp1nu5wpy243%26nid%3Dirqp4hpe58u5rs%26token%3Df2GxNxqCfOm&data=01%7C01%7Cmlal123%40live.unc.edu%7Ce21cb3018c2141746ade08d3e4bfb26e%7C58b3d54f16c942d3af081fcabd095666%7C1&sdata=htRkc5UuXVlXfbweAxt6YmwNwACluAOfFFkUWlD4jCk%3D&reserved=0 to view. Search or link to this question with @123. Follow it to get notified when a response comes in: https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpiazza.com%2Ffollow%2Fithp1nu5wpy243%2Ff2GxNxqCfOm%2Fe6714e3d&data=01%7C01%7Cmlal123%40live.unc.edu%7Ce21cb3018c2141746ade08d3e4bfb26e%7C58b3d54f16c942d3af081fcabd095666%7C1&sdata=%2B%2BnEUazl2C1uXOCv00EwyR7oTD4fZ4zYR%2BaS%2B2flyFg%3D&reserved=0 
+
+Sign up for more classes at https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fpiazza.com%2Func&data=01%7C01%7Cmlal123%40live.unc.edu%7Ce21cb3018c2141746ade08d3e4bfb26e%7C58b3d54f16c942d3af081fcabd095666%7C1&sdata=y7Y7vasChulw1Bn0H4S70TR7CVHnGitlIG5x4U2vhZQ%3D&reserved=0
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 411 at University of North Carolina at Chapel Hill. Go to https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpiazza.com%2Flogin&data=01%7C01%7Cmlal123%40live.unc.edu%7Ce21cb3018c2141746ade08d3e4bfb26e%7C58b3d54f16c942d3af081fcabd095666%7C1&sdata=IA5H7KByAFYwAHIm0LBlrsm4BF0DmrYjgCeNltOYmSI%3D&reserved=0 to sign in and manage your email preferences or proceed to https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpiazza.com%2Fremove%2Ff2GxNxqCfOm%2Firqp4hpe58u5rs&data=01%7C01%7Cmlal123%40live.unc.edu%7Ce21cb3018c2141746ade08d3e4bfb26e%7C58b3d54f16c942d3af081fcabd095666%7C1&sdata=dopRtrODi00Hx2AUZLn9rQ3Aev%2BSlzCGFUkpDTE261Y%3D&reserved=0 to un-enroll from this class.

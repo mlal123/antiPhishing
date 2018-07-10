@@ -1,0 +1,75 @@
+*TL;DR; If you are graduating this semester or in the fall, submit your
+application by March 9.  If you graduate May 2019, wait until August to
+apply.*
+
+I had been hoping to have a meeting to talk about the BS/MS program but as
+it looks now, the first rational slot that I have is the Thursday after
+spring break so I'm going to try to cover as much as I can by email.  Feel
+free to send me follow-on questions.  I've tried to include information
+here for both those ready to apply and those who are planning.  (Sorry for
+the length of the note; trying to answer as many questions as I can)
+
+We are making some changes to the process that are not yet reflected on the
+website.  The most important one is that we are moving the application
+process to your senior year.  That is, you should not apply until you are
+within 2 semesters of graduating.  With that timing, we are moving the
+application to the beginning of the semester.  We will accept applications
+for approximately the first month of the semester and review the
+applications within 2 weeks of the end of the application period.
+
+*For this semester, we are accepting applications through March 9 (Friday
+before spring break) and will notify applicants of the decision by March
+23.*
+
+While the application requires 7 courses 400 or above, we have learned that
+we really cannot judge students who have not taken at least 3 500-level
+courses.  We expect this to become the official requirement next year but
+if you have not taken any 500-level courses yet, you may want to wait until
+next year to apply.
+
+The fundamental design of the program:
+
+   - BS and MS requirements remain the same
+   - The MS requirements can be found on the department website
+    but are
+   basically 10 courses, a comprehensive paper, a programming product, and a
+   set of background requirements
+      - The 10 courses require 3 that cover the breadth requirements.  For
+      the other courses, any comp sci courses are fine.  Courses outside of the
+      department can be approved the graduate studies committee.
+      - The comprehensive paper is a journal-length paper that shows you
+      are able to write and integrate ideas from different parts of computer
+      science.  (It's not as scary as it sounds.) You must take one semester's
+      course to complete the comprehensive paper; you may take the course 2
+      semesters.
+      - The programming product requirement can be met by taking COMP 523
+      or a software development internship
+      - Most of the background requirements will have been met as you got
+      your BS.  Of elective courses, the expectation is that you have
+taken 2 of
+      520 (compilers), 521 (databases), 530 (compilers) as well as 524
+      (programming language concepts) and 541 (digital logic).  Some of these
+      requirements can also be met with self-study options (for which
+there tend
+      to be study groups. * If you are in the planning stages, look at the
+      background requirement to choose electives.*
+   - You can transfer into the graduate program up to 3 courses that you
+   took while registered as an undergraduate.  These must be courses that do
+   not count in anyway toward your bachelors degree (major, 120 credits, gen
+   ed requirements, double major or minor)  You do not need to be able to
+   transfer any courses in, but it will be difficult to graduate with a
+   master's in 1 year if you don't.  The basic math is
+      - 10 courses required
+      - 3 transferred in leaves 7 courses
+      - 3 one semester and 4 the other semester (given that a normal
+      graduate load is 3 courses and you can do 2 courses for the comprehensive
+      paper, this is quite doable)
+   - Once admitted into the program, you can take more than 2 semesters.
+   Students who don't transfer in 3 courses, often take 3 semesters
+
+That's all that I can think of at the moment.
+Diane
+
+-- 
+You received this message because you are subscribed to the Google Groups "Majors" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to majors+unsubscribe@cs.unc.edu.

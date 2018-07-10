@@ -1,0 +1,1595 @@
+
+
+Udemy
+
+@import url('https://fonts.googleapis.com/css?family=3DSource+Sans+Pro:300,=
+400,600');
+@import url('https://fonts.googleapis.com/css?family=3DZilla+Slab:300,400,6=
+00');
+/* CLIENT-SPECIFIC STYLES */
+body, table, td, a, p {-webkit-text-size-adjust: 100%; -ms-text-size-adjust=
+: 100%; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;}
+table, td {mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: c=
+ollapse;}
+img { -ms-interpolation-mode: bicubic; }
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+.appleFooter a {
+color:#ffffff !important;
+text-decoration: none!important;
+}
+.courseBadge {
+vertical-align: middle;=20
+font-size: 9px;=20
+border: none;=20
+font-weight: 700;=20
+line-height: 1.5;=20
+text-align: center;=20
+text-transform: uppercase;   =20
+}
+
+/* DESKTOP STYLES */
+@media only screen and (min-width: 481px){
+.desktopNavBarText {
+display:block !important;
+padding: 24px 0px 5px 10px !important;
+float: right !important;
+}
+.navBarImage{
+float:left !important;
+width: 150px !important;
+padding: 5px 0px 5px 0px !important;
+}=20
+}
+/* MOBILE STYLES */
+@media only screen and (max-width: 480px){
+#container{
+width:100% !important;
+}
+#banner_text {
+text-align: center !important;
+padding-bottom: 10px;
+}
+.deviceWidth{
+display:block !important;
+width:100% !important;
+}
+.hidden{
+display: none;
+}
+.courseCardTop{
+width:30% !important;
+float: left;
+min-width: 30% !important;
+}
+.courseCardBottom{
+width:70% !important;
+float: left;
+min-width: 70% !important;=20
+border-bottom: 0px !important;
+}
+.mobileColor{
+background-color: #ffffff !important;
+}
+.mobileCourseLine{
+border-bottom: 2px #edece6 solid;
+}
+.titleHeight{
+height: auto;
+}
+.titlePadding{
+padding-top: 0px !important;
+padding-bottom: 10px !important;
+font-size: 16px !important;
+}
+.starPricePadding{
+padding-top: 0px !important;
+padding-bottom: 5px !important;
+font-size: 80% !important;
+}
+.courseImage{
+width: 100%;
+height: auto !important;
+}
+.moduleTitlePadding{
+padding: 20px 5px 5px 5px !important;
+}
+.mobileCoursePadding{
+padding: 15px 5px 0px 5px !important;
+width: 100% !important;
+}
+.targetedSpacer{
+width: 5%;
+}
+.mobileNavBarImage{
+height: 30px !important;
+width: auto !important;
+}
+.instImage{
+width: 30% !important;
+float: left !important;
+min-width: 30% !important;
+padding-top: 15px !important;
+}=09
+.instDescription{
+width: 70% !important;
+float: right !important;
+min-width: 70% !important;
+border: none !important;
+padding-bottom: 20px;
+padding-top: 15px;
+height: auto !important;
+}
+.instText{
+text-align: left !important;
+padding-left: 0px !important;
+padding-right: 0px !important;
+padding-bottom: 0px !important;
+}
+.heroHeadline {font-size: 28px !important; line-height: 32px !important;} .=
+topSpacer {padding-top: 35px !important;} .bottomSpacer {padding: 25px 0px =
+35px 0px !important;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+Become an expert in al=
+most anything. Sweet new skills are just a course away. Get started now and=
+ enjoy Memorial Day savings.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+My Courses |=
+ Featured
+ 
+=20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Interested in P=
+ython courses? Check out:Complete =
+Python Bootcamp: Go from zero to hero in Python 3
+
+ 
+
+
+
+=
+=20
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+=20
+
+ =20
+
+
+
+ 
+
+
+
+
+
+
+
+=20
+
+ 
+
+
+
+
+
+$194.99  =
+$9.99      (14,786)
+
+
+
+
+
+
+Take Course
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jose Portilla
+
+
+
+
+
+
+
+
+
+
+
+295,983 Stude=
+nts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25 Hours
+
+
+
+
+
+
+
+
+
+
+
+197 Lectures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+=20
+=20
+
+
+
+
+
+
+ 
+
+Students who enrolled in Complete Python Bootcamp:=
+ Go from zero to hero in Python 3 also enrolled in:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Learning Python for Data Analysis=
+ and Visualization
+
+
+
+             4.33&nb=
+sp;(628)
+
+
+
+
+
+$194.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Python for Data Science and Machi=
+ne Learning Bootcamp
+
+
+
+             4.55&nb=
+sp;(4,749)
+
+
+
+
+
+$194.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Complete Java Masterclass
+
+
+
+             4.60&nb=
+sp;(6,959)
+
+
+
+
+
+$194.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+=20
+
+
+
+
+
+
+
+ 
+Keep learning with top Programming Languages courses:
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+React 16 - The Complete Guide (in=
+cl. React Router 4 & Redux)
+
+
+
+             4.73&nb=
+sp;(5,651)
+
+
+
+
+
+$189.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+The Complete Node.js Developer Co=
+urse (2nd Edition)
+
+
+
+             4.65&nb=
+sp;(3,960)
+
+
+
+
+
+$84.99=
+  $=
+9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Learn Python by Building a Blockc=
+hain & Cryptocurrency
+
+
+
+             4.64&nb=
+sp;(385)
+
+
+
+
+
+$179.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Complete Python Masterclass
+
+
+
+             4.56&nb=
+sp;(2,848)
+
+
+
+
+
+$144.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+The Python Mega Course: Build 10 =
+Real World Applications
+
+
+
+             4.44&nb=
+sp;(2,404)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+The Modern Python 3 Bootcamp
+
+
+
+             4.69&nb=
+sp;(1,881)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Complete Guide to TensorFlow for =
+Deep Learning with Python
+
+
+
+             4.54&nb=
+sp;(1,810)
+
+
+
+
+
+$194.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+Check out top Development courses:
+
+ 
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+The Web Developer Bootcamp
+
+
+
+             4.71&nb=
+sp;(13,552)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+The Complete Web Developer in 201=
+8: Zero to Mastery
+
+
+
+             4.76 =
+;(4,229)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+iOS 11 & Swift 4 - The Comple=
+te iOS App Development Bootcamp
+
+
+
+             4.75 =
+;(5,860)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Angular 6 (formerly Angular 2) - =
+The Complete Guide
+
+
+
+             4.65&nb=
+sp;(7,954)
+
+
+
+
+
+$189.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+The Complete JavaScript Course 20=
+18: Build Real Projects!
+
+
+
+             4.64&nb=
+sp;(4,010)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+The Unreal Engine Developer Cours=
+e - Learn C++ & Make Games
+
+
+
+             4.65&nb=
+sp;(2,841)
+
+
+
+
+
+$194.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+=20
+=20
+
+=20
+=20
+
+
+
+
+
+
+ 
+Students who enrolled in Artificial =
+Intelligence A-Z=E2=84=A2: Learn How To Build An AI also enrolled =
+in:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Deep Learning A-Z=E2=84=A2: Hands=
+-On Artificial Neural Networks
+
+
+
+             4.46&nb=
+sp;(2,525)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Deep Learning and Computer Vision=
+ A-Z=E2=84=A2: OpenCV, SSD & GANs
+
+
+
+             4.39&nb=
+sp;(481)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+=20
+=20
+
+
+
+=20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    =20
+
+
+    UNSUBSCRIBE  |  SUPPORT&n=
+bsp; |  VIEW ONLINE
+
+
+
+Ude=
+my.com 600 Harrison Street, 3rd Floor San Francisco, CA 94107 USA
+
+
+
+    =
+Careers at Udemy | Get Ud=
+emy at Work | Become an Instructor
+
+
+
+
+Download our apps for Offline Coursetaking
+
+
+
+        
+     =
+  =20
+    
+        
+           =20
+  =
+          =20
+    
+                    
+                        
+                    =20
+                    
+                      =20
+                    
+                    
+                        
+                    
+                
+            
+           =20
+        
+    
+             =20
+
+    
+
+    
+        
+        
+            
+                =20
+                     
+                
+            
+        
+            
+               
+    
+
+    
+    *Some exclusions apply. Coupon cod=
+e expires 2018-=
+05-29 07:00 AM GMT.
+
+
+    
+        
+            Connect with us
+        
+    
+    
+        
+     =
+  =20
+    
+        
+           =20
+  =
+          =20
+    
+                    
+                        
+                    =20
+                    
+                      =20
+                    
+                    
+                        
+                    
+                
+            
+           =20
+        
+    
+             =20
+
+    
+   =20
+    =20
+   =20
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+

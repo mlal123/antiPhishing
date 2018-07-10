@@ -1,0 +1,835 @@
+
+
+Udemy
+
+@import url('https://fonts.googleapis.com/css?family=3DSource+Sans+Pro:300,=
+400,600');
+@import url('https://fonts.googleapis.com/css?family=3DZilla+Slab:300,400,6=
+00');
+/* CLIENT-SPECIFIC STYLES */
+body, table, td, a, p {-webkit-text-size-adjust: 100%; -ms-text-size-adjust=
+: 100%; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;}
+table, td {mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: c=
+ollapse;}
+img { -ms-interpolation-mode: bicubic; }
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+.appleFooter a {
+color:#ffffff !important;
+text-decoration: none!important;
+}
+.bottomSpacer {padding: 30px 0px 30px 0px !important;}
+/* MOBILE STYLES */
+@media only screen and (max-width: 480px){
+#container{
+width:100% !important;
+}
+#banner_text {
+text-align: center !important;
+padding-bottom: 10px;
+}
+.deviceWidth{
+display:block !important;
+width:100% !important;
+}
+.hidden{
+display: none;
+}
+.courseCardTop{
+width:30% !important;
+float: left;
+min-width: 30% !important;
+}
+.courseCardBottom{
+width:70% !important;
+float: left;
+min-width: 70% !important;=20
+border-bottom: 0px !important;
+}
+.mobileColor{
+background-color: #ffffff !important;
+}
+.mobileCourseLine{
+border-bottom: 2px #edece6 solid;
+}
+.titleHeight{
+height: auto;
+}
+.titlePadding{
+padding-top: 0px !important;
+padding-bottom: 10px !important;
+font-size: 16px !important;
+}
+.starPricePadding{
+padding-top: 0px !important;
+padding-bottom: 5px !important;
+font-size: 80% !important;
+}
+.courseImage{
+width: 100%;
+height: auto !important;
+}
+.moduleTitlePadding{
+padding: 20px 5px 5px 5px !important;
+}
+.mobileCoursePadding{
+padding: 15px 5px 0px 5px !important;
+width: 100% !important;
+}
+.targetedSpacer{
+width: 5%;
+}
+.headerImage{
+height: 30px !important;
+padding: 5px 0px !important;
+}
+.navBarTextTest{
+padding: 5px 10px 5px 0px !important;
+}
+.navBarImageTest{
+height: 30px !important;
+padding: 5px 0px 5px 10px !important;
+}
+.heroHeadline {font-size: 28px !important; line-height: 32px !important;} .=
+topSpacer {padding-top: 35px !important;} .bottomSpacer {padding: 25px 0px =
+35px 0px !important;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+Our buy more, save mor=
+e sale is happening now. You won=E2=80=99t want to miss this opportunity to=
+ purchase classes for as low as $9.99
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Start learning with these courses=
+ as low as $9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Save now
+
+
+
+
+
+
+
+
+
+
+
+
+
+        *Web-exclusive deal =E2=80=93 pr=
+omotion not available on the mobile app        
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Data Wrangling in Pandas for Mac=
+hine Learning Engineers
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Complete Guide for Custom Inspec=
+tors & Windows in Unity!
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+The Python Bible=E2=84=A2 | Ever=
+ything You Need to Program in Python
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Data Science, Deep Learning, &am=
+p; Machine Learning with Python
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Business Intelligence with Excel=
+ 2013
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Text Mining, Scraping and Sentim=
+ent Analysis with R
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Cloud Architecture:A Beginner's =
+GuideTo Architect Your Cloud
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Amazon PPC Mastery - Setup Spons=
+ored Products Like a PPC Pro
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Trade Stocks & Invest in the=
+ Stock Market - Best Strategy!
+
+
+
+View =
+Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Feature Selection for Machine Le=
+arning
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Python Algo Trading: FX Trading =
+with Oanda
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Cloud Computing Introduction: Bi=
+z School
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Bite-Sized Data Science with Pyt=
+hon and Pandas: Introduction
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Learn Cloud Computing from Scrat=
+ch
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Apache Camel - Learn by coding i=
+n Spring Boot
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    =20
+
+
+    UNSUBSCRIBE  |  SUPPORT  |  VIEW ONLINE
+
+
+
+Ude=
+my.com 600 Harrison Street, 3rd Floor San Francisco, CA 94107 USA
+
+
+
+    Careers at Udemy | Get Udemy at Work | Become an Instructor
+
+
+
+
+Download our apps for Offline Coursetaking
+
+
+
+        
+     =
+  =20
+    
+        
+           =20
+  =
+          =20
+    
+                    
+                        
+                    =20
+                    
+                      =20
+                    
+                    
+                        
+                    
+                
+            
+           =20
+        
+    
+             =20
+
+    
+
+    
+        
+        
+            
+                =20
+                     
+                
+            
+        
+            
+               
+    
+
+    
+    *Some exclusions apply. Coupon cod=
+e expires 2018-=
+03-28 07:00 AM GMT.*Final prices shown in cart*Discount applied in cart*Not all cour=
+ses qualify
+
+
+    
+        
+            Connect with us
+        
+    
+    
+        
+     =
+  =20
+    
+        
+           =20
+  =
+          =20
+    
+                    
+                        
+                    =20
+                    
+                      =20
+                    
+                    
+                        
+                    
+                
+            
+           =20
+        
+    
+             =20
+
+    
+   =20
+    =20
+   =20
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+

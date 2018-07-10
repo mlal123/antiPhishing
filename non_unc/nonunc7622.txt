@@ -1,0 +1,57 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 435 on Piazza:
+
+------------------------------------------------------------
+On the Ethernet packet spoofing  (12/03/17 2:31 PM)
+
+An announcement on the Ethernet packet spoofing.=C2=A0
+
+If you use the send() function when specifying an ethernet frame, scapy wil=
+l attempt to send the packet on layer 3. Ethernet frames exist on layer 2, =
+so you will need to look into a function like sendp(packet_name, iface=3D"e=
+thX" ) which sends on layer 2.=C2=A0 Otherwise it will not send a valid eth=
+ernet frame. Whenever you run your script, check it out in Wireshark to ver=
+ify that the packet left your box.=C2=A0
+
+https://scapy.readthedocs.io/en/latest/usage.html?highlight=3Dsendp
+
+Go to https://piazza.com/class?cid=3Djar5wzcz4z24es&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Beginning of HW5  (12/03/17 2:10 PM)
+
+Two questions:
+For task 1.a where we have to run sniffer, in the terminal I entered sudo .=
+/sniffex, and got a list of 10 packets, is that the information we are actu=
+ally going after?
+
+And for Problems 1-2: Should we be getting this information from the tcpdum=
+p.org site?
+
+Go to https://piazza.com/class?cid=3Djar56eeyp235o0&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 435 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/j5vi9cpw2jn336 to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

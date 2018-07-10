@@ -1,0 +1,55 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+2.22 in book  (10/03/16 9:36 PM)
+
+This question wants us to convert this statement in C:A=3DC[0] <<4 to MIPS,=
+ assuming $t1=3DA, $t2=3DB, and $s1 is the base address of C.
+
+This is what I have.add $t4, $0, $s1
+sll =C2=A0 =C2=A0$t4, $t4, 4
+sw =C2=A0 $t1, 0[$t4]
+
+The first line is what I really don't understand, because I still don't ful=
+ly get how to refer to an array in C. I want to add the value of C[0] into =
+$t4, and then shift left, and then store that in $t1. But how do I refer to=
+ the base address of C? Can I just use $s1? Or is there a different way tha=
+t I am not understanding? Thank you.
+
+Go to https://piazza.com/class?cid=3Ditutejqjbe57p3&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Error when submitting lab5  ()
+
+The grading script gives me an error when I submit, saying a file from the =
+server was not found. There was another post about this earlier. Is the sub=
+mit script fully functional or we cannot submit yet?
+
+Go to https://piazza.com/class?cid=3Ditutsxh08h46y6&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

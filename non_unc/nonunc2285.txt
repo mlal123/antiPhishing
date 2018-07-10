@@ -1,0 +1,673 @@
+
+
+
+
+
+
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+ .ExternalClass td, .ExternalClass div, .ExternalClass * {
+  line-height: 100%;
+}
+
+
+
+
+body{
+	background-color:#f0f0f0;
+}
+
+/* vvvvv SPECIFIC STYLES vvvvv */
+
+table, td {
+	mso-table-lspace: 0pt;
+	mso-table-rspace: 0pt;
+}
+img {
+	-ms-interpolation-mode: bicubic;
+}
+.ReadMsgBody, .ExternalClass {
+	width: 100%;
+}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+ .ExternalClass td, .ExternalClass div, .ExternalClass div, .ExternalClass =
+* {
+	line-height: 100%;
+}
+a {
+	color: inherit;
+	text-decoration: none;
+}
+table {
+	border-collapse: collapse !important;
+}
+* {
+	font-family: Arial, Helvetica, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-webkit-text-size-adjust: none;
+	-moz-text-size-adjust: none;
+	-ms-text-size-adjust: none;
+	text-size-adjust: none;
+}
+*[class=3D"resetGmailFix"] {
+	background: none !important;
+	width: 100% !important;
+}
+*[class=3D"hiddenAll"] {
+	width: 100% !important;
+	display: none !important;
+	}
+=09
+ @media only screen and (max-width: 480px), only screen and (max-device-wid=
+th: 480px) {
+/*VVVV GLOBAL VVVV*/
+*[class=3D"hidden"], *[class=3D"hiddenAll"], *[class=3D"logo"] img, *[class=
+=3D"First"] img, *[class=3D"Second"] img {
+	width: 100% !important;
+	display: none !important;
+}
+*[class=3D"show"] {
+	display: block !important;
+	margin: 0;
+	padding: 0;
+	overflow : visible !important;
+	width: auto !important;
+	max-height: inherit !important;
+	max-width: inherit !important;
+	border: none !important;
+}
+*[class=3D"showWithBorder"] {
+	display: block !important;
+	margin: 0;
+	padding: 0;
+	overflow : visible !important;
+	width: auto !important;
+	max-height: inherit !important;
+	max-width: inherit !important;
+	border-top: 2px solid #d4d4d4 !important;
+	padding-top:10px !important;
+}
+*[class=3D"fullwidth"], *[class=3D"First"], *[class=3D"Second"]{
+	width: 320px !important;
+	height: auto !important;
+	min-width: 320px !important;
+	max-width: 320px !important;
+}
+*[class=3D"noPadding"] {
+	padding-left:0 !important;
+	padding-right:0 !important;
+}
+/*VV 320 NAVIGATION VV*/
+*[class=3D"logo"] {
+	background: url(http://image.e.underarmour.com/lib/fe9a157371650d7d76/m/4/=
+UA_Logo_M_148x148.jpg) no-repeat !important;
+	background-size: 70px 70px !important;
+	height: 70px !important;
+	width: 70px !important;
+}
+*[class=3D"logo"] a {
+	display: block !important;
+	height: 70px !important;
+
+	width: 70px !important;
+}
+*[class=3D"navMen"] {
+	width:86px !important;
+	height:70px !important;
+}
+*[class=3D"navWOMEN"] {
+	width:86px !important;
+}
+*[class=3D"navKIDS"] {
+	width:86px !important;
+}
+*[class=3D"navSHOES"] {
+	width:86px !important;
+}
+
+
+*[class=3D"navMen2"] a, *[class=3D"navWOMEN2"] a, *[class=3D"navKIDS2"] a, =
+*[class=3D"navSHOES2"] a {
+	font-size:8px !important;
+	padding:0px !important;
+}
+
+
+*[class=3D"footerNEWARR"] {
+	width:109px !important;
+	padding-left:5px !important;
+}
+*[class=3D"footerOUTLET"] {
+	width:70px !important;
+	padding-left:5px !important;
+}
+*[class=3D"footerSTOREL"] {
+	width:110px !important;
+	padding-left:5px !important;
+}
+*[class=3D"footerPHONE"] {
+	width:90px !important;
+	padding-left:5px !important;
+	padding-right:5px !important;
+}
+
+
+*[class=3D"footerNEWARR2"] {
+	width:90px !important;
+	padding-left:0px !important;
+}
+*[class=3D"footerOUTLET2"] {
+	width:60px !important;
+	padding-left:0px !important;
+}
+*[class=3D"footerSTOREL2"] {
+	width:129px !important;
+	padding-left:0px !important;
+}
+*[class=3D"footerPHONE2"] {
+	width:100px !important;
+	padding-left:0px !important;
+	padding-right:0px !important;
+}
+
+*[class=3D"footerNEWARR"] a, *[class=3D"footerOUTLET"] a, *[class=3D"footer=
+STOREL"] a, *[class=3D"footerPHONE"] a {
+	font-size:10px !important;
+}
+
+*[class=3D"footerNEWARR2"] a, *[class=3D"footerOUTLET2"] a, *[class=3D"foot=
+erSTOREL2"] a, *[class=3D"footerPHONE2"] a {
+	font-size:8px !important;
+}
+*[class=3D"table_align"] {
+	display:block;
+	width:100%;
+}
+*[class=3D"footerFitness"] {
+	padding:10px 0 5px 0 !important;
+	height:auto !important;
+}
+*[class=3D"footerIcon"] {
+	padding:0 0 10px 0 !important;
+	height:auto !important;
+}
+*[class=3D"footer"] {
+	padding-left:9px !important;
+	padding-right:9px !important;
+}
+
+
+/*VV 320 MAIN VV*/
+*[class=3D"First"] a {
+	display: block;
+ background:url(http://image.e.underarmour.com/lib/fe9a157371650d7d76/m/15/=
+UA_28A_160727_PROMO_BKPK_MD.gif) no-repeat !important;
+	background-size: 100% auto !important;
+	width: 320px !important;
+ height:540.53px !important;
+}
+*[class=3D"Second"] a {
+	display: block;
+ background:url(http://image.e.underarmour.com/lib/fe9a157371650d7d76/m/15/=
+UA_28A_160727_K_UNI_SEC_MB.jpg) no-repeat !important;
+	background-size: 100% auto !important;
+	width: 320px !important;
+ height:231.37px !important;
+}
+/*VV 320 MOBILE NAVIGATION VV*/
+/*VV MOBILE NAVIGATION VV*/
+/*VV FOOTER VV*/
+*[class=3D"footer"] span {
+	display: block;
+}
+td[class=3D"ProductImage"] {
+	width: auto !important;
+	height: auto !important;
+}
+td[class=3D"ProductImage"] img {
+	width: 148px !important;
+	height: auto !important;
+}
+td[class=3D"SpacerImage"] {
+	width: auto !important;
+}
+td[class=3D"SpacerImage"] img {
+	width: 8px !important;
+}
+td[class=3D"mobileWdith"] {
+	width: 15% !important;
+}
+table[class=3D"mobileScale"] {
+	width: 95% !important;
+}
+td[class=3D"MFont"] {
+	font-size: 11px !important;
+}
+*[class=3D"column"], *[class=3D"column"] img {
+	width: 320px !important;
+	height:auto !important;
+	border: none !important;
+}
+*[class=3D"columnLink_left"], *[class=3D"columnLink_right"] {
+	text-align:center !important;
+}
+*[class=3D"columnLink_left"] {
+	padding:5px 0 50px 0 !important;
+}
+*[class=3D"width320"] {
+	width:320px !important;
+	height:auto !important;
+}
+.alignCenter {
+	text-align:center !important;
+	padding-left:10px !important;
+	padding-right:10px !important;
+}
+.logoCenter, .logoCenter img{
+	width:125px !important;
+}
+.width160 {
+	width:160px !important;
+	height:auto !important;
+}
+*[class=3D"smallpromo"] {
+	font-size:11px !important;
+}
+*[class=3D"alignCenterStreet"]{
+	text-align:center !important;
+	padding-right: 0 !important;
+}
+}
+@media screen and (min-width: 375px) and (max-width: 414px) {
+*[class=3D"width320"] {
+	width:414px !important;
+	height:auto !important;
+}
+*[class=3D"fullwidth"], *[class=3D"First"], *[class=3D"Second"] {
+	width: 414px !important;
+	height: auto !important;
+	min-width: 414px !important;
+	max-width: 414px !important;
+}
+*[class=3D"noPadding"] {
+	padding-left:0 !important;
+	padding-right:0 !important;
+}
+/*VV 414 NAVIGATION VV*/
+*[class=3D"logo"] {
+	background-size: 70px 70px !important;
+	height: 70px !important;
+	width: 70px !important;
+}
+*[class=3D"logo"] a {
+	height: 70px !important;
+	width: 70px !important;
+}
+/*VV 414 MAIN VV*/
+*[class=3D"First"] a {
+	display: block;
+ background:url(http://image.e.underarmour.com/lib/fe9a157371650d7d76/m/15/=
+UA_28A_160727_PROMO_BKPK_MD.gif) no-repeat !important;
+	background-size: 100% auto !important;
+	width: 414px !important;
+ height:700px !important;
+}
+td[class=3D"ProductImage"], td[class=3D"ProductImage"] a, td[class=3D"Produ=
+ctImage"] img {
+	width: 190px !important;
+	height: auto !important;
+}
+*[class=3D"Second"] a {
+	display: block;
+ background:url(http://image.e.underarmour.com/lib/fe9a157371650d7d76/m/15/=
+UA_28A_160727_K_UNI_SEC_MB.jpg) no-repeat !important;
+	background-size: 100% auto !important;
+	width: 414px !important;
+ height:300px !important;
+
+}
+*[class=3D"footerNEWARR"] a, *[class=3D"footerOUTLET"] a, *[class=3D"footer=
+STOREL"] a, *[class=3D"footerPHONE"] a {
+	font-size:12px !important;
+}
+*[class=3D"column"], *[class=3D"column"] img {
+	width: 414px !important;
+	height:auto !important;
+	border: none !important;
+}
+.logoCenter, .logoCenter img {
+	width:172px !important;
+}
+.width160 {
+	width:207px !important;
+	height:auto !important;
+}
+}
+
+
+Under Armour - Don't Miss Out: $10 Off Select UA Backpacks
+
+          =20
+
+  
+    
+      Hustle Up, This Offer Is Almo=
+st Over =E2=80=94 Shop Now
+    
+  
+
+=20
+
+
+  
+    
+        
+        =20
+       =20
+
+      
+
+
+  
+
+       =20
+
+ =20
+  
+    FREE SHI=
+PPING ON ALL ORDERS $49+ & FREE RETURNS<=
+/strong>
+  
+ =20
+  
+    
+        
+          
+           =20
+            
+              
+                Hustle Up, This Offer Is Almost Over =E2=80=94 Shop Now=20
+                 =20
+                  =20
+                 =20
+                 =20
+                  =20
+                 =20
+                  
+                View O=
+nline
+                 
+            
+           =20
+            
+        
+        
+        
+  
+    
+        
+          
+              
+                
+                
+                
+                    
+                      =
+
+                      MEN
+                      WOMEN
+                      KIDS
+                      SHOES
+                    
+                  
+              
+            
+        
+       =20
+        
+          
+        
+        
+        
+          
+              
+                
+              
+            
+           =20
+            =20
+            =20
+            =20
+            =20
+            
+           =20
+            =
+=20
+              =20
+            
+           =20
+            =20
+            
+        
+       =20
+        =20
+        
+        
+          
+        
+        =20
+        
+        
+          
+        
+        
+        
+          
+        
+        =20
+        =20
+        =20
+        =20
+        
+        
+          
+              
+                
+                  UNDER ARMOUR SCHOOL UNIFO=
+RMS
+IT'S A WHOLE
+NEW CLASS
+                
+              
+            
+        
+       =20
+        
+          
+              
+                
+                  
+                
+              
+            
+        
+        
+          
+              
+                
+			   
+                  EXPLORE UNIFORMS
+			   
+                
+              
+            
+        
+        
+          
+              
+                
+                  
+                
+              
+            
+        
+        =20
+        =20
+       =20
+       =20
+        =20
+       =20
+         
+       =20
+        =20
+       =20
+        
+          
+          
+              
+                NEW ARRIVALS
+                OUTLET
+                STORE LOCATOR
+                1-888-727-6687
+              
+            
+                     =20
+          
+          
+          	  
+          	  	MEN
+          	  
+              
+                WOMEN
+              
+              
+                KIDS
+              
+              
+                SHOES
+              
+              
+                NEW ARRIVALS
+              
+              
+              	<=
+span style=3D"color:000001; text-decoration:none;">OUTLET  =
+             =20
+              
+              
+              	STORE LOCATOR
+              
+            
+                     =20
+          =20
+          
+        
+         =20
+        
+          
+        
+      
+  
+  
+    
+        
+          
+              
+                
+                    
+                      T=
+HE WORLD'S LARGEST FITNESS COMMUNITY.
+                    
+                  
+              
+            
+            
+              
+                
+              
+            
+            
+              
+                
+                    
+                      
+                          
+                            =
+
+                            
+                            
+                            
+                          
+                        
+                    
+                  
+              
+            
+        
+      
+  
+  
+    
+       =20
+        =20
+       =20
+        =20
+        =20
+       =20
+        =20
+        =20
+        
+       =20
+        
+          Pl=
+ease add underarmou=
+r@e.underarmour.com to your address book. This email was sent to:=
+ MLAL123@LIVE.UNC.EDU
+            
+            *Shop now and receive Free Standard Shipping on all orders over=
+ $49 for purchases from the US website only. Minimum order amount must be m=
+et before shipping and handling charges or taxes are included. Under Armour=
+ reserves the right to cancel or modify this offer at any time.
+            
+        
+        
+          
+              
+                
+                 =20
+                  
+                    
+                      
+                          
+                            Under Armour 1020 Hull St. Baltimore, MD 21230
+                              Privacy Policy=
+ | Unsubscribe
+                          
+                        
+                    
+                  
+                 =20
+                  =20
+                 =20
+                  
+                 =20
+                  
+                    
+                      
+                          
+                            Copyright=C2=A9 2016 Under Armour, Inc. All Rights Reserved=
+.
+This email is an advertisement for Under Armour=C2=AE products.
+                          
+                        
+                    
+                  
+                 =20
+                  
+              
+            
+        
+      
+  
+
+
+

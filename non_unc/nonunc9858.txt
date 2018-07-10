@@ -1,0 +1,876 @@
+
+
+Udemy
+
+@import url('https://fonts.googleapis.com/css?family=3DSource+Sans+Pro:300,=
+400,600');
+@import url('https://fonts.googleapis.com/css?family=3DZilla+Slab:300,400,6=
+00');
+/* CLIENT-SPECIFIC STYLES */
+body, table, td, a, p {-webkit-text-size-adjust: 100%; -ms-text-size-adjust=
+: 100%; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;}
+table, td {mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: c=
+ollapse;}
+img { -ms-interpolation-mode: bicubic; }
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+.appleFooter a {
+color:#ffffff !important;
+text-decoration: none!important;
+}
+.courseBadge {
+vertical-align: middle;=20
+font-size: 9px;=20
+border: none;=20
+font-weight: 700;=20
+line-height: 1.5;=20
+text-align: center;=20
+text-transform: uppercase;   =20
+}
+
+/* DESKTOP STYLES */
+@media only screen and (min-width: 481px){
+.desktopNavBarText {
+display:block !important;
+padding: 24px 0px 5px 10px !important;
+float: right !important;
+}
+.navBarImage{
+float:left !important;
+width: 150px !important;
+padding: 5px 0px 5px 0px !important;
+}=20
+}
+/* MOBILE STYLES */
+@media only screen and (max-width: 480px){
+#container{
+width:100% !important;
+}
+#banner_text {
+text-align: center !important;
+padding-bottom: 10px;
+}
+.deviceWidth{
+display:block !important;
+width:100% !important;
+}
+.hidden{
+display: none;
+}
+.courseCardTop{
+width:30% !important;
+float: left;
+min-width: 30% !important;
+}
+.courseCardBottom{
+width:70% !important;
+float: left;
+min-width: 70% !important;=20
+border-bottom: 0px !important;
+}
+.mobileColor{
+background-color: #ffffff !important;
+}
+.mobileCourseLine{
+border-bottom: 2px #edece6 solid;
+}
+.titleHeight{
+height: auto;
+}
+.titlePadding{
+padding-top: 0px !important;
+padding-bottom: 10px !important;
+font-size: 16px !important;
+}
+.starPricePadding{
+padding-top: 0px !important;
+padding-bottom: 5px !important;
+font-size: 80% !important;
+}
+.courseImage{
+width: 100%;
+height: auto !important;
+}
+.moduleTitlePadding{
+padding: 20px 5px 5px 5px !important;
+}
+.mobileCoursePadding{
+padding: 15px 5px 0px 5px !important;
+width: 100% !important;
+}
+.targetedSpacer{
+width: 5%;
+}
+.mobileNavBarImage{
+height: 30px !important;
+width: auto !important;
+}
+.instImage{
+width: 30% !important;
+float: left !important;
+min-width: 30% !important;
+padding-top: 15px !important;
+}=09
+.instDescription{
+width: 70% !important;
+float: right !important;
+min-width: 70% !important;
+border: none !important;
+padding-bottom: 20px;
+padding-top: 15px;
+height: auto !important;
+}
+.instText{
+text-align: left !important;
+padding-left: 0px !important;
+padding-right: 0px !important;
+padding-bottom: 0px !important;
+}
+.heroHeadline {font-size: 30px !important; line-height: 32px !important;} .=
+topSpacer {padding-top: 35px !important;} .bottomSpacer {padding: 25px 0px =
+35px 0px !important;} .heroDisclaimer {background: #ffffff !important; padd=
+ing: 10px 0px 0px 0px !important;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+Explore new topics, ta=
+ckle new courses and learn new skills here on Udemy.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+My Courses | Featured
+ 
+=20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Celebrate Father=E2=80=99s Day with courses from $10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sta=
+rt learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Advanced PLC Ladder Programming =
+using Logix5000
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Complete Guide to TensorFlow for=
+ Deep Learning with Python
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Artificial Intelligence II - Neu=
+ral Networks in Java
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+TensorFlow and the Google Cloud =
+ML Engine for Deep Learning
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Microsoft Azure Solutions (Exam =
+70-533) =E2=80=93 9 Course Bundle
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Learning Python for Data Analysi=
+s and Visualization
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Day Trading  / Swing Trading /  =
+Learn In Just One Hour.
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Advanced AI: Deep Reinforcement =
+Learning in Python
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+AWS Serverless APIs & Apps -=
+ A Complete Introduction
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Artificial Intelligence: Reinfor=
+cement Learning in Python
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Complete Python Masterclass
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Linked List Data Structure using=
+ Python
+
+
+
+View =
+Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Hibernate quick practical guide =
+(with Java) from scratch
+
+
+
+View=
+ Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Python and Javascript Programmin=
+g Bundle
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Python For Offensive PenTest: A =
+Complete Practical Course
+
+
+
+View Course
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    =20
+
+
+UNSUBSCRIBE  |  SUPPORT  |  VIEW ONLINE
+
+
+
+Ude=
+my.com 600 Harrison Street, 3rd Floor San Francisco, CA 94107 USA
+
+
+
+Careers at Udemy | Get Udemy for Business |=
+ Become an Instr=
+uctor
+
+
+
+
+Download our apps for Offline Coursetaking
+
+
+
+
+     =
+  =20
+
+
+  =
+          =20
+
+
+
+=20
+
+  =20
+
+
+
+
+
+
+
+
+ =20
+
+
+
+
+
+
+
+=
+=20
+ 
+
+
+
+
+
+
+
+
+*Some exclusions apply. Coupon code expires 2018-06-1=
+9 07:00 AM GMT.
+
+
+
+
+Connect with us
+
+
+
+
+     =
+  =20
+
+
+  =
+          =20
+
+
+
+=20
+
+  =20
+
+
+
+
+
+
+
+
+ =20
+
+
+    =20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

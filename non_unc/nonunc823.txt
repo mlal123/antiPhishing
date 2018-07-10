@@ -1,0 +1,74 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Part 2.4  (11/11/15 5:41 PM)
+
+I am having trouble understanding what part 2.4 of assignment 4 is actually=
+ asking us to do. What does it mean by "return a Color?"=C2=A0
+
+Go to https://piazza.com/class?cid=3Digve4rr6euo7ho&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Study Guide Help #1  (11/11/15 6:03 PM)
+
+Need help understanding why you cant access Food.objectCount and why changi=
+ng it to Food.getObjectCount() doesnt work. To read a private static variab=
+le from the outside, would you just change it to public or?
+
+Go to https://piazza.com/class?cid=3Digvexuntbea7h7&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+No output from ColorSemanticsTests.run()  (11/11/15 3:16 PM)
+
+For some reason when I run the ColorSemanticsTests, there is no output in m=
+y console. =C2=A0I'm pretty sure I've got most of the key parts right for t=
+his section and I passed all 11 tests for the ColorDefinitionTests. =C2=A0I=
+'m just trying to figure out why nothing is being printed, thanks.
+
+Go to https://piazza.com/class?cid=3Digvfe9ptelj3i9&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Constructor Help  (11/11/15 6:16 PM)
+
+How do you construct a new food object? How would you write it in the main =
+method?
+
+Go to https://piazza.com/class?cid=3Digvfer5fgmg7oe&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Semantics Test pt3  (11/11/15 6:35 PM)
+
+I do not understand where we are supposed to apply these semantics. Do we a=
+pply them in Color.java? 3.2 is especially puzzling... I'm very confused.
+
+Go to https://piazza.com/class?cid=3Digvg38yqm696a6&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

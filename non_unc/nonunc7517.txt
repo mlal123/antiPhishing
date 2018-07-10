@@ -1,0 +1,380 @@
+
+=0A=
+  =0A=
+  WayUp Jobs=0A=
+ =20
+
+=E2=80=8B=0A=
+  =0A=
+    * {=0A=
+      font-size: 100%;=0A=
+      line-height: 1.6em;=0A=
+      margin: 0;=0A=
+      padding: 0;=0A=
+    }=0A=
+=0A=
+    td, a, p, span, strong, h1, h2, h3, h4, h5, h6 {=0A=
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;=0A=
+    }=0A=
+=0A=
+    /* media queries */=0A=
+    @media (max-width: 480px) {=0A=
+      .job-title {=0A=
+        font-size: 14px !important;=0A=
+      }=0A=
+=0A=
+      .company {=0A=
+        font-size: 12px !important;=0A=
+      }=0A=
+=0A=
+      .body-wrap .container {=0A=
+        padding: 10px !important;=0A=
+      }=0A=
+    }=0A=
+=0A=
+      /* Force Hotmail to display emails at full width */=0A=
+    .ExternalClass {=0A=
+      width: 100%;=0A=
+    }=0A=
+=0A=
+      /* Force Hotmail to display normal line spacing.*/=0A=
+    .ExternalClass,=0A=
+    .ExternalClass p,=0A=
+    .ExternalClass span,=0A=
+    .ExternalClass font,=0A=
+    .ExternalClass td,=0A=
+    .ExternalClass div {=0A=
+      line-height: 100%;=0A=
+    }=0A=
+    =E2=80=8B=0A=
+=0A=
+    table {=0A=
+      mso-table-lspace:0pt;=0A=
+      mso-table-rspace:0pt;=0A=
+    }=0A=
+=0A=
+    img{=0A=
+      -ms-interpolation-mode:bicubic;=0A=
+    }=0A=
+  =0A=
+  =E2=80=8B=0A=
+=0A=
+=E2=80=8B=0A=
+=0A=
+=0A=
+=0A=
+=E2=80=8B=0A=
+  =0A=
+    =
+=0A=
+      =0A=
+        =0A=
+          =0A=
+            =0A=
+            =0A=
+              =0A=
+              =0A=
+                =0A=
+                  =0A=
+                =0A=
+              =0A=
+              =0A=
+            =0A=
+            =0A=
+          =0A=
+        =0A=
+      =0A=
+    =0A=
+=0A=
+    =0A=
+        =0A=
+      =0A=
+    =0A=
+    =0A=
+      =0A=
+        =0A=
+          =0A=
+            =0A=
+              =0A=
+                =0A=
+                  =0A=
+                  =0A=
+                    =0A=
+                      =0A=
+                         Hi Mangza,                       =0A=
+                    =0A=
+                  =0A=
+                  =0A=
+                    =0A=
+                      =0A=
+                        Here are 10=0A=
+                        new jobs that=0A=
+                        match your profile=0A=
+                        and job=0A=
+                        preferences.=0A=
+                    =0A=
+                  =0A=
+                  =0A=
+                    =0A=
+                       =0A=
+                  =0A=
+                  =0A=
+                =0A=
+                =E2=80=8B=0A=
+                =0A=
+                =0A=
+                  =0A=
+                                      =0A=
+                      =0A=
+                        =0A=
+                          =0A=
+                          Samaritan Fall Hackership (iOS/React.js)=0A=
+                          Samaritan | Part Time=
+=0A=
+                        =0A=
+                      =0A=
+                      =0A=
+                      =0A=
+                        Apply=0A=
+                      =0A=
+                    =0A=
+                                      =0A=
+                      =0A=
+                        =0A=
+                          Technology Intern (Summer 2018)=0A=
+                          Deutsche Bank | Summer=
+=0A=
+                        =0A=
+                      =0A=
+                      =0A=
+                      =0A=
+                        Apply=0A=
+                      =0A=
+                    =0A=
+                                      =0A=
+                      =0A=
+                        =0A=
+                          =0A=
+                          Research Analyst Internship Program - Summer 2018=0A=
+                          Guidepoint | Summer=0A=
+                        =0A=
+                      =0A=
+                      =0A=
+                      =0A=
+                        Apply=0A=
+                      =0A=
+                    =0A=
+                                      =0A=
+                      =0A=
+                        =0A=
+                          =0A=
+                          Part Time Teller in Hoboken, NJ=0A=
+                          Santander Bank | Part Time=0A=
+                        =0A=
+                      =0A=
+                      =0A=
+                      =0A=
+                        Apply=0A=
+                      =0A=
+                    =0A=
+                                      =0A=
+                      =0A=
+                        =0A=
+                          =0A=
+                          Product Management & Analytics Intern=0A=
+                          Capital One | Part Time=
+=0A=
+                        =0A=
+                      =0A=
+                      =0A=
+                      =0A=
+                        Apply=0A=
+                      =0A=
+                    =0A=
+                                      =0A=
+                      =0A=
+                        =0A=
+                          =0A=
+                          Manufacturing Engineering Internship (Summer 2018)=0A=
+                          Spirit AeroSystems | Summer=0A=
+                        =0A=
+                      =0A=
+                      =0A=
+                      =0A=
+                        Apply=0A=
+                      =0A=
+                    =0A=
+                                      =0A=
+                      =0A=
+                        =0A=
+                          =0A=
+                          Human Resources Internship (Summer 2018)=0A=
+                          Spirit AeroSystems | Summer=0A=
+                        =0A=
+                      =0A=
+                      =0A=
+                      =0A=
+                        Apply=0A=
+                      =0A=
+                    =0A=
+                                      =0A=
+                      =0A=
+                        =0A=
+                          =0A=
+                          Liaison Engineering Internship (Summer 2018)=0A=
+                          Spirit AeroSystems | Summer=0A=
+                        =0A=
+                      =0A=
+                      =0A=
+                      =0A=
+                        Apply=0A=
+                      =0A=
+                    =0A=
+                                      =0A=
+                      =0A=
+                        =0A=
+                          Global Learning Co-Op in New Brunswick, NJ=0A=
+                          Johnson & Johnson | Part T=
+ime=0A=
+                        =0A=
+                      =0A=
+                      =0A=
+                      =0A=
+                        Apply=0A=
+                      =0A=
+                    =0A=
+                                      =0A=
+                      =0A=
+                        =0A=
+                          =0A=
+                          Software Design iXp Intern=0A=
+                          SAP | Summer=0A=
+                        =0A=
+                      =0A=
+                      =0A=
+                      =0A=
+                        Apply=0A=
+                      =0A=
+                    =0A=
+                                    =0A=
+                =0A=
+                =E2=80=8B=0A=
+                =E2=80=8B=0A=
+                =0A=
+                  =0A=
+                  =0A=
+                    =0A=
+                       =0A=
+                  =0A=
+                  =0A=
+                    =0A=
+                      V=
+IEW=0A=
+                        ALL JOBS=0A=
+                    =0A=
+                  =0A=
+                  =0A=
+                    =0A=
+                       =0A=
+                  =0A=
+                  =0A=
+                =0A=
+                =0A=
+                =E2=80=8B=0A=
+                =0A=
+                  Thanks so much,=0A=
+                  Nikki and the WayUp Team=0A=
+                =0A=
+                =E2=80=8B=0A=
+                =0A=
+                =0A=
+                  Tens of thousands of students have gotten jobs through Wa=
+yUp.=0A=
+                  See=0A=
+                  their stories =C2=BB=0A=
+                  =0A=
+                =0A=
+=0A=
+                   =0A=
+                =0A=
+                   =0A=
+                  =0A=
+                =0A=
+              =0A=
+            =0A=
+          =0A=
+        =0A=
+      =0A=
+    =0A=
+  =0A=
+  =E2=80=8B=0A=
+  =0A=
+  =0A=
+    =
+=0A=
+      =0A=
+        =0A=
+          =0A=
+          =0A=
+            =0A=
+              Get=0A=
+                tips from our Blog=0A=
+            =0A=
+            =0A=
+               =0A=
+            =0A=
+              =0A=
+                =0A=
+              =0A=
+            =0A=
+            =0A=
+              =0A=
+                =0A=
+              =0A=
+            =0A=
+            =0A=
+              =0A=
+                =0A=
+              =0A=
+            =0A=
+            =0A=
+              =0A=
+                =0A=
+              =0A=
+            =0A=
+          =0A=
+          =0A=
+        =0A=
+      =0A=
+    =0A=
+  =0A=
+  =0A=
+=E2=80=8B=0A=
+  =0A=
+  =0A=
+    =
+=0A=
+      =0A=
+        =0A=
+          =0A=
+            =0A=
+              =0A=
+                =0A=
+                  To change your email frequency settings or turn them off =
+completely, =0A=
+                  click here.=0A=
+                =0A=
+              =0A=
+            =0A=
+          =0A=
+        =0A=
+      =0A=
+    =0A=
+  =0A=
+=E2=80=8B=0A=
+
+
+=0A=
+=0A=
+
+

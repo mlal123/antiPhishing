@@ -1,0 +1,1465 @@
+
+
+Udemy
+
+@import url('https://fonts.googleapis.com/css?family=3DSource+Sans+Pro:300,=
+400,600');
+@import url('https://fonts.googleapis.com/css?family=3DZilla+Slab:300,400,6=
+00');
+/* CLIENT-SPECIFIC STYLES */
+body, table, td, a, p {-webkit-text-size-adjust: 100%; -ms-text-size-adjust=
+: 100%; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;}
+table, td {mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: c=
+ollapse;}
+img { -ms-interpolation-mode: bicubic; }
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+.appleFooter a {
+color:#ffffff !important;
+text-decoration: none!important;
+}
+.courseBadge {
+vertical-align: middle;=20
+font-size: 9px;=20
+border: none;=20
+font-weight: 700;=20
+line-height: 1.5;=20
+text-align: center;=20
+text-transform: uppercase;   =20
+}
+.heroHeadline {line-height: 44px !important;} .bottomSpacer {padding: 30px =
+0px 50px 0px !important;}
+/* DESKTOP STYLES */
+@media only screen and (min-width: 481px){
+.desktopNavBarText {
+display:block !important;
+padding: 24px 0px 5px 10px !important;
+float: right !important;
+}
+.navBarImage{
+float:left !important;
+width: 150px !important;
+padding: 5px 0px 5px 0px !important;
+}=20
+}
+/* MOBILE STYLES */
+@media only screen and (max-width: 480px){
+#container{
+width:100% !important;
+}
+#banner_text {
+text-align: center !important;
+padding-bottom: 10px;
+}
+.deviceWidth{
+display:block !important;
+width:100% !important;
+}
+.hidden{
+display: none;
+}
+.courseCardTop{
+width:30% !important;
+float: left;
+min-width: 30% !important;
+}
+.courseCardBottom{
+width:70% !important;
+float: left;
+min-width: 70% !important;=20
+border-bottom: 0px !important;
+}
+.mobileColor{
+background-color: #ffffff !important;
+}
+.mobileCourseLine{
+border-bottom: 2px #edece6 solid;
+}
+.titleHeight{
+height: auto;
+}
+.titlePadding{
+padding-top: 0px !important;
+padding-bottom: 10px !important;
+font-size: 16px !important;
+}
+.starPricePadding{
+padding-top: 0px !important;
+padding-bottom: 5px !important;
+font-size: 80% !important;
+}
+.courseImage{
+width: 100%;
+height: auto !important;
+}
+.moduleTitlePadding{
+padding: 20px 5px 5px 5px !important;
+}
+.mobileCoursePadding{
+padding: 15px 5px 0px 5px !important;
+width: 100% !important;
+}
+.targetedSpacer{
+width: 5%;
+}
+.mobileNavBarImage{
+height: 30px !important;
+width: auto !important;
+}
+.instImage{
+width: 30% !important;
+float: left !important;
+min-width: 30% !important;
+padding-top: 15px !important;
+}=09
+.instDescription{
+width: 70% !important;
+float: right !important;
+min-width: 70% !important;
+border: none !important;
+padding-bottom: 20px;
+padding-top: 15px;
+height: auto !important;
+}
+.instText{
+text-align: left !important;
+padding-left: 0px !important;
+padding-right: 0px !important;
+padding-bottom: 0px !important;
+}
+.heroHeadline {font-size: 30px !important; line-height: 34px !important;} .=
+topSpacer {padding-top: 35px !important;} .bottomSpacer {padding: 25px 0px =
+35px 0px !important;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+Start your next chapte=
+r with courses for as little as $10.99 each. This offer ends soon, so enrol=
+l now.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+My Courses | Featured
+ 
+=20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Last call for courses as lo=
+w as $10.99 each! Better hurry...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shop $10.99 courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+=20
+=20
+
+=20
+=20
+
+
+
+
+
+
+ 
+Students who enrolled in Artificial Intelligen=
+ce A-Z=E2=84=A2: Learn How To Build An AI also enrolled in:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Deep Learning A-Z=E2=84=A2: Hands=
+-On Artificial Neural Networks
+
+
+
+             4.44&nb=
+sp;(2,544)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Deep Learning and Computer Vision=
+ A-Z=E2=84=A2: OpenCV, SSD & GANs
+
+
+
+             4.34&nb=
+sp;(486)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+=20
+=20
+
+
+
+=20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+See trending Data and Analy=
+tics courses:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Advanced TensorFlow Models Master=
+class with Python and Keras
+
+
+
+             4.56&nb=
+sp;(4)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+R Programming For Absolute Beginn=
+ers
+
+
+
+             4.48&nb=
+sp;(229)
+
+
+
+
+
+$29.99=
+  $=
+10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Deep Learning: Advanced NLP and R=
+NNs
+
+
+
+             4.72&nb=
+sp;(40)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Practical Neural Networks & D=
+eep Learning in R
+
+
+
+             4.80 =
+;(16)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Master Course in Tableau Prep 201=
+8 - Prepare & Clean Data
+
+
+
+             4.48&nb=
+sp;(7)
+
+
+
+
+
+$99.99=
+  $=
+10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Business Analysis: Conduct a Stra=
+tegy Analysis
+
+
+
+             4.45&nb=
+sp;(31)
+
+
+
+
+
+$164.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Deep Learning: GANs and Variation=
+al Autoencoders
+
+
+
+             4.69&nb=
+sp;(138)
+
+
+
+
+
+$179.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Unsupervised Machine Learning Hid=
+den Markov Models in Python
+
+
+
+             4.56&nb=
+sp;(146)
+
+
+
+
+
+$119.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+See trending Business courses:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+The Complete Digital Marketing Gu=
+ide - 15 Courses in 1
+
+
+
+             4.55&nb=
+sp;(16)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Passive Income Mastery: Superchar=
+ge Your Online Profits
+
+
+
+             4.71&nb=
+sp;(72)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Make Money : The Complete Shopify=
+ Amazon Affiliate course
+
+
+
+             4.73&nb=
+sp;(164)
+
+
+
+
+
+$99.99=
+  $=
+10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Make Money:The Complete WordPress=
+ Aliexpress Dropship course
+
+
+
+             4.62&nb=
+sp;(172)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Stock Trading Simplified: The Com=
+plete Guide for Beginners!
+
+
+
+             4.56&nb=
+sp;(26)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+How to build an ecommerce store w=
+ith wordpress & woocommerce
+
+
+
+             4.68&nb=
+sp;(76)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Blockchain Advanced Level: Uses B=
+eyond Bitcoin 2018
+
+
+
+             4.71&nb=
+sp;(19)
+
+
+
+
+
+$149.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Get started with top categories:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    =20
+
+
+    UNSUBSCRIBE  |  SUPPORT  |  VIEW ONLINE
+
+
+
+Ude=
+my.com 600 Harrison Street, 3rd Floor San Francisco, CA 94107 USA
+
+
+
+    Careers at=
+ Udemy | Get Udemy at Work | Become an Instructor
+
+
+
+
+Download our apps for Offline Coursetaking
+
+
+
+        
+     =
+  =20
+    
+        
+           =20
+  =
+          =20
+    
+                    
+                        
+                    =20
+                    
+                      =20
+                    
+                    
+                        
+                    
+                
+            
+           =20
+        
+    
+             =20
+
+    
+
+    
+        
+        
+            
+                =20
+                     
+                
+            
+        
+            
+               
+    
+
+    
+    *Some exclusions apply. Coupon cod=
+e expires 2018-=
+06-06 07:00 AM GMT.
+
+
+    
+        
+            Connect with us
+        
+    
+    
+        
+     =
+  =20
+    
+        
+           =20
+  =
+          =20
+    
+                    
+                        
+                    =20
+                    
+                      =20
+                    
+                    
+                        
+                    
+                
+            
+           =20
+        
+    
+             =20
+
+    
+   =20
+    =20
+   =20
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+

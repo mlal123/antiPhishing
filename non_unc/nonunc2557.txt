@@ -1,0 +1,53 @@
+Your classmate posted a new Question.=20
+
+Can't sign onto Dewan's TestSuite
+
+Hey all,
+I had to redo Assignment0 (failed at life while trying to export the .jar f=
+ile).
+Only, this second time around, I cannot remember how to get Dewan's Test Su=
+ite running again.=C2=A0
+Would anyone mind reminding me?
+I've created the RunTests class and copy/pasted the code into it.. but I ca=
+n't remember where to go from there.
+
+Thank you for the help!
+
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3disupb1vtapa1n1%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7cb6c4e74f90a34b0cd78908d=
+3d81ab17a%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3D8BmLNiKB9BmBDLiEn1=
+50vY6jZaQe%2bDA1M%2fq8QshaISw%3d to view. Search or link to this question w=
+ith @61. Follow it to get notified when a response comes in: https://na01.s=
+afelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.com%2ffollow%2f=
+isupb1vtapa1n1%2ff2GxNxqCfOm%2f77fe5c83&data=3D01%7c01%7cmlal123%40live.unc=
+.edu%7cb6c4e74f90a34b0cd78908d3d81ab17a%7c58b3d54f16c942d3af081fcabd095666%=
+7c1&sdata=3DNJLy3ll9mcRSM6Q0oXV%2by8LVSZAoKPCs7awd8jEDhss%3d=20
+
+Sign up for more classes at https://na01.safelinks.protection.outlook.com/?=
+url=3Dhttp%3a%2f%2fpiazza.com%2func&data=3D01%7c01%7cmlal123%40live.unc.edu=
+%7cb6c4e74f90a34b0cd78908d3d81ab17a%7c58b3d54f16c942d3af081fcabd095666%7c1&=
+sdata=3DYjyJrFtdkRNqBG5uhuw1kKRGPHNx0bYe0c%2fpGEu7k7k%3d
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.co=
+m%2flogin&data=3D01%7c01%7cmlal123%40live.unc.edu%7cb6c4e74f90a34b0cd78908d=
+3d81ab17a%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DHKeFMP6Rxei92KOyec=
+72XvRFbUamM1wnqFZ1pOK7bXY%3d to sign in and manage your email preferences o=
+r proceed to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%=
+2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2fis6wk5m47ay4zy&data=3D01%7c01%7cml=
+al123%40live.unc.edu%7cb6c4e74f90a34b0cd78908d3d81ab17a%7c58b3d54f16c942d3a=
+f081fcabd095666%7c1&sdata=3DkTHSqTt0ru0AfjJWOgAQvh8XCsDJc4JlRDGBgeCihY0%3d =
+to un-enroll from this class.=

@@ -1,0 +1,32 @@
+Your classmate posted a new Question.=20
+
+Insert method case of duplicate node
+
+What should we do in the event of an insert for a duplicate value? I am con=
+fused by the part of the write up which describes the behavior of this meth=
+od as follows:=C2=A0
+effect: if the string is already in the tree, then there is no changeto the=
+ tree state (save for splaying), and return
+
+Go to https://piazza.com/class?cid=3Diun8zyi2ccq6o7&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @300. Follo=
+w it to get notified when a response comes in: https://piazza.com/follow/iu=
+n8zyi2ccq6o7/f2GxNxqCfOm/b1b81c40=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.=

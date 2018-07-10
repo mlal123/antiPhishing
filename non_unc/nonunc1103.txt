@@ -1,0 +1,411 @@
+
+=20
+  Order Confirmation =20
+ =20
+ =20
+  =20
+   
+    =20
+     =20
+      =20
+       
+        =20
+         =20
+          =20
+          =20
+           
+            =20
+             =20
+              =20
+               
+                =20
+                     =20
+                =20
+               
+              =20
+              =20
+               
+                =20
+                 =20
+                  
+                   Order #3409195
+                   =20
+                =20
+               
+               =20
+            =20
+           
+          =20
+          =20
+          =20
+           
+            =20
+             =20
+              
+               Sweet Success!
+              =20
+              
+                This is confirmation that your order was successfully proce=
+ssed on EatStreet and sent to Asia Cafe=20
+               (map). Please contact the restaurant d=
+irectly at=20
+               (919) 929-0168 for any issues with the order.=20
+               Comprehensive order history information can be found in =
+your=20
+               profile.=20
+               The restaurant's estimated delivery time is 45 - 60 mins=
+.=20
+               =20
+            =20
+           
+          =20
+          =20
+          =20
+           
+            =20
+               =20
+            =20
+           
+          =20
+          =20
+          =20
+           
+            =20
+             
+              
+               Order Details
+              =20
+             
+              
+               #3409195
+              =20
+            =20
+           
+          =20
+          =20
+          =20
+           
+            =20
+             =20
+              =20
+               
+                =20
+                 
+                  
+                   Restaurant
+                  =20
+                 
+                  
+                   Asia Cafe
+                  =20
+                =20
+                =20
+                 
+                  
+                   Date
+                  =20
+                 
+                  
+                   05:11 PM 01/10/2016
+                  =20
+                =20
+                =20
+                 
+                  
+                   Delivery Method
+                  =20
+                 
+                  
+                   Delivery
+                  =20
+                =20
+                =20
+                 
+                  
+                   Address
+                  =20
+                 
+                  
+                   515 Hinton James Drive, Chapel Hill NC 27514
+                  =20
+                =20
+                =20
+                 
+                  
+                   Payment
+                  =20
+                 
+                  
+                   Credit Card - Card created Oct 15
+                  =20
+                =20
+               
+              =20
+              =20
+              =20
+              =20
+               
+                =20
+                 
+                  
+                   Menu Item
+                  =20
+                 
+                  
+                   Amount
+                  =20
+                =20
+               
+              =20
+              =20
+              =20
+               
+                =20
+                 =20
+                  =20
+                   
+                    =20
+                     
+                      
+                       Orange Chicken - Small
+                      =20
+                    =20
+                    =20
+                     
+                      
+                       Fried Rice
+                      =20
+                    =20
+                   
+                   =20
+                 =20
+                  
+                    $7.50=20
+                   =20
+                =20
+               
+              =20
+              =20
+               
+                =20
+                 =20
+                  =20
+                   
+                    =20
+                     
+                      
+                       Orange Chicken - Small
+                      =20
+                    =20
+                    =20
+                     
+                      
+                       Fried Rice
+                      =20
+                    =20
+                   
+                   =20
+                 =20
+                  
+                    $7.50=20
+                   =20
+                =20
+               
+              =20
+              =20
+               
+                =20
+                 =20
+                  =20
+                   
+                    =20
+                     
+                      
+                       General Tso's Chicken - Small
+                      =20
+                    =20
+                    =20
+                     
+                      
+                       Fried Rice
+                      =20
+                    =20
+                   
+                   =20
+                 =20
+                  
+                    $7.50=20
+                   =20
+                =20
+               
+              =20
+              =20
+               
+                =20
+                 =20
+                  =20
+                   
+                    =20
+                     
+                      
+                       Sweet & Sour Chicken - Small
+                      =20
+                    =20
+                    =20
+                     
+                      
+                       Fried Rice
+                      =20
+                    =20
+                   
+                   =20
+                 =20
+                  
+                    $7.50=20
+                   =20
+                =20
+               
+              =20
+              =20
+               
+                =20
+                 =20
+                  =20
+                   
+                    =20
+                     
+                      
+                       Orange Chicken - Large
+                      =20
+                    =20
+                    =20
+                     
+                      
+                       Fried Rice
+                      =20
+                    =20
+                   
+                   =20
+                 =20
+                  
+                    $8.95=20
+                   =20
+                =20
+               
+              =20
+              =20
+               
+                =20
+                 =20
+                  =20
+                   
+                    =20
+                     
+                      
+                       Orange Chicken - Small
+                      =20
+                    =20
+                    =20
+                     
+                      
+                       Steamed Rice
+                      =20
+                    =20
+                   
+                   =20
+                 =20
+                  
+                    $7.50=20
+                   =20
+                =20
+               
+              =20
+              =20
+              =20
+               
+                =20
+                 
+                  
+                   Subtotal
+                  =20
+                 
+                  
+                   $46.45
+                  =20
+                =20
+                =20
+                 
+                  
+                   Tax
+                  =20
+                 
+                  
+                   $3.60
+                  =20
+                =20
+                =20
+                 
+                  
+                   Delivery Cost
+                  =20
+                 
+                  
+                   $1.50
+                  =20
+                =20
+                =20
+                 
+                  
+                   Tip
+                  =20
+                 
+                  
+                   $8.36
+                  =20
+                =20
+                =20
+                 
+                  
+                   Total
+                  =20
+                 
+                  
+                   $59.91
+                  =20
+                =20
+               
+               =20
+            =20
+           
+          =20
+          =20
+          =20
+           
+            =20
+               =20
+            =20
+           
+          =20
+          =20
+          =20
+           
+            =20
+             
+              
+               Get the Hookup.
+              =20
+             =20
+             =20
+             =
+=20
+            =20
+           
+           =20
+        =20
+       
+       =20
+    =20
+   
+    =20
+ 
+

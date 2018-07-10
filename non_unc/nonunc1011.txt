@@ -1,0 +1,30 @@
+Your classmate posted a new Question.=20
+
+localized variables
+
+How can we tell if a variable is localized? Are private variables localized=
+ to the class, but public variables are accessible to other classes? Or are=
+ they localized to their method within the class? Like if I declare i as an=
+ integer variable, can other methods access it?=C2=A0
+
+Go to https://piazza.com/class?cid=3Dihuwu9we2p046n&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @453. Follo=
+w it to get notified when a response comes in: https://piazza.com/follow/ih=
+uwu9we2p046n/f2GxNxqCfOm/d508e48c=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.=

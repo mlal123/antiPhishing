@@ -1,0 +1,58 @@
+Your classmate posted a new Question.=20
+
+RemoveTest4 and RemoveTest5
+
+I've been passing all of the tests except for two from the=C2=A0RemoveTestS=
+uite.
+
+RemoveTest4:
+Message:Case 4(complex internal 0): insert(0), insert(C), insert(A), insert=
+(B), remove(C) in-order =3D (0, A, B)
+
+RemoveTest5:
+Message:Case 5(complex internal 1): insert(0), insert(C), insert(E), insert=
+(D), remove(C) in-order =3D (0, D, E)
+
+I've tried programming my own tests following the structure from the messag=
+e, and I seem to produce the expected results.=C2=A0When the tests don't th=
+row errors in the console is there a way to see what is=C2=A0being evaluate=
+d by the tester? Any tips for=C2=A0troubleshooting failed tests would be gr=
+eat.=C2=A0
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3dit8q9rl53cu19h%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c81a4106bd3f9408aa72d08d=
+3dfd1705a%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DoGa4Hq%2fR0sEdSrB%=
+2byRcrUP%2bCedAOWVNry%2fcvVclvLfE%3d to view. Search or link to this questi=
+on with @115. Follow it to get notified when a response comes in: https://n=
+a01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.com%2ffoll=
+ow%2fit8q9rl53cu19h%2ff2GxNxqCfOm%2f0e555aff&data=3D01%7c01%7cmlal123%40liv=
+e.unc.edu%7c81a4106bd3f9408aa72d08d3dfd1705a%7c58b3d54f16c942d3af081fcabd09=
+5666%7c1&sdata=3Dg5Ta13XqPFpqXT2li2jnTJ3Rp%2bkBgmk%2bMgQYnfTUJaw%3d=20
+
+Sign up for more classes at https://na01.safelinks.protection.outlook.com/?=
+url=3Dhttp%3a%2f%2fpiazza.com%2func&data=3D01%7c01%7cmlal123%40live.unc.edu=
+%7c81a4106bd3f9408aa72d08d3dfd1705a%7c58b3d54f16c942d3af081fcabd095666%7c1&=
+sdata=3DLMXiBpcuMWq2Jb0WqKKeqmTmJovWZYXa9rlAd5DOg1Y%3d
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.co=
+m%2flogin&data=3D01%7c01%7cmlal123%40live.unc.edu%7c81a4106bd3f9408aa72d08d=
+3dfd1705a%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DR1FQN602vYErJst5nF=
+NrlhKLc1V%2fYTx8AjzhuIasbSo%3d to sign in and manage your email preferences=
+ or proceed to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3=
+a%2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2fis6wk5m47ay4zy&data=3D01%7c01%7c=
+mlal123%40live.unc.edu%7c81a4106bd3f9408aa72d08d3dfd1705a%7c58b3d54f16c942d=
+3af081fcabd095666%7c1&sdata=3D8RkoXn2rgumOknu140PM1zWcuIvVUqhbMw0k0jcimIU%3=
+d to un-enroll from this class.=

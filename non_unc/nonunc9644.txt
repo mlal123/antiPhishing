@@ -1,0 +1,135 @@
+Nieman Lab: The Daily Digest
+Tuesday=2C May 22=2C 2018
+http://www.niemanlab.org/2018/05/after-crowdfunding-success-swiss-magazine=
+-republik-charts-a-course-to-reclaim-journalism-as-a-profession/
+
+
+** After crowdfunding success=2C Swiss magazine Republik charts a course t=
+o =E2=80=9Creclaim journalism as a profession=E2=80=9D (http://www.niemanl=
+ab.org/2018/05/after-crowdfunding-success-swiss-magazine-republik-charts-a=
+-course-to-reclaim-journalism-as-a-profession/)
+------------------------------------------------------------
+=E2=80=9CWe believe people don=E2=80=99t pay for articles anymore. They pa=
+y to be part of the community.=E2=80=9D By Christine Schmidt.
+http://www.niemanlab.org/2018/05/we-have-built-the-world-that-they-told-us=
+-existed-did-the-rise-of-young-white-internet-reporting-bolster-the-alt-ri=
+ght/
+
+
+** =E2=80=9CWe have built the world that they told us existed=E2=80=9D: Di=
+d the rise of young=2C white =E2=80=9CInternet reporting=E2=80=9D bolster=
+ the alt-right? (http://www.niemanlab.org/2018/05/we-have-built-the-world-=
+that-they-told-us-existed-did-the-rise-of-young-white-internet-reporting-b=
+olster-the-alt-right/)
+------------------------------------------------------------
+=E2=80=9CNothing has been better for alt-right trolling (whatever that wor=
+d even means) than establishment journalism.=E2=80=9D By Laura Hazard Owen=
+=2E
+Many major newsrooms=2C champions of transparency in other cases=2C remain=
+ tight-lipped about their newsroom diversity (http://www.niemanlab.org/201=
+8/05/many-major-newsrooms-champions-of-transparency-in-other-cases-remain-=
+tight-lipped-about-their-newsroom-diversity/)
+What We=E2=80=99re Reading
+Digiday / Max Willens
+Publishers try to use mobile ad annoyance as a lure to subscribers =E2=86=
+=92 (https://digiday.com/media/publishers-try-use-ad-annoyance-lure-subscr=
+ibers/)
+=E2=80=9CPublishers hunting for subscribers like to say they=E2=80=99re de=
+livering an experience worth paying for. Increasingly=2C that=E2=80=99s st=
+arting to mean =E2=80=98one that has no mobile ads.'=E2=80=9D
+Bloomberg.com / Gerry Smith
+The hard truth at newspapers across America: Hedge funds are in charge =E2=
+=86=92 (https://www.bloomberg.com/news/articles/2018-05-22/the-hard-truth-=
+at-newspapers-across-america-hedge-funds-are-in-charge)
+=E2=80=9CThe evolving ownership picture has sparked fresh questions over w=
+hether investment firms can really help save local newspapers by making th=
+em profitable again =E2=80=94 or if they=E2=80=99ll starve them to the poi=
+nt that they collapse instead.=E2=80=9D
+Columbia Journalism Review / Pete Vernon
+=E2=80=9CThe Fourth Estate=E2=80=9D shows how far The New York Times has c=
+ome =E2=86=92 (https://www.cjr.org/analysis/nytimes-the-fourth-estate.php)
+=E2=80=9CThere=E2=80=99s a much more upbeat sense=2C partly because our ec=
+onomics are better=2C partly because =E2=80=94 remarkably =E2=80=94 the ne=
+wsroom is actually a little bigger than it was in 2010.=E2=80=9D
+TechCrunch / Sarah Perez
+Reese Witherspoon=E2=80=99s Hello Sunshine teams with Amazon=E2=80=99s Aud=
+ible on audiobooks and originals =E2=86=92 (https://techcrunch.com/2018/05=
+/22/reese-witherspoons-hello-sunshine-teams-with-amazons-audible-on-audiob=
+ooks-and-originals/)
+=E2=80=9CThe collaboration will initially see the launch of a showcase of=
+ Audible audiobooks as selected by Reese=E2=80=99s Book Club=2C which focu=
+s on strong but complex female characters. However=2C the two companies sa=
+id that further down the line Hello Sunshine Witherspoon and Amazon-owned=
+ Audible will work together on original audio productions=2C details of wh=
+ich will be announced later in the year.=E2=80=9D
+The New York Times Company
+The New York Times is launching a parenting product with Jessica Grose as=
+ editor-in-chief =E2=86=92 (https://www.nytco.com/introducing-parenting-te=
+am/)
+=E2=80=9CWe=E2=80=99ve shown that we can create non-news products that add=
+ significant value to our business. Cooking and Crosswords are both fast-g=
+rowing stand-alone subscription businesses=2C contributing a large number=
+ of new subscribers to The Times each quarter. Cooking and Crosswords are=
+ also included in our highest priced subscription option. When we added th=
+ese valuable offerings to our bundle last year=2C we saw a jump in people=
+ subscribing at higher price points.=E2=80=9D
+Digiday / Lucia Moses
+Why The New York Times likes short-run newsletters =E2=86=92 (https://digi=
+day.com/media/new-york-times-likes-short-run-newsletters/)
+=E2=80=9CPeople like signing up for them because it=E2=80=99s a short-term=
+ commitment=2C and it=E2=80=99s something they=E2=80=99re passionate about=
+ right now.=E2=80=9D
+The Guardian / Alex Hern
+Most GDPR consent renewal emails are unnecessary=2C and some even illegal=
+=2C experts say =E2=86=92 (https://www.theguardian.com/technology/2018/may=
+/21/gdpr-emails-mostly-unnecessary-and-in-some-cases-illegal-say-experts)
+=E2=80=9CThe first question to ask is: which of the six legal grounds unde=
+r the GDPR should you rely on to process personal data? Consent is only on=
+e ground. The others are contract=2C legal obligation=2C vital interests=
+=2C public interest and legitimate interests. Even if you are relying on c=
+onsent=2C that still does not mean you have to ask for consent again. Reci=
+tal 171 of the GDPR makes clear you can continue to rely on any existing c=
+onsent that was given in line with the GDPR requirements=2C and there=E2=
+=80=99s no need to seek fresh consent. Just make sure that your consent me=
+t the GDPR standard and that consents are properly documented.=E2=80=9D
+Bloomberg.com / Leonid Bershidsky
+How media paywalls work in authoritarian countries =E2=86=92 (https://www.=
+bloomberg.com/view/articles/2018-05-16/how-media-paywalls-work-in-authorit=
+arian-countries)
+=E2=80=9CThe reach of paid independent news sites is dwarfed by Putin=E2=
+=80=99s state-owned propaganda media and the websites owned by businesspeo=
+ple who are loyal to the Kremlin. The main page of RIA Novosti=2C the stat=
+e propaganda agency=2C had an average of 4 million unique visitors a day i=
+n April. Outlets like this don=E2=80=99t need subscription revenue to surv=
+ive.=E2=80=9D
+Wall Street Journal / Lukas Alpert
+Politico is partnering with South China Morning Post to expand its Asia co=
+verage =E2=86=92 (https://www.wsj.com/articles/politico-moves-into-asia-jo=
+ining-with-jack-mas-south-china-morning-post-1526938200)
+=E2=80=9CThe venture will start as a content-sharing partnership involving=
+ joint projects between the editorial operations of each publication. If a=
+ll goes well=2C the companies intend to further develop editorial ties and=
+ business initiatives with the possibility of deeper financial investment=
+ on both sides. Initially=2C Politico doesn=E2=80=99t plan to hire any add=
+itional staff.=E2=80=9C
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3Dc438095207)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3Dc438095207)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

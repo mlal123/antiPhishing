@@ -1,0 +1,27 @@
+We have 4 classes that still need LAs.  Please reach out to the faculty
+directly if you meet the requirements.
+
+*COMP 433: Mobile Computing Systems (TR 11:00-12:15)*
+still in need of 2 LAs. Anyone with a Java experience would be fine. I need
+someone who can be in TUES classes (must) and occasionally in THURS classes.
+
+Contact: Prof Nirjon (nirjon at cs.unc.edu)
+
+*COMP 435: Computer Security Concepts (MW 3:35-4:50)*
+need one LA. Students who have taken either COMP 535 or COMP 590-132 Fall
+2016 are preferred.
+Contact: Prof Sturton (csturton at cs.unc.edu)
+
+*COMP 475: 2D Computer Graphics (TR 8:00-9:15)*
+Looking for 1-2 LAs.  Need to be very strong in C/C++.  Having taken COMP
+590-001 Fall 2016 or COMP 575 Fall 2015 a benefit.
+Contact: Prof Reed (mreed at cs.unc.edu)
+
+*COMP 581:  Introduction to Robotics (TR 3:30-4:45)*
+Interested in hiring 1 more LA. Need experience with Lego Mindstorms and
+leJOS.
+Contact: Prof Alterovitz (ron at cs.unc.edu)
+
+-- 
+You received this message because you are subscribed to the Google Groups "Majors" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to majors+unsubscribe@cs.unc.edu.

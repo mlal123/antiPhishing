@@ -1,0 +1,37 @@
+Your classmate posted a new Question.=20
+
+For loops
+
+In a for loop, is the increment performed before the action required in the=
+ loop, or afterwards? For example, in the following code:=C2=A0
+
+int a;
+for (int i =3D 0; i<5; i++) {
+=C2=A0 =C2=A0 a =3D 5*i;
+}
+
+when calculating "a", will the program use 0 the first time through and the=
+n increment to 1, or will it increment to 1 and then use 1 to calculate "a"=
+ the first time through?=C2=A0
+
+Go to https://piazza.com/class?cid=3Difcs2t8dczz4io&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @154. Follo=
+w it to get notified when a response comes in: https://piazza.com/follow/if=
+cs2t8dczz4io/f2GxNxqCfOm/f5a65549=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.=

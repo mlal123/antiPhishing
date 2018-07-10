@@ -1,0 +1,45 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+When will submission and self check be up for Lab 10?  (11/16/16 10:06 AM)
+
+
+
+Go to https://piazza.com/class?cid=3Divl28tt7dxe724&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Can someone explain the difference between $zero and $0? My code works with=
+ one, but not the other.  (11/16/16 10:36 AM)
+
+I have a line where I branch if equal to 0, and initially I used $0, and th=
+e program failed. When I switched to using $zero, it compiled and ran. Does=
+ anyone have an explanation?=C2=A0Thanks
+
+Go to https://piazza.com/class?cid=3Divl3bigmlwk787&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

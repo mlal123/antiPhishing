@@ -1,0 +1,68 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+"Prior Exam with Solution" Problem 4 - the heap tree should be this?  (10/1=
+7/16 11:10 AM)
+
+
+
+Go to https://piazza.com/class?cid=3Diue77f2updq268&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+"Prior Exam with Solution" Problem 7(c)  (10/17/16 11:41 AM)
+
+Why the answer is "102" or "103" instead of 101.=C2=A0
+
+Go to https://piazza.com/class?cid=3Diue8b7t78em6xw&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+"Prior Exam with Solution" Problem 4 - the heap tree should be?  (10/17/16 =
+11:41 AM)
+
+
+
+Go to https://piazza.com/class?cid=3Diue8ccpute72ps&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Delete in AVL in Sample Problem  (10/17/16 2:27 PM)
+
+Just want to make sure, for the sample problem 2)....
+There is different way to implement a delete in AVL right?
+For example, by deleting the root, we can either replace the root with the =
+largest number from the left subtree or with the smallest number from the r=
+ight subtree, right? Because this two ways might yield different AVT...
+Are we supposed to use a certain way or both are ok?
+
+Thanks!
+
+Go to https://piazza.com/class?cid=3Diuee7su0d94ir&nid=3Dis6wk5m47ay4zy&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

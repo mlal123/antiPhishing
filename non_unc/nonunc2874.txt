@@ -1,0 +1,32 @@
+Your classmate posted a new Question.=20
+
+Error Messages
+
+What do the messages mean in the files of the test code? My BuildTestSuite =
+is totally failing so for example, the=C2=A0GUI comes up, and in the file f=
+or BuildTest1 is says, "Message: 6". Does this mean something in particular?
+
+Thanks!
+
+Go to https://piazza.com/class?cid=3Ditrn3870pmn5oc&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @185. Follo=
+w it to get notified when a response comes in: https://piazza.com/follow/it=
+rn3870pmn5oc/f2GxNxqCfOm/c7d6db64=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.=

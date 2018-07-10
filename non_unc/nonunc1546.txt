@@ -1,0 +1,159 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+Federico's Office Hours Shifted Friday  (2/16/16 8:12 PM)
+
+Hey guys, I won't be getting to office hours this Friday until 3:45, but I'=
+ll stay a bit longer to make up for it
+
+Go to https://piazza.com/class?cid=3Dikq58nrmww5tc&nid=3Dihs2fbbhsfx37n&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Expressions  (2/16/16 8:16 PM)
+
+Why can't a variable be assigned the result of any expression? (Spring 2015=
+ number 8)
+
+Go to https://piazza.com/class?cid=3Dikq5e9q1x887i4&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Java as a strongly typed language  (2/16/16 8:21 PM)
+
+How does one define "strongly typed?" based on that why is Java not a stron=
+gly typed language? I was under the impression that that meant each variabl=
+e had a type set to it.... Is java not strongly typed because you can typec=
+ast variables?
+
+Go to https://piazza.com/class?cid=3Dikq5kkrt2wk2e5&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A4 Adept Constructor Validation  (2/16/16 8:50 PM)
+
+My HorizontalStackPicture and VerticalStackPicture classes inherit from a s=
+hared abstract class AnyPicture which implements the Picture interface. The=
+ way my code is currently designed, the AnyPicture constructor takes two in=
+tegers, "width" and "height", as arguments to its constructor. This design =
+creates a problem for the HorizontalStackPicture and VerticalStackPicture c=
+onstructors, which the assignment instructs to take two Picture arguments a=
+s their only parameters. Because the HorizontalStackPicture and VerticalSta=
+ckPicture constructors must call the "super" constructor in the first line,=
+ they need to provide that constructor values for "width" and "height", whi=
+ch can be done by using the getter methods of the picture references. Howev=
+er, the HorizontalStackPicture and VerticalStackPicture constructors must a=
+lso take into account the possibility of the Picture references being null.=
+ I'm having trouble because it seems I can choose to do one thing or the ot=
+her -- call the super class constructor using the getter methods of the Pic=
+ture references or test the Picture references for a value of null -- but n=
+ot both.
+
+I can see two potential solutions to this problem, but both of them seem to=
+ violate the assignment instructions. One potential solution would be to mo=
+dify the AnyPicture constructor not to take width and height as arguments. =
+This doesn't seem to work for me because as my code is currently designed, =
+width and height are the only shared functionality between all Picture obje=
+cts that AnyPicture implements. Another potential solution would be to modi=
+fy the HorizontalStackPicture and VerticalStackPicture constructors to requ=
+ire width and height arguments. However, this violates the form of the cons=
+tructor for these two classes that is asked for in the assignment.
+
+Thoughts?
+
+Go to https://piazza.com/class?cid=3Dikq6me3zhfu1e0&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Why is making setters and getters not part of encapsulation in this questio=
+n?  (2/16/16 8:58 PM)
+
+
+
+Go to https://piazza.com/class?cid=3Dikq6wbwihyo3xz&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Office hours pushed back to 4  (2/16/16 9:27 PM)
+
+I will be holding my office hours from 4-6 tomorrow instead of my regularly=
+ scheduled 8-10 because I will be in the hospital.
+
+Go to https://piazza.com/class?cid=3Dikq7xy60hay10y&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+2014 #17  (2/16/16 9:42 PM)
+
+int x =3D 3; int y =3D 1; switch(x-y)
+{ case 0:
+x +=3D y;
+break;
+case 2:
+y +=3D 3;
+case 4:
+x +=3D y;
+break;
+case 6: x +=3D 3;
+default: x =3D 0; y =3D 0; }
+
+how does this work? i'm confused by the case names jumping around.=C2=A0
+
+does it go to case 2 first, and then just go straight into case 4 because o=
+f no break statement being present?
+
+Go to https://piazza.com/class?cid=3Dikq8ha83ert6zq&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Write your own code question - Midterm 2015  (2/16/16 11:03 PM)
+
+For the removeFromLibrary method, could it be a public void method? or does=
+ it have to be simply void? i'm not sure how to decide what access modifier=
+s to choose in these situations...=C2=A0
+
+Go to https://piazza.com/class?cid=3Dikqbcn5h3gd494&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+2013 #9  (2/16/16 11:19 PM)
+
+
+
+
+I can easily convince myself that "Polymorphism hides object state in order=
+ to support abstraction." is false, but I am not sure how to correct this s=
+entence. Should it be "Polymorphism hides object state in order to support =
+encapsulation"?
+
+
+
+
+Go to https://piazza.com/class?cid=3Dikqby2kpa5h58c&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

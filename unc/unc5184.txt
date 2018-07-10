@@ -1,0 +1,108 @@
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+
+
+Hi Mangza,
+The end of semester has been a little bit crazy for me to wrap my head around potential projects…and to make matters worse I’m not available to meet in the mornings.
+ What days are you free after 12:30?
+ 
+Dr. Evans
+ 
+
+
+From: Lal, Mangza
+
+Sent: Tuesday, March 7, 2017 6:28 PM
+To: Evans, Mara <mara1@email.unc.edu>
+Subject: Re: Potential Projects meeting
+
+
+ 
+
+I can meet in the morning before 9:30 everyday, (although I have lab on Tuesdays at 9:30 and after 3:30pm on Tuesdays and Thursdays).
+ And I can meet anytime after our Bio class on Mondays, Wednesdays, and Fridays. 
+
+
+
+
+
+From: Evans, Mara
+Sent: Monday, March 6, 2017 10:23:59 PM
+To: Lal, Mangza
+Subject: RE: Potential Projects meeting 
+
+ 
+
+
+
+Hi Mangza,
+Sorry for the delayed reply. What’s your availability like for the week after spring break?
+ 
+Dr. Evans
+ 
+
+
+From: Lal, Mangza
+
+Sent: Wednesday, March 1, 2017 9:08 PM
+To: Evans, Mara <mara1@email.unc.edu>
+Subject: Potential Projects meeting
+
+
+ 
+
+Hey Dr. Evans, I'm emailing you about our talk today and seeing when you would like to meet. I can meet tomorrow after 3:30 if you'd  like or anytime before or after class on Friday until 3:00pm.
+ We can also meet next week if that'd work best.
+
+
+
+
+

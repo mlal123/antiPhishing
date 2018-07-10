@@ -1,0 +1,329 @@
+Happy spring break everyone! I hope you have been enjoying your time away
+and are ready to tackle the end of the spring semester!
+
+Even though you all have been gone, *employers are still emailing.* If you
+are still looking for a job or internship, see the list below. Also
+remember that new opportunities are posted in Careerolina
+ daily! Search
+using the filter function (use keywords like "Java" or other skills you
+would like to use in the job) to narrow down the list.
+
+
+
+*Internships & PT Local Jobs:*
+
+*CDW On-Campus Internship - (Sophomore or Junior)*
+As technology continues to shape the way learning outcomes are achieved in
+Higher Education, we are seeking passionate individuals to help connect IT
+departments, university administration and CDW so that current and future
+students get the most out of their college investment. Join the Campus
+Intern team to gain real world experience with a Fortune 500 company that
+has been consistently recognized as one of the best places to work in the
+technology sector.
+
+*Essential Job Functions*
+=E2=80=A2 Challenging, innovative assignments providing an opportunity to g=
+ain
+working knowledge in the areas of IT analytics, desktop services, data
+management, web development, technical change management,
+project management, and cyber security
+=E2=80=A2 Shadow professionals in a variety of Information Technology disci=
+plines
+and to partner with members of the business
+=E2=80=A2 Research and identify campus structure as it pertains to Informat=
+ion
+Technology
+=E2=80=A2 Educate customers on the CDWG partnership by highlighting the val=
+ue and
+expertise offered to the University
+=E2=80=A2 Participate in ongoing professional and technical trainings
+=E2=80=A2 Impact the learning environment and student technology experience=
+ by
+leveraging your student voice in ongoing conversations with IT influencers
+
+*Qualifications*
+=E2=80=A2 Must be a sophomore or junior pursuing a degree in Information
+Technology, Information Systems, Computer Science, Management Information
+Systems or any other related major
+=E2=80=A2 Effective problem-solving skills, analytical aptitude, and the ab=
+ility to
+learn quickly and embrace change
+=E2=80=A2 Strong organization and time management skills to work in an inde=
+pendent
+environment
+=E2=80=A2 Ability to communicate effectively and in a professional manner w=
+ith all
+levels of an organization
+=E2=80=A2 Availability to work on campus for 15-25 hour/week within standar=
+d
+business hours
+
+*Internship Benefits*
+=E2=80=A2 Build Your Professional Network =E2=80=93 Get exposure to IT and =
+sales
+professionals within the University, CDW and Manufacturer Partners to start
+networking with industry professionals and technology experts
+=E2=80=A2 Real World Experience =E2=80=93 Gain professional experience that=
+ will translate
+into a wide range of fields and support your future career goals
+=E2=80=A2 Flexible Schedule =E2=80=93 Be able to balance your academic work=
+ load and the
+CDWG Campus Internship by mapping out your own schedule
+=E2=80=A2 No Commute Required =E2=80=93 Explore the IT environment at your =
+University at
+your convenience, on your own schedule - pick up hours between classes
+=E2=80=A2 Collaboration =E2=80=93 Work in a team sales environment and deli=
+ver on both
+personal and team goals
+
+If you would like to be considered this position please visit this link to
+join our talent network:
+https://www.applytracking.com/optin.aspx?c=3D9JK1mW82n%2foxg9VzZAZ3OZfinai5=
+Yz7h&source=3DDS-15361&def=3Du_ShortTextField22-UNC
+
+*Chiltern Statistical Programming Intern (Cary NC)*
+ Math and computer science students in at least their junior or senior year
+of an undergraduate program. Graduate students welcome as well.
+
+*About the Company:* Chiltern (Previously Theorem Clinical Research)
+www.chiltern.com is a Global Contract Research Organization that works with
+data from pharmaceutical companies to determine the safety and efficacy of
+new medications.
+
+*About the Internship:*
+Analyze and manipulate data for pharmaceutical drug trials using SAS (SAS
+knowledge preferred but not required); Year round paid position; On the job
+training and mentorship
+
+*Requirements: *Minimum GPA of 3.2; Must be able to meet demanding
+timelines while maintaining quality work; Able to work 20 hours per week
+during school semesters. Winter and summer schedules are preferably 40
+hours per week but can be flexible.
+
+Email your resume to Michael Stackhouse at Michael.Stackhouse@Chiltern.com
+*Robotics Unlimited Inc. Internship (Pensacola FL)*
+We are a start-up bringing cutting-edge robotics technologies to the mass
+market and are currently developing super cool robots for the entertainment
+ markets. We have a opening for a robotics intern who has
+experience/knowledge in mechanical design, electronic board design,
+firmware development and mobile development. Our work environment is always
+very casual and fun but can get high-demand during deadlines.
+*What we are looking for:*
+We are looking for student that can participate in a team to build complex
+robotics systems. More than a good resume with a great GPA, we are looking
+for applicants who have a large portfolio of robotics projects and hands on
+experience. This position can either be part-time or full-time. Please send
+a portfolio (pictures, screenshots) of the past robot you have developped
+along with a one page resume. *WE WILL NOT REVIEW an application without a
+portfolio. Do not forget to indicate your availabilities on your resume.*
+
+*Responsibilities:*
+Work with the team on designing a brand new robot.
+Help us and contribute to every single development aspect of the robot (you
+may do mechanical design one day and programming the next day ;-))
+*Knowledge, Skills, and Abilities:*
+Solidworks design
+PCB design
+Circuit board population
+Rapid-prototyping (hands on experience required)
+Firmware dev (Microcontroller programming)
+iOS/Android development
+Previous experience in making robots
+Work under limited supervision
+Excellent communication skills
+Above average PC skills
+Enthusiasm for engineering
+U.S citizenship or Permanent Residency required
+Able to start immediately
+*Recommended:*
+Good understanding of electric motors / drive train
+Experience designing complex electromechanical products
+*Qualifications:*
+Pursuing or having a Bachelor=E2=80=99s degree in related engineering field
+*Make aplication to:*
+Sebastien Cotton, Ph.D
+Founder and CEO
+Robotics Unlimited Inc
+seb@robotics-unlimited.com
+
+*SKOOLD Internship (Durham NC & Remote)*
+*BRIEF DESCRIPTION*
+SKOOLD=E2=84=A2 is the first mobile app that enables high school students a=
+nd their
+parents to hire college students for customized campus tours and
+information sessions. We are revolutionizing the way people see schools,
+and we want you to be part of the movement. Our ed-tech startup is looking
+for an all-star duo of developers to maintain and enhance our brand-new iOS
+app and backend codebase during a 6-month paid internship. The company will
+be based out of American Underground, (Google for Entrepreneur=E2=80=99s Te=
+ch Hub
+in Durham, NC), but team members can work remotely if necessary.
+*OPPORTUNITY DETAILS*
+We need (2) fully capable and motivated individuals to be the foundation of
+our new top-flight technology team. The ideal candidates will have
+experience in iOS, React Native and Ruby On Rails. But most importantly, we
+want fast-learning Computer Science majors with positive energy that are
+excited to make a great product and company.
+*RESPONSIBILITIES*
+Lead the execution of strategy for technology platforms, partnerships, and
+external relationships.
+Build and manage a top-flight technology team and oversee research and
+development, as well as project management.
+Anticipate and react to major technology changes to ensure the maintenance
+of company leadership in the competitive landscape.
+Establish technical standards and ensure adherence to them for product
+development and company operations.
+*CORE COMPETENCIES & REQUIREMENTS*
+- Computer Science Degree or Major
+- Technical experience with iOS, React Native, Ruby On Rails, CSS & HTML
+- Experience utilizing social media and integrating it into proprietary
+technology
+- Demonstrated ability to interpret technology and market trends as a
+foundation for technology and product roadmaps
+- Strong operational and project management skills.
+- Solid understanding of engineering technical issues/needs, financial,
+sales, and marketing as related to product design and development.
+*COMPENSATION*
+The 6-month internship will serve as an evaluation period, and each
+developer will receive a weekly stipend dependant upon experience.
+After an evaluation, we=E2=80=99ll renegotiate terms to keep you on the tea=
+m as a
+full-time paid employee with potential equity holdings.
+If your school permits, you may also receive class credit for the
+internship.
+*HOW TO APPLY*
+Sign up for a 20 minute one-on-one being held in Sitterson Hall on April
+6th to learn about the internship and inform Patrick about your SKILLZ! You
+can sign up in Careerolina
+ with your resume.
+Search, *Open Office Hours with SKOOLD for Technical Internship at Local
+Startup* (Job ID# 793604).
+
+*Outreachy Mentorship & Internship (Remote)- Closes March 22nd*
+Work remotely from home while collaborating within a world-wide and open
+source software community! Use your skills in programming, design,
+documentation, or marketing, working with an experienced mentor.
+Internships run from may 23-August 23rd. $5500 stipend. Learn more at
+outreachy.org
+
+*Google Summer of Code- Closes March 25th*
+Help us change the world one line of code at a time. Participate in
+the 12th year of Google Summer of Code! Over the past 11 years, Google
+Summer of Code has brought together almost 11,000 students and 500 open
+source projects to create millions of lines of code. We=E2=80=99re looking =
+for
+mentors and students to join us in making 2016 the best Summer of Code
+yet! Google
+Summer of Code is designed to encourage student participation in open sourc=
+e
+development. The goals of the program are to:
+=E2=97=8F Inspire developers to begin participating in open source developm=
+ent
+=E2=97=8F Provide students in Computer Science and related fields the oppor=
+tunity to
+do work related to their academic pursuits
+=E2=97=8F Give students exposure to realworld
+software development scenarios
+(e.g., version control practices, software licensing questions, mailinglist
+etiquette, etc.)
+=E2=97=8F Create more open source code for the benefit of all
+=E2=97=8F Help open source projects bring in new developers and committers
+Successful student contributors are given a 5,500 USD stipend, enabling
+them to focus
+on their coding projects for three months. Google Summer of Code is
+completely online,
+which has allowed students and mentors from over 100 countries to
+participate over the
+past 11 years. Google will accept applications from open source projects
+from 8-19
+February, 2016.
+Student applications will be accepted from 14-25 March, 2016.
+Find full details on requirements for participation, including how to apply
+https://g.co/gsoc
+
+
+*Full-Time Permanent Positions:*
+
+*Carmax IT Software Developer (Richmond VA) - Closes April 4th*
+We have a number of UNC alumni who work at our Home Office, and we are
+excited to chat with other potential CarMax associates interested in a
+challenging role with great benefits, high visibility and an opportunity to
+make a real difference at a Fortune 500 company.  It is an exciting time at
+CarMax as we use huge amounts of customer and industry data to continue to
+revolutionize the way customers shop for and purchase vehicles. We are an
+innovator disguised as a used-car retailer! Our IT associates work with
+CarMax associates across the country, including our executives, to make
+recommendations to lead change, and they get to experience visible impact
+of their recommendations. Position is posted in Careerolina
+ (792875)
+
+*EMC Software Engineer 2 (RTP NC)*
+Are you a self-directed and motivated student looking to develop your
+skills, and get hands-on software development experience in an agile team?
+Are you the go-getter who is not afraid of taking on challenging problems
+and finds great satisfaction in delivering innovative solutions? Come join
+us! Our team in EMC2 RTP is working on next generation storage
+virtualization architecture integrating with VMware. As part of our team,
+you will be developing components for VMware Virtual Volumes (VVOLS) and
+Storage Policy Based Management (SPBM). Last year, our team released VVols
+Technical Preview for vVNX - Free download
+,
+the first-to-market software-defined solution showcasing VVols and SPBM.
+What we are looking for:
+
+   - Most importantly work well with a team of talented software engineers
+   with diverse skill sets, background, and experience.
+   - Strong motivation to learn new things and embrace change
+   - Strong problem solving and debugging skills
+   - Attention to detail and quality
+   - Knowledge in C++, Java, Object Oriented Design, algorithms, and data
+   structures (must be flexible to work on all to stretch your technical of
+   knowledge)
+   - Experience in Unix/Linux Development Environment
+   - Background with Perl or any scripting language
+
+*You will have an edge if you have:*
+
+   - Familiarity of Agile software development process
+   - Knowledge of Virtualization: VMware, Hyper-V
+   - Experience in Enterprise Storage System architecture (SAN/NAS)
+   - Experience with JavaScript, REST API
+
+To apply, email your resume to Vinod Rajasekaran at
+vinod.rajasekaran@emc.com or you can also submit your resume online here:
+https://jobs.emc.com/job/research-triangle-park/software-engineer-2-virtual=
+ization/414/1621808
+
+
+*Events:*
+
+Credit Suisse Lobby Table, *Sitterson Lower Lobby from 12-1pm*
+
+Credit Suisse Info Session: *Tuesday March 22nd @ 1:30pm in 3411 Student
+Union*
+Attention Dec 2017 & May 2018 grads! Come learn about the Raleigh-based
+2017 Summer Analyst Program. Food provided. *No RSVP required.*
+
+Tech/Business Career Panel: *Wednesday, March 23 @ 5pm in 3250 McColl*
+
+Companies in the technology sector are fast-growing across all areas of the
+country. Though programming and other technical jobs are certainly
+plentiful, there are also a number of business-sector roles needed at tech
+companies of all sizes: marketing, sales, finance, strategy, HR, and more!
+Hear directly from our virtual panel of UNC alumni at Amazon, Google, IBM,
+and more about their experience with and advice for students interested in
+business careers in tech. Free pizza will be provided by event co-sponsor,
+Kenan-Flagler=E2=80=99s Undergraduate Business Technology Club. Please RSVP=
+ online
+ by 3/22=
+.
+Contact Samara Reynolds  in the Undergraduate
+Business Program with any questions.
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

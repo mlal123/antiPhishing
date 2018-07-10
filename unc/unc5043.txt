@@ -1,0 +1,20 @@
+From: Andrej Duh (duh) - duh@live.unc.eduHey everyone,  In =
+case it wasn't clear in class where the parametrization of the line segment=
+s from the two examples came from, look at equation (4) and its derivation =
+on pg. 826 of the book. Basically, you need the parametric equations of the=
+ line passing through the given points, and then you need to restrict your =
+parameter to an interval that only gives you the line segment between those=
+ two points and not the entire line or a different part of it.  It'd=
+ also be helpful to refresh your memory on space curves (section 13.1), bec=
+ause that's essentially what we're doing***, except that now this is only o=
+ne part of solving a given problem, and the other one is actually evaluatin=
+g the integral.  And as always, if you're having trouble with somet=
+hing or you forgot where we've learned something we're now assuming that we=
+ already know, just let me know and I'll point you to those sections and/or=
+ explain again.  Cheers, Andrej  *** This is what I mea=
+n when I say you still need to know everything covered on the previous midt=
+erms. ----------------------This forwarded message was sent via =
+Sakai @ UNC-Chapel Hill Messages from the  "MATH233.001.SP17" sit=
+e.
+To reply to this message click this link to access Messages for this site: =
+MATH233.001.SP17.

@@ -1,0 +1,38 @@
+
+html {
+	font-family: times;
+	font-size: 12pt;
+}
+.label-row {
+	background-color:#EAF2FA;
+	font-weight: bold;
+}
+.data-row{
+	padding-left: 30px;
+}
+pre{
+	font-family: times;
+	font-size: 12pt;
+}
+
+
+Dear Mangza Lal,
+
+		 You recently had a walk-in session with Academic Advising, and we would like your feedback to help us improve.
+			Please complete the brief survey at: 
+		
+			
+			Online Survey		
+		
+			All of your responses are anonymous and will be used to provide feedback for our advising staff.
+		
+		
+			Thanks in advance for your time. 
+		
+		
+			Academic Advising Program of the General College and College of Arts and Sciences  
+		
+			 http://advising.unc.edu 
+		
+
+**Please DO NOT reply to this email as this address is for outgoing e-mail only.**

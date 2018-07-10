@@ -1,0 +1,35 @@
+Dear UNC-Chapel Hill Wi-Fi mlal123@unc.edu,
+
+According to our records, your access to the eduroam Wi-Fi network for the =
+device listed below will expire in 7 days. You will need to re-enroll to ac=
+cess Wi-Fi using eduroam, the University's secure wireless network.
+
+Details on the affected device:
+
+Affected Device MAC Address: 60:57:18:F5:0B:9F
+
+Affected Device Description:=20
+
+How to re-enroll
+Please visit http://wifi.unc.edu to enroll, which you can do from on or off=
+ campus.
+
+Once your enrollment is complete, you will be issued a certificate that wil=
+l grant you one year of network access with this device. Alternately, you c=
+an connect to the UNC-Setup Wi-Fi network while on campus to complete this =
+process if you prefer.
+
+How to get assistance
+For step-by-step instructions on configuring your device using either metho=
+d listed above, visit http://help.unc.edu and see the =E2=80=9CConnecting t=
+o the UNC Network=E2=80=9D document. Also, you can always call 919-962-HELP=
+ for assistance from the ITS Service Desk.
+
+Please note that if you have multiple devices =E2=80=93 such as a laptop, p=
+hone and tablet =E2=80=93 configured for eduroam Wi-Fi, you will get an add=
+itional notice for each device as its yearly certificate expires.
+
+Thank you,
+ITS Networking & ITS Service Desk
+(919) 962-HELP
+http://help.unc.edu/

@@ -1,0 +1,44 @@
+Your classmate posted a new Question.=20
+
+Struct not compiling
+
+So basically, when I try to compile my code with just this:
+struct point {
+int x=CD=BE
+int y=CD=BE
+}=CD=BE
+And my main method, it refuses to work. It says,
+ex1.c:6:3: error: stray '\315' in program
+   int x=CD=BE
+   ^
+ex1.c:6:3: error: stray '\276' in program
+ex1.c:8:3: error: expected ':', ',', ';', '}' or '__attribute__' before 'in=
+t'
+   int y=CD=BE
+   ^
+ex1.c:8:3: error: stray '\315' in program
+ex1.c:8:3: error: stray '\276' in program
+
+Anyone know why I can't get this compile?
+
+Go to https://piazza.com/class?cid=3Diw80ff8ur4s6au&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @457. Follo=
+w it to get notified when a response comes in: https://piazza.com/follow/iw=
+80ff8ur4s6au/f2GxNxqCfOm/bd296aee=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.=

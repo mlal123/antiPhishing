@@ -1,0 +1,1199 @@
+
+
+Udemy
+
+@import url('https://fonts.googleapis.com/css?family=3DSource+Sans+Pro:300,=
+400,600');
+@import url('https://fonts.googleapis.com/css?family=3DZilla+Slab:300,400,6=
+00');
+/* CLIENT-SPECIFIC STYLES */
+body, table, td, a, p {-webkit-text-size-adjust: 100%; -ms-text-size-adjust=
+: 100%; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;}
+table, td {mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: c=
+ollapse;}
+img { -ms-interpolation-mode: bicubic; }
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+.appleFooter a {
+color:#ffffff !important;
+text-decoration: none!important;
+}
+
+/* MOBILE STYLES */
+@media only screen and (max-width: 480px){
+#container{
+width:100% !important;
+}
+#banner_text {
+text-align: center !important;
+padding-bottom: 10px;
+}
+.deviceWidth{
+display:block !important;
+width:100% !important;
+}
+.hidden{
+display: none;
+}
+.courseCardTop{
+width:30% !important;
+float: left;
+min-width: 30% !important;
+}
+.courseCardBottom{
+width:70% !important;
+float: left;
+min-width: 70% !important;=20
+border-bottom: 0px !important;
+}
+.mobileColor{
+background-color: #ffffff !important;
+}
+.mobileCourseLine{
+border-bottom: 2px #edece6 solid;
+}
+.titleHeight{
+height: auto;
+}
+.titlePadding{
+padding-top: 0px !important;
+padding-bottom: 10px !important;
+font-size: 16px !important;
+}
+.starPricePadding{
+padding-top: 0px !important;
+padding-bottom: 5px !important;
+font-size: 80% !important;
+}
+.courseImage{
+width: 100%;
+height: auto !important;
+}
+.moduleTitlePadding{
+padding: 20px 5px 5px 5px !important;
+}
+.mobileCoursePadding{
+padding: 15px 5px 0px 5px !important;
+width: 100% !important;
+}
+.targetedSpacer{
+width: 5%;
+}
+.headerImage{
+height: 30px !important;
+padding: 5px 0px !important;
+}
+.navBarTextTest{
+padding: 5px 10px 5px 0px !important;
+}
+.navBarImageTest{
+height: 30px !important;
+padding: 5px 0px 5px 10px !important;
+}
+.heroHeadline {font-size: 28px !important; line-height: 32px !important;} .=
+topSpacer {padding-top: 35px !important;} .bottomSpacer {padding: 25px 0px =
+35px 0px !important;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+Explore these options =
+for something that inspires you to grow your expertise and commit to learni=
+ng
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Take a look at these courses students are takin=
+g
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shop $10.99 courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Check out cou=
+rses you viewed:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Blockchain A-Z=E2=84=A2: Learn H=
+ow To Build Your First Blockchain
+
+
+
+             4.63&nb=
+sp;(163)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Learn Cloud Computing from Scrat=
+ch
+
+
+
+             4.11 =
+;(19)
+
+
+
+
+
+$29.99=
+  $=
+10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Most purchased Data and Analytics =
+courses during this sale:
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Python for Data Science and Mach=
+ine Learning Bootcamp
+
+
+
+             4.55&nb=
+sp;(5,049)
+
+
+
+
+
+$194.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+
+
+Deep Learning A-Z=E2=84=A2: Hand=
+s-On Artificial Neural Networks
+
+
+
+             4.46&nb=
+sp;(2,910)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+The Complete SQL Bootcamp
+
+
+
+             4.58&nb=
+sp;(3,538)
+
+
+
+
+
+$194.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Tableau 10 A-Z: Hands-On Tableau=
+ Training For Data Science!
+
+
+
+             4.66&nb=
+sp;(3,640)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+The Ultimate Hands-On Hadoop - T=
+ame your Big Data!
+
+
+
+             4.54&nb=
+sp;(1,944)
+
+
+
+
+
+$179.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+R Programming A-Z=E2=84=A2: R Fo=
+r Data Science With Real Exercises!
+
+
+
+             4.61&nb=
+sp;(2,279)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+Most purchased Business courses during this sale:
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+PMP Exam Prep Seminar -  PMBOK G=
+uide 6 includes 35 PDUs
+
+
+
+             4.58&nb=
+sp;(2,376)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=
+=20
+
+
+
+
+
+
+The Complete Presentation and Pu=
+blic Speaking/Speech Course
+
+
+
+             4.22 =
+;(1,150)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+An Entire MBA in 1 Course:Award =
+Winning Business School Prof
+
+
+
+             4.48&nb=
+sp;(1,824)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+=20
+=20
+
+=20
+=20
+
+
+
+
+
+
+ 
+Students who enrolled in Artificial Intelligence A-Z=E2=84=
+=A2: Learn How To Build An AI also enrolled in:
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Deep Learning and Computer Visio=
+n A-Z=E2=84=A2: OpenCV, SSD & GANs
+
+
+
+             4.47&nb=
+sp;(543)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+=20
+=20
+
+
+
+=20
+
+
+=20
+=20
+
+
+
+
+
+
+ 
+Discover what students who viewed Blockchain A-Z=E2=84=A2: Lea=
+rn How To Build Your First Blockchain also viewed:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Deep Learning and NLP A-Z=E2=84=
+=A2: How to create a ChatBot
+
+
+
+             4.48&nb=
+sp;(429)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Office Health A-Z=E2=84=A2- Post=
+ure, Ergonomics, Vision, F...
+
+
+
+             4.72&nb=
+sp;(10)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Careers in Data Science A-Z=E2=
+=84=A2
+
+
+
+             4.54&nb=
+sp;(234)
+
+
+
+
+
+$199.99  =
+$10.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    =20
+
+
+    UNSU=
+BSCRIBE  |  SUPPORT  |  VIEW ONLINE
+
+
+
+Ude=
+my.com 600 Harrison Street, 3rd Floor San Francisco, CA 94107 USA
+
+
+
+    Careers at Udemy | Get Udemy at Work | Become an Instructor
+
+
+
+
+Download our apps for Offline Coursetaking
+
+
+
+        
+     =
+  =20
+    
+        
+           =20
+  =
+          =20
+    
+                    
+                        
+                    =20
+                    
+                      =20
+                    
+                    
+                        
+                    
+                
+            
+           =20
+        
+    
+             =20
+
+    
+
+    
+        
+        
+            
+                =20
+                     
+                
+            
+        
+            
+               
+    
+
+    
+    *Some exclusions apply. Coupon cod=
+e expires 2018-=
+04-03 07:00 AM GMT.
+
+
+    
+        
+            Connect with us
+        
+    
+    
+        
+     =
+  =20
+    
+        
+           =20
+  =
+          =20
+    
+                    
+                        
+                    =20
+                    
+                      =20
+                    
+                    
+                        
+                    
+                
+            
+           =20
+        
+    
+             =20
+
+    
+   =20
+    =20
+   =20
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,403 @@
+Good afternoon!
+
+I hope everyone is having a great week and if you are on the hunt for a job
+or internship, you're prepared for the *3 awesome events today and
+tomorrow!* Just as a reminder, here they are:
+
+*TODAY! *
+
+*Diversity Fair | Wednesday, February 22nd | 3-6pm |Great Hall, Student
+Union*
+This Fair focuses on bringing together students and employers who are
+interested in creating work environments that value and promote workforce
+diversity. At UNC Chapel Hill that would include a variety of things
+including but not limited to ethnicity, gender, religious background,
+national origin, race and gender identification. To view and research the
+list of the organizations to be represented, visit: http://bit.ly/UNCDiv17 =
+(No
+RSVP Required)
+
+*TOMORROW!*
+
+*Spring Job & Internship Expo | Thursday, February 23rd | 12-4pm | Rams
+Head Rec Center*
+This is the largest grouping of employers you will find in one place all
+semester! If you are looking for a job or internship, attending is a
+must! *Attached
+you will find a spreadsheet that I created for you to make it easier to
+begin researching employers that are attending and recruiting CS
+students* (they
+are highlighted in yellow!) Come dressed in business casual, bring plenty
+of copies of your updated resume, and be sure to* use the attached
+spreadsheet to inform yourself before the expo* so you have some idea what
+to talk to employers about. (Much better than walking up and asking "what
+do you do?") See you there! (No RSVP Required)
+
+*LInCS Networking Reception | Thursday, February 23rd | 5:30-7:30
+|Sitterson Hall*
+The LInCS Networking Reception  offers
+our students the opportunity to connect directly with employers in a
+variety of fields. Representatives will be stationed around the Sitterson
+Hall lobby to answer questions and talk to students about full-time and
+internship opportunities within their company. Employer profiles will be
+available closer to the date of the event to help you get the most out of
+the opportunity. Registration is required for students and resumes are
+encouraged! *RSVP Here:* https://goo.gl/forms/Z3T4MIU8aoLumboi1
+
+
+
+
+*Next Week:*
+
+*SAS Company Talk | Tuesday, February 28th | 5:30-7pm | 011 Sitterson Hall*
+RSVP to attend SAS=E2=80=99s company info session where you will get the ch=
+ance to
+learn more about the various technical internship positions available and
+meet employees and recruiters. Food will be served so please* RSVP here:*
+https://unc.az1.qualtrics.com/SE/?SID=3DSV_bNGBOuz3ZXrGnPf
+
+*Veteran's Virtual Career Fair | Tuesday, February 28th *
+Rgister Here: https://www.careereco.com/Fair/EventDetails?fairId=3D05b
+0ec06-326f-4cc6-a36c-a6cd00f8196a
+
+*Industry Night- Careers in Startups and Entrepreneurial Ventures |
+Thursday, March 2nd, 6-8pm | 1789 Venture Lab on Franklin Street*
+Join us for a panel discussion with local entrepreneurs followed by
+networking and food. Learn what it takes to be a successful entrepreneur,
+the challenges and rewards involved, and get the chance to ask questions
+and make connections with those who have been through it.
+
+*Mark Your Calendar-Upcoming Events:*
+
+*Microsoft Recruiting @ Big Tech Company Presentation | Thursday, March 9th
+| 6-7:30pm | 014 Sitterson Hall*
+Are you a Freshman or Sophomore looking to get a head start on your
+internship hunt for next year? A Junior or Senior wanting to understand how
+to make your resume stand out in a sea of candidates? Are you prepared for
+that technical interview? Join Monique, your Microsoft Recruiter, for a
+casual presentation on resumes and interviews. Anything goes Q&A
+afterwards! Did we mention FREE FOOD?! *RSVP here:* https://unc.az1.qualtri=
+c
+s.com/SE/?SID=3DSV_7W1UbDPpGJWCQIZ
+
+
+*Opportunities:*
+*(Always make sure to check Careerolina
+ where most
+opportunities are posted):*
+
+*Part-time Data Analyst |DuPont | RTP NC (Apply ASAP!)*
+
+We are looking for a part-time position to assist with some Excel-heavy
+data management.  We anticipate 15-20 hrs/wk at $17/hr (dependent on
+experience/skills).  Would think that a comp science or business student
+would be excellent in this role.  Needs to be a USA citizen due to the
+nature of the data.  Will require the successful candidate to work from our
+RTP location at least part of a few days a week during the hours of 8-5.
+Opening is immediate and planned to be ongoing (would love a student who
+has an interest in working for two-three years).
+
+*Responsibilities:*
+
+
+   - Support demand forecast process and data management for West Region of
+   Electronic Materials business
+   - Prepare demand forecast files (Excel), run macros, and distribute
+   -  Collect demand forecast from 10-15 sales reps in the region through
+   the files
+   - Compile the returned data and double-check data integrity of the input
+   files
+   -  Integrate input and calculate totals and changes vs previous month=E2=
+=80=99s
+   forecast
+   -  Facilitate the assumptions for key changes and agreement from Sales
+   leadership
+   - Upload the agreed demand plan into APO
+   - Help with other basic accounting/financial data management, analysis,
+   and process including pricing, sales, etc.
+   - SFDC PA expiring price reports/work with sales team for timely updates
+   and responses.
+   -  Run and distribute Open/Closed order reports and Demand Consumption
+   Reporting
+   - Run and distribute the Demand Metrics reports
+   - Complete KCC maintenance in APO
+   - Assist with price discrepancy investigation/pricing project/price
+   requests/clean up SFDC PA issues
+
+*Qualifications:*
+
+
+   - Knowledge of Microsoft Office Applications (Word, Excel, Outlook)
+   - l  Advanced Excel skills (macros, Vlookups,
+   functions/formulas/calculations, data clean-up/sorting/analysis, and piv=
+ot
+   tables)
+   - l  Basic finance/accounting knowledge (sales, demand, unit price, etc.=
+)
+   - l  Desired:  Experience and basic knowledge of SalesForce.com, basic
+   understanding of APO/SAP (KCC=E2=80=99s and demand management), running =
+BW reports,
+   and Tableau familiarity
+
+We would like to have potential candidates send a resume to myself for
+consideration at scott.w.andersen@dupont.com.  We have a current need and
+would like to fill as quickly as possible.
+
+
+*CarolinaGO App Project*
+The University's official mobile app, CarolinaGO, is looking for a student
+project manager and student developer for the 2017-2018 school year!
+Details can be found below about these opportunities and the application
+can be found here: bitly.com/carolinago
+We have three positions open:
+*Project Manager:* The project manager interacts with ITS and all areas of
+campus to understand the needs of campus departments as it relates to
+CarolinaGO. Student should expect to spend 2-5 hours per week on the
+project minimum. The role is very flexible, but requires professionalism,
+excellent communication skills, and a passion for making our University
+more mobile accessible. The project manager works with the app developer to
+build modules, designs, and perform updates to the app. No computer science
+experience necessary. Interest in project management preferred. This is a
+paid position.
+*App Developer:* We're looking for someone with a passion for technology
+and mobile development. We use the Kurogo Mobile App platform by Modo Labs.
+Don't have Kurogo experience? No problem! If you are interested in leading
+the development of the app, within the Kurogo framework, check the box!
+This is a paid position.
+*Advisory Council:* If you're interested in the work of CarolinaGO, but
+don't have a lot of time to commit, sign up for the advisory council.
+You'll meet at most 2 times per semester to talk about your ideas for the
+app.
+
+
+*Nokia Bell Labs Internship (Masters and PhD)- Apply ASAP!*
+
+Every year Nokia Bell Labs runs a Summer Internship program where students
+from all over the US (mostly in the middle of their Ph.D. programs, but
+brilliant Master=E2=80=99s students are also welcome) visit for about 10 we=
+eks,
+between the beginning of June and Mid August. The students work on
+self-contained projects that are typically attached to larger, pre-existing
+projects. The results accumulated during the internship are often
+sufficient to submit one or more papers and/or patent applications. The
+location is the main Bell Labs site in Murray Hill, NJ.
+
+We already started evaluating candidates, but it is still possible to
+submit new applications for the internship. Here is the webpage with the
+description of the available positions:
+http://www.nokia.com/en_int/careers/open-jobs/legacy-alcatel-lucent
+
+The description for positions offered by my department can be found by
+entering 16000008JT in the keyword box. My team focuses on 5G wireless
+network research, with strong interest in network slicing and performance
+optimization for new applications like AR/VR and FPV. In my particular
+case, I am looking for students who have already accumulated some
+experience with AR/VR or FPV application endpoints, as I am working on
+network solutions to enable proper operation of those applications in
+wireless environments (think for example of controlling a remote drone over
+a cellular network).
+
+
+*Contract Software Developer |TrackX | Durham NC*
+TrackX Technology, LLC, a company working on a medical device for improving
+productivity and reducing radiation exposure during surgery, is seeking a
+contract Software Developer. The successful candidate will partner with our
+existing team on enhancements to a desktop application that will run on
+dedicated hardware for the operating room environment. Experience with the
+following technologies are *required*: Microsoft C#/WPF desktop application
+development with .Net 4.5 or later using Microsoft Visual Studio 2015.
+Experience with the following technologies are highly *desired*: Visual
+Studio Team Services, Git, NVIDIA CUDA C/C++ development, and Microsoft
+Office. This will be a part time contract position with compensation based
+upon skills and experience. Please send resumes to Recruiting@trackx.tech.
+
+*Contract Test Engineer | TrackX | Durham NC*
+TrackX Technology, LLC, a company working on a medical device for improving
+productivity and reducing radiation exposure during surgery, is seeking a
+contract Test Engineer. The successful candidate will partner with our
+existing team on enhancements to a desktop application that will run on
+dedicated hardware for the operating room environment. Experience with the
+following technologies are *required*: Microsoft C#/WPF desktop application
+development with .Net 4.5 or later using Microsoft Visual Studio 2015.
+Experience with the following technologies are highly *desired*: Microsoft
+Test Manager, Visual Studio Team Services, Git, NVIDIA CUDA C/C++
+development, and Microsoft Office. This will be a part time contract
+position with compensation based upon skills and experience. Please send
+resumes to Recruiting@trackx.tech.
+
+
+*Technology Advisor Program | EY | Charlotte NC*
+EY=E2=80=99s Advisory practice has an exciting opportunity for highly motiv=
+ated
+staff consultants to join our Technology Advisor Program (TAP). Staff
+professionals entering  TAP enjoy opportunities to serve diverse clients
+across multiple practices, while being provided learning, experiences and
+coaching to develop core consulting skills.
+*Position requirements *To qualify, a candidate must be pursuing a
+bachelor=E2=80=99s or master=E2=80=99s in: MIS, Computer Science, Statistic=
+s, Math, IT
+Security, Engineering, Operations Research, Accounting or Finance (with a
+specific concentration in MIS), Information Systems, Information
+Technology, Technology Risk, Computer Engineering or related technology
+disciplines. See full description attached.
+
+*The United States Air Force School of Aerospace Medicine Department of
+Aeromedical Research (PhD)*
+
+Seeking  Postdoctoral candidates with a background in electrical
+engineering or computer science with experience in analyzing big data,
+waveforms, advanced machine learning techniques and predictive algorithms.
+This appointment will be administered by the via Oak Ridge Associated
+Universities (ORAU) via the Oak Ridge Institute for Science and Education
+(ORISE) program. This research opportunity will be located in Baltimore,
+MD. U.S. Citizenship is required for this opportunity. Interested
+postdoctoral researchers may apply to this opportunity via the ORAU
+Maryland Office Website:
+
+www.orau.org/maryland
+
+Project ID: USAFSAM-8818401545
+
+Please check out this opportunity and many others located on our website.
+While I have you attention, please note the U.S. Army Research Lab Summer
+Journeyman Fellowship Program is still actively seeking summer interns BS
+candidates to PhD candidates. U.S. Citizenship is NOT required for ARL.
+
+http://www.orau.org/arlfellowship/applicants/programs/journeyman-fellows-su=
+mmer-program.htm
+
+ARL has six directorates seeking candidates this summer:
+
+=C2=B7         Computational and Information Sciences (CISD)
+
+=C2=B7         Human Research and Engineering Directorate (HRED)
+
+=C2=B7         Sensors and Electron Devices Directorate (SEDD)
+
+=C2=B7         Survivability and Lethality Analysis Directorate (SLAD)
+
+=C2=B7         Vehicle Technology Directorate (VTD)
+
+=C2=B7         Weapons and Materials Research Directorate (WMRD)
+
+
+*Earthquake IT Internships | Southern Califormnia Earthquake Center
+| Deadline February 24th*
+Undergraduate Studies in Earthquake Information Technology
+*Description: *Collaborate between teams using information technology to
+develop technical
+
+*Software Developer | Epic | *
+Epic is looking to hire top-notch software developers to join our team
+focused on making healthcare safer and more efficient. As a developer at
+Epic, your work will directly impact the way 56% of Americans receive
+healthcare - in fact, it's likely you will affect the life of someone close
+to you. Working at the junction of two growing fields, medicine and
+computer science, you'll help create the best software for your users'
+needs - from the massively scalable database to the user interface for
+visualizing complex information. You'll meet with doctors, nurses, and
+other front-line professionals to understand their workflows and turn their
+needs into innovative software. Your work will help reduce medical errors,
+improve the management of chronic diseases, and find new ways to facilitate
+collaboration between patients and their care teams.
+Epic's campus provides offices conducive to working with small, focused
+teams in a collaborative and one-of-a-kind environment. You will build
+multi-tier enterprise software for large healthcare organizations using a
+variety of technologies, as well as a variety of devices, from tablets to
+large wall-mounted screens. You'll work with forward thinking colleagues
+from around the world. One visit to Epic and you'll know we take our
+software seriously - ourselves, not so much. (Did we mention the
+treehouse?) Apply here!
+
+
+
+*Application and Database Developer | EPA | Raleigh NC | For Master's or
+PhD*
+Job Description: https://www.zintellect.com/Posting/Details/2940
+EPA Program: http://orau.org/epa/
+
+*Multiple Data Science and Engineering Positions | LendUp | San Francisco
+CA & Richmond VA*
+LendUp  builds technology, credit
+products and educational experiences for the more than 80 million Americans
+who are currently shut out of mainstream banking because of poor credit or
+volatile income. That=E2=80=99s 56% of the US population. That=E2=80=99s a =
+lot of
+hardworking, deserving people. Our mission is to provide anyone with a path
+to better financial health. It=E2=80=99s a bold mission, and being a social=
+ly
+responsible lender is a big job. To say we=E2=80=99re up for the challenge =
+is an
+understatement. As we approach our five year anniversary, it=E2=80=99s an e=
+xciting
+time to be LendUp. We=E2=80=99re bringing our mission to life each and ever=
+y day.
+Together, we can turn our mission into an even bigger movement. LendUp is
+located in downtown San Francisco with offices in Richmond, VA. We=E2=80=99=
+re
+backed by prominent Silicon Valley investors including Y-Combinator, Google
+Ventures, Susa Ventures, Data Collective, Kleiner Perkins, Andreessen
+Horowitz Seed Fund, Kapor Capital, QED, Eagle Cliff Investors, Yuri Milner,
+Thomvest Ventures and many others.
+*Data science positions:*
+Data science intern 
+Data scientist 
+Principal data scientist
+
+Senior data analyst 
+*Engineering positions:*
+Engineering manager 
+Principal software engineer - backend
+
+Senior data engineer
+
+Senior DevOps Engineer
+
+*Senior Software Engineer - Back End
+ *
+*Software Engineer - Full Stack
+ *
+
+
+*Summer Internship program | Noblis | Northern VA*
+Apply Here: https://www.noblis.org/Careers/internship
+Learn more about what it's like to be an intern at Noblis here:
+https://www.linkedin.com/pulse/8-things-know-noblis-in
+tern-told-former-alexa-senio?trk=3Dhp-feed-article-title-comment
+
+
+*Student Assistant Part-Time Developer | UNC Center for Women's Health
+Research | Chapel Hill NC*
+The mission of Center for Women=E2=80=99s Health Research (CWHR) at the Uni=
+versity
+of North Carolina at Chapel Hill is to improve women=E2=80=99s health throu=
+gh
+research by focusing on diseases, disorders and conditions that affect
+women only, women predominately, and/or women differently than men. We are
+in the process of developing an application that will both help researchers
+develop networks and find funding opportunities so that collaboration
+across disciplines happens less by chance and more by design. A UNC student
+assistant is needed to provide support to the project lead.
+*The ideal applicant will: *
+
+
+   - have prior experience with JavaScript, in particular AngularJS
+   - experience with RESTful APIs (required) and the Twitter API (preferred=
+)
+   - familiarity with database concepts and practice (experience with NoSQL
+   databases is preferred but not required)
+   - be able to document the process as they work
+   - familiarity with medical terminology (preferred, but not required)
+   - be available 8-10 hours a week
+   - be available to work over the summer
+   - Applicants should forward their resume to Jennifer Rumbach at
+   jrumbach@email.unc.edu. Please include a cover letter detailing how you
+   meet the above requirements
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

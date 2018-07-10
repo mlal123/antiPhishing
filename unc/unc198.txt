@@ -1,0 +1,19 @@
+
+Site Title: COMP110.001.FA15
+Site ID: 4070724c-dd1b-483b-9bfb-b6da5a9fb0c3
+
+Assignment title: Assignment0
+Assignment Due Date: Aug 28, 2015 11:55 pm
+
+Student: Mangza Lal( mlal123 )
+
+Submission ID: e0f246da-bc7f-43e0-b8e6-85a1e9481b84
+Submitted on: Aug 25, 2015 8:39 pm
+
+Attachments
+
+mlal123_Assignment0.zip (2 KB)Program0/.project (1 KB)
+Program0/.settings/org.eclipse.jdt.core.prefs (1 KB)
+Program0/bin/HelloWorld.class (1 KB)
+Program0/src/HelloWorld.java (1 KB)
+Program0/.classpath (1 KB)

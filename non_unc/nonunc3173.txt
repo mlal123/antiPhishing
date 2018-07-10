@@ -1,0 +1,32 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+Does BST_Node have to have a splay method?  (10/24/16 2:38 PM)
+
+I find it conceptually easier to implement the splay method in SPLT directly, as a while loop would do the job. However, the comment in BST_Node says that the instructor will check if the private splay method is there. Would I lose points if only the SPLT has splay and BST_Node doesn't?
+
+Go to https://piazza.com/class?cid=iuoepu79z9v29n&nid=is6wk5m47ay4zy&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+use contains() in insert()  (10/24/16 6:24 PM)
+
+Is it okay if we use contains() method to check if the string to be inserted is already in the tree? Doing so will alter the tree structure IF the string is actually not in the list because the last element will be splayed, so not sure if this is allowed.
+
+Go to https://piazza.com/class?cid=iuoms6p281pt3&nid=is6wk5m47ay4zy&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 410 (section 002) at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2GxNxqCfOm

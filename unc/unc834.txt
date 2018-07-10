@@ -1,0 +1,19 @@
+I've had a number of questions from students about the Computational
+Photography special topics course, so here's some more information.  Note
+that the COMP 572 syllabus shows linear algebra as a prerequisite though it
+does not apply to COMP 590.  If you have questions about whether you will
+be okay in the course, please contact Prof Berg (aberg@cs.unc.edu).
+
+-------
+
+There will be an offering of Computational Photography in Spring 2016 MW
+2:30-3:45.  In future years, this will be COMP 572,  but is offered as 590
+topics course in Spring 2016.  (If you need an exception to count an extra
+590 course, we can help.)   You can find last year's course website as a
+reference here: http://acberg.com/comp_photog/   and the syllabus is
+attached.  It is a fun course exploring computational approaches for
+measuring and re-rendering light.
+
+-- 
+You received this message because you are subscribed to the Google Groups "Majors" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to majors+unsubscribe@cs.unc.edu.

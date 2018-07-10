@@ -1,0 +1,49 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 435 on Piazza:
+
+------------------------------------------------------------
+Notice on Setting Cookies  (11/08/17 1:50 PM)
+
+For the screen shot that asks for the=C2=A0HTTP response=C2=A0which sets th=
+e cookie:
+
+We are looking for the=C2=A0specific HTTP response header which is used to =
+send cookies from the server to the user agent. So we are looking for somet=
+hing in a response, not a request for this task.=C2=A0
+
+
+Go to https://piazza.com/class?cid=3Dj9regsjq1hw3t2&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Task 7  (11/08/17 11:35 AM)
+
+If we submitted the assignment already but included task 7 steps 4&5 is tha=
+t okay or should we resubmit?=C2=A0
+
+Go to https://piazza.com/class?cid=3Dj9r9ng7lkb23v&nid=3Dj5vi9cpw2jn336&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 435 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/j5vi9cpw2jn336 to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

@@ -1,0 +1,280 @@
+
+
+   
+   
+   
+   Glassdoor
+   /* RESET STYLES */
+      table{
+        border-collapse:collapse;
+      }
+      img, a img{
+        border:0;
+        height:auto;
+        outline:none;
+        text-decoration:none;
+      }
+      body{
+        height:100% !important;
+        margin:0 auto !important;
+        padding:0;
+        width:100% !important;
+      }
+      /* CLIENT-SPECIFIC STYLES */
+      img{
+        -ms-interpolation-mode: bicubic;
+      }
+      /* Force IE to smoothly render resized images. */
+      #outlook a{
+        padding:0;
+      }
+      /* Force Outlook 2007 and up to provide a "view in browser" message. =
+*/
+      table{
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+      }
+      /* Remove spacing between tables in Outlook 2007 and up. */
+      .ReadMsgBody{
+        width:100%;
+      }
+      .ExternalClass{
+        width:100%;
+      }
+      /* Force Outlook.com to display emails at full width. */
+      p, a, td{
+        mso-line-height-rule:exactly;
+      }
+      /* Force Outlook to render line heights as they're originally set. */
+      p, a, td, body, table{
+        -ms-text-size-adjust:100%;
+        -webkit-text-size-adjust:100%;
+      }
+      /* Prevent Windows- and Webkit-based mobile platforms from changing d=
+eclared text sizes. */
+      .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass d=
+iv, .ExternalClass span, .ExternalClass font{
+        line-height:100%;
+      }
+      /* Force Outlook.com to display line heights normally. */
+      * [href]:not([style]) {
+        color: inherit !important;
+        text-decoration: none !important;
+      }
+      /* control gmail default link color */
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+      /* attempt to control apple data detection */
+      /* client specific styles
+      ____________________________________*/
+      #outlook a{
+        padding:0;
+      }
+      /* Force Outlook 2007 and up to provide a "view in browser" message. =
+*/
+      table{
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+      }
+      /* Remove spacing between tables in Outlook 2007 and up. */
+      .ReadMsgBody{
+        width:100%;
+      }
+      .ExternalClass{
+        width:100%;
+      }
+      /* Force Outlook.com to display emails at full width. */
+      .ExternalClass,.ExternalClass p,.ExternalClass span,.ExternalClass fo=
+nt,.ExternalClass td,.ExternalClass div{
+        line-height: 100%;
+      }
+      /* Force Outlook.com to display line heights normally. */
+      a, td {
+        mso-line-height-rule:exactly;
+      }
+      /* Force Outlook to render line heights as they're originally set. */
+      a[href^=3D"tel"], a[href^=3D"sms"]{
+        color:inherit;
+        cursor:default;
+        text-decoration:none;
+      }
+      /* Force mobile devices to inherit declared link styles. */
+      a, td, body, table {
+        -ms-text-size-adjust:100%;
+        -webkit-text-size-adjust:100%;
+      }
+      /* Prevent Windows- and Webkit-based mobile platforms from changing d=
+eclared text sizes. */
+      a img{
+        border:none;
+      }
+      img{
+        outline:none;
+        text-decoration:none;
+        border:none;
+        -ms-interpolation-mode:bicubic;
+      }
+      /* Force IE to smoothly render resized images. */
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+      /* content styles
+      ____________________________________*/
+      .cta_underline a{
+        color:#2C84CC;
+        text-decoration:none;
+      }
+      .cta_underline a:link{
+        color:#2C84CC;
+        text-decoration:none;
+      }
+      .cta_underline a:hover{
+        color:#2C84CC;
+        text-decoration:underline}
+      .cta_underline a:active{
+        color:#2C84CC;
+        text-decoration:none;
+      }
+      .cta_underline a:visited{
+        color:#2C84CC;
+        text-decoration:underline;
+      }
+   
+   
+
+
+
+
+
+   
+      
+         
+         
+            
+               
+                  
+               
+               
+               
+                  
+                  
+                     
+                        
+                           Search Salaries. Compare Pay.
+                        
+                        
+                           Know Your Worth.
+                        
+                        
+                           Understanding your market value can h=
+elp guide your salary negotiations. Make sure you are paid fairly with an e=
+stimate based on your title, company, location, and experience.
+                        
+                        
+                        
+                           
+                           
+                              
+                                 
+                                    
+                                    
+                                       
+                                          
+                                             Get Your Estimate
+                                          
+                                       
+                                    
+                                    
+                                 
+                                 
+                              
+                           
+                           
+                        
+                        
+                        
+                            
+                        
+                     
+                  
+                  
+               
+               
+            
+         
+         
+
+         
+            
+               
+                  
+                  
+                     
+                        
+                           
+                           
+                              
+                                 
+                                    This message was sent to mlal123@live.=
+unc.edu by Glassdoor.
+                                 
+                              
+                           
+                           
+                        
+                        
+                           Privacy Po=
+licy  |  Unsubscribe
+                        
+                         
+        
+            
+        
+        
+                        
+                           
+                           
+                              
+                                 
+                                    100 Shoreline Highway, Buil=
+ding A, Mill Valley, CA 94941
+            
+                                 
+                              
+                           
+                           
+                        
+                      =20
+                     
+                  
+                  
+               
+            
+         
+         
+      
+   
+
+
+
+
+
+
+
+
+
+
+
+
+

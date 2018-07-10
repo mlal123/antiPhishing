@@ -1,0 +1,22 @@
+Your classmate posted a new Question. 
+
+Assignment 1 Point Input
+
+Should we use a different print ln for each quarter? so like "how many points in 1st quarter" then the int statement and do the same for each quarter for each team or are they wanting us to do one statement that says "how many points did the tarheels score in each quarter and then let the person enter four numbers?
+
+Not sure if that question made sense, but basically I am asking do we need to make four different statements about the scores in each quarter or one big question?
+
+Go to https://piazza.com/class?cid=ieh2zfh5f8y6v0&nid=idk60wfq88174f&token=f2GxNxqCfOm to view. Search or link to this question with @74. Follow it to get notified when a response comes in: https://piazza.com/follow/ieh2zfh5f8y6v0/f2GxNxqCfOm/d6d53e2b 
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 110 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.

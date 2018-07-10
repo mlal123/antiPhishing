@@ -1,0 +1,38 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+Question 18 on HW  (11/07/16 3:07 PM)
+
+For the equivalent to=C2=A0lw $t2, $t0(4*$t1) I got a 0 out of 7 for my ans=
+wer, but it is the same only I use $t3 in order to preserve $t1 after the c=
+all. My other commands are correct and the right order. Is there any way we=
+ can get credit for this? There seems to be several ways that you can do th=
+is and it never said we could only use $t1 and $t0.=C2=A0
+
+Go to https://piazza.com/class?cid=3Div8fwzgyxgm69&nid=3Dirqp4hpe58u5rs&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

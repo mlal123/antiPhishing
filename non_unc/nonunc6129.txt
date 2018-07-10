@@ -1,0 +1,32 @@
+Your classmate posted a new Question.=20
+
+HW1 3.b confusion
+
+For this question, it asks us to find the best case in terms of n. Can we s=
+imply say that the best case occurs when the A =3D [z,y,x] (for instance) o=
+r should be write some pattern assuming A is going to be of some arbitrary =
+length n. For instance A =3D [z,y,x,z,y,x.....]. Hope this makes sense.=C2=
+=A0
+
+Go to https://piazza.com/class?cid=3Dj79sodqpevq3a2&nid=3Dj6mrr1h4rm42m4&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @50. Follow=
+ it to get notified when a response comes in: https://piazza.com/follow/j79=
+sodqpevq3a2/f2GxNxqCfOm/c98798c6=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 550.02 at University of North Carolina at Chapel Hill. Go to https://piaz=
+za.com/login to sign in and manage your email preferences or proceed to htt=
+ps://piazza.com/remove/f2GxNxqCfOm/j6mrr1h4rm42m4 to un-enroll from this cl=
+ass.=

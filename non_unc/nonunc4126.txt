@@ -1,0 +1,48 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in MATH 233 on Piazza:
+
+------------------------------------------------------------
+HW - Section 12.3 #4  (1/23/17 12:23 PM)
+
+Find the angle between the vectors. (First find an exact expression and the=
+n approximate to the nearest degree.)
+
+a =3D <7,3>=C2=A0 and b=3D <3,-1>
+
+I got up to cos(theta) =3D 7(3) + 3(-1) / sqrt( <7,3> DOT <7,3>) * sqrt( <3=
+,-1> DOT <3,-1>)
+and that equaled 18/ sqrt(58) * sqrt(10)
+I have to get the approximate and exact theta value.
+
+How would I get the inverse?
+
+Also, inputting the exact value, should I use the cos^-1 function provided =
+by Webassign?
+
+
+Go to https://piazza.com/class?cid=3Diyad3t76ia67nb&nid=3Diw5tgq5i54x11i&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in MAT=
+H 233 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/iw5tgq5i54x11i to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

@@ -1,0 +1,9 @@
+#heelsabroad - Password Change Request
+
+The owner of this user account has requested a password change. Please click on the following link to go to this site where you will be asked to provide answers to the security questions configured for this user account:
+
+https://heelsabroad.unc.edu/index.cfm?FuseAction=Security.AnswerQuestions&e=mlal123@live.unc.edu&r=12096&sig=2DD9BD4CED289815AAC03DD9188A1102C0AB2FA0EBB7D41D35A779326AD94ADE
+
+If you have received this email and have not requested to reset/change the password for this user account, please contact {mailto:abroad@unc.edu abroad@unc.edu} immediately regarding this unexpected activity.
+
+This message was generated automatically - please do not reply to this email.

@@ -1,0 +1,439 @@
+
+
+
+
+
+
+
+
+
+/* RESET STYLES */
+a{text-decoration:none;}
+table{mso-table-lspace:0pt;mso-table-rspace:0pt;}
+img, a img{border:0; height:auto; outline:none; text-decoration:none;}
+body{height:100% !important; margin:0 auto !important; padding:0; width:100=
+% !important;}
+/* CLIENT-SPECIFIC STYLES */
+img{-ms-interpolation-mode: bicubic;} /* Force IE to smoothly render resize=
+d images. */
+#outlook a{padding:0;} /* Force Outlook 2007 and up to provide a "view in b=
+rowser" message. */
+table{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing betwee=
+n tables in Outlook 2007 and up. */
+.ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Outlook.com =
+to display emails at full width. */
+p, a, td{mso-line-height-rule:exactly;} /* Force Outlook to render line hei=
+ghts as they're originally set. */
+p, a, td, body, table{-ms-text-size-adjust:100%; -webkit-text-size-adjust:1=
+00%;} /* Prevent Windows- and Webkit-based mobile platforms from changing d=
+eclared text sizes. */
+.ExternalClass{width:100%;}
+.ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .E=
+xternalClass span, .ExternalClass font{line-height:100%;} /* Force Outlook.=
+com to display line heights normally. */
+* [href]:not([style]) { color: inherit !important; text-decoration: none !i=
+mportant; } /* control gmail default link color */
+a[x-apple-data-detectors] {color: inherit !important; text-decoration: none=
+ !important; font-size: inherit !important; font-family: inherit !important=
+; font-weight: inherit !important; line-height: inherit !important;} /* att=
+empt to control apple data detection */
+a{color:#ffffff;}
+a:link{color:#ffffff;}
+a:visited{color:#ffffff;}
+/* content styles
+____________________________________*/
+@media screen and (max-width:480px) {
+    .mw100 { max-width:100% !important; }
+    .w100 { width:100% !important; }
+    .w95 { width:90% !important; }
+    .hide { display:none!important; width:0px!important; height: 0px!import=
+ant; overflow:hidden!important; line-height: 0px!important; font-size:0px!i=
+mportant; }
+    .center-cta{margin:0 auto !important;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+        
+        
+        
+            
+        
+        
+        
+    
+    
+    
+    
+    
+    
+        
+        
+        
+        
+            
+            
+            
+                H O W   T O
+            
+            
+            
+            
+                FIND THE PERFECT COMPANY
+            
+            
+            
+        
+        
+        
+        
+    
+    
+    
+    
+    
+    
+        
+        
+        
+        
+            
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            Read=
+ Full Guide
+                        
+                    
+                    
+                    
+                
+                
+                
+            
+            
+            
+            
+        
+        
+            =20
+       
+        
+        
+            
+            
+            
+                 You may think it's impossible, but with a bit of research&=
+#8211;and asking some important questions–you can actually determine =
+if a company is the right fit before you set foot in the door. Use this han=
+dy guide, and you'll soon know how.=20
+            
+            
+        
+        
+        
+            =20
+        
+        
+            
+        
+        
+       	
+        
+        
+        
+            
+            
+            
+              Glassdoor offers reviews and insights for over 700,000 c=
+ompanies, written by current and former employees. There are also salary=
+ reports to help you determine whether you can afford to work at the co=
+mpany you're considering and lead you through a successful salary negotiati=
+on. Interview reviews are also available to help you prepare for quest=
+ions.=20
+               =20
+          =20
+               =20
+                                     
+            
+            
+        
+        
+        
+           =20
+        
+        
+            
+                
+            
+        
+        
+        
+        
+        
+            
+            
+            
+              To find out whether a company is perfect for you, you'll want=
+ to investigate some of the following: =20
+                 Locations - how many it has, so you c=
+an understand if you're willing to work where they are=20
+                 Company Values - if they match and re=
+flect your own=20
+                 Company History - so you can ensure i=
+t's not tied to past challenges
+             Financial Outlook - to ensure you can gro=
+w your career (and bank account!)
+                  Culture  - to find out how it values=
+ and treats employees
+            
+                See more>>
+                
+            
+            
+        
+        
+        
+        
+        
+	    
+            
+            
+            
+                 
+            
+            
+            
+        
+        
+        
+        
+        
+        
+            
+                
+            
+        
+        
+        
+            
+        
+        
+            
+            
+            
+              An interview isn't just about impressing a hiring manager; it=
+'s your chance to find out whether the company is the right fit for you. He=
+re's some to ask: =20
+                  How long have you been with the company? =20
+                 What was the last big achievement that was celebrated?
+                  What was the department's biggest challenge last year=
+, and what did you learn from it?
+                       What do people on the team that I'd be joining d=
+o for lunch every day?
+           =20
+            
+                See full list>>
+                
+            
+            
+        
+           =20
+        
+        
+        
+        
+	    
+            
+            
+                 
+            
+            
+        
+        
+        
+            =20
+        
+        
+            
+                
+            
+        
+        
+            =20
+        
+        
+        
+           =20
+            
+            
+            
+              While you may not work directly for the company's CEO, he or =
+she has a huge effect on company culture and how employees are valued—=
+;or not. Glassdoor provides an easy way for you to access a CEO's company r=
+eviews and ratings. CEOs are rated by current and past employees on a scale=
+ from 0 to 5, with highest numbers signifying the best CEOs.
+              =20
+                
+               =20
+            
+            
+        
+        
+        
+ 
+        
+        
+            
+                
+            
+        
+        
+        
+            =20
+        
+        
+            
+            
+            
+            
+                Red flags can appear during an initial interview, in a comp=
+any's profile on Glassdoor, or even heard through an industry grapevine. So=
+me of the most common red flags are:  =20
+                  A disheveled office environment  =20
+                           A too-quick job offer =20
+                               A poorly defined job description
+                                  Employees and managers admitting they=
+ work 24/7
+                         A low-ball salary offer            =20
+                               =20
+            
+                Red flags don't have to be deal breakers, but, for example,=
+ if you value work-life balance, a company that cops to its employees worki=
+ng on the weekends and after-hours may not be the best fit for you.=20
+            
+            
+            
+        
+        
+        
+        
+        
+        
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        Read Full Guide
+                    
+                    
+                    
+                
+                
+                
+            
+            
+            
+        
+        
+        
+        
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            
+            
+            
+                This message was sent to mlal123@live.unc.edu by Glassdoor.
+            
+            
+            
+            
+                Privacy Policy  |  Unsubscribe
+            
+            
+            
+            
+                
+            
+            
+            
+            
+                
+                
+                
+                    100 Shoreline Highway,=
+ Building A, Mill Valley, CA 94941
+                
+                
+                
+            
+            
+            
+        
+        
+        
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

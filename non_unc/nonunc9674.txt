@@ -1,0 +1,143 @@
+Nieman Lab: The Daily Digest
+Friday=2C May 25=2C 2018
+http://www.niemanlab.org/2018/05/welcome-to-gdpr-here-are-the-data-privacy=
+-notices-publishers-are-showing-their-europe-based-readers/
+
+
+** Welcome to GDPR: Here are the data privacy notices publishers are showi=
+ng their Europe-based readers (http://www.niemanlab.org/2018/05/welcome-to=
+-gdpr-here-are-the-data-privacy-notices-publishers-are-showing-their-europ=
+e-based-readers/)
+------------------------------------------------------------
+We=E2=80=99re seeing what publishers have decided to implement on their we=
+bsites as of May 25 =E2=80=94 whether they=E2=80=99ve decided to block Eur=
+opean Union and European Economic Area-based traffic outright=2C set up bu=
+ckets of consent for readers to click through=2C or done something simpler=
+ (or nothing new at all). By Shan Wang and Christine Schmidt.
+http://www.niemanlab.org/2018/05/what-is-it-that-journalism-studies-is-stu=
+dying-these-days-a-lot-about-newsrooms-less-about-everybody-else-in-the-ne=
+ws-ecosystem/
+
+
+** What is it that journalism studies is studying these days? A lot about=
+ newsrooms=2C less about everybody else in the news ecosystem (http://www.=
+niemanlab.org/2018/05/what-is-it-that-journalism-studies-is-studying-these=
+-days-a-lot-about-newsrooms-less-about-everybody-else-in-the-news-ecosyste=
+m/)
+------------------------------------------------------------
+Also=2C has the =E2=80=9Cfake news=E2=80=9D moment already passed for acad=
+emics? By Rasmus Kleis Nielsen.
+http://www.niemanlab.org/2018/05/is-your-fake-news-about-immigrants-or-pol=
+iticians-it-all-depends-on-where-you-live/
+
+
+** Is your fake news about immigrants or politicians? It all depends on wh=
+ere you live (http://www.niemanlab.org/2018/05/is-your-fake-news-about-imm=
+igrants-or-politicians-it-all-depends-on-where-you-live/)
+------------------------------------------------------------
+Plus: Facebook is accepting proposals for fake news research=2C and fake n=
+ews was growing as a topic of media discussion even before the U.S. presid=
+ential election. By Laura Hazard Owen.
+What We=E2=80=99re Reading
+CNN Money / Michael Kaplan
+Facebook and Google are already facing lawsuits under GDPR =E2=86=92 (http=
+://money.cnn.com/2018/05/25/technology/gdpr-compliance-facebook-google/ind=
+ex.html)
+=E2=80=9CThere is no grace period=2C=E2=80=9D James Dipple-Johnstone=2C th=
+e deputy commissioner of the UK=E2=80=99s data protection authority. =E2=
+=80=9CWe will be looking at the algorithms they use to profit off data to=
+ make sure they are fair=2C=E2=80=9D he added.
+Poynter / David Beard
+The New York Times=E2=80=99 Showtime series shows how the journalism sausa=
+ge is made =E2=86=92 (https://www.poynter.org/news/showtimes-fourth-estate=
+-shows-how-journalism-sausage-made)
+=E2=80=9CDirector Garbus effectively creates a screen within a screen for=
+ the tweets that drive the news =E2=80=94 and frequently cuts to the CNN b=
+roadcasts of Times scoops to a broader world. Like director Alan Pakula in=
+ =E2=80=98Presidents=2C=E2=80=99 Garbus also showcases juxtapositions=2C b=
+eginning the first episode with newsroom reactions during Trump=E2=80=99s=
+ =E2=80=98American Carnage=E2=80=99 inauguration speech. She ends the epis=
+ode with one of the strangest juxtapositions ever=2C Trump at the Easter E=
+gg Hunt while reporters finish a story that settles on the most contentiou=
+s word of this administration: collusion.=E2=80=9D
+Lenfest Institute / Joseph Lichterman
+How local publisher Whereby.Us is building an email newsletter referral pr=
+ogram =E2=86=92 (https://www.lenfestinstitute.org/solution-set/2018/05/24/=
+local-publisher-wherebyus-building-email-newsletter-referral-program/)
+=E2=80=9CWe knew that so much of our growth was happening just by word of=
+ mouth and we wanted to find a way to systematize that process=2C but crea=
+ting a referral program is a really big tech lift.=E2=80=9D
+Columbia Journalism Review / Jared Schroeder
+Are bots entitled to free speech? =E2=86=92 (https://www.cjr.org/innovatio=
+ns/are-bots-entitled-to-free-speech.php)
+=E2=80=9CAll of this requires us to identify what is human about journalis=
+m =E2=80=94 and what is fundamental about it. Could a bot programmer invok=
+e a journalistic shield law to protect her program=E2=80=99s code=2C inclu=
+ding the sources it used to construct a report=2C from compelled disclosur=
+e? If a bot files FOIA requests=2C should it be exempt from fees because i=
+t intends to scrape the data and publish it in tweets or on a blog?=E2=80=
+=9D
+Media Nation / Dan Kennedy
+The Boston Globe announces another round of downsizing =E2=86=92 (https://=
+dankennedy.net/2018/05/24/on-top-of-everything-else-the-globe-announces-an=
+other-round-of-downsizing/)
+=E2=80=9CWe are optimistic that the buyout=2C the first in two years=2C wi=
+ll result in the savings we need to create a sustainable Globe. If we do n=
+ot get enough takers=2C we=E2=80=99ll have to consider all other options=
+=2C including layoffs.=E2=80=9D
+Digiday / Lucia Moses
+Some publishers stop Facebook ad spending over policy that treats publishe=
+rs as political advertisers =E2=86=92 (https://digiday.com/media/financial=
+-times-stops-facebook-ad-spending-policy-treats-publishers-political-adver=
+tisers/)
+At least two publishers =E2=80=94 The Financial Times and New York Media=
+ =E2=80=94 have suspended their paid media spending on Facebook out of fea=
+r that their news articles will be treated as political advocacy ads. Face=
+book =E2=80=9Cexecutives have said Facebook recognizes that news about pol=
+itics is different and was committed to finding a way to distinguish news=
+ from non-news content in the archives=2C but didn=E2=80=99t give specific=
+s or a timeline.=E2=80=9D
+Poynter / Alexios Mantazarlis
+Four serious questions about Elon Musk=E2=80=99s silly credibility score=
+ =E2=86=92 (https://www.poynter.org/news/four-serious-questions-about-elon=
+-musks-silly-credibility-score)
+=E2=80=9CThe vision that one easy hack can fix media bias and massive onli=
+ne misinformation is pervasive among certain quarters. But it=E2=80=99s fa=
+tally flawed.=E2=80=9D
+Medium / Karen Rundlet
+Who is watching local TV news? New research provides some surprises =E2=86=
+=92 (https://medium.com/informed-and-engaged/who-is-watching-local-tv-news=
+-new-research-provides-some-surprises-1262436aa75c)
+=E2=80=9CNew Knight research published today shows that the TV audience is=
+ largely 55+ years and shrinking=2C albeit slowly=2C as more Americans get=
+ their news from social media and smartphones.=E2=80=9D
+The Coral Project
+The Coral Project=2C after being =E2=80=9Cincubated=E2=80=9D by Mozilla=2C=
+ is looking for a new home =E2=86=92 (https://blog.coralproject.net/join-u=
+s-future-coralproject/)
+=E2=80=9COver the coming year=2C we will be offering hosting options for o=
+ur open-source software=2C and also looking for a new home for The Coral P=
+roject =E2=80=94 either as a standalone organization or by partnering with=
+ an existing nonprofit or for-profit organization in a related sector.=E2=
+=80=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3D21e8cd932e)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3D21e8cd932e)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

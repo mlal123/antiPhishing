@@ -1,0 +1,171 @@
+Your classmate posted a new Question.=20
+
+Lab 5: Invalid address for text segment
+
+I keep getting these error messages in MARS
+
+I've been able to fix it in the Sum.asm program by removing the "0x3000" li=
+ne of code, but I have been unable to fix it in the ex1.asm program. =C2=A0=
+Does anybody have any thoughts or ideas on what to do, or perhaps what is g=
+oing on in general? =C2=A0
+
+Would appreciate any help. =C2=A0
+
+
+
+Assemble: assembling C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\Sum.asm
+
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\Sum.asm line 4 column=
+ 6: Invalid address for text segment: 12288
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\Sum.asm line 5 column=
+ 6: Invalid address for text segment: 12292
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\Sum.asm line 7 column=
+ 6: Invalid address for text segment: 12296
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\Sum.asm line 8 column=
+ 6: Invalid address for text segment: 12300
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\Sum.asm line 9 column=
+ 6: Invalid address for text segment: 12304
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\Sum.asm line 10 colum=
+n 6: Invalid address for text segment: 12308
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\Sum.asm line 12 colum=
+n 6: Invalid address for text segment: 12312
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\Sum.asm line 13 colum=
+n 6: Invalid address for text segment: 12316
+Assemble: operation completed with errors.
+
+Assemble: assembling C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\Sum.asm
+
+Assemble: operation completed successfully.
+
+Assemble: assembling C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm
+
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "0" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "1" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "2" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "3" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "4" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "5" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "6" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "7" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "8" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "9" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "10" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "11" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "12" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "13" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "14" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "15" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "16" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "17" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "18" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "19" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "20" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "21" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "22" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "23" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "24" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "25" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "26" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "27" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "28" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "29" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "30" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "31" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 22 colum=
+n 23: "32" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 23 colum=
+n 24: "33" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 23 colum=
+n 24: "34" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 23 colum=
+n 24: "35" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 23 colum=
+n 24: "36" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 23 colum=
+n 24: "37" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 23 colum=
+n 24: "38" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 23 colum=
+n 24: "39" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 23 colum=
+n 24: "40" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 23 colum=
+n 24: "41" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 23 colum=
+n 24: "42" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 24 colum=
+n 19: "43" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 24 colum=
+n 19: "44" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 25 colum=
+n 18: "48" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 25 colum=
+n 30: "48" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 25 colum=
+n 40: "48" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 25 colum=
+n 46: "48" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 26 colum=
+n 5: "48" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 26 colum=
+n 14: "48" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 26 colum=
+n 24: "48" is not a valid data segment address
+Error in C:\Users\t0504\Desktop\Fall2016\COMP411\Lab5\ex1.asm line 26 colum=
+n 34: "48" is not a valid data segment address
+Assemble: operation completed with errors.
+
+
+Go to https://piazza.com/class?cid=3Ditxwh7lu7ap435&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @200. Follo=
+w it to get notified when a response comes in: https://piazza.com/follow/it=
+xwh7lu7ap435/f2GxNxqCfOm/f6033061=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.=

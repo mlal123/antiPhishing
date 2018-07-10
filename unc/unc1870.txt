@@ -1,0 +1,414 @@
+*Upcoming Events:*
+TONIGHT!
+*Air Force Info Session:* April 14th @5:30pm in 011 Sitterson Hall
+RSVP Here: https://unc.az1.qualtrics.com/SE/?SID=3DSV_8f88nXyK4et2tkF
+
+*=E2=80=8B*
+
+*GE Lobby Table & Tech Talk/Demo: *April 19th in Sitterson Hall
+*Stop by the lower lobby between 10am-2pm to chat with GE about their
+opportunities and/or attend their Tech Talk/Demo in 011 at 5:30pm. RSVP for
+the Tech Talk here: **https://unc.az1.qualtrics.com/SE/?SID=3DSV_3pDzhVUbgn=
+b5Vm5
+*
+
+*CIA Info Session: *April 20th @5:30pm in 011 Sitterson Hall
+*Learn how you can use your CS degree to help the CIA! RSVP here:
+**https://unc.az1.qualtrics.com/SE/?SID=3DSV_0OprNBsmxYWvQWx
+*
+
+=E2=80=8B
+
+*Illumina Info Session:* April 21st @5:30pm in 239A/B Hanes Hall
+
+*Illumina (www.illumina.com ) is a growing
+organization with a focus on unlocking the power of the genome. At the core
+of it- Illumina develops, manufactures and commercializes tools for genetic
+analysis. Hiring Software Engineers.*
+
+
+*Knowledgent Coffee Chats:* April 21st from 10am-1pm in Lower Lobby
+
+See Careerolina 
+job posting for their Jr. Big Data Engineer position #794819
+
+
+*=E2=80=8B*
+
+
+*Internships & PT Opportunities:*
+
+*Web-App Project (Virtual)*
+
+I want to create a program that will compare the prices of all products on
+retail websites like Wal-Mart and Target with Amazon's price and be able to
+save all of the products that fit my price and sales rank parameters. The
+program will be a web-app that can crawl through online stores (Walmart,
+Target, Best Buy, Amazon, etc) and analyze prices with Amazon's price (Done
+through the title, UPC's or ASIN's).  The app should run in the browser and
+use a document database (MongoDB preferred).  The back-end should be
+written preferably in Node JS.  Front end should be a basic dashboard style
+with a modern JavaScript framework (Angular, backbone, or ember will do).
+The app should be configured for cloud deployment. This is a single project
+that should be completed in a relatively short time. If it is successful it
+could lead to more projects throughout the year as more websites are
+added. Please
+submit your resume. Include a paragraph on how your skills and experience
+would be a fit for this project. Feel free to email me with any questions.
+I have a detailed mock up. Thank you,Christopher Bilezikian (Jacksonville
+FL) CJBilezikian@gmail.com
+
+*UNC Davis Library Student Consultants (Chapel Hill NC)*
+
+Briefly, consultants provide support for data services, geographic
+information services,
+
+data visualization, and digital humanities and provide training.  They are
+looking to hire for both summer and fall.
+
+The position description is online:
+http://gis.unc.edu/ResearchHubConsultant.pdf
+
+
+*Freshspire Backend & Mobile App Developer-Summer FT (Cary NC)*
+*Apply at getfreshspired.com/jobs *
+
+
+*Sphere Part-time Developer *
+Our flagship feature is event automation: we automatically schedule events
+between our users and their friends based on mutual interests and available
+times. We're highly privacy-conscious: we do not track our users online or
+give any of their information to any third parties. We are currently
+looking to fill a developer role that can start part-time and later become
+full-time. The selected candidate will work in Java with the Spring
+framework and later with our algorithm. Could you forward this email to
+your students? To apply, email hr@sphere.ms with their resume.
+
+*FitCity Internship - 1789 Venture (Chapel Hill NC)*
+FitCity is looking for a technical cofounder to join the team. FitCity is a
+one-stop
+shop fitness platform that allows users to connect to people, places, and
+fitness professionals in their area based on GPS location. See attachment
+for full description and contact info!
+
+*CDW On-Campus Internship - (Sophomore or Junior)*
+As technology continues to shape the way learning outcomes are achieved in
+Higher Education, we are seeking passionate individuals to help connect IT
+departments, university administration and CDW so that current and future
+students get the most out of their college investment. Join the Campus
+Intern team to gain real world experience with a Fortune 500 company that
+has been consistently recognized as one of the best places to work in the
+technology sector.
+
+*Essential Job Functions*
+=E2=80=A2 Challenging, innovative assignments providing an opportunity to g=
+ain
+working knowledge in the areas of IT analytics, desktop services, data
+management, web development, technical change management,
+project management, and cyber security
+=E2=80=A2 Shadow professionals in a variety of Information Technology disci=
+plines
+and to partner with members of the business
+=E2=80=A2 Research and identify campus structure as it pertains to Informat=
+ion
+Technology
+=E2=80=A2 Educate customers on the CDWG partnership by highlighting the val=
+ue and
+expertise offered to the University
+=E2=80=A2 Participate in ongoing professional and technical trainings
+=E2=80=A2 Impact the learning environment and student technology experience=
+ by
+leveraging your student voice in ongoing conversations with IT influencers
+
+*Qualifications*
+=E2=80=A2 Must be a sophomore or junior pursuing a degree in Information
+Technology, Information Systems, Computer Science, Management Information
+Systems or any other related major
+=E2=80=A2 Effective problem-solving skills, analytical aptitude, and the ab=
+ility to
+learn quickly and embrace change
+=E2=80=A2 Strong organization and time management skills to work in an inde=
+pendent
+environment
+=E2=80=A2 Ability to communicate effectively and in a professional manner w=
+ith all
+levels of an organization
+=E2=80=A2 Availability to work on campus for 15-25 hour/week within standar=
+d
+business hours
+
+*Internship Benefits*
+=E2=80=A2 Build Your Professional Network =E2=80=93 Get exposure to IT and =
+sales
+professionals within the University, CDW and Manufacturer Partners to start
+networking with industry professionals and technology experts
+=E2=80=A2 Real World Experience =E2=80=93 Gain professional experience that=
+ will translate
+into a wide range of fields and support your future career goals
+=E2=80=A2 Flexible Schedule =E2=80=93 Be able to balance your academic work=
+ load and the
+CDWG Campus Internship by mapping out your own schedule
+=E2=80=A2 No Commute Required =E2=80=93 Explore the IT environment at your =
+University at
+your convenience, on your own schedule - pick up hours between classes
+=E2=80=A2 Collaboration =E2=80=93 Work in a team sales environment and deli=
+ver on both
+personal and team goals
+
+If you would like to be considered this position please visit this link to
+join our talent network:
+https://www.applytracking.com/optin.aspx?c=3D9JK1mW82n%2foxg9VzZAZ3OZfinai5=
+Yz7h&source=3DDS-15361&def=3Du_ShortTextField22-UNC
+
+*Southern Startup Data Science Internship (For Grad Students)*
+The program is designed for graduate students and must identify a data
+science-related startup company willing to host them for the summer. The
+program is now live and details can be found below and at
+http://www.southbdhub.org/
+
+*Data Incubator Fellowship (For Grad Students)*
+
+The Data Incubator is an intensive 8 week fellowship that prepares Masters,
+PhDs, and postdocs in STEM + social science fields seeking industry careers
+as data scientists. The program is free for Fellows and supported by
+sponsorships from hundreds of employers across multiple industries. In
+response to the overwhelming interest in our earlier sessions, we will be
+holding another fellowship.
+
+*Locations: *There will be both an in-person (in NYC, DC, SF) and online
+section of the fellowship. There is a common application for both the
+online and in-person sections.
+
+*Dates: *All sections will be from* 2016-06-06* to *2016-07-29*
+
+*Application Link: **https://www.thedataincubator.com/fellowship.html#apply
+*
+
+*Who should apply: *Anyone within one year of graduating from a masters or
+PhD program or who has already obtained a masters or PhD is welcome to
+apply. Applications from international students are welcome. Everyone else
+is encouraged to *sign up for a future session*
+
+*.*
+
+*Chiltern Statistical Programming Intern (Cary NC)*
+Math and computer science students in at least their junior or senior year
+of an undergraduate program. Graduate students welcome as well.
+
+*About the Company:* Chiltern (Previously Theorem Clinical Research)
+www.chiltern.com is a Global Contract Research Organization that works with
+data from pharmaceutical companies to determine the safety and efficacy of
+new medications.
+*About the Internship:*
+Analyze and manipulate data for pharmaceutical drug trials using SAS (SAS
+knowledge preferred but not required); Year round paid position; On the job
+training and mentorship
+*Requirements: *Minimum GPA of 3.2; Must be able to meet demanding
+timelines while maintaining quality work; Able to work 20 hours per week
+during school semesters. Winter and summer schedules are preferably 40
+hours per week but can be flexible.
+Email your resume to Michael Stackhouse at Michael.Stackhouse
+@Chiltern.com
+
+
+*Robotics Unlimited Inc. Internship (Pensacola FL)*
+We are a start-up bringing cutting-edge robotics technologies to the mass
+market and are currently developing super cool robots for the entertainment
+ markets. We have a opening for a robotics intern who has
+experience/knowledge in mechanical design, electronic board design,
+firmware development and mobile development. Our work environment is always
+very casual and fun but can get high-demand during deadlines.
+*What we are looking for:*
+We are looking for student that can participate in a team to build complex
+robotics systems. More than a good resume with a great GPA, we are looking
+for applicants who have a large portfolio of robotics projects and hands on
+experience. This position can either be part-time or full-time. Please send
+a portfolio (pictures, screenshots) of the past robot you have developped
+along with a one page resume. *WE WILL NOT REVIEW an application without a
+portfolio. Do not forget to indicate your availabilities on your resume.*
+
+*Responsibilities:*
+Work with the team on designing a brand new robot.
+Help us and contribute to every single development aspect of the robot (you
+may do mechanical design one day and programming the next day)
+*Knowledge, Skills, and Abilities:*
+Solidworks design
+PCB design
+Circuit board population
+Rapid-prototyping (hands on experience required)
+Firmware dev (Microcontroller programming)
+iOS/Android development
+Previous experience in making robots
+Work under limited supervision
+Excellent communication skills
+Above average PC skills
+Enthusiasm for engineering
+U.S citizenship or Permanent Residency required
+Able to start immediately
+*Recommended:*
+Good understanding of electric motors / drive train
+Experience designing complex electromechanical products
+*Qualifications:*
+Pursuing or having a Bachelor=E2=80=99s degree in related engineering field
+*Make aplication to:*
+Sebastien Cotton, Ph.D
+Founder and CEO
+Robotics Unlimited Inc
+seb@robotics-unlimited.com
+
+
+
+*Full-Time Permanent Positions:*
+
+*Knowledgent Jr. Big Data Engineer (Warren NJ/NY)*
+*Knowledgent* is in search of talented and driven Computer Science majors
+graduating in May that are interested in a fulltime career as a Jr. Big
+Data Engineer. Students must be passionate about coding, database
+management, Big Data technologies, and are willing to relocate to the New
+York/New Jersey Area. *Knowledgent* is a young and rapidly growing Data &
+Analytics consultancy that provides endless opportunities for career
+advancement. *Knowledgent* not only provides training in consulting and
+next-generation technologies, but a work environment that encourages
+learning through collaboration with Senior Engineers and self-study. For
+those that need a new and interesting challenge to face every day, check
+out our website at www.knowledgent.com and apply online via our Careerolina
+posting #794819. Stop by and see Alum Prateek Peres da Silva  in Sitterson
+next Thursday to learn more about this job and working at Knowledgent! (see
+coffee chats above)
+
+*Elevation Computer Programmer (Charlotte NC)*
+See attachment
+
+*ReliaQuest Security Analyst (Tampa FL or Las Vegas NV)*
+Posted in Careerolina
+ #794200
+
+*Cadence Design Systems R&D Director (Cary NC)*
+Responsible for designing and developing leading edge multi-patterning and
+advanced fill software for physical verification products at advanced node.
+Performs as individual contributor on software development projects
+involving software design, implementation, validation, maintenance and
+documentation. Exercises independent judgment in developing software
+techniques, solution, and evaluation criteria for obtaining results. Works
+on extremely complex problems where analysis of data requires an evaluation
+of intangible variance factors.
+*Qualifications: *
+
+   - MS in CS or ECE ( Ph.D preferred )
+   - Excellent programming skill in C/C++ is required.
+   - Solid background in computational geometry and algorithm is desired.
+   - Prior industry experience in in developing large-scale C/C++ based EDA
+   software is a plus.
+   - Must have good communication skills to work with geographically
+   distributed teams.
+
+*EPA (Masters degree required)*
+
+EPA Scientific Application and Database Developer (MS Degree)
+
+
+EPA Safe & Healthy Communities Assessment Tool Support Associate
+
+
+
+
+*EMC Software Engineer 2 (RTP NC)*
+Are you a self-directed and motivated student looking to develop your
+skills, and get hands-on software development experience in an agile team?
+Are you the go-getter who is not afraid of taking on challenging problems
+and finds great satisfaction in delivering innovative solutions? Come join
+us! Our team in EMC2 RTP is working on next generation storage
+virtualization architecture integrating with VMware. As part of our team,
+you will be developing components for VMware Virtual Volumes (VVOLS) and
+Storage Policy Based Management (SPBM). Last year, our team released VVols
+Technical Preview for vVNX - Free download
+,
+the first-to-market software-defined solution showcasing VVols and SPBM.
+What we are looking for:
+
+   - Most importantly work well with a team of talented software engineers
+   with diverse skill sets, background, and experience.
+   - Strong motivation to learn new things and embrace change
+   - Strong problem solving and debugging skills
+   - Attention to detail and quality
+   - Knowledge in C++, Java, Object Oriented Design, algorithms, and data
+   structures (must be flexible to work on all to stretch your technical of
+   knowledge)
+   - Experience in Unix/Linux Development Environment
+   - Background with Perl or any scripting language
+
+*You will have an edge if you have:*
+
+   - Familiarity of Agile software development process
+   - Knowledge of Virtualization: VMware, Hyper-V
+   - Experience in Enterprise Storage System architecture (SAN/NAS)
+   - Experience with JavaScript, REST API
+
+To apply, email your resume to Vinod Rajasekaran at
+vinod.rajasekaran@emc.com or you can also submit your resume online here:
+https://jobs.emc.com/job/research-triangle-park/software-engineer-2-virtual=
+ization/414/1621808
+
+
+*Networking Opportunities:*
+
+Blockchain technology holds the potential to revolutionize the way
+information is exchanged, secured, transmitted, stored, and processed. With
+applications ranging from finance, insurance, healthcare, science,
+government and beyond, this is the beginning of a new information era.
+Welcoming all who are interested in blockchain: from programmers to
+political scientists and everything in-between. Join the RTP Hyperledger
+community in shaping the future! MEETUP GROUP
+http://www.meetup.com/Hyperledger-RTP
+
+
+
+Our first event will take place on *April 26th*, featuring a blockchain
+overview and introduction the Hyperledger. Food and drink will be provided.
+
+- Networking
+
+- Blockchain Overview and Unique Capabilities
+
+- Hyperledger
+
+- Potential Applications
+
+- Demonstration
+
+
+
+*GREAT SEARCH SITES/Services:*
+
+*Careerolina Listings (Multiple jobs and Internships posted- Check often!)*
+
+https://uncch-csm.symplicity.com/students/jobboard/b6e22a473be8b78084486a70=
+4fa2f92c
+
+
+*500 Miles App*
+
+The 500 Miles free app features "Stacks" to help students find the perfect
+employer for them. One such Stack that we* published last week features 135
+technology companies hiring interns for this summer.* These companies
+including Pandora, Splunk, Palo Alto Networks, Fitbit, Blue Apron and
+Box are currently hiring for over *450 open internship roles*. These
+internship positions include Software Engineering, UI/UX Design, Data
+Science, Operations, Social Media, Data Science and Sales among others.
+
+*Dice.com*
+All tech jobs, contracts and internships.
+
+*Students.linkedin.com *
+Search all entry level and internship postings on LinkedIn
+
+*Indeed.com*
+Largest job aggregator on the web
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

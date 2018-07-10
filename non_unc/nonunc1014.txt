@@ -1,0 +1,72 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Linear (Sequential) Search  (12/06/15 6:57 PM)
+
+Do we need to know how to code linear search?
+
+Go to https://piazza.com/class?cid=3Dihv6vj904ag2rq&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Very confused  (12/06/15 8:33 PM)
+
+Does anyone have any tips or quick explanations for material covered in the=
+ second part of the semester. I feel confused about almost everything and t=
+he study guide isn't useful because it is so hard. Thanks!!
+
+Go to https://piazza.com/class?cid=3Dihvaauck7n22td&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Study Guide Question #12  (12/06/15 10:19 PM)
+
+On Question 12, I don't understand the premise=C2=A0behind changing the nau=
+ghtyOrNice field. What does "non" do in this scenario?
+
+Go to https://piazza.com/class?cid=3Dihve3dkvic04i6&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+toString( )  (12/06/15 10:21 PM)
+
+On questions 26 and 27 in the study guide, what does the "public String toS=
+tring( )" method do? I don't see it being called anywhere...
+
+Go to https://piazza.com/class?cid=3Dihve6bced8u192&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+percentage of grade  (12/06/15 10:55 PM)
+
+Are the percentages of our assignments, tests, quizzes, etc. still the same=
+ as they are conveyed on the syllabus? such that the final is still worth 2=
+0% of our total grade?
+
+Go to https://piazza.com/class?cid=3Dihvfdddch4d7nv&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

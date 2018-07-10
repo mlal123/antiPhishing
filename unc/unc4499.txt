@@ -1,0 +1,644 @@
+
+
+  Odum News
+  
+
+ 
+ @import 'https://fonts.googleapis.com/css?family=3DRaleway: medium,semi-bo=
+ld,bold';
+@import 'https://fonts.googleapis.com/css?family=3DDroid+Serif';
+=20
+ a:link {
+	color: #7bafd4;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #7bafd4;
+}
+a:hover {
+	text-decoration: none;
+	color: #a51890;
+}
+a:active {
+	text-decoration: none;
+}
+p {
+	font-family: droid+serif;
+	font-style: regular;
+	font-weight: 100;
+}
+ h1,h2,h3,h4,h5,h6 {
+	font-family: raleway;
+	font-style: bold;
+	font-weight: 100;
+}
+ a {
+	font-weight: bold;
+}
+ 
+
+ 
+=20
+=20
+
+
+
+	
+     
+      
+       
+       
+      
+   =20
+      
+      
+       
+     =20
+
+
+
+ 
+  
+   
+    CONTENTS
+   
+  
+ =20
+
+
+   
+    
+NCD=
+S Call for Proposals
+
+Graduate Student Job Opening
+
+WANTED: Research Data Archivist
+    =20
+=
+Data Visualization Showcase & Contest
+=20
+ Qu=
+alitative Research Summer Intensive
+=20
+S=
+hort Course Spotlight
+    =20
+Upcoming Short Courses
+
+   
+  
+ =20
+
+
+   
+  NCDS CALL FOR PROPOSALS
+   
+  
+  
+   
+   =20
+
+National Consortium for Data Science seeks facult=
+y members for 2017 - 2018 Data Fellows program
+
+The Data Fellows program provides funding to faculty=
+ members from NCDS academic member institutions to support research on nove=
+l and innovative data science and data-focused business problems. NCDS acad=
+emic members include all campuses in the University of North Carolina syste=
+m and Drexel University.The program i=
+s open to faculty researchers in all disciplines and domains, with preferen=
+ce given to junior faculty with no more than five years of service. This ye=
+ar, the NCDS will award two fellowships of up to $30,000 each.Data Fellows proposals must be submitted by Friday, April 7, 2017.  =20
+For the complete Data Fellows Call for Proposals, in=
+cluding the submission form, click here. 
+
+For general information about the Data Fellows progr=
+am, including information about current and past Fellows, visit http://datascienceconsortium.org/data-fellow-awards/. 
+
+
+    
+   =20
+
+
+   
+   GRADUATE STUDENT JOB OPENING
+   
+  
+  
+   
+   =20
+
+The Odum Institute is seeking enrolled advanced grad=
+uate students with demonstrated proficiency in statistical methods to becom=
+e part of a team working to ensure the quality of datasets and analysis cod=
+e underlying published articles.As a =
+member of this team, you will execute the analysis presented in the manuscr=
+ipt using the author-provided code, data, and supplemental materials in an =
+attempt to generate tables and figures identical to those in the manuscript=
+.  The verificati=
+on process is one that is rigorous and demands significant competencies to =
+include:  
+	Applied knowledge in a variety of statistical m=
+ethods including regression analysis (linear, logistic, ordinal), ANOVA, mu=
+ltilevel/hierarchical modeling, generalized linear modeling, factor analysi=
+s and structural equation modeling
+    Expertise in statistical software packages t=
+o include R and Stata 
+     Aptitude for identifying and diagnosing err=
+ors in analysis code
+      Ability to communicate effectively and con=
+cisely in written correspondence
+	Capacity to manage several concurrent projects =
+and set reasonable priorities for project completion
+
+
+Candidates will be asked to demonstrate these compet=
+encies by performing dataset/code verification on a sample manuscript submi=
+ssion.  Team members must be able to commit to a (flexible) schedule of at =
+least 10 hours per week.This position=
+ offers students an excellent opportunity to advance their skills and knowl=
+edge in statistical methods and data management while gaining an in-depth p=
+erspective of the scholarly publication landscape and broader issues relate=
+d to reproducible research. =20
+   =20
+For more information and to apply, please contact odumarchive@un=
+c.edu 
+
+    
+   =20
+ =20
+  
+   
+   WANTED: RESEARCH DATA ARCHIVIST
+   
+  
+  
+   
+   =20
+
+Apply today to join the Odum Institute archive te=
+am as our new Research Data Archivist!The primary purpose of this position is to:
+	Provide management for the Odum Institute socia=
+l science data archive to include archive materials, systems and staff
+    Provide ongoing data management and archive =
+support for researchers in the social and behavioral sciences at UNC-Chapel=
+ Hill and to external users
+     Interface with data producers and instituti=
+onal partners to promote ongoing collection development
+      Support grant activities related to the ar=
+chive functions of the Institute
+	Contribute to the profession through conference=
+ participation and research publication
+
+
+Educational Requirements: Advanced degree in Information and Library Scie=
+nceQualifications=
+ and Experience: An advanced degree in in=
+formation science with coursework or minimum of 2 years experience in digit=
+al data archives is required. Minimum of 2 years supervisory experience. Ex=
+perience in grant writing is required. Demonstrated proficiency in CSS, HTM=
+L, JavaScript, and SQL, with a strong aptitude for learning more complex pr=
+ogramming languages and code. Background knowledge in social science resear=
+ch principles and techniques including statistical software packages (e.g.,=
+ SAS, SPSS, and STATA) is strongly desired.=20
+   =20
+For more information and to apply, click here. This position will remain open until filled.
+
+    
+   =20
+ =20
+
+   
+   DATA VISUALIZATION SHOWCASE & CONTEST
+   
+  
+  
+   
+   =20
+
+The Health Sciences Library is hosting its 2nd Annual Da=
+ta Visualization Showcase & Contest on April 11, 2017, and is curre=
+ntly accepting submissions. The contest is open to all students of the Univ=
+ersity of North Carolina at Chapel Hill. It is intended to showcase innovat=
+ive examples of UNC students using data to tell a story about a healthcare =
+issue using health/healthcare data. The contest closes March 3, 2017.Prizes will be awarded to first and second place winnersFIRST PLACE
+$100 Amazon gift cardOpportunity to present to industry professionalsSECOND PLACE
+$50 Amazon gift cardAdditional information on submission guidelines and contest rules can=
+ be found on the Data Visualization Showcase & Contest website.
+
+
+    
+  
+ =20
+ =20
+ =20
+ =20
+  
+   
+   QUALITATIVE RESEARCH SUMMER INTENSIVE
+   
+  
+  
+   
+   =20
+
+ ResearchTalk and the Odum Institute at University o=
+f North Carolina present:=20
+The 14th Annual Qualitative Rese=
+arch Summer IntensiveJoin us for =
+five days of qualitative research professional development courses and netw=
+orking opportunities. This year we are introducing ten new courses a=
+nd four new instructors!=20
+ July 24 - 25, 2017 (9:30am - 4:=
+00pm)
+    	Coding and Analyzing Qualitative Data (Johnny Salda=C3=B1a)
+        NEW! Focus Groups: Tools for Inquiry,=
+ Pedagogy, and Social Advocacy/Activism (New QRSI Scholar: George Kambe=
+relis)
+        Foundational Principles of and Approa=
+ches to Mixed Methods Research (Margarete Sandelowski)
+        NEW! Introduction to Qualitative Rese=
+arch: From Principles to Practice (Alison Hamilton)
+        NEW! Oral History: Purpose, Praxis an=
+d Possibility (New QRSI Scholar: Sherick Hughes)
+        NEW! Qualitative Teamwork (Kevin =
+Swartout)
+    
+       =20
+       =20
+ July 26, 2017 (9:30am - 4:00pm)=
+
+    	Building a Codebook and Writing Memos (Paul Mihas)
+        NEW! Compassionate Interviewing (=
+Carolyn Ellis)
+        Doing Qualitative Research Online=
+ (Kevin Swartout)
+        Rapid Turn-around Qualitative Researc=
+h (Alison Hamilton and Ray Maietta)
+        NEW! Synthesizing Qualitative Data (Johnny Salda=C3=B1a)
+        NEW! Writing Stories: Researcher as S=
+toryteller (New QRSI Scholar: Arthur Bochner)
+    
+       =20
+     July 27 - 28, 2017 (Thursda=
+y 9:30am - 4:00pm, Friday 9:00am - 3:00pm)
+    	NEW! Doing Qualitative Research in the B=
+ig Data Era (New QRSI Scholar: Mario Small)
+        NEW! Evocative Autoethnography: Writi=
+ng Lives and Telling Stories (Carolyn Ellis and Arthur Bochner)<=
+/li>
+        Implementation Research: Using Qualit=
+ative Research Methods to Improve Policy and Practice (Alison Hamilton)=
+
+        NEW! Qualitative Research: Anaylzying=
+ Life (Johnny Salda=C3=B1a)
+        'Sort and Sift, Think and Shift': Lea=
+rning to Let the Data Guide Your Analysis (Ray Maietta)
+        Writing Effective Qualitative and Mix=
+ed Methods Research Proposals (Margarete Sandelowski)
+       =20
+       =20
+
+       =20
+   Visit http://researchtalk.com/qrsi-2017/ for more=
+ information and to register.=20
+
+
+    
+  
+ =20
+ =20
+ =20
+ =20
+
+
+   
+   SHORT COURSE SPOTLIGHT
+   
+  
+  
+   
+   =20
+
+Short Course Spotlight: Visual Design for Surveys: A Hands-on ApproachThis course focuses on how and why words=
+, numbers, symbols and graphics independently and jointly influence answers=
+ to questions in Internet and paper surveys. It begins with theoretical bac=
+kground on why and how the visual aspects of questions are interpreted by r=
+espondents and guide their reding and comprehension of meaning. Application=
+s of the theory and research to designing individual person and establishme=
+nt surveys in ways that improve their usability for respondents will be pro=
+vided.=20
+ The course includes a discussion of the substantial=
+ implications these ideas have for the design of mixed-mode surveys in whic=
+h some respondents are asked to report aurally (e.g. telephone) and others =
+are asked to complete visually communicated (web or mail) survey questions.=
+ The substantial visual design challenges researchers are now facing with d=
+esigning questions for smartphones will be discussed as part of the mixed-m=
+ode design issues that must be addressed in many surveys.=20
+ The Instructor: This course will be taught by Don A. Dillman, Regents Pr=
+ofessor in the Departments of Sociology and the Social and Economic Science=
+s Research Center at Washington State University in Pullman. Dillman is a p=
+ast-president of the American Association for Public Research and also serv=
+ed as the Senior Survey Methodologist at the U.S. Census Bureau (1991-1995)=
+ where he provided leadership for introducing respondent friendly design in=
+to the Decennial Census and other government surveys. His 2014 book (with J=
+olene Smyth and Leah Christian), "Phone, Internet, Mail and Mixed-Mode=
+ Surveys: the Tailored Design" (John Wiley: Hoboken NJ, 2014) provides=
+ background for the visual design and survey implementation recommendations=
+ provided in this short course.
+=20
+ This course will count as 7.0 CPSM short course cre=
+dit hours=20
+  If you have any questions, please contact Jill Ste=
+vens at jil=
+l_stevens@unc.edu=20
+  Registration fees:
+  
+  		CPSM Students - $30<=
+/font>
+        UNC Students - $=
+45
+        Other - $60
+  To register, click her=
+e. Register by March 20, 201=
+7.=20
+  If you have any questions, please contact Jill Ste=
+vens at jil=
+l_stevens@unc.edu=20
+  =20
+* Cancellation/ Refund Policy: A full refund will be=
+ given to those who cancel their registration no later than 10 days prior t=
+o the course. If you cancel within the 10 days prior to the class, no refun=
+d will be given. Please allow 30 days to receive your refund. 
+* Waitlist/ Walk-ins: There may be a waitlist for the courses. Walk-ins wil=
+l not be accepted. Each attendee must register and pay prior to 3 days befo=
+re the start of the course. Locati=
+on: Davis Library 219
+Date: March 23, 2017Time: 9:00 - 4:30 p.m. 
+  
+ =20
+ =20
+  =20
+
+
+   
+   UPCOMING SHORT COURSES
+   
+  
+  
+   
+  =20
+     Quantitative Analysis Short=
+ Courses:
+    	NVivo Hands-on Workshop (Part 1)
+        Date: February 20, 2017
+        Time: 2:00 - 4:00 p.m.
+        Location: Davis Library Room 3010=
+
+       =20
+   =20
+   =20
+      
+    	ICPSR - Introduction to Mixed Methods Re=
+search
+        Date: July 10 - 12, 2017
+        Time: 9:00 - 4:30 p.m.
+        Location: Davis Library Room 3010=
+
+      =20
+   =20
+   =20
+      
+    	Qualitative Research Summer Intensive
+           Location: Carolina Inn<=
+/li>
+           For more information and to register,=
+ click here
+        July 24, 2017 9:30 a.m. - 4:00 p.=
+m.
+        July 25, 2017 9:30 a.m. - 4:00 p.=
+m.
+        July 26, 2017 9:30 a.m. - 4:00 p.=
+m.
+        July 27, 2017 9:30 a.m. - 4:00 p.=
+m.
+        July 28, 2017 9:30 a.m. - 4:00 p.=
+m.
+
+       =20
+   =20
+      
+    	ICPSR - Qualitative Research Methods=
+
+        Date: August 2 - 4, 2017
+        Time: 9:00 - 4:30 p.m.
+        Location: Davis Library Room 3010=
+
+      =20
+   =20
+   =20
+Quantitative Analysis Short Cour=
+ses:
+    	An Introduction to Conducting Experiment=
+s in the Social Sciences
+        Date: March 10, 2017
+        Time: 10:00 - 4:00 p.m.
+        Location: Davis Library Room 3010=
+
+     =20
+   =20
+      
+    	Logistic Regression
+        Date: March 22, 2017
+        Time: 3:30 - 5:00 p.m.
+        Location: Davis Library Room 219<=
+/font>
+     =20
+   =20
+          
+    	ICPSR - Latent Growth Curve Models (LGCM=
+): A Structural Equation Modeling Approach
+        Date: June 5 - 9, 2017
+        Time: 9:00 - 4:30 p.m.
+        Location: Davis Library Room 219<=
+/font>
+     =20
+   =20
+              
+    	ICPSR - Growth Mixture Models: A Structu=
+ral Equation Modeling Approach
+        Date: June 12 - 14, 2017
+        Time: 9:00 - 4:30 p.m.
+        Location: Davis Library Room 219<=
+/font>
+     =20
+   =20
+              
+    	ICPSR - Machine Learning for the Analysi=
+s of Text as Data
+        Date: June 19 - 23, 2017
+        Time: 9:00 - 4:30 p.m.
+        Location: Davis Library Room 219<=
+/font>
+     =20
+   =20
+              
+    	ICPSR - Bayesian Analysis
+        Date: July 17 - 21, 2017
+        Time: 9:00 - 4:30 p.m.
+        Location: Davis Library Room 219<=
+/font>
+     =20
+   =20
+              
+    	ICPSR - Statistical Graphics<=
+/li>
+        Date: July 31 - August 2, 2017
+        Time: 9:00 - 4:30 p.m.
+        Location: Davis Library Room 219<=
+/font>
+     =20
+   =20
+   =20
+   =20
+   =20
+Spatial Analysis & Mapping S=
+hort Courses:=20
+      
+    	Introduction to the QGIS Open Source Sof=
+tware: Part 1
+        Date: February 20, 2017
+        Time: 10:00 - 12:00 p.m.
+        Location: Davis Library Room 247<=
+/font>
+     =20
+   =20
+      
+    	Introduction to the QGIS Open Source Sof=
+tware: Part 2
+        Date: February 22, 2017
+        Time: 10:00 - 12:00 p.m.
+        Location: Davis Library Room 247<=
+/font>
+     =20
+          =20
+             
+    	Introduction to the GRASS Open Source GI=
+S and image processing software
+        Date: February 24, 2017
+        Time: 10:00 - 12:00 p.m.
+        Location: Davis Library Room 247<=
+/font>
+     =20
+          =20
+          =20
+  
+    	Applied Spatial Regression Analysis<=
+/font>
+        Date: March 27 & 29, 2017
+        Time: 1:30 - 4:00 p.m.
+        Location: Davis Library Room 219<=
+/font>
+     =20
+          =20
+Survey Research Short Courses:
+    	Visual Design for Surveys: A Hands-On Ap=
+proach
+        Date: March 23, 2017
+        Time: 9:00 - 4:30 p.m.
+        Location: Davis Library Room 219<=
+/font>
+    
+   =20
+    
+    	Cognitive Interviewing: A Hands-On Appro=
+ach
+        Date: April 7, 2017
+        Time: 9:00 - 4:30 p.m.
+        Location: Davis Library Room 219<=
+/font>
+    
+                       
+    	Social Media's Role in Survey Research
+        Date: April 13, 2017
+        Time: 9:00 - 1:00 p.m.
+        Location: Davis Library Room 219<=
+/font>
+    
+   =20
+    Statistical Computing Short =
+Courses:=20
+
+      
+    	SPSS
+        Date: February 27, March 1, March=
+ 3, 2017
+        Time: 3:30 - 5:00 p.m.
+        Location: Davis Library Room 219<=
+/font>
+    
+   =20
+       =20
+    
+    	SAS
+        Date: March 27 - March 30, 2017
+        Time: 3:00 - 5:00 p.m.
+        Location: Davis Library Room 3010=
+
+    
+   =20
+    Other Short Courses:
+    	Data Wrangling
+        Date: March 25, April 1, 2017
+        Time: 9:00 - 4:00 p.m.
+        Location: Mitchell Hall Room 3010=
+
+    
+
+
+    For more information and to register for courses=
+ click here.
+   =20
+    
+  
+ =20
+ =20
+  =20
+ =20
+
+
+            =20
+=20
+
+   
+    To unsubscribe from=20
+  this listserv, send a blank e-mail message to leave-38542558-90028569.519edd28e76e17b9866=
+f1cae416ac17a@listserv.unc.edu
+  
+
+ 
+  The Odum Institute
+   The University of North=20
+  Carolina at Chapel Hill 
+  Davis Library, 2nd Floor, CB# 3355
+  Chapel Hill, NC 27599-3355 
+  www.odum.unc.edu=20
+  
+  Telephone: 919.962.3061
+Follow us on Twitter here=
+!
+Subscribe to our YouTube =
+channel here!
+       
+      
+  
+       
+      
+
+
+
+
+
+

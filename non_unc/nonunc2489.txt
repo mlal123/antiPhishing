@@ -1,0 +1,72 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+Getter Method  (9/04/16 9:34 PM)
+
+When get(0) is called on an empty list, should I return the head node or nu=
+ll?
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3dispdk1bjdo13lp%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c8c2b7b32e0af421483b408d=
+3d54f1edc%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DeUplpT5fcyEGx5mehB=
+3012r%2fH9x3GD4QAOfLv1w1Eis%3d to view.
+
+------------------------------------------------------------
+Tests  (9/04/16 10:42 PM)
+
+As long as we pass all the tests, we are guaranteed a 100 given that our co=
+de is efficient right?=C2=A0
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3dispfzqfynwdpz%26nid%3dis6wk5m47ay4zy%26token%3df2G=
+xNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c8c2b7b32e0af421483b408d3=
+d54f1edc%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DvckuBc2eizHYNY4E87R=
+njt20%2fOrvtfioBJC6%2bLfZ6QA%3d to view.
+
+------------------------------------------------------------
+Junit Tests  (9/04/16 11:06 PM)
+
+I am passing all the JUnit tests however when I click on the little blue fo=
+lder icons I get the following message and am not sure what to do.
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3dispgtnjkmjw225%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c8c2b7b32e0af421483b408d=
+3d54f1edc%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DCFg3zuGDFWWTQwuIz7=
+0gHprqi4rPgR0qxNXl%2bRs1EeE%3d to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.co=
+m%2flogin&data=3D01%7c01%7cmlal123%40live.unc.edu%7c8c2b7b32e0af421483b408d=
+3d54f1edc%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DdkkXK7okUNiebYzAVP=
+CuDb%2buflk5ak9HtvZFmMRa5TU%3d to sign in and manage your email preferences=
+ or proceed to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3=
+a%2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2fis6wk5m47ay4zy&data=3D01%7c01%7c=
+mlal123%40live.unc.edu%7c8c2b7b32e0af421483b408d3d54f1edc%7c58b3d54f16c942d=
+3af081fcabd095666%7c1&sdata=3Di%2bGUG7G%2fdzQ6PPMX5ChG4k6ivk%2fga%2f6cfN27D=
+3%2fykAQ%3d to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://na01.safelinks.protection.ou=
+tlook.com/?url=3Dhttps%3a%2f%2fpiazza.com%2flink_accounts%2ff2GxNxqCfOm&dat=
+a=3D01%7c01%7cmlal123%40live.unc.edu%7c8c2b7b32e0af421483b408d3d54f1edc%7c5=
+8b3d54f16c942d3af081fcabd095666%7c1&sdata=3DRTM5hzIbY2WSOvDFhkKP9uf%2f9A9bn=
+qYWfsiT9sjj8fk%3d=

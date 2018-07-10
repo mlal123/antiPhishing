@@ -1,0 +1,32 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Colorize  (11/22/15 4:42 PM)
+
+I am stuck on how to implement the color in ColorizeEffect. I have everything else set up, and the filter is working with a hardcoded double value of "0.5" for testing purposes. y problem is that I am unable to implement "this.getColor" because it is of type "Color" as opposed to 'double', and I cannot subtract a color from a double in my "delta" amounts. What am I doing wrong? How can I subtract this color from a double?
+
+Go to https://piazza.com/class?cid=ihb1wct6rt975y&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Assignment 4B 3.1  (11/22/15 5:31 PM)
+
+Does this section only require one loop? Or will I have to create a loop for each Effect?
+
+Go to https://piazza.com/class?cid=ihb3mxqfay46rs&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 110 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2GxNxqCfOm

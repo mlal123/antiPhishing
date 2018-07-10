@@ -1,0 +1,161 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+Thinking through getHeight()  (9/16/16 9:59 PM)
+
+Hey peeps,
+
+I'm trying to think through the most expedient way to write getHeight()
+It seems like the first two checks are:
+Empty tree -->return -1Tree contains only root --> return 0
+
+And after those checks are performed, if your root node has one or more sub=
+children, find some way to add up the longest path from the root node to th=
+e deepest leaf. (Or should I use more checks than the first two?)
+
+I was wondering, is there a way to use getMin or getMax to find the longest=
+ path? It seems like getMin and getMax look for leaves=C2=A0that are deep, =
+I'm just not sure if they always find the deepest leaf.
+
+Thank you for the help!
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3dit6jqbqho327if%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c49fd0ddb2ec04d84ed3708d=
+3dec00200%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3Dsnqb9jxDJUxLrcbywS=
+Ier9peuf0XEiPBSMp9XLLGUpI%3d to view.
+
+------------------------------------------------------------
+Test Dump  (9/16/16 11:14 PM)
+
+For your reference, should be posted on site soon too.
+
+
+
+
+
+
+
+
+A0 Offical Test Dump
+
+
+
+RemoveTest0: insert(7,0),insert(9,1),insert(4,1),insert(8,3),insert(6,3),re=
+move(1) --> 7,9,6,8
+
+RemoveTest1: insert(1,0),insert(2,1),insert(3,2),insert(1,1),insert(4,4),re=
+move(4) --> 0,1,2,3
+ and remove(4) should return true
+=20
+RemoveTest2: insert(1,0),insert(5,1),insert(9,2),insert(3,2),remove(0),remo=
+ve(0),remove(1) --> 3
+
+RemoveTest3:  remove(0) on empty list should return false
+	and remove(0) on non-empty list should return true
+	and remove(0),insert(0,0),insert(1,1),insert(2,2),remove(5),remove(0) --> =
+1,2
+
+=09
+=09
+SizeTest0: size(new List) --> 0
+
+SizeTest1: size(insert(20.0,0),insert(20.0,1)) --> 2
+
+SizeTest2: size(insert(3,0),remove(0)) --> 0
+
+SizeTest3: size(insert(3,0),insert(2,1),insert(1,2),insert(1,100),remove(17=
+)) --> 3
+	and size(insert(3,0),insert(2.0,1),insert(1,2),insert(1,100),remove(17),cl=
+ear()) --> 0
+
+=09
+=09
+ClearTest0: insert(5,0),insert(5,0),clear(),insert(6,0),insert(4,1) --> 6,4
+
+ClearTest1: clear(),insert(2,0),insert(7,1),insert(8,1),remove(0),clear(),i=
+nsert(4,0) --> 4
+
+
+
+GetTest0: calling get(0) on list: {3,5,4} should return Node containing dat=
+a 3
+	and calling get(1) on list: {3,5,4} should return Node containing data 5
+	and calling get(2) on list: {3,5,4} should return Node containing data 4
+=09
+GetTest1: calling get(0) on empty list should return null
+	and calling get(1) on list: {3} should return null
+=09
+
+
+InsertTest0: insert(5,0) --> 5
+
+InsertTest1: insert(2,0),insert(1,0),insert(0,0) --> 0,1,2
+
+InsertTest2: insert(0,0),insert(1,1),insert(2,2),insert(3,3),insert(4,4) --=
+> 0,1,2,3,4
+
+InsertTest3: insert(0,1) on empty list --> empty
+	and insert(0,1) on empty list should return false
+	and insert(1,3) on list: {0,1} should leave the list unchanged
+
+
+
+
+
+
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3dit6mebougb83x1%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c49fd0ddb2ec04d84ed3708d=
+3dec00200%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3D0P0Tlys9OBiiMmL1Dr=
+NMQjUVSoTHQcw%2bYbI71q%2f%2b2EM%3d to view.
+
+------------------------------------------------------------
+JAR file and informal explanation for tests up now  (9/17/16 12:16 AM)
+
+Links for the JAR file and the informal description of the oracle tests is =
+on the assignment page now for BST.
+
+Let us know if something is not working properly.
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpi=
+azza.com%2fclass%3fcid%3dit6omxhjtx01a2%26nid%3dis6wk5m47ay4zy%26token%3df2=
+GxNxqCfOm&data=3D01%7c01%7cmlal123%40live.unc.edu%7c49fd0ddb2ec04d84ed3708d=
+3dec00200%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3D%2f3ic0kf9r6uoNVCQ=
+WJj7hyraqbLHwQBe8Ntva142UkA%3d to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fpiazza.co=
+m%2flogin&data=3D01%7c01%7cmlal123%40live.unc.edu%7c49fd0ddb2ec04d84ed3708d=
+3dec00200%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3Do3tI6T3wTNSKpqd%2f=
+pw0gD0MwISyI%2fslhMM0NMymEFrA%3d to sign in and manage your email preferenc=
+es or proceed to https://na01.safelinks.protection.outlook.com/?url=3Dhttps=
+%3a%2f%2fpiazza.com%2fremove%2ff2GxNxqCfOm%2fis6wk5m47ay4zy&data=3D01%7c01%=
+7cmlal123%40live.unc.edu%7c49fd0ddb2ec04d84ed3708d3dec00200%7c58b3d54f16c94=
+2d3af081fcabd095666%7c1&sdata=3DOgiVag0MHk37vD9Xgtd60Qnu4zF019dlxgbV4s6Zbh0=
+%3d to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://na01.safelinks.protection.ou=
+tlook.com/?url=3Dhttps%3a%2f%2fpiazza.com%2flink_accounts%2ff2GxNxqCfOm&dat=
+a=3D01%7c01%7cmlal123%40live.unc.edu%7c49fd0ddb2ec04d84ed3708d3dec00200%7c5=
+8b3d54f16c942d3af081fcabd095666%7c1&sdata=3D43kmRviHFzIJ7QSwadYoN8wL5NtbmCQ=
+7T5IiKevfaVg%3d=

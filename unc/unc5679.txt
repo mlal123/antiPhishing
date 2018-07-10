@@ -1,0 +1,26 @@
+
+Dear Customer,
+
+The password for your onyen_primary 'mlal123' was changed on Thu Jul 13 09:50:56 EDT 2017 from
+a Web browser at the internet address 174.194.35.60 using the facility at
+itsapps.unc.edu/improv.
+
+If you DID NOT change your password today, please call 919-962-HELP immediately.
+
+If you did change or reset your password, please make sure you do the following
+to prevent account lockouts:
+
+*  Log out and log back into your Windows Computer with your new
+   Onyen password if it is connected to the AD.UNC.EDU Domain
+
+*  Update the password on any mobile devices that have your
+   UNC Email Account configured (iPods, iPads, smart phones, etc.)
+
+*  Manually update your Password on Windows 7 Credentials Manager
+   or Mac OS X Key Chain if you have any special server drives or
+   printers configured
+
+For more information, see http://help.unc.edu/3248
+
+If you have any questions please contact the ITS Help Desk at 919-962-HELP or
+1-866-962-4457.

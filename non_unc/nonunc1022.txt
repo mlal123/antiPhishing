@@ -1,0 +1,136 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Study guide  (12/07/15 4:16 PM)
+
+If we are comfortable with everything on the study guide should we be good =
+for the test or is there anything we need to know that is not covered on th=
+e study guide?
+
+Go to https://piazza.com/class?cid=3Dihwgkt803aktt&nid=3Didk60wfq88174f&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+OOP review slide  (12/07/15 4:28 PM)
+
+OOP_Review.pdf
+
+Go to https://piazza.com/class?cid=3Dihwgzplw7oj6un&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Ben's Slides from Final Review - Objects  (12/07/15 4:57 PM)
+
+objectsFinalReviewBen.pdf
+
+Go to https://piazza.com/class?cid=3Dihwi1rqee7240e&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+selection sort  (12/07/15 4:59 PM)
+
+should we know all the methods/steps of selection sort or just the general =
+swap method?
+
+Go to https://piazza.com/class?cid=3Dihwi3jov1o15w1&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Question 31?  (12/07/15 5:03 PM)
+
+Do you have to declare result as a double inside the method or is that alre=
+ady declared?=C2=A0
+
+Go to https://piazza.com/class?cid=3Dihwi95irzmb77r&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+use of the word "this"  (12/07/15 6:17 PM)
+
+I am still confused on when "this" is required vs. when it's not. For examp=
+le, on number 23 on the study guide, i would have thought it needed to say =
+"this.modelColor =3D newModelColor;
+
+because that's what we have seen in other setter methods.=C2=A0
+
+Go to https://piazza.com/class?cid=3Dihwkvrsos2v7pl&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+study guide 28  (12/07/15 6:36 PM)
+
+for the second question of 28 what are the 2 constructors in the Car class?
+
+Go to https://piazza.com/class?cid=3Dihwljtqjhp6140&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+question about slides  (12/07/15 6:49 PM)
+
+
+
+
+
+int resultDenom =3D a*d + b*c;=20
+int resultNum =3D b*d;
+
+=20
+return new Rational(resultDenom, resultNum);=C2=A0
+
+
+so this returns (a*d + b*c) /=C2=A0=C2=A0(b*d) =C2=A0right? Why are the Den=
+o and Num switched?
+
+
+
+
+
+Go to https://piazza.com/class?cid=3Dihwm133neku11n&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Dropping lowest assignment  (12/07/15 6:57 PM)
+
+Professor Aikat said that she would drop the lowest assignment instead of a=
+ lab because it would benefit most of the class.
+
+I would benefit more from dropping a lab, is there any possible way that we=
+ could substitute dropping a lab instead of an assignment?
+
+Go to https://piazza.com/class?cid=3Dihwmaw5qy7e6g&nid=3Didk60wfq88174f&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Final Study Guide #36 - The Base Case Given by the Answer  (12/07/15 7:07 P=
+M)
+
+I was wondering why the base case of the Fibonacci's series is "if(x=3D=3D1=
+) return 0". What if x=3D=3D2? Then, how would the recursion go on?
+
+Go to https://piazza.com/class?cid=3Dihwmni4syki84&nid=3Didk60wfq88174f&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

@@ -1,0 +1,126 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Review  (12/07/15 12:40 PM)
+
+Where is the review going to be?
+
+Go to https://piazza.com/class?cid=3Dihw8uiup7x34ca&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Problem 29  (12/07/15 12:43 PM)
+
+On the final exam study guide, for problem 29 I didn't make anything privat=
+e because the question didn't specify public vs. private for the variables =
+or methods, but then the answer listed the instance variables as being priv=
+ate. On the exam, will points be deducted if something like this happens?
+
+
+
+Go to https://piazza.com/class?cid=3Dihw8ycku5z9735&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Final study guide  (12/07/15 12:57 PM)
+
+Is the final study guide comprised of material both before and after the mi=
+dterm? I feel like its only the new stuff on the study guide.=C2=A0
+
+Go to https://piazza.com/class?cid=3Dihw9gdweo5e57s&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Recursion  (12/07/15 1:13 PM)
+
+On the final study guide, a few questions require an understanding/usage of=
+ recursion, but Prof. Aikat said in class that recursion would not be teste=
+d on the exam. Is that still true?
+
+Go to https://piazza.com/class?cid=3Dihwa17ix89z10f&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Exam Review today?  (12/07/15 1:57 PM)
+
+Is today's review that exact same material from last time? Or do you guys r=
+ecommend us to go again?=C2=A0
+
+Go to https://piazza.com/class?cid=3Dihwbl5gkv8waq&nid=3Didk60wfq88174f&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Final Exam  (12/07/15 3:03 PM)
+
+For problem 12 part 4 how does the string "non" change the value of the Boo=
+lean and where would this method be placed in the code??
+
+Go to https://piazza.com/class?cid=3Dihwdxxiqvsl2e7&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+setters and getters  ()
+
+Is it correct to assume that if a question calls for getters and/or setters=
+, the instance variables need to be private?=C2=A0
+
+Go to https://piazza.com/class?cid=3Dihwegquljtq6nc&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Where do I find Exam Study Guide?  (12/07/15 3:29 PM)
+
+
+
+Go to https://piazza.com/class?cid=3Dihwevkqsr3g7ks&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Where is the review section located?  (12/07/15 3:32 PM)
+
+
+
+Go to https://piazza.com/class?cid=3Dihwez4pa9py3ja&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+What to bring for exam  (12/07/15 3:58 PM)
+
+What will we need to bring for the exam? Just pencils and ID?
+
+Go to https://piazza.com/class?cid=3Dihwfwynyjo93cd&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Study guide question  (12/07/15 3:59 PM)
+
+So we don't have to be familiar with questions 34-36 on the study guide? (R=
+ecursion)=C2=A0
+
+Go to https://piazza.com/class?cid=3Dihwfyr4n6rg2lb&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

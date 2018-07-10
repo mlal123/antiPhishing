@@ -1,0 +1,57 @@
+Under Armour
+
+NOTICE OF DATA BREACH
+
+To the MyFitnessPal Community:
+
+
+We are writing to notify you about an issue that may involve your MyFitnessPal account information. We understand that you value your privacy and we take the protection of your information seriously. 
+
+What Happened?
+
+
+On March 25, 2018, we became aware that during February of this year an unauthorized party acquired data associated with MyFitnessPal user accounts. 
+
+What Information Was Involved?
+
+
+The affected information included usernames, email addresses, and hashed passwords - the majority with the hashing function called bcrypt used to secure passwords.
+
+What We Are Doing
+
+
+Once we became aware, we quickly took steps to determine the nature and scope of the issue. We are working with leading data security firms to assist in our investigation. We have also notified and are coordinating with law enforcement authorities. 
+
+ 
+We are taking steps to protect our community, including the following:
+
+	- We are notifying MyFitnessPal users to provide information on how they can protect their data. 
+	- We will be requiring MyFitnessPal users to change their passwords and urge users to do so immediately.
+	- We continue to monitor for suspicious activity and to coordinate with law enforcement authorities.
+	- We continue to make enhancements to our systems to detect and prevent unauthorized access to user information.What You Can Do
+
+
+We take our obligation to safeguard your personal data very seriously and are alerting you about this issue so you can take steps to help protect your information. We recommend you:
+
+	- Change your password for any other account on which you used the same or similar information used for your MyFitnessPal account.
+	- Review your accounts for suspicious activity.
+	- Be cautious of any unsolicited communications that ask for your personal data or refer you to a web page asking for personal data.
+	- Avoid clicking on links or downloading attachments from suspicious emails.For More Information
+
+
+For more information, please go to http://click.mfp.underarmour.com/?qs=fd50f971390f0b5c390f6d41d10bddac8741fd1aad23f6de908d96657000b6e5487e94c6badf782c1cbb01ca6ec4b421a83a99f543a01f17 
+
+
+Sincerely,
+
+
+
+Paul Fipps 
+
+Chief Digital Officer
+ 
+
+
+
+
+

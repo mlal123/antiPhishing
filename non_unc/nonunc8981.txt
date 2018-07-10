@@ -1,0 +1,1359 @@
+
+
+Udemy
+
+@import url('https://fonts.googleapis.com/css?family=3DSource+Sans+Pro:300,=
+400,600');
+@import url('https://fonts.googleapis.com/css?family=3DZilla+Slab:300,400,6=
+00');
+/* CLIENT-SPECIFIC STYLES */
+body, table, td, a, p {-webkit-text-size-adjust: 100%; -ms-text-size-adjust=
+: 100%; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;}
+table, td {mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: c=
+ollapse;}
+img { -ms-interpolation-mode: bicubic; }
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+.appleFooter a {
+color:#ffffff !important;
+text-decoration: none!important;
+}
+
+/* MOBILE STYLES */
+@media only screen and (max-width: 480px){
+#container{
+width:100% !important;
+}
+#banner_text {
+text-align: center !important;
+padding-bottom: 10px;
+}
+.deviceWidth{
+display:block !important;
+width:100% !important;
+}
+.hidden{
+display: none;
+}
+.courseCardTop{
+width:30% !important;
+float: left;
+min-width: 30% !important;
+}
+.courseCardBottom{
+width:70% !important;
+float: left;
+min-width: 70% !important;=20
+border-bottom: 0px !important;
+}
+.mobileColor{
+background-color: #ffffff !important;
+}
+.mobileCourseLine{
+border-bottom: 2px #edece6 solid;
+}
+.titleHeight{
+height: auto;
+}
+.titlePadding{
+padding-top: 0px !important;
+padding-bottom: 10px !important;
+font-size: 16px !important;
+}
+.starPricePadding{
+padding-top: 0px !important;
+padding-bottom: 5px !important;
+font-size: 80% !important;
+}
+.courseImage{
+width: 100%;
+height: auto !important;
+}
+.moduleTitlePadding{
+padding: 20px 5px 5px 5px !important;
+}
+.mobileCoursePadding{
+padding: 15px 5px 0px 5px !important;
+width: 100% !important;
+}
+.targetedSpacer{
+width: 5%;
+}
+.headerImage{
+height: 30px !important;
+padding: 5px 0px !important;
+}
+.navBarTextTest{
+padding: 5px 10px 5px 0px !important;
+}
+.navBarImageTest{
+height: 30px !important;
+padding: 5px 0px 5px 10px !important;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+We've found a course f=
+or you based on your interests. Enroll now and receive a special discount.<=
+/div>
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Interested in Python courses? Chec=
+k out:Python A-Z=E2=84=A2: Python =
+For Data Science With Real Exercises!
+
+ 
+
+
+
+=
+=20
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+=20
+
+ =20
+
+
+
+ 
+
+
+
+
+
+
+
+=20
+
+ 
+
+
+
+
+
+$199.99  =
+$13.99      (1,029)
+
+
+
+
+
+
+Take Course
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kirill Eremen=
+ko
+
+
+
+
+
+
+
+
+
+
+
+29,406 Studen=
+ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12 Hours
+
+
+
+
+
+
+
+
+
+
+
+74 Lectures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+        *Web-exclusive deal =E2=80=93 promotion not=
+ available on the mobile app        
+
+
+
+
+=20
+
+=20
+=20
+
+
+
+
+
+
+ 
+
+St=
+udents who enrolled in Python A-Z=E2=84=A2: Python For Data Science=
+ With Real Exercises! also enrolled in:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+R Programming A-Z=E2=84=A2: R Fo=
+r Data Science With Real Exercises!
+
+
+
+             4.61&nb=
+sp;(2,258)
+
+
+
+
+
+$199.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+R Programming: Advanced Analytic=
+s In R For Data Science
+
+
+
+             4.63&nb=
+sp;(420)
+
+
+
+
+
+$199.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Data Science A-Z=E2=84=A2: Real-=
+Life Data Science Exercises Included
+
+
+
+             4.53&nb=
+sp;(1,811)
+
+
+
+
+
+$199.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+=20
+
+
+
+
+
+
+
+ 
+Keep learning with top Data and Analytics courses:<=
+/a>
+
+ 
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+
+
+Python for Data Science and Mach=
+ine Learning Bootcamp
+
+
+
+             4.56&nb=
+sp;(4,966)
+
+
+
+
+
+$194.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Deep Learning A-Z=E2=84=A2: Hand=
+s-On Artificial Neural Networks
+
+
+
+             4.46&nb=
+sp;(2,949)
+
+
+
+
+
+$199.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+The Complete SQL Bootcamp
+
+
+
+             4.58&nb=
+sp;(3,496)
+
+
+
+
+
+$194.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Tableau 10 A-Z: Hands-On Tableau=
+ Training For Data Science!
+
+
+
+             4.65&nb=
+sp;(3,527)
+
+
+
+
+
+$199.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+The Ultimate Hands-On Hadoop - T=
+ame your Big Data!
+
+
+
+             4.54&nb=
+sp;(1,885)
+
+
+
+
+
+$179.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+Check out top Business courses:
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+PMP Exam Prep Seminar -  PMBOK G=
+uide 6 includes 35 PDUs
+
+
+
+             4.59&nb=
+sp;(1,982)
+
+
+
+
+
+$199.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+The Complete Presentation and Pu=
+blic Speaking/Speech Course
+
+
+
+             4.21 =
+;(1,257)
+
+
+
+
+
+$199.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+An Entire MBA in 1 Course:Award =
+Winning Business School Prof
+
+
+
+             4.47&nb=
+sp;(1,834)
+
+
+
+
+
+$199.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+PMP Exam Prep: Earn Your PMP Cer=
+tification
+
+
+
+             4.62&nb=
+sp;(4,056)
+
+
+
+
+
+$199.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Learn Cloud Computing from Scrat=
+ch
+
+
+
+             4.10 =
+;(17)
+
+
+
+
+
+$29.99=
+  $=
+13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+=20
+=20
+
+=20
+=20
+
+
+
+
+
+
+ 
+Students who enrolled in Artificial Intellig=
+ence A-Z=E2=84=A2: Learn How To Build An AI also enrolled in:
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Deep Learning and Computer Visio=
+n A-Z=E2=84=A2: OpenCV, SSD & GANs
+
+
+
+             4.47&nb=
+sp;(533)
+
+
+
+
+
+$199.99  =
+$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+=20
+=20
+
+
+
+=20
+
+
+=20
+=20
+
+
+
+
+
+
+ 
+Discover what students who viewed Lea=
+rn Cloud Computing from Scratch also viewed:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Cloud Computing Basics:Enhance y=
+our career as Cloud Engineer
+
+
+
+             4.10 =
+;(10)
+
+
+
+
+
+$49.99=
+  $=
+13.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Cloud Computing Development Esse=
+ntials
+
+
+
+             4.40&nb=
+sp;(10)
+
+
+
+
+
+$99.99=
+  $=
+13.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Projects in Cloud Computing
+
+
+
+             4.33&nb=
+sp;(14)
+
+
+
+
+
+$49.99=
+  $=
+13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    =20
+
+
+    UNSUBSCRIBE  |  SUPPORT  |  VIEW ON=
+LINE
+
+
+
+Ude=
+my.com 600 Harrison Street, 3rd Floor San Francisco, CA 94107 USA
+
+
+
+    Careers at Udemy | Get Udemy at Work | Download our apps for Offline Coursetaking
+
+
+
+        
+     =
+  =20
+    
+        
+           =20
+  =
+          =20
+    
+                    
+                        
+                    =20
+                    
+                      =20
+                    
+                    
+                        
+                    
+                
+            
+           =20
+        
+    
+             =20
+
+    
+
+    
+        
+        
+            
+                =20
+                     
+                
+            
+        
+            
+               
+    
+
+    
+    *Some exclusions apply. Coupon cod=
+e expires 2018-=
+03-28 07:00 AM GMT.*Final prices shown in cart*Discount applied in cart*Not all cour=
+ses qualify
+
+
+    
+        
+            Connect with us
+        
+    
+    
+        
+     =
+  =20
+    
+        
+           =20
+  =
+          =20
+    
+                    
+                        
+                    =20
+                    
+                      =20
+                    
+                    
+                        
+                    
+                
+            
+           =20
+        
+    
+             =20
+
+    
+   =20
+    =20
+   =20
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+Your classmate posted a new Question.=20
+
+Hamming question
+
+I'm trying to make sure I=C2=A0 understand a few things about the capabilit=
+ies of our Hamming program.=C2=A0 Are we to make=C2=A0 sure it finds the ha=
+mming distance of any two hexes of arbitrary length (given the examples of =
+much shorter length than md5 or sha256 output) or are we making it with a c=
+hosen bit length in mind?=C2=A0 If I used SHA256 or MDA5, then I could pad =
+0s to their respective bit counts for my comparisons.=C2=A0 Dynamically pad=
+ding 0s to match the longer binary length would work in all cases, right?=
+=C2=A0 Since any additional leading 0s to get to more typical bit counts wo=
+uldn't add to the hamming distance anyway.
+
+Go to https://piazza.com/class?cid=3Dj8b08dze3ys431&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @92. Follow=
+ it to get notified when a response comes in: https://piazza.com/follow/j8b=
+08dze3ys431/f2GxNxqCfOm/12c9d8de=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 435 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/j5vi9cpw2jn336 to un-enroll from this class.=

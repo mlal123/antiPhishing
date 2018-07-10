@@ -1,0 +1,31 @@
+Talk has been moved to this coming Friday so you should ignore the date on
+the doodle poll
+
+---------- Forwarded message ----------
+From: bil hays 
+
+
+
+I'll be giving a Tec Talk this Friday at 11:00 am in FB009. The talk
+will be in two parts. The first part will cover:
+-The types of attacks you face
+-Some ways to secure your computer
+-What makes a good password and how to make one
+-Storing your password safely
+-How to tighten security of your browser
+
+The second part will be oriented more towards Staff and Graduate student
+and will cover some of the UNC CH policies on sensitive data and how to
+recognize and protect it.
+
+If you would like to attend this talk, please go to the doodle poll here
+
+and enter your first and last name. This way we'll have an idea of how
+many people will attend.
+
+tia,
+bil
+
+-- 
+You received this message because you are subscribed to the Google Groups "Majors" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to majors+unsubscribe@cs.unc.edu.

@@ -1,0 +1,22 @@
+
+Hey there, we=E2=80=99re just writing to let you know that you=E2=80=99ve b=
+een automatically subscribed to a repository on GitHub.
+
+    swimit/insight
+    https://github.com/swimit/insight
+
+You=E2=80=99ll receive notifications for all issues, pull requests, and com=
+ments that happen inside the repository. If you would like to stop watching=
+ this repository, you can manage your settings here:
+
+    https://github.com/swimit/insight/subscription
+
+You can unwatch this repository immediately by clicking here:
+
+    https://github.com/swimit/insight/unsubscribe_via_email/AQKbX0J3Mi3Uskm=
+aPPyvuSsWkYiE1biTks5tQTgLgaJpZM4HI7Yv
+
+You were automatically subscribed because you=E2=80=99ve been given access =
+to the repository.
+
+Thanks!

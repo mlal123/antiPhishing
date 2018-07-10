@@ -1,0 +1,30 @@
+As the semester wraps up, we know that students want to use space in the
+building for work sessions, study groups, and interview calls.  This is a
+reminder about the use of these rooms.
+
+   - If you are "squatting" in a room that you have not reserved and
+   someone with the room reserved comes in, you must vacate the space.  This
+   means that you should not be using a room for an interview unless you know
+   that you will not be evicted.
+   - You can check whether a room is being used by checking the google
+   calendar.  http://cs.unc.edu/calendars/ has the list of calendars that
+   you should be checking.
+   - Students cannot reserve rooms.  When you click the room on the side of
+   the calendar, that sends an invitation to the room calendar but it is NOT
+   automatically accepted and hence the room is not reserved.
+   - The only way to reserve a room in the building is through a faculty
+   member.  If you are reserving a room for a club, you should work with the
+   faculty adviser for the club.  If you are working on a project for a
+   faculty member or are arranging a study group for a class, ask the faculty
+   member to reserve the room.  They will know how to do it.
+
+We encourage students to spend time in Sitterson and Brooks.  We just want
+to make sure that everyone respects the commitments made for the resources.
+
+Have a good semester end!
+
+Diane
+
+-- 
+You received this message because you are subscribed to the Google Groups "Majors" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to majors+unsubscribe@cs.unc.edu.

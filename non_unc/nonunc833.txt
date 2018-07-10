@@ -1,0 +1,28 @@
+Your classmate posted a new Question. 
+
+"Could not find Color() constructor"
+
+All of my tests in part 2 pass except for one, which is telling me that I don't have a Color() constructor. I'm confused because I didn't see anything in the instructions that said to create a color constructor. I thought it was this:
+
+public Color (double red, double green, double blue) {
+this.setRed(red);
+this.setGreen(green);
+this.setBlue(blue);
+}
+
+Is there something else that I need to add?
+
+Go to https://piazza.com/class?cid=igwxb1jz6777do&nid=idk60wfq88174f&token=f2GxNxqCfOm to view. Search or link to this question with @334. Follow it to get notified when a response comes in: https://piazza.com/follow/igwxb1jz6777do/f2GxNxqCfOm/35448445 
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 110 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.

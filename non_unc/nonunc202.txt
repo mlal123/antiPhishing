@@ -1,0 +1,50 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Zip Checker Error  (8/25/15 10:04 PM)
+
+So I thought I zipped my file right, but when I used the zip checker I got =
+the error message "at least one .java file is outside a src folder." Not su=
+re how to fix this but any help would be much appreciated, thanks!
+
+Go to https://piazza.com/class?cid=3Dids52gaqyzy714&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+running the code issue  (8/25/15 10:56 PM)
+
+i am trying to run my code that we did in class, but it keeps saying that I=
+ need to select to run either "ant build" or "Ant build..."? =C2=A0Also, wh=
+en i write the=C2=A0code System.out.println("Hello World"); the "out"=C2=A0=
+isn't italicizing like Dr. Aikat's did in class. I want to come to lab/offi=
+ce hours but my classes/extracurriculars override all of the times, so this=
+ is my only option for now. Any ideas on how I=C2=A0can successfully run my=
+ code without this error message popping up?=C2=A0
+
+Go to https://piazza.com/class?cid=3Dids6wcg6jq86pz&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to http://piazza.c=
+om/login to sign in and manage your email preferences or proceed to http://=
+piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: http://piazza.com/link_accounts/f2Gx=
+NxqCfOm=

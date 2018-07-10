@@ -1,0 +1,48 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 435 on Piazza:
+
+------------------------------------------------------------
+Changing network type to NAT Network  (11/16/17 12:29 PM)
+
+I'm trying to change the network settings to NAT Network, but it won't let =
+me continue with the setting. It states that I need a name for the NAT Netw=
+ork, but there is no name to choose from the dropdown menu next to "Name."
+
+Go to https://piazza.com/class?cid=3Dja2r2pknfnvfq&nid=3Dj5vi9cpw2jn336&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Not able to get correct output  (11/16/17 12:09 PM)
+
+I am having trouble getting any useful output when I run the attack.py. I t=
+hought the problem was my OpenSSL version, so I reinstalled the virtual mac=
+hine. Even then, I am getting this as the output:=C2=A0
+
+My version of OpenSSL is 1.01. Is this the right version?=C2=A0
+
+Go to https://piazza.com/class?cid=3Dja2qd8y4dmfn0&nid=3Dj5vi9cpw2jn336&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 435 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/j5vi9cpw2jn336 to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

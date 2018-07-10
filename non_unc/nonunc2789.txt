@@ -1,0 +1,80 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+Lab 4 Ex2  (9/25/16 3:58 PM)
+
+I'm trying to do Ex2. I don't understand what diff is printing.=C2=A0
+
+classroom(120)% diff ex2r1 ex2out1
+1a2
+>=20
+4d4
+<=20
+Can someone help me figure out what this means?
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Fpi=
+azza.com%2Fclass%3Fcid%3Ditj1s6rlkvk56r%26nid%3Dirqp4hpe58u5rs%26token%3Df2=
+GxNxqCfOm&data=3D01%7C01%7Cmlal123%40live.unc.edu%7Cb85c5994d62448d65f6408d=
+3e58c9524%7C58b3d54f16c942d3af081fcabd095666%7C1&sdata=3D6ZL3AAmUmzBBdroUXA=
+eZZGXbNmLXtXTXKc5%2F6Htc%2F0s%3D&reserved=3D0 to view.
+
+------------------------------------------------------------
+Hex question  (9/25/16 5:07 PM)
+
+do hexidecimal numbers always use four bits?i.e., for -8, could I use "0xF8=
+" or do I have to use "0xFFF8"? They seem to give the same thing, it just d=
+epends if your signed binary=C2=A0is 8 or 16 bits. Thanks.
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Fpi=
+azza.com%2Fclass%3Fcid%3Ditj48t0xlj91d6%26nid%3Dirqp4hpe58u5rs%26token%3Df2=
+GxNxqCfOm&data=3D01%7C01%7Cmlal123%40live.unc.edu%7Cb85c5994d62448d65f6408d=
+3e58c9524%7C58b3d54f16c942d3af081fcabd095666%7C1&sdata=3Dk2wVNrEbp68qq5CngN=
+FeZf5d%2FH%2BhbByMPZDJ0PwfJ%2F4%3D&reserved=3D0 to view.
+
+------------------------------------------------------------
+Problem Set 2, Question 2 G  (9/25/16 5:12 PM)
+
+I don't really understand what this is even asking for, what does it mean b=
+y negate the number we found from e? Does it want us to find the positive r=
+epresentation of the number or something?
+
+Go to https://na01.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Fpi=
+azza.com%2Fclass%3Fcid%3Ditj4fh0sqy39o%26nid%3Dirqp4hpe58u5rs%26token%3Df2G=
+xNxqCfOm&data=3D01%7C01%7Cmlal123%40live.unc.edu%7Cb85c5994d62448d65f6408d3=
+e58c9524%7C58b3d54f16c942d3af081fcabd095666%7C1&sdata=3Dpk0%2FDKVkKvODIw2oJ=
+RCnRe8iZpdb%2BujipDd3JZ5%2Fi4c%3D&reserved=3D0 to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://na01.sa=
+felinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Fpiazza.com%2Flogin&data=
+=3D01%7C01%7Cmlal123%40live.unc.edu%7Cb85c5994d62448d65f6408d3e58c9524%7C58=
+b3d54f16c942d3af081fcabd095666%7C1&sdata=3DgUOqAOvkSoKi2uUJPFY4%2Fsb%2F9TJx=
+Jcdk3vRBW%2F%2F4X1I%3D&reserved=3D0 to sign in and manage your email prefer=
+ences or proceed to https://na01.safelinks.protection.outlook.com/?url=3Dht=
+tps%3A%2F%2Fpiazza.com%2Fremove%2Ff2GxNxqCfOm%2Firqp4hpe58u5rs&data=3D01%7C=
+01%7Cmlal123%40live.unc.edu%7Cb85c5994d62448d65f6408d3e58c9524%7C58b3d54f16=
+c942d3af081fcabd095666%7C1&sdata=3DJxlq7itxH66kKKeHH%2FQZwliquHuiXpP0GzSSdW=
+h99lw%3D&reserved=3D0 to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://na01.safelinks.protection.ou=
+tlook.com/?url=3Dhttps%3A%2F%2Fpiazza.com%2Flink_accounts%2Ff2GxNxqCfOm&dat=
+a=3D01%7C01%7Cmlal123%40live.unc.edu%7Cb85c5994d62448d65f6408d3e58c9524%7C5=
+8b3d54f16c942d3af081fcabd095666%7C1&sdata=3Dlc0FVrPjoaCgYrij%2BIvqSnJz%2FU5=
+kwIyt9%2FLt4wKGYX8%3D&reserved=3D0=

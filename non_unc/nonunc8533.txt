@@ -1,0 +1,160 @@
+Nieman Lab: The Daily Digest
+Friday=2C February 16=2C 2018
+http://www.niemanlab.org/2018/02/are-news-publishers-directly-liable-for-e=
+mbedding-tweets-that-contain-images-not-created-by-that-tweeter/
+
+
+** Are news publishers directly liable for embedding tweets that contain i=
+mages not created by that tweeter? (http://www.niemanlab.org/2018/02/are-n=
+ews-publishers-directly-liable-for-embedding-tweets-that-contain-images-no=
+t-created-by-that-tweeter/)
+------------------------------------------------------------
+A New York federal judge ruled that when publishers from The Boston Globe=
+ to Vox Media to Breitbart =E2=80=9Ccaused the embedded tweets to appear o=
+n their websites=2C their actions violated plaintiff=E2=80=99s exclusive d=
+isplay right.=E2=80=9D By Shan Wang.
+http://www.niemanlab.org/2018/02/what-strategies-work-best-for-increasing-=
+trust-in-local-newsrooms-trusting-news-has-some-ideas/
+
+
+** What strategies work best for increasing trust in local newsrooms? Trus=
+ting News has some ideas (http://www.niemanlab.org/2018/02/what-strategies=
+-work-best-for-increasing-trust-in-local-newsrooms-trusting-news-has-some-=
+ideas/)
+------------------------------------------------------------
+=E2=80=9CIt=E2=80=99s not so much about gaming Facebook=E2=80=99s algorith=
+m or working with the Facebook changes as much as it is taking advantage o=
+f Facebook as a truly social platform.=E2=80=9D By Christine Schmidt.
+http://www.niemanlab.org/2018/02/should-we-consider-fake-news-another-form=
+-of-not-particularly-effective-political-persuasion-or-something-more-dang=
+erous/
+
+
+** Should we consider fake news another form of (not particularly effectiv=
+e) political persuasion =E2=80=94 or something more dangerous? (http://www=
+=2Eniemanlab.org/2018/02/should-we-consider-fake-news-another-form-of-not-pa=
+rticularly-effective-political-persuasion-or-something-more-dangerous/)
+------------------------------------------------------------
+Plus: The lines between =E2=80=9Cfake news=E2=80=9D and psyops=2C the Russ=
+ians shared real news too=2C and =E2=80=9Creality apathy.=E2=80=9D By Laur=
+a Hazard Owen.
+Here=E2=80=99s how Google is thinking about surfacing paywalled news organ=
+izations in search (http://www.niemanlab.org/2018/02/heres-how-google-is-t=
+hinking-about-surfacing-paywalled-news-organizations-in-search/)
+What We=E2=80=99re Reading
+Wired / Erin Griffith
+Pro-gun Russian bots flood Twitter after the mass shooting at a Florida hi=
+gh school =E2=86=92 (https://www.wired.com/story/pro-gun-russian-bots-floo=
+d-twitter-after-parkland-shooting/)
+=E2=80=9COn RoBhat Labs=E2=80=99 Botcheck.me=2C a website created by two B=
+erkeley students to track 1500 political propaganda bots=2C all of the top=
+ two-word phrases used in the last 24 hours =E2=80=94 excluding President=
+ Trump=E2=80=99s name =E2=80=94 are related to the tragedy: School shootin=
+g=2C gun control=2C high school=2C Florida school. The top hashtags from t=
+he last 24 hours include Parkland=2C guncontrol=2C and guncontrolnow.=E2=
+=80=9D
+Bloomberg / Aoife White
+Facbook must stop tracking Belgian web users=2C a Belgian court ruled =E2=
+=86=92 (https://www.bloomberg.com/news/articles/2018-02-16/facebook-must-s=
+top-tracking-belgian-web-users-court-rules)
+=E2=80=9CThe social media giant must delete data it=E2=80=99s already gath=
+ered=2C or it will face fines of =E2=82=AC250=2C000 ($312=2C000) a day=2C=
+ a Belgian court ruled. Facebook =E2=80=98doesn=E2=80=99t sufficiently inf=
+orm=E2=80=99 clients about the data it gathers on their broader web use=2C=
+ nor does it explain what it does with the information or say how long it=
+ stores it=2C the Brussels Court of First Instance said in a statement.=E2=
+=80=9D
+Digiday / Lucia Moses
+=E2=80=98There=E2=80=99s an awful lot of showmanship=E2=80=99: Confessions=
+ of a publishing consultant on Facebook=E2=80=99s news feed changes =E2=86=
+=92 (https://digiday.com/media/theres-awful-lot-showmanship-confessions-pu=
+blishing-consultant-facebooks-news-feed-changes/)
+=E2=80=9CThere=E2=80=99s a lot of shock and floundering and not knowing wh=
+at to do inwardly=2C while outwardly=2C there=E2=80=99s a lot of posturing=
+ and big statements from publishers saying=2C =E2=80=98This is our new cou=
+rse of action; this is what we=E2=80=99re going to do.=E2=80=99 It=E2=80=
+=99s far too early to know what the path forward is. Of course=2C this wil=
+l have an impact =E2=80=94 we=E2=80=99re just not sure what.=E2=80=9D
+Poynter / Daniel Funke
+Imposter tweets made it even harder for a reporter to cover Florida school=
+ shooting =E2=86=92 (https://www.poynter.org/news/imposter-tweets-made-it-=
+even-harder-reporter-cover-florida-school-shooting)
+=E2=80=9CClaire Wardle=2C executive director of First Draft=2C which is ho=
+sted in Harvard University=E2=80=99s Shorenstein Center on Media=2C Politi=
+cs and Public Policy=2C said in an email that this was the first time she=
+=E2=80=99s seen fake tweets posing as journalists=E2=80=99 work. However=
+=2C over the past couple of years=2C she=E2=80=99s seen tweets chastising=
+ journalists who reach out to people affected by breaking news events. Tha=
+t nugget of reality is what makes these fake tweets effective=2C she said.=
+=E2=80=9D
+NewsWhip / Liam Corcoran
+Tips for how to succeed on Facebook as a local news publisher =E2=86=92 (h=
+ttps://www.newswhip.com/2018/02/local-news-on-facebook-jan-2018/)
+=E2=80=9C(1) Develop a real community by doubling-down on the type of stor=
+ies that differentiate your site from bigger publishers that already have=
+ a massive audience. (2) Recognize your audience=E2=80=99s reading habits=
+=2C and serve them. (3) Regularly review data=2C and re-engage: It=E2=80=
+=99s probable that not every story is going to work well in the news feed=
+=2C even with the latest Facebook boost. (4) For a rundown on where to sta=
+rt=2C check out our guide to sharing analytics in the newsroom.=E2=80=9D
+The Boston Globe / Joshua Benton
+The Boston Herald=E2=80=99s buyer Digital First Media is a vulture capital=
+ist =E2=86=92 (https://www.bostonglobe.com/opinion/2018/02/15/the-boston-h=
+erald-buyer-vulture-capitalist/miuJ6opA6TApR61bZEO1aM/story.html)
+=E2=80=9CA local owner who cares about the quality of news is better than=
+ a distant one who does=2C and both are better than one whose only concern=
+ is the bottom line. The Herald=E2=80=99s sale will still need to be appro=
+ved in a bankruptcy court in Delaware. I don=E2=80=99t expect a Delaware j=
+udge to care much about the journalistic health of Boston. But just short=
+ of setting the place on fire=2C being bought by Digital First is about th=
+e worst outcome possible. It=E2=80=99s less the Herald being saved than th=
+e Herald being stripped for parts=2C=E2=80=9D writes Nieman Lab=E2=80=99s=
+ Joshua Benton.
+BuzzFeed / Andrew Potter
+Opinion: Can the resistance take The New York Times hostage? =E2=86=92 (ht=
+tps://www.buzzfeed.com/apotter/can-the-resistance-take-the-new-york-times-=
+hostage)
+=E2=80=9CBut as the industry moves in the direction of a subscription-driv=
+en business=2C it will learn that subscribers can collide with editorial i=
+ndependence just as easily as corporate advertisers can. If their willingn=
+ess to pay for news (and by implied threat=2C stop paying) becomes central=
+ to news economics=2C the Resistance can take a newspaper hostage much mor=
+e effectively than advertisers ever did.=E2=80=9D
+BuzzFeed / Jane Lytvynenko
+Twitter says impersonating a journalist during a mass shooting doesn=E2=80=
+=99t violate its rules =E2=86=92 (https://www.buzzfeed.com/janelytvynenko/=
+doctored-reporter-tweets)
+=E2=80=9CIn the wake of the Florida high school shooting Wednesday=2C Twit=
+ter users began spreading doctored tweets targeting Miami Herald reporter=
+ Alex Harris. The first tweet faked Harris asking for pictures or video of=
+ dead bodies.=E2=80=99 The second doctored tweet went further=2C making it=
+ look like she was asking whether the shooter was white.=E2=80=9D
+The Daily Caller / Joe Simonson
+IJR has laid off 15 staffers =E2=86=92 (http://dailycaller.com/2018/02/15/=
+mass-layoffs-ijr/)
+=E2=80=9CEmployees received notice about their termination Thursday mornin=
+g via email=2C according to multiple recently laid-off IJR staffers. A num=
+ber of veteran employees were also allegedly included in the mass layoffs.=
+ One source told the Daily Caller that eliminations hit virtually every de=
+partment at the company.=E2=80=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3De3bb7a704e)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3De3bb7a704e)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

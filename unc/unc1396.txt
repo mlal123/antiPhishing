@@ -1,0 +1,82 @@
+ 
+Dear Customer :  
+
+Thank you for contacting us about the issue you reported on 02/02/2016 09:47:00 AM. 
+
+
+We invite you to visit this web address & take a short survey that will provide feedback on your experience with the ITS hardware & drop off support group. 
+
+Click here to complete survey
+
+ITS Response Center
+(919) 962-HELP
+http://help.unc.edu
+
+**ATTENTION**
+
+The UNC Secure Wi-Fi network will be permanently removed on Friday, October 16th.  It takes just five minutes to get connected to the new Eduroam network. Go to: http://wifi.unc.edu
+
+
+
+
+Summary of Request 
+
+Status:  Successfully Resolved
+First Name:  mangza
+Last Name:  lal
+Request Number:  3165804
+Problem Description:  02/03/2016 03:57:17 PM swalter 
+Client picked up machine and returned loaner. Closing ticket. 
+
+2/2/2016 9:47:00 AM arditti
+Client's Problem Description:
+Computer freezing after 5 minutes of use.  
+
+Worklog:
+VCI 
+
+Clients computer will freeze after 5 minutes of use when he first starts it.  
+Checking in to SASB Dropoff to determine if issue is hardware or software. 
+
+If Software issue, client would like WIN 10, OFF 2016. Client will need to backup files if a reimage is necessay. 
+
+Client will need a loaner machine. 
+Sending ticket to SASB Dropoff
+
+2/2/2016 9:51:59 AM swalter
+Client checked machine into SASB DROPOFF in good condition. Client checked out loaner #982 in good condition WITHOUT adapter.
+
+Placing machine on troubleshooting shelf to run Lenovo self diagnostics.
+
+2/2/2016 3:45:25 PM swalter
+Passes all Lenovo Diags, indicating likely software issue.
+
+Placing machine in line for databackup prior to reimage.
+
+2/2/2016 7:08:16 PM phiggins
+had to pull drive out of computer to run backup, the key wasnt connecting to server properly,
+data backup running
+
+2/2/2016 8:10:49 PM phiggins
+Backup completed, was only 5.8 GB, please ask custoemr to be very thorough when going through verification process
+
+emailed for verify and placed computer on the pending customer shelf
+
+The following email was sent:  
+To: mlal123@live.unc.edu 
+From: 962-help@unc.edu 
+cc:  
+
+This email is to inform you that the data backup process is complete.  Please return to the SASB Walk-in center to verify your data backup.
+
+As we cannot continue with any repairs until further contact from you, we ask that you come in as soon as possible.  Failure to do so will result in your Onyen being disabled.
+
+ITS-SASB Help Desk normal hours:
+Mon-Thur: 730am-10pm
+Friday: 730am-5pm
+Saturday: CLOSED
+Sunday: 1-10pm
+
+**Please note due to staffing, opening hours may be slightly delayed some mornings**
+
+***This schedule is subject to change during holidays/breaks and INCLEMENT WEATHER. For the most up to date schedu

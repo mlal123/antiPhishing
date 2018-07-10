@@ -1,0 +1,287 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+A2 Jedi  (2/03/16 3:44 PM)
+
+I dont understand what the output numbers under the dashes are for A2Jedi. =
+=C2=A0Are they values we already have from adept?
+
+Go to https://piazza.com/class?cid=3Dik7az48cx2w337&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 Adept Printing  (2/03/16 4:15 PM)
+
+If my program is printing the wrong number of asterisks is it most likely a=
+n issue with the rounding?
+
+Go to https://piazza.com/class?cid=3Dik7c2qrxqzz4z6&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+a2 output novice  (2/03/16 4:27 PM)
+
+what even is this
+[[I@130c6c6b, [I@14a1ee92, [I@1335bdd3, [I@2d41717f, [I@2382600f, [I@44708a=
+ff, [I@38b58e73, [I@179b3d1b, [I@50c8c3b8, [I@2ca98e77, [I@2fc83d89, [I@340=
+05e1, [I@6041f871, [I@b1df416, [I@5b83d60d, [I@2c5a1e6b, [I@5083198c, [I@4f=
+025f9f, [I@24d3e83f, [I@543492fc, [I@479e0994, [I@5886f847, [I@5162ab9, [I@=
+724eda4a, [I@16dd6ae7][[I@130c6c6b, [I@14a1ee92, [I@1335bdd3, [I@2d41717f, =
+[I@2382600f, [I@44708aff, [I@38b58e73, [I@179b3d1b, [I@50c8c3b8, [I@2ca98e7=
+7, [I@2fc83d89, [I@34005e1, [I@6041f871, [I@b1df416, [I@5b83d60d, [I@2c5a1e=
+6b, [I@5083198c, [I@4f025f9f, [I@24d3e83f, [I@543492fc, [I@479e0994, [I@588=
+6f847, [I@5162ab9, [I@724eda4a, [I@16dd6ae7][[I@130c6c6b, [I@14a1ee92, [I@1=
+335bdd3, [I@2d41717f, [I@2382600f, [I@44708aff, [I@38b58e73, [I@179b3d1b, [=
+I@50c8c3b8, [I@2ca98e77, [I@2fc83d89, [I@34005e1, [I@6041f871, [I@b1df416, =
+[I@5b83d60d, [I@2c5a1e6b, [I@5083198c, [I@4f025f9f, [I@24d3e83f, [I@543492f=
+c, [I@479e0994, [I@5886f847, [I@5162ab9, [I@724eda4a, [I@16dd6ae7][[I@130c6=
+c6b, [I@14a1ee92, [I@1335bdd3, [I@2d41717f, [I@2382600f, [I@44708aff, [I@38=
+b58e73, [I@179b3d1b, [I@50c8c3b8, [I@2ca98e77, [I@2fc83d89, [I@34005e1, [I@=
+6041f871, [I@b1df416, [I@5b83d60d, [I@2c5a1e6b, [I@5083198c, [I@4f025f9f, [=
+I@24d3e83f, [I@543492fc, [I@479e0994, [I@5886f847, [I@5162ab9, [I@724eda4a,=
+ [I@16dd6ae7][[I@130c6c6b, [I@14a1ee92, [I@1335bdd3, [I@2d41717f, [I@238260=
+0f, [I@44708aff, [I@38b58e73, [I@179b3d1b, [I@50c8c3b8, [I@2ca98e77, [I@2fc=
+83d89, [I@34005e1, [I@6041f871, [I@b1df416, [I@5b83d60d, [I@2c5a1e6b, [I@50=
+83198c, [I@4f025f9f, [I@24d3e83f, [I@543492fc, [I@479e0994, [I@5886f847, [I=
+@5162ab9, [I@724eda4a, [I@16dd6ae7][[I@130c6c6b, [I@14a1ee92, [I@1335bdd3, =
+[I@2d41717f, [I@2382600f, [I@44708aff, [I@38b58e73, [I@179b3d1b, [I@50c8c3b=
+8, [I@2ca98e77, [I@2fc83d89, [I@34005e1, [I@6041f871, [I@b1df416, [I@5b83d6=
+0d, [I@2c5a1e6b, [I@5083198c, [I@4f025f9f, [I@24d3e83f, [I@543492fc, [I@479=
+e0994, [I@5886f847, [I@5162ab9, [I@724eda4a, [I@16dd6ae7][[I@130c6c6b, [I@1=
+4a1ee92, [I@1335bdd3, [I@2d41717f, [I@2382600f, [I@44708aff, [I@38b58e73, [=
+I@179b3d1b, [I@50c8c3b8, [I@2ca98e77, [I@2fc83d89, [I@34005e1, [I@6041f871,=
+ [I@b1df416, [I@5b83d60d, [I@2c5a1e6b, [I@5083198c, [I@4f025f9f, [I@24d3e83=
+f, [I@543492fc, [I@479e0994, [I@5886f847, [I@5162ab9, [I@724eda4a, [I@16dd6=
+ae7][[I@130c6c6b, [I@14a1ee92, [I@1335bdd3, [I@2d41717f, [I@2382600f, [I@44=
+708aff, [I@38b58e73, [I@179b3d1b, [I@50c8c3b8, [I@2ca98e77, [I@2fc83d89, [I=
+@34005e1, [I@6041f871, [I@b1df416, [I@5b83d60d, [I@2c5a1e6b, [I@5083198c, [=
+I@4f025f9f, [I@24d3e83f, [I@543492fc, [I@479e0994, [I@5886f847, [I@5162ab9,=
+ [I@724eda4a, [I@16dd6ae7][[I@130c6c6b, [I@14a1ee92, [I@1335bdd3, [I@2d4171=
+7f, [I@2382600f, [I@44708aff, [I@38b58e73, [I@179b3d1b, [I@50c8c3b8, [I@2ca=
+98e77, [I@2fc83d89, [I@34005e1, [I@6041f871, [I@b1df416, [I@5b83d60d, [I@2c=
+5a1e6b, [I@5083198c, [I@4f025f9f, [I@24d3e83f, [I@543492fc, [I@479e0994, [I=
+@5886f847, [I@5162ab9, [I@724eda4a, [I@16dd6ae7][[I@130c6c6b, [I@14a1ee92, =
+[I@1335bdd3, [I@2d41717f, [I@2382600f, [I@44708aff, [I@38b58e73, [I@179b3d1=
+b, [I@50c8c3b8, [I@2ca98e77, [I@2fc83d89, [I@34005e1, [I@6041f871, [I@b1df4=
+16, [I@5b83d60d, [I@2c5a1e6b, [I@5083198c, [I@4f025f9f, [I@24d3e83f, [I@543=
+492fc, [I@479e0994, [I@5886f847, [I@5162ab9, [I@724eda4a, [I@16dd6ae7][[I@1=
+30c6c6b, [I@14a1ee92, [I@1335bdd3, [I@2d41717f, [I@2382600f, [I@44708aff, [=
+I@38b58e73, [I@179b3d1b, [I@50c8c3b8, [I@2ca98e77, [I@2fc83d89, [I@34005e1,=
+ [I@6041f871, [I@b1df416, [I@5b83d60d, [I@2c5a1e6b, [I@5083198c, [I@4f025f9=
+f, [I@24d3e83f, [I@543492fc, [I@479e0994, [I@5886f847, [I@5162ab9, [I@724ed=
+a4a, [I@16dd6ae7][[I@130c6c6b, [I@14a1ee92, [I@1335bdd3, [I@2d41717f, [I@23=
+82600f, [I@44708aff, [I@38b58e73, [I@179b3d1b, [I@50c8c3b8, [I@2ca98e77, [I=
+@2fc83d89, [I@34005e1, [I@6041f871, [I@b1df416, [I@5b83d60d, [I@2c5a1e6b, [=
+I@5083198c, [I@4f025f9f, [I@24d3e83f, [I@543492fc, [I@479e0994, [I@5886f847=
+, [I@5162ab9, [I@724eda4a, [I@16dd6ae7][[I@130c6c6b, [I@14a1ee92, [I@1335bd=
+d3, [I@2d41717f, [I@2382600f, [I@44708aff, [I@38b58e73, [I@179b3d1b, [I@50c=
+8c3b8, [I@2ca98e77, [I@2fc83d89, [I@34005e1, [I@6041f871, [I@b1df416, [I@5b=
+83d60d, [I@2c5a1e6b, [I@5083198c, [I@4f025f9f, [I@24d3e83f, [I@543492fc, [I=
+@479e0994, [I@5886f847, [I@5162ab9, [I@724eda4a, [I@16dd6ae7][[I@130c6c6b, =
+[I@14a1ee92, [I@1335bdd3, [I@2d41717f, [I@2382600f, [I@44708aff, [I@38b58e7=
+3, [I@179b3d1b, [I@50c8c3b8, [I@2ca98e77, [I@2fc83d89, [I@34005e1, [I@6041f=
+871, [I@b1df416, [I@5b83d60d, [I@2c5a1e6b, [I@5083198c, [I@4f025f9f, [I@24d=
+3e83f, [I@543492fc, [I@479e0994, [I@5886f847, [I@5162ab9, [I@724eda4a, [I@1=
+6dd6ae7][[I@130c6c6b, [I@14a1ee92, [I@1335bdd3, [I@2d41717f, [I@2382600f, [=
+I@44708aff, [I@38b58e73, [I@179b3d1b, [I@50c8c3b8, [I@2ca98e77, [I@2fc83d89=
+, [I@34005e1, [I@6041f871, [I@b1df416, [I@5b83d60d, [I@2c5a1e6b, [I@5083198=
+c, [I@4f025f9f, [I@24d3e83f, [I@543492fc, [I@479e0994, [I@5886f847, [I@5162=
+ab9, [I@724eda4a, [I@16dd6ae7][[I@130c6c6b, [I@14a1ee92, [I@1335bdd3, [I@2d=
+41717f, [I@2382600f, [I@44708aff, [I@38b58e73, [I@179b3d1b, [I@50c8c3b8, [I=
+@2ca98e77, [I@2fc83d89, [I@34005e1, [I@6041f871, [I@b1df416, [I@5b83d60d, [=
+I@2c5a1e6b, [I@5083198c, [I@4f025f9f, [I@24d3e83f, [I@543492fc, [I@479e0994=
+, [I@5886f847, [I@5162ab9, [I@724eda4a, [I@16dd6ae7][[I@130c6c6b, [I@14a1ee=
+92, [I@1335bdd3, [I@2d41717f, [I@2382600f, [I@44708aff, [I@38b58e73, [I@179=
+b3d1b, [I@50c8c3b8, [I@2ca98e77, [I@2fc83d89, [I@34005e1, [I@6041f871, [I@b=
+1df416, [I@5b83d60d, [I@2c5a1e6b, [I@5083198c, [I@4f025f9f, [I@24d3e83f, [I=
+@543492fc, [I@479e0994, [I@5886f847, [I@5162ab9, [I@724eda4a, [I@16dd6ae7][=
+[I@130c6c6b, [I@14a1ee92, [I@1335bdd3, [I@2d41717f, [I@2382600f, [I@44708af=
+f, [I@38b58e73, [I@179b3d1b, [I@50c8c3b8, [I@2ca98e77, [I@2fc83d89, [I@3400=
+5e1, [I@6041f871, [I@b1df416, [I@5b83d60d, [I@2c5a1e6b, [I@5083198c, [I@4f0=
+25f9f, [I@24d3e83f, [I@543492fc, [I@479e0994, [I@5886f847, [I@5162ab9, [I@7=
+24eda4a, [I@16dd6ae7][[I@130c6c6b, [I@14a1ee92, [I@1335bdd3, [I@2d41717f, [=
+I@2382600f, [I@44708aff, [I@38b58e73, [I@179b3d1b, [I@50c8c3b8, [I@2ca98e77=
+, [I@2fc83d89, [I@34005e1, [I@6041f871, [I@b1df416, [I@5b83d60d, [I@2c5a1e6=
+b, [I@5083198c, [I@4f025f9f, [I@24d3e83f, [I@543492fc, [I@479e0994, [I@5886=
+f847, [I@5162ab9, [I@724eda4a, [I@16dd6ae7][[I@130c6c6b, [I@14a1ee92, [I@13=
+35bdd3, [I@2d41717f, [I@2382600f, [I@44708aff, [I@38b58e73, [I@179b3d1b, [I=
+@50c8c3b8, [I@2ca98e77, [I@2fc83d89, [I@34005e1, [I@6041f871, [I@b1df416, [=
+I@5b83d60d, [I@2c5a1e6b, [I@5083198c, [I@4f025f9f, [I@24d3e83f, [I@543492fc=
+, [I@479e0994, [I@5886f847, [I@5162ab9, [I@724eda4a, [I@16dd6ae7][[I@130c6c=
+6b, [I@14a1ee92, [I@1335bdd3, [I@2d41717f, [I@2382600f, [I@44708aff, [I@38b=
+58e73, [I@179b3d1b, [I@50c8c3b8, [I@2ca98e77, [I@2fc83d89, [I@34005e1, [I@6=
+041f871, [I@b1df416, [I@5b83d60d, [I@2c5a1e6b, [I@5083198c, [I@4f025f9f, [I=
+@24d3e83f, [I@543492fc, [I@479e0994, [I@5886f847, [I@5162ab9, [I@724eda4a, =
+[I@16dd6ae7][[I@130c6c6b, [I@14a1ee92, [I@1335bdd3, [I@2d41717f, [I@2382600=
+f, [I@44708aff, [I@38b58e73, [I@179b3d1b, [I@50c8c3b8, [I@2ca98e77, [I@2fc8=
+3d89, [I@34005e1, [I@6041f871, [I@b1df416, [I@5b83d60d, [I@2c5a1e6b, [I@508=
+3198c, [I@4f025f9f, [I@24d3e83f, [I@543492fc, [I@479e0994, [I@5886f847, [I@=
+5162ab9, [I@724eda4a, [I@16dd6ae7][[I@130c6c6b, [I@14a1ee92, [I@1335bdd3, [=
+I@2d41717f, [I@2382600f, [I@44708aff, [I@38b58e73, [I@179b3d1b, [I@50c8c3b8=
+, [I@2ca98e77, [I@2fc83d89, [I@34005e1, [I@6041f871, [I@b1df416, [I@5b83d60=
+d, [I@2c5a1e6b, [I@5083198c, [I@4f025f9f, [I@24d3e83f, [I@543492fc, [I@479e=
+0994, [I@5886f847, [I@5162ab9, [I@724eda4a, [I@16dd6ae7][[I@130c6c6b, [I@14=
+a1ee92, [I@1335bdd3, [I@2d41717f, [I@2382600f, [I@44708aff, [I@38b58e73, [I=
+@179b3d1b, [I@50c8c3b8, [I@2ca98e77, [I@2fc83d89, [I@34005e1, [I@6041f871, =
+[I@b1df416, [I@5b83d60d, [I@2c5a1e6b, [I@5083198c, [I@4f025f9f, [I@24d3e83f=
+, [I@543492fc, [I@479e0994, [I@5886f847, [I@5162ab9, [I@724eda4a, [I@16dd6a=
+e7]
+
+Go to https://piazza.com/class?cid=3Dik7chpmxxjhp8&nid=3Dihs2fbbhsfx37n&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 Novice Autograder Error  (2/03/16 4:40 PM)
+
+I failed all of the Novice assignments; however, my outputs were the exact =
+same as the expected outputs. I don't know what could be wrong.
+
+Go to https://piazza.com/class?cid=3Dik7cy4z4yxm4uj&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Autograder problem?  (2/03/16 4:43 PM)
+
+I am having a problem with the autograder of assignment 2, and I was wonder=
+ing if anyone else had this problem as well. (Pretty sure it's different fr=
+om the other problems I've seen)
+
+So I submitted the assignment and it returned that I had a problem with the=
+ A2Adept part. I fixed it, without touching any of the other code in the ot=
+her parts of the assignment, and resubmitted it. However, this time it's sa=
+ying that A2Novice is wrong? I did not touch the code for Novice whatsoever=
+.=C2=A0It was correct the first time I submitted it, but it's now wrong?
+
+(It looks like it's printing an extra line in the bottom of the Novice outp=
+ut, but I don't know what's causing it since I did not change the code at a=
+ll)
+
+Go to https://piazza.com/class?cid=3Dik7d2c3lqs28p&nid=3Dihs2fbbhsfx37n&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Autograder  (2/03/16 5:29 PM)
+
+I recently submitted my assignment and received only 6 out of the 10 points=
+, because my novice was being read as incorrect. However, when I checked th=
+e testings, the output was the exact same as the expected output. I resubmi=
+tted the assignment and the autograder did not grade it at all, even at the=
+ 12th minute past the hour. Is there anything specific that I can do?
+
+Go to https://piazza.com/class?cid=3Dik7epi53s1w4zd&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Assignment 2 Jedi Failing Tests on Autograder  (2/03/16 6:10 PM)
+
+I submitted my code earlier today and for some reason the autograder is tel=
+ling me that Jedi failed all the tests even though the program works exactl=
+y as it's supposed on Java. =C2=A0The weird thing is the autograder says th=
+ere's no output for the same code that, when I put into Java, gets the exac=
+t output as the expected one. =C2=A0Is this a glitch in the autograder?
+
+Go to https://piazza.com/class?cid=3Dik7g6ninf6s5oe&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Novice Autograder  (2/03/16 6:16 PM)
+
+My novice is being marked wrong, and my output is the exact same as the exp=
+ected output. Is anyone else having this problem?
+
+Go to https://piazza.com/class?cid=3Dik7gecm7hxa160&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2Adept Output  (2/03/16 6:35 PM)
+
+I am getting this error message for my A2Adept grader and i cant figure out=
+ the difference between my output and the expected output. =C2=A0Can anyone=
+ help out?
+
+A2Adept Test 1
+
+Running a2adept.A2Adept
+Input:=20
+10
+3 3
+0 1 8 22 28 39 79 99 34
+
+
+Output:
+ 0:**********************************
+10:
+20:***********************
+30:***********************
+40:
+50:
+60:
+70:************
+80:
+90:************
+
+
+Output did not match expectations.
+Expected output:
+ 0:*********************************
+10:
+20:**********************
+30:**********************
+40:
+50:
+60:
+70:***********
+80:
+90:***********
+
+A2Adept Test 1 fails. 0 points
+
+Go to https://piazza.com/class?cid=3Dik7h1x5l3w12rx&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+LAs in Sitterson right now?  (2/03/16 6:44 PM)
+
+Hey, are there currently any LAs having office hours in Sitterson? =C2=A0My=
+ digital hand has been up for over an hour, and I keep getting a message th=
+at says "are you still around?"...but I can't figure out how to answer the =
+message or get their attention.
+
+Go to https://piazza.com/class?cid=3Dik7he7aq20c3dx&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A3 intensity  (2/03/16 7:01 PM)
+
+I was trying to test my getIntensity method when i found that white.getInte=
+nsity() returns 0.999999999999 instead of 1 as expected. why?
+My equation: i =3D 0.299 * this.r + 0.587 *this. g + 0.114 *this. b;=C2=A0
+
+Go to https://piazza.com/class?cid=3Dik7i0089k2x5t8&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

@@ -1,0 +1,35 @@
+Your classmate posted a new Question.=20
+
+Adept--Assignment 1
+
+Hi,=C2=A0
+
+I've been looking over my code and can't figure out where the bug is. I'm w=
+orking on the adept portion of the assignment and have tested my code by in=
+putting the example input. For some reason, CorinTucker is always assigned =
+a C by my grader. The other two, Carrie Brownstein and Janet Weiss produce =
+the correct output. Does anyone know where I should look to resolve this?=
+=C2=A0
+
+Go to https://piazza.com/class?cid=3Dijr9j3gyntq6of&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @77. Follow=
+ it to get notified when a response comes in: https://piazza.com/follow/ijr=
+9j3gyntq6of/f2GxNxqCfOm/a1f2e2f4=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.=

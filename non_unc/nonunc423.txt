@@ -1,0 +1,20 @@
+Your classmate posted a new Question. 
+
+Assignment 2 Infinite Loop
+
+For route "I" where you put the user in an infinite loop, are they still supposed to be able to get out of the loops and still have more attempts? Or are they supposed to be stuck forever and can't have more attempts.
+
+Go to https://piazza.com/class?cid=if0anihfn73bb&nid=idk60wfq88174f&token=f2GxNxqCfOm to view. Search or link to this question with @113. Follow it to get notified when a response comes in: https://piazza.com/follow/if0anihfn73bb/f2GxNxqCfOm/b697d404 
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 110 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.

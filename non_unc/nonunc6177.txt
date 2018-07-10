@@ -1,0 +1,32 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 435 on Piazza:
+
+------------------------------------------------------------
+For loop  (9/08/17 2:32 PM)
+
+The assignment says, "You should not be looping through the hex values multiple times looking for duplicates." Is this means i cannot have any nested for loop but i can have different for loops?
+
+Go to https://piazza.com/class?cid=j7c7yrr3z9z3rg&nid=j5vi9cpw2jn336&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Python Version  (9/08/17 11:47 AM)
+
+I downloaded Python 3 through the terminal like instructed but the version is 3.2.3, does it have to be version 3.6?
+
+Go to https://piazza.com/class?cid=j7c21zlhazo6s7&nid=j5vi9cpw2jn336&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 435 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/j5vi9cpw2jn336 to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2GxNxqCfOm

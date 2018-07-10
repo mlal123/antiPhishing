@@ -1,0 +1,91 @@
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+
+
+Good morning, Returning Carolina Housing RAs,
+ 
+We hope that this email finds you well and that you’re having awesome summer experiences!  Here on campus, the student staff training committee is hard at work getting ready for all of you to come back to
+ campus. 
+ 
+As we get closer to training we’re preparing for Behind Closed Doors (BCDs), one of the most exciting and important aspects of our training. The topics covered in BCDs may be difficult to discuss or produce
+ strong emotional reactions in participants based on their experiences or identities. We want to be sensitive to that and provide you all some information heading into the day, as well as an opportunity to identify which scenarios you are not comfortable acting
+ in. 
+ 
+Topics covered during scenarios this year include:
+
+
+- Academic Development
+- Small alcohol scene
+- Time management
+- Quiet hours
+- Roommate Issues
+- Large party
+- Coming Out
+- Connecting at UNC
+- Confronting Hate Language
+- Self-Harm
+- Homesickness
+- Disordered Eating
+- Sexual Assault/Misconduct
+Generalized Mental Health/Depression challenges
+ 
+Ideally, we’d love to gather your preferences for which scenarios you’re most excited to act in. Unfortunately, because there are so many of you, it would be logistically difficult to achieve that and honor
+ most (or all) of your top choices. 
+ 
+With that being said, we absolutely will not assign you a scenario that makes you uncomfortable to act in.
+Please complete this survey
+ no later than July 9th at 5pm if there are any scenarios you are not comfortable acting in. You will not need to put any rationale with this-just your name, community, and any scenarios you’re not comfortable
+ with and we’ll make sure not to assign you to those. 
+ 
+While we won’t place you in scenarios you expressly opt out of through the form, you may still be placed in a scenario that wouldn’t be your top choice. When that happens, we ask for your understanding. Behind
+ Closed Doors only works if all of you are committed and engaged, and we appreciate your participation and willingness to share your talents very much.
+
+ 
+If you have any questions, please do not hesitate to ask.
+
+ 
+Enjoy the remaining days of summer!
+
+Chris and Derek 
+ 
+
+
+

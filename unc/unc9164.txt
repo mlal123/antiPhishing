@@ -1,0 +1,87 @@
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Calibri Light";
+	panose-1:2 15 3 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{mso-style-priority:99;
+	mso-style-link:"Plain Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.PlainTextChar
+	{mso-style-name:"Plain Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Plain Text";
+	font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+
+
+Good Afternoon Staff, 
+ 
+Just wanted to let you all know I will be out of the office April 11th-17th. CD Uyi Idahor will be your main point of contact if needed. Although if Aditya or Jennie can address it, go to them first.
+
+ 
+I will not be looking at e-mails or answering texts. If you need anything outside of office hours, please call the CD on call. Thanks.
+
+ 
+Here is Uyi’s contact info. 
+Uyi Idahor 
+Community Director, Parker Community 
+T: 336.307.8812 | E: uidahor@unc.edu
+ 
+Regards, 
+ 
+ 
+Andrew Castle | Community
+ Director – Manning West
+Department of Housing & Residential Education
+The University of North Carolina at Chapel Hill
+02 Avery | CB #5500
+T: 919.843.2765 | E:
+awcastle@email.unc.edu
+|housing.unc.edu|
+Facebook | Twitter | Instagram | YouTube | Pinterest | Scoop.it | Res
+ Life Blog
+ 
+
+
+

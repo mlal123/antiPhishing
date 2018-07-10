@@ -1,0 +1,80 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 435 on Piazza:
+
+------------------------------------------------------------
+3.3 Task 4a Arguement  (10/08/17 7:20 PM)
+
+In the assignment write up, it says:
+
+For example our input may look like:
+d7a8fbb307d7809469ca9abcb0082e4f8d5651e46d3cdb762d02d0bf37c9e592
+and you would run your program like:
+python3 a2_YourOnyen_preimage.py d7a8fbb307d7809469ca9abcb0082e4 f8d5651e46=
+d3cdb762d02d0bf37c9e592
+
+
+But later on it says:
+
+We should be able to run the program like:
+python3 a2_onyen_preimage.py filename.txt
+
+Which is a bit confusing since it contradicts.=C2=A0 Are we supposed to tak=
+e a file as a parameter and then read a hash from the file or should the ar=
+gument contain the whole hash?
+
+Go to https://piazza.com/class?cid=3Dj8jdgjnsyy22tr&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Assignment 2 task 2  (10/08/17 5:10 PM)
+
+for the hamming distance program, are binary strings supposed to be the inp=
+uts or are we supposed to convert the hashes to binary in the program itsel=
+f?
+
+Go to https://piazza.com/class?cid=3Dj8j8t187fbv3cg&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Writeup Confusion  (10/08/17 4:56 PM)
+
+Alright so there seems to be alot of confusion about the write up throughou=
+t various posts, I have seen lots of posts on here and a good portion of my=
+ friends in the class have at least questioned it. The writeup states
+
+ "What is the average number of trials it took you to break pre-image resis=
+tance based on 15 experiments?
+
+But when someone asked about it in an earlier question, @96 , Connor says t=
+hat we are supposed to find the avg time.=C2=A0Can a TA or Prof speak to wh=
+ich of these we are actually supposed to do? I did what Connor said with th=
+e times but according to the writeup it seems like it is looking for avg nu=
+mber of hashes generated before it found a collision. Just wanted to get th=
+at sorted thanks=20
+
+Go to https://piazza.com/class?cid=3Dj8j8anoplqa5f5&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 435 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/j5vi9cpw2jn336 to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

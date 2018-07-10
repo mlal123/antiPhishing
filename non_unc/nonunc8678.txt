@@ -1,0 +1,129 @@
+Nieman Lab: The Daily Digest
+Tuesday=2C February 27=2C 2018
+http://www.niemanlab.org/2018/02/what-the-guardian-has-learned-trying-to-b=
+uild-a-more-intelligent-story-format-one-that-knows-what-you-know/
+
+
+** What The Guardian has learned trying to build a more intelligent story=
+ format =E2=80=94 one that knows what you know (http://www.niemanlab.org/2=
+018/02/what-the-guardian-has-learned-trying-to-build-a-more-intelligent-st=
+ory-format-one-that-knows-what-you-know/)
+------------------------------------------------------------
+Like Circa before it=2C The Guardian aims to atomize a big breaking story=
+ into its individual parts =E2=80=94 and then be smart about showing you t=
+he right ones at the right time. By Mazin Sidahmed.
+http://www.niemanlab.org/2018/02/podcast-publishers-start-preserving-your-=
+stuff-this-podcast-will-tell-you-how/
+
+
+** Podcast publishers=2C start preserving your stuff. (This podcast will t=
+ell you how.) (http://www.niemanlab.org/2018/02/podcast-publishers-start-p=
+reserving-your-stuff-this-podcast-will-tell-you-how/)
+------------------------------------------------------------
+Plus: Anchor relaunches (and where are we with social audio?)=2C a McDonal=
+d=E2=80=99s podcast is an utterly fascinating artifact=2C and more media p=
+ariahs move to podcasts (this time=2C it=E2=80=99s Logan Paul). By Nichola=
+s Quah.
+Facebook=E2=80=99s support for local news subscriptions is one move in the=
+ larger dance between publishers and platforms (http://www.niemanlab.org/2=
+018/02/facebooks-support-for-local-news-subscriptions-is-one-move-in-the-l=
+arger-dance-between-publishers-and-platforms/)
+What We=E2=80=99re Reading
+ASU News Co/Lab / Dan Gillmor
+Measuring a community=E2=80=99s =E2=80=9Cnews awareness=E2=80=9D =E2=86=92=
+ (https://medium.com/@dangillmor/measuring-a-communitys-news-awareness-you=
+r-feedback-58fd252bb20c)
+What questions do you ask to assess people=E2=80=99s understanding of how=
+ news works as well as their attitudes toward journalism?
+Poynter / Tiffany Walden
+She didn=E2=80=99t see herself or the young black community in Chicago=E2=
+=80=99s main media outlets=2C so she started her own =E2=86=92 (https://ww=
+w.poynter.org/news/she-didnt-see-herself-or-young-black-community-chicagos=
+-main-media-outlets-so-she-started-her)
+=E2=80=9COur grandparents had the Chicago Defender to tell their stories d=
+uring the Great Migration years. John H. Johnson grabbed the baton for our=
+ parents=E2=80=99 generation with Ebony and Jet magazines. But for my gene=
+ration=2C technology is within arm=E2=80=99s reach from the moment we wake=
+ up in the morning to the moment we go to bed in the evening. Because of t=
+his=2C we want access to our news online. And because of the ongoing deman=
+d for more Black representation in media=2C we want stories that are speci=
+fic to our everyday experiences and that are layered with historical facts=
+ and trends.=E2=80=9D
+Washington Post / Margaret Sullivan
+NBC=E2=80=99s questioning of Ivanka Trump was more than appropriate=2C but=
+ it should be just the start =E2=86=92 (https://www.washingtonpost.com/lif=
+estyle/style/nbcs-questioning-of-ivanka-trump-was-more-than-appropriate-it=
+-should-be-just-the-start/2018/02/27/9fffa3f4-1bcc-11e8-9de1-147dd2df3829_=
+story.html?utm_term=3D.480ba7863c34)
+=E2=80=9CAsking reasonable questions of those who think they=E2=80=99re in=
+ a protected class certainly isn=E2=80=99t wrong. What=E2=80=99s wrong is=
+ that=2C too often=2C we=E2=80=99ve given up on getting answers.=E2=80=9D
+Knight Foundation
+How Black Twitter and other social media communities interact with mainstr=
+eam news =E2=86=92 (https://knightfoundation.org/features/twittermedia)
+=E2=80=9CUsing a mix of computational analysis=2C qualitative review=2C an=
+d interviews=2C the researchers analyzed over 46 million tweets with commu=
+nity-related hashtags from 2015 to 2016. To date=2C this report is the lar=
+gest review of Twitter conversations examining the relationship between me=
+dia and these online sub-cultures.=E2=80=9D
+The Drum / Shawn Lim
+Malaysia=E2=80=99s first publisher co-op goes live as publishers come toge=
+ther for better transparency =E2=86=92 (http://www.thedrum.com/news/2018/0=
+2/26/malaysias-first-publisher-co-op-goes-live-publishers-come-together-be=
+tter)
+=E2=80=9CAdvertisers will have exclusive access to advertising features li=
+ke real-time mobile inventory=2C high viewability and innovative creative=
+ formats. They can also leverage on ad units that exceeds performance over=
+ the standard IAB ad units presently procurable through programmatic chann=
+els.=E2=80=9D
+Digiday / Lucia Moses
+Is a reality check is coming for subscription-thirsty publishers? =E2=86=
+=92 (https://digiday.com/media/going-end-tears-reality-check-coming-subscr=
+iption-thirsty-publishers/)
+=E2=80=9CA lot of people are going=2C =E2=80=98Reader revenue=2C it=E2=80=
+=99s working for The New York Times=2C it=E2=80=99s working for specialty=
+ publications; that=E2=80=99s our path=2C=E2=80=99=E2=80=9D said Vivian Sc=
+hiller=2C a former Times and NPR exec. =E2=80=9CI=E2=80=99m afraid for mos=
+t news publishers=2C it=E2=80=99s going to end in tears.=E2=80=9D
+Poynter / Ren LaForme
+Where have all the big=2C wow-inducing digital stories gone? =E2=86=92 (ht=
+tps://www.poynter.org/news/where-have-all-big-wow-inducing-digital-stories=
+-gone)
+=E2=80=9CWe saw the latter with Snow Fall. The initial reaction was awe=2C=
+ followed by mimicry. Then came the questions. Did anyone actually finish=
+ reading it? How bad were those load times? Was the story that compelling?=
+ We=E2=80=99ve been tweaking Snow Fall toward perfection ever since=2C its=
+ seeds scattered across the internet like a dandelion in the wind. How man=
+y digital stories have you seen with an opening autoplayed image?=E2=80=9D
+CNN Money / Brian Stelter
+The New York Times makes plans for a weekly TV program =E2=86=92 (http://m=
+oney.cnn.com/2018/02/26/media/new-york-times-tv-news-program/index.html)
+The New York Times has conquered the podcasting world with =E2=80=9CThe Da=
+ily.=E2=80=9D Now it wants to crack television with a weekly news program.
+Columbia Journalism Review / Mathew Ingram
+=E2=80=9CPlease disconnect from the Internet. This is an offline-only maga=
+zine of commentary=2C fiction=2C and poetry.=E2=80=9D =E2=86=92 (https://w=
+ww.cjr.org/innovations/disconnect-magazine-only-works-offline.php)
+=E2=80=9CI guess it=E2=80=99s kind of like a paywall. But it=E2=80=99s mor=
+e of a pay-attention wall.=E2=80=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3Dabd998f672)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3Dabd998f672)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

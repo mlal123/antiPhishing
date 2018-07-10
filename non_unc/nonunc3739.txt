@@ -1,0 +1,77 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+PS5 Part 2  (12/05/16 9:52 PM)
+
+Lastra's Sakai submission page is out of order. The instructions for the tw=
+o-way cache on the pdf and on the Sakai submission are in different orders.
+
+
+The order would influence which cache are you supposed to build from.
+
+
+Please clarify.
+
+Go to https://piazza.com/class?cid=3Diwcwu5uhvue1eu&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+two-way set associative cache  (12/05/16 9:57 PM)
+
+part 2 question 4
+
+Can someone explain how to use LRU replacement? I'm not sure how to use thi=
+s for the first step.
+
+Go to https://piazza.com/class?cid=3Diwcx1b5xmaj6r6&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+2-way set associative cache  (12/05/16 10:02 PM)
+
+If=C2=A0a 2-way set associative cache where left cache set is the more rece=
+ntly replaced one, then we know for sure that the left column entries are t=
+he only ones that take new tags and that the right column is just keeping a=
+ history, right?=C2=A0So that seems to make=C2=A0the right column useless, =
+and what we have left is essentially the same as a direct-mapping cache. Or=
+ am I missing something here?
+
+Thanks! :)
+
+Go to https://piazza.com/class?cid=3Diwcx7vlcnq83f4&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Lab grades on Sakai  (12/05/16 11:19 PM)
+
+I'm missing my grades of=C2=A0lab 6, 8, and 10 on Sakai and I just saw=C2=
+=A0my lab 6 grade is 0/10 and show I have no submission? But I'm pretty sur=
+e I've submitted every lab...
+
+Go to https://piazza.com/class?cid=3Diwczyfdkvbr4jd&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

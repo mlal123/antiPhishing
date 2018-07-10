@@ -1,0 +1,25 @@
+
+Hi Mangza,
+
+Your account password at 'Sapling Learning' has been reset
+and you have been issued with a new temporary password.
+
+Your current login information is now:
+   username: mlal123
+   password: class1lear
+
+Please go to this page to change your password:
+   https://www.saplinglearning.com/ibiscms/login/change_password.php
+
+In most mail programs, this should appear as a blue link
+which you can just click on.  If that doesn't work,
+then cut and paste the address into the address
+line at the top of your web browser window.
+
+Cheers from the 'Sapling Learning' administrator,
+
+Sapling Learning
+support@saplinglearning.com
+
+
+

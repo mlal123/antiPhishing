@@ -1,0 +1,113 @@
+*Amazon Lab126 is an inventive research and development company that
+designs *
+
+*and engineers high-profile consumer electronics. Lab126 began in 2004 as a
+*
+
+*subsidiary of Amazon.com, Inc., originally creating the best-selling
+Kindle *
+
+*family of products. Since then, we have produced groundbreaking devices *
+
+*like Fire tablets, Fire TV and Amazon Echo. What will you help us create? =
+*
+
+
+
+*The Role: *
+
+*In this role, you will: *
+
+*=E2=80=A2             Conduct wireless network performance analysis throug=
+h
+creative system modeling & simulation and testbed implementation*
+
+*=E2=80=A2             Translate system requirements into simulation scenar=
+ios and
+assist in design decisions*
+
+*Basic qualifications*
+
+*=E2=80=A2             Solid understanding of wireless protocols (MAC and h=
+igher
+upper layers) and network architecture (e.g. TCP, UDP, IP, SIP, MANET)*
+
+*=E2=80=A2             Knowledge of standard wireless communication protoco=
+ls such
+as 802.11, bluetooth*
+
+*=E2=80=A2             Bachelor's degree in Electrical/ Computer Engineerin=
+g or
+related field *
+
+*=E2=80=A2             3+ years of Wireless Development experience *
+
+*=E2=80=A2             3+ years of experience in software development *
+
+*=E2=80=A2             System-level integration experience *
+
+*=E2=80=A2             Experience with lab equipment such as digital scope =
+and
+logic analyzer *
+
+*=E2=80=A2             Experience with technical document writing using Vis=
+io,
+Word, Excel, and / or PowerPoint *
+
+*=E2=80=A2             Experience with revision and document control *
+
+*=E2=80=A2             Experience with programming with C/Assembly/MATLAB *
+
+*=E2=80=A2             Experience with scripting with Perl/Python/Tcl *
+
+*=E2=80=A2             Experience with platforms such as Linux/Unix and Win=
+dows *
+
+*=E2=80=A2             Experience with Wi-Fi and BT technologies *
+
+*Preferred qualifications*
+
+*=E2=80=A2             Prior industry experience with system modeling and
+simulation of wireless network *
+
+*=E2=80=A2             Wifi/Bluetooth*
+
+*=E2=80=A2             Wireless consumer electronic device experience *
+
+*=E2=80=A2             Master=E2=80=99s degree in Electrical Engineering/Co=
+mputer
+Networking (EECN) *
+
+*=E2=80=A2             PhD preferred*
+
+*=E2=80=A2             Coursework in wireless communication systems, comput=
+er
+communication networks, network architectures *
+
+*Required Skills:*
+
+*=E2=80=A2             Proficient in network simulation and modelling softw=
+are
+(e.g. NS3)*
+
+*=E2=80=A2             Proficient in programming with C and C++*
+
+*=E2=80=A2             Proficient in scripting with python or java*
+
+*=E2=80=A2             Experience with platforms linux/unix and windows*
+
+*=E2=80=A2             Technical document writing using visio, word, excel,=
+ and/or
+powerpoint*
+
+
+*IF INTERESTED, PLEASE SEND RESUMES TO LENAN@LAB126.COM  =
+*
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

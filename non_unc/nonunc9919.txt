@@ -1,0 +1,1345 @@
+
+
+Udemy
+
+@import url('https://fonts.googleapis.com/css?family=3DSource+Sans+Pro:300,=
+400,600');
+@import url('https://fonts.googleapis.com/css?family=3DZilla+Slab:300,400,6=
+00');
+/* CLIENT-SPECIFIC STYLES */
+body, table, td, a, p {-webkit-text-size-adjust: 100%; -ms-text-size-adjust=
+: 100%; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;}
+table, td {mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: c=
+ollapse;}
+img { -ms-interpolation-mode: bicubic; }
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+.appleFooter a {
+color:#ffffff !important;
+text-decoration: none!important;
+}
+.courseBadge {
+vertical-align: middle;=20
+font-size: 9px;=20
+border: none;=20
+font-weight: 700;=20
+line-height: 1.5;=20
+text-align: center;=20
+text-transform: uppercase;   =20
+}
+
+/* DESKTOP STYLES */
+@media only screen and (min-width: 481px){
+.desktopNavBarText {
+display:block !important;
+padding: 24px 0px 5px 10px !important;
+float: right !important;
+}
+.navBarImage{
+float:left !important;
+width: 150px !important;
+padding: 5px 0px 5px 0px !important;
+}=20
+}
+/* MOBILE STYLES */
+@media only screen and (max-width: 480px){
+#container{
+width:100% !important;
+}
+#banner_text {
+text-align: center !important;
+padding-bottom: 10px;
+}
+.deviceWidth{
+display:block !important;
+width:100% !important;
+}
+.hidden{
+display: none;
+}
+.courseCardTop{
+width:30% !important;
+float: left;
+min-width: 30% !important;
+}
+.courseCardBottom{
+width:70% !important;
+float: left;
+min-width: 70% !important;=20
+border-bottom: 0px !important;
+}
+.mobileColor{
+background-color: #ffffff !important;
+}
+.mobileCourseLine{
+border-bottom: 2px #edece6 solid;
+}
+.titleHeight{
+height: auto;
+}
+.titlePadding{
+padding-top: 0px !important;
+padding-bottom: 10px !important;
+font-size: 16px !important;
+}
+.starPricePadding{
+padding-top: 0px !important;
+padding-bottom: 5px !important;
+font-size: 80% !important;
+}
+.courseImage{
+width: 100%;
+height: auto !important;
+}
+.moduleTitlePadding{
+padding: 20px 5px 5px 5px !important;
+}
+.mobileCoursePadding{
+padding: 15px 5px 0px 5px !important;
+width: 100% !important;
+}
+.targetedSpacer{
+width: 5%;
+}
+.mobileNavBarImage{
+height: 30px !important;
+width: auto !important;
+}
+.instImage{
+width: 30% !important;
+float: left !important;
+min-width: 30% !important;
+padding-top: 15px !important;
+}=09
+.instDescription{
+width: 70% !important;
+float: right !important;
+min-width: 70% !important;
+border: none !important;
+padding-bottom: 20px;
+padding-top: 15px;
+height: auto !important;
+}
+.instText{
+text-align: left !important;
+padding-left: 0px !important;
+padding-right: 0px !important;
+padding-bottom: 0px !important;
+}
+.heroHeadline {font-size: 28px !important; line-height: 32px !important;} .=
+topSpacer {padding-top: 35px !important;} .bottomSpacer {padding: 25px 0px =
+35px 0px !important;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+With over 50,000 cours=
+es to choose from, you=E2=80=99re sure to find your next something.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+My Courses | Featured
+ 
+=20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pick up new skills for as low as =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Score $9.99 courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Check out the top new Data and Analyti=
+cs courses
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Business Analysis: Plan the Proj=
+ect
+
+
+
+New! Published Jun 07
+
+
+
+
+
+$164.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Machine Learning with Python, sc=
+ikit-learn and TensorFlow
+
+
+
+New! Published May 31
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Text Mining with Machine Learnin=
+g and Python
+
+
+
+New! Published May 25
+
+
+
+
+
+$124.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+SQL Query Training for SAP Busin=
+ess One
+
+
+
+New! Published Jun 19
+
+
+
+
+
+$49.99=
+  $=
+9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Business Statistics Fundamentals
+
+
+
+New! Published Jun 07
+
+
+
+
+
+$49.99=
+  $=
+9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+GDPR Office 365 Readiness Course=
+: Compliance & Data Security
+
+
+
+New! Published May 28
+
+
+
+
+
+$49.99=
+  $=
+9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Microsoft Power BI-A Complete Ha=
+nds-On Training(New Updates)
+
+
+
+New! Published Jun 19
+
+
+
+
+
+$124.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Complete Time Series Data Analys=
+is Bootcamp in R
+
+
+
+New! Published Jun 19
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+
+
+Creating professional Interactiv=
+e Dashboards in Tableau 10
+
+
+
+New! Published Jun 12
+
+
+
+
+
+$19.99=
+  $=
+9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+Check out the top new Business courses
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Blockchain Advanced Level: Uses =
+Beyond Bitcoin 2018
+
+
+
+New! Published May 25
+
+
+
+
+
+$149.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Become Google Digital Sales Cert=
+ified in 1 Day & Get Hired!
+
+
+
+New! Published Jun 13
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+The Complete Clickfunnels and Sh=
+opify Sales Funnel Course
+
+
+
+New! Published May 31
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+PMP Exam Cram Session - PMBOK Gu=
+ide, 6th Edition
+
+
+
+New! Published Jun 09
+
+
+
+
+
+$99.99=
+  $=
+9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+New for 9.2! Part 1 Foundation C=
+ertification Training
+
+
+
+New! Published Jun 12
+
+
+
+
+
+$119.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+The Real Estate Pro Forma Modeli=
+ng Master Class
+
+
+
+New! Published May 28
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+Entrepreneurship 101 - From Idea=
+ to Launch (And Beyond)
+
+
+
+New! Published May 31
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+The Probate Blueprint: Real Esta=
+te Investing Master Class
+
+
+
+New! Published Jun 18
+
+
+
+
+
+$109.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+   =20
+
+
+
+
+=20
+=20
+
+=20
+=20
+
+
+
+
+
+
+ 
+Students who enrolled in Artificial Intelligence A-Z=
+=E2=84=A2: Learn How To Build An AI also enrolled in:
+
+ 
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Deep Learning A-Z=E2=84=A2: Hands=
+-On Artificial Neural Networks
+
+
+
+             4.43&nb=
+sp;(2,592)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+=20
+
+
+ 
+
+
+
+
+ 
+
+=20
+
+
+
+
+
+
+
+Deep Learning and Computer Vision=
+ A-Z=E2=84=A2: OpenCV, SSD & GANs
+
+
+
+             4.33&nb=
+sp;(489)
+
+
+
+
+
+$199.99  =
+$9.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+=20
+=20
+
+
+
+=20
+
+
+
+
+
+
+
+
+
+Get started with top categories:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    =20
+
+
+U=
+NSUBSCRIBE  |  SUPPORT  |  VIEW ONLINE
+
+
+
+Ude=
+my.com 600 Harrison Street, 3rd Floor San Francisco, CA 94107 USA
+
+
+
+Careers at Udemy=
+ | Get Udemy for Business | Become an Instructor
+
+
+
+
+Download our apps for Offline Coursetaking
+
+
+
+
+     =
+  =20
+
+
+  =
+          =20
+
+
+
+=20
+
+  =20
+
+
+
+
+
+
+
+
+ =20
+
+
+
+
+
+
+
+=
+=20
+ 
+
+
+
+
+
+
+
+
+*Some exclusions apply. Coupon code expires 2018-06-2=
+7 07:00 AM GMT.
+
+
+
+
+Connect with us
+
+
+
+
+     =
+  =20
+
+
+  =
+          =20
+
+
+
+=20
+
+  =20
+
+
+
+
+
+
+
+
+ =20
+
+
+    =20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

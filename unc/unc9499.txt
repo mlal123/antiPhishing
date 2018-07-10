@@ -1,0 +1,118 @@
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle20
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+
+
+Hi Mangza, 
+ 
+Please send me your PID so I can get the Minor added to your plan of study.
+
+ 
+Thanks, 
+Warner
+ 
+
+
+From: Allen, Madeline 
+Sent: Monday, May 7, 2018 9:48 AM
+To: Lal, Mangza <mlal123@live.unc.edu>
+Cc: Underwood, Warner <wunderwo@email.unc.edu>
+Subject: RE: Applying for minor
+
+
+ 
+Hi Mangza,
+ 
+I hope you’re doing well! For students not accepted into the E-minor already, we arranged that acceptance on the program would double as acceptance to the minor.
+
+ 
+I’ve cc’d Warner Underwood, the Program Administrator for the minor, who should be able to assist you in making sure the minor is added to your transcript/ConnectCarolina/etc.
+ 
+Warner, would you mind working with Mangza on making sure he’s in the E-minor?
+ 
+Thanks!
+ 
+Madeline
+Madeline Allen
+Marketing and International Programming Assistant
+Honors Carolina
+University of North Carolina at Chapel Hill
+229 Graham Memorial
+ 
+madeline@unc.edu
+c: 919.621.0458
+ 
+Schedule a meeting with me: https://calendly.com/madelineallen
+ 
+ 
+ 
+
+
+From: Lal, Mangza 
+Sent: Saturday, May 05, 2018 1:16 PM
+To: Allen, Madeline <madeline@unc.edu>
+Subject: Applying for minor
+
+
+ 
+
+Hey Madeline hope all is well! So I've finished the minor via the Burch program but now I still need to apply for the minor correct? What steps exactly do I need to take to do that?
+
+
+
+

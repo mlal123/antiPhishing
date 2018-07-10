@@ -1,0 +1,92 @@
+The UNC Health Sciences Library is still accepting applicants for a Data
+Management Research Assistant. While this project involves work with
+neuroimaging data, prior experience with neuroimaging is not a requirement.
+We would like to encourage any interested students with the relevant
+qualifications to apply for this opportunity!
+
+
+Data Management Research Assistant: Position Description
+*Position Summary*
+
+The University of North Carolina Health Sciences Library (HSL) is seeking a
+highly motivated graduate student for a research assistant position working
+on a joint project between the HSL and the Carolina Health Informatics
+Program (CHIP). This is a 5-month temporary position for 10 hours/week with
+a salary of $658.33 per month.
+
+The HSL and CHIP are working together to develop a pilot data repository as
+a model for new methods that researchers can use to share and discover
+large sets of neuroimaging data. The RA position would be responsible for
+managing use and access of sample datasets, developing a prototype database
+to demonstrate the project=E2=80=99s suggested data-sharing methods, and pr=
+omoting
+communication among the different project stakeholders.
+*Responsibilities*
+
+=C2=B7         Download and manage sample datasets from public data reposit=
+ories
+
+o   Ensure datasets are available and accessible by all project members
+
+o   Catalog information included in the datasets
+
+o   Provide a mechanism for project members to view and interact files
+
+=C2=B7         Translate project findings into an example database that wou=
+ld
+demonstrate a method for how researchers can share or discover datasets
+
+o   Work with other project members to design and build a database
+according to project specifications
+
+o   Create a web portal for this database so that it can be used in project
+demonstrations
+
+=C2=B7         Promote communication among project stakeholders
+
+o   Work effectively with project members from UNC HSL, CHIP, and the
+Gillings School of Public Health to make sure the project meets all
+requirements
+*Required Qualifications*
+
+=C2=B7         Experience using MySQL to create databases, including data
+modeling and form design
+
+=C2=B7         Experience using a basic webserver to run a database online
+
+=C2=B7         Experience connecting an open source database with a web
+interface, using scripting languages such as Python or Apache
+
+=C2=B7         Experience working with large research-quality datasets
+
+=C2=B7         Effective communication skills, including the ability to wor=
+k
+smoothly with project members from multiple locations and backgrounds
+*Preferred Qualifications*
+
+=C2=B7         Experience working with data repository programs, such as
+WordPress or ContentDM
+
+=C2=B7         Demonstrated experience with neuroimaging data and the progr=
+ams
+used to manipulate it
+
+=C2=B7         Experience or training in one or more of the following field=
+s:
+health informatics, library science, information science
+
+Interested applicants may send their resumes and cover letters to Lauren
+Tomola at ltomola@email.unc.edu. Review of applications will begin
+immediately.
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+Visit this group at https://na01.safelinks.protection.outlook.com/?url=3Dht=
+tps%3a%2f%2fgroups.google.com%2fa%2fcs.unc.edu%2fgroup%2fcareers%2f&data=3D=
+01%7c01%7cmlal123%40live.unc.edu%7c42674993234e444ffa7408d3c582279b%7c58b3d=
+54f16c942d3af081fcabd095666%7c1&sdata=3D44ZJEN0X0fvl9Dwvnk7WhR3yHGalDC6YdKv=
+EVNt5nBE%3d.

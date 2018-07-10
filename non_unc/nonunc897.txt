@@ -1,0 +1,20 @@
+Your classmate posted a new Question. 
+
+4.4 setPixel error
+
+I finished every method for section 4, including the setPixel method. But when I did the test, I passed every test but one that says, "Could not find Image method setPixel( int, int, Color)." I believe I wroted the method correctly and don't know what the problem is.
+
+Go to https://piazza.com/class?cid=ih7244bhafull&nid=idk60wfq88174f&token=f2GxNxqCfOm to view. Search or link to this question with @390. Follow it to get notified when a response comes in: https://piazza.com/follow/ih7244bhafull/f2GxNxqCfOm/cc8711d2 
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 110 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.

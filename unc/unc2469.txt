@@ -1,0 +1,22 @@
+
+An announcement has been added in the "COMP411.002.FA16" site at (https://n=
+a01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fsakai.unc.edu%2fp=
+ortal%2fsite%2f5d7efa4a-b769-4b43-a298-96b46c136e23&data=3D01%7c01%7cmlal12=
+3%40live.unc.edu%7c15eaccc3a53f4f642cc708d3d32c5ae0%7c58b3d54f16c942d3af081=
+fcabd095666%7c1&sdata=3Dl8JzbIOTKeLx3z65iW7X%2feKAgC3cXW2ullvKRdz1b54%3d) a=
+t Sep 2, 2016 8:26 am
+
+Please do the following in Section 7.2 of the tutorial (Downloading source =
+code).  =A0  Make the download directory as instructed.  =A0  =A0 % mkdir=
+=A0download  =A0  But then, get the package as follows instead of following=
+ the rest of the instructions in 7.2.  =A0  =A0 % cp /home/lastra/Comp411-L=
+ab/units-1.74.tar.gz .  =A0
+
+----------------------=20
+ This automatic notification message was sent by Sakai @ UNC-Chapel Hill (h=
+ttps://na01.safelinks.protection.outlook.com/?url=3Dhttps%3a%2f%2fsakai.unc=
+.edu%2fportal&data=3D01%7c01%7cmlal123%40live.unc.edu%7c15eaccc3a53f4f642cc=
+708d3d32c5ae0%7c58b3d54f16c942d3af081fcabd095666%7c1&sdata=3DrzhvKMSfWDQr6Q=
+BbuvPJLQEbhhtqtn5BUgaDKb%2bgD9A%3d).
+ You can modify how you receive notifications at My Workspace > Preferences=
+.

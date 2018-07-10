@@ -1,0 +1,15 @@
+@ovidiuf has invited you to collaborate on the NovaOrdis/swimbot repository.
+
+Visit https://github.com/NovaOrdis/swimbot/invitations to accept or decline this invitation.
+
+You can also visit https://github.com/ovidiuf to learn a bit more about @ovidiuf.
+
+Some helpful tips:
+- If you get a 404 page, make sure you're signed in as @mlal123.
+- Too many emails from @ovidiuf? You can block them by visiting
+  https://github.com/settings/blocked_users?block_user=ovidiuf or report abuse at
+  https://github.com/contact/report-abuse?report=ovidiuf
+
+---
+View it on GitHub:
+https://github.com/NovaOrdis/swimbot

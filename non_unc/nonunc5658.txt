@@ -1,0 +1,230 @@
+Display problems? View this newsletter in your browser.
+
+
+
+[image: ---]
+[image: Quantitative Analysis Workshop in Beirut]
+
+Quantitative Analysis Workshop in Beirut
+
+
+It's not everyday you get to send some of your staff overseas, and it's
+especially rare to get to experience a place as culturally significant as
+Beirut. In May, our data scientist Bill Shi and senior statistical
+consultant Chris Wiesen taught a five-day workshop in Lebanon=E2=80=99s cap=
+ital
+city on quantitative data analysis for the social sciences. The workshop
+was co-organized =E2=80=A6
+
+Read more.
+
+[image: ---]
+Graduate Student Job Opening: Statistical Consultant
+
+
+Graduate Student Job Opening: Statistical Consultant (Part-time) Fall 2017
+  The Odum Institute maintains a statistical consulting service, staffed by
+advanced graduate students, who are on call in the Research Hub of Davis
+Library to answer routine statistical and programming questions. We will
+have an opening for a part-time statistical consultant this fall. The
+position is for 9 hours per =E2=80=A6
+
+Read more.
+
+[image: ---]
+[image: Data Science Graduate Student Research Assistantship]
+
+Data Science Graduate Student Research Assistantship
+
+
+Data Science Graduate Student Research Assistantship   Application due
+Friday, July 7th, by 5:00 P.M. The Odum Institute for Research in Social
+Science at UNC is seeking applications for a graduate student research
+assistant for the 2017-18 academic year in the area of data science. This
+program is part of the Institute=E2=80=99s collaboration with the Data@Caro=
+lina
+initiative and is supported =E2=80=A6
+
+Read more.
+
+[image: ---]
+[image: Qualitative Research Summer Intensive]
+
+Qualitative Research Summer Intensive
+
+
+ResearchTalk and the Odum Institute at University of North Carolina present=
+:
+The 14th Annual Qualitative Research Summer Intensive
+
+
+*Standard registration for QRSI ending soon!**Standard registration
+ends Monday June 26, 2017.*
+*Register today to hold your seat in the classes of your choice. *
+
+
+
+QRSI is a unique opportunity to gain both theoretical and practical
+understanding of qualitative inquiry. The five-day course series covers a
+range of topics to help you synthesize your data and develop a deeper
+understanding of qualitative research tools. QRSI also lets you make your
+own customized schedule based on the courses that best suit your needs.
+
+Join us for five days of qualitative research professional development
+courses and networking opportunities. This year we are introducing *ten*
+new courses and *four* new instructors!
+July 24-25, 2017
+
+(9:30am - 4:00pm)
+
+=E2=80=A2 *Coding and Analyzing Qualitative Data* (Johnny Salda=C3=B1a)
+
+=E2=80=A2 *NEW! Focus Groups: Tools for Inquiry, Pedagogy, and Social
+Advocacy/Activism* (New QRSI Scholar: George Kamberelis)
+
+=E2=80=A2 *Foundational Principles of and Approaches to Mixed Methods Resea=
+rch*
+(Margarete Sandelowski)
+
+=E2=80=A2 *NEW! Introduction to Qualitative Research: From Principles to Pr=
+actice*
+(Alison Hamilton)
+
+=E2=80=A2 *NEW! Oral History: Purpose, Praxis, and Possibility* (New QRSI S=
+cholar:
+Sherick Hughes)
+
+=E2=80=A2 *NEW! Qualitative Teamwork* (Kevin Swartout)
+July 26, 2017
+
+(9:30am - 4:00pm)
+
+=E2=80=A2 *Building a Codebook and Writing Memos* (Paul Mihas)
+
+=E2=80=A2 *NEW! Compassionate Interviewing* (Carolyn Ellis)
+
+=E2=80=A2 *Doing Qualitative Research Online* (Kevin Swartout)
+
+=E2=80=A2 *Rapid Turn-around Qualitative Research* (Alison Hamilton and Ray=
+ Maietta)
+
+=E2=80=A2 *NEW! Synthesizing Qualitative Data* (Johnny Salda=C3=B1a)
+
+=E2=80=A2 *NEW! Writing Stories: Researcher as Storyteller* (New QRSI Schol=
+ar:
+Arthur Bochner)
+July 27 - 28, 2017
+
+(Thursday 9:30am - 4:00pm, Friday 9:00am - 3:00pm)
+
+=E2=80=A2 *NEW! Doing Qualitative Research in the Big Data Era* (New QRSI S=
+cholar:
+Mario Small)
+
+=E2=80=A2 *NEW! Evocative Autoethnography: Writing Lives and Telling Storie=
+s*
+(Carolyn Ellis and Arthur Bochner)
+
+=E2=80=A2 *Implementation Research: Using Qualitative Research Methods to I=
+mprove
+Policy and Practice* (Alison Hamilton)
+
+=E2=80=A2 *NEW! Qualitative Research: Analyzing Life* (Johnny Salda=C3=B1a)
+
+=E2=80=A2 *'Sort and Sift, Think and Shift': Learning to Let the Data Guide=
+ Your
+Analysis* (Ray Maietta)
+
+=E2=80=A2 *Writing Effective Quantitative and Mixed Methods Research Propos=
+als*
+(Margarete Sandelowski)
+
+Visit https://odum.sites.unc.edu/education/qrsi/
+
+for more information.
+
+Read more.
+
+[image: ---]
+[image: Data Matters]
+
+Data Matters
+
+
+Data Matters: Data Science Short Course Series Data Matters=E2=84=A2 is a w=
+eek-long
+series of one and two-day courses aimed at professionals in business,
+research, and government. If you are struggling to stay afloat in the data
+deluge, grappling with large, complex data, or simply want to sharpen your
+data science skills, Data Matters is for you. Below is a list =E2=80=A6
+
+Read more.
+
+[image: ---]
+[image: QRSI Spotlight: Doing Qualitative Research Online]
+
+QRSI Spotlight: Doing Qualitative Research Online
+
+
+QRSI Spotlight: Doing Qualitative Research Online From the QRSI website:
+Every day, millions of people use the Internet and social media (e.g.,
+Reddit, Facebook, Twitter, virtual communities) to communicate and relate
+with others. This trend will only accelerate with the availability of
+portable, web-enabled devices such as smartphones and tablets. Moving
+forward, qualitative researchers will not be able to =E2=80=A6
+
+Read more.
+
+[image: ---]
+[image: Short Course Spotlight: ICPSR - Bayesian Latent Variable Analysis]
+
+Short Course Spotlight: ICPSR - Bayesian Latent Variable Analysis
+
+
+ICPSR - Bayesian Latent Variable Analysis   This workshop will focus on a
+variety of commonly use latent variable techniques from the Bayesian
+perspective. The Bayesian paradigm is, in many ways, superior to classic
+techniques for estimating models with latent variables. In this workshop we
+will cover the factor and IRT models and introduce a variety of new tools
+for =E2=80=A6
+
+Read more.
+
+[image: ---]
+Upcoming Short Courses
+
+
+The Odum Institute is committed to advancing social science research
+through education and training. Each year, the Odum Institute offers more
+than 100 short courses on a range of topics in the social and behavioral
+sciences, and partners with other organizations to provide unique summer
+series and workshops on various data science topics.
+
+Click the link above to view a list of our upcoming short courses, or visit
+our calendar
+
+.
+[image: ---]
+[image: Facebook]
+
+[image: Twitter]
+
+
+Unsubscribe
+
+ - Edit your subscription
+
+
+228 Davis Library, CB #3355, University of North Carolina at Chapel Hill,
+Chapel Hill, NC 27599-3355
+
+Website: www.odum.unc.edu | Phone: 919-962-3061 <(919)%20962-3061> | Email:
+odum@unc.edu | Hours: 9:00AM - 5:00PM
+
+--- You are currently subscribed to=20=
+odum=
+ as:=20=
+mlal123@live.unc.edu=
+.
+To unsubscribe send a blank email to=20=
+leave-39042427-90028569.519edd28e76e17b9866f1cae416ac17a@listserv.unc.edu=

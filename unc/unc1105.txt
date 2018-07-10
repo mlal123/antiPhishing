@@ -1,0 +1,97 @@
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+
+
+Greetings, Students!
+ 
+I hope you are all doing well, and that you=92re eag=
+erly anticipating the start of classes tomorrow.  I=92m writing to you=
+ because the English department is still in the process of determining how =
+to best serve students=92 needs this Spring. 
+ To that end, we have created a new class =96 ENGL 121, British Literature,=
+ 19th and Early 20th Century.  This course is appropriate for any leve=
+l, but is especially fitting for students who love the study of literature =
+and are considering English as a major
+ or second major.  ENGL 121 not only can meet any one of three general=
+ education requirements (LA - Literary Arts, CI - Communication Intensive, =
+and NA - North Atlantic World),  but it also fulfills a core requireme=
+nt in the major.  Scheduling information and
+ the course description are below.  I hope this information is helpful=
+ to you as you continue to fine-tune your Spring plans! 
+
+ 
+-Tara Cowan
+ 
+Undergraduate Programs Assistant
+Department of English & Comparative Literature <=
+o:p>
+UNC Chapel Hill
+ 
+ENGL 121-004, British Literature, 19th and Ear=
+ly 20th Century
+Tuesday/Thursday
+9:30-10:45
+Greenlaw 302
+Joe Viscomi
+ 
+Description: 
+This course introduces students to different literar=
+y genres and to the art of critical reading and writing through the examina=
+tion of key texts from 1789 through 1920s. From the British Romantic period=
+ we will read William Blake=92s
+Songs of Innocence and of Experience, major lyrical poems by William=
+ Wordsworth and Samuel Taylor Coleridge, along with their essays on poetry =
+and the imagination, Mary Shelley=92s novel,
+Frankenstein, and John Keats=92 remarkable Odes (e. g., =93Ode on a =
+Grecian Urn,=94 =93Ode to a Nightingale,=94 =93Ode on Melancholy=94). From =
+the Victorian period, we will read major poems by Alfred, Lord Tennyson, El=
+izabeth Barrett Browning, and Robert Browning,
+ essays on education, women=92s rights, and culture by John Henry Cardinal =
+Newman, John Stuart Mill, and Mathew Arnold. From the early 20th=
+ century, we will read Bernard Shaw=92s play,
+Mrs. Warren=92s Profession, poems by World War I poets, key poems by=
+ William Butler Yeats and T. S. Eliot, and a classic short story by James J=
+oyce.   
+ 
+ 
+
+
+

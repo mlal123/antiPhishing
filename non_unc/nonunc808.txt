@@ -1,0 +1,44 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+Troubles with ColorPlayground  (11/10/15 11:59 PM)
+
+Hey,
+
+I was wondering if anyone else was having trouble getting the ColorPlaygrou=
+nd window to display a color in the latest assignment? My Color class is pa=
+ssing all of the tests defined in=C2=A0ColorSemanticsTests and=C2=A0ColorDe=
+finitionTests,=C2=A0and yet, when I uncomment the lines of code to display =
+the ColorPlayground window, the background color of the window does not cha=
+nge. I have attached a picture of this behavior below.
+
+
+Thanks for the help!
+
+Go to https://piazza.com/class?cid=3Diguc831auxg6p6&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

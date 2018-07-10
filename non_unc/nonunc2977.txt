@@ -1,0 +1,59 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+If you are getting weird outputs in your console in lab 6  (10/08/16 3:20 P=
+M)
+
+If you are getting ? marks in your console, make sure you are not using Ecl=
+ipse or Xcode or any other IDE. The assignment is designed for you to use U=
+NIX to get the right output. For instance, I was getting weird ? in my outp=
+ut but when I compiled and ran my assignment on the server, I got the corre=
+ct output.=C2=A0
+
+Go to https://piazza.com/class?cid=3Diu1l5924w9c65k&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+quiz 2 #7  (10/08/16 4:08 PM)
+
+In number 7, we have to convert -7.125 to binary. The correct answer is C b=
+ut i am having trouble understanding it. If you just do the -7, its 1001, s=
+o how can the answer be 1000.1110?
+
+
+Go to https://piazza.com/class?cid=3Diu1mvai0y9t1k4&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+powerpoint slides  (10/08/16 4:34 PM)
+
+The midterm will cover through the transistors and logic I or the transisto=
+rs or logic II powerpoint?=C2=A0
+
+Go to https://piazza.com/class?cid=3Diu1nt6kr9y22k9&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

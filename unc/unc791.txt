@@ -1,0 +1,31 @@
+In case you are wondering about COMP 390 (but remember that it doesn't
+count toward the major)
+----------
+
+COMP 390 How to Build a Software Startup
+Spring 2016, T/TH 9:30 - 10:45am
+Professor: Michael Fern
+From this course, you will develop real-world, hands-on experience to
+successfully develop and launch a software startup. You will work in teams
+and each team will be paired with an experienced startup founder as a
+mentor. The course will apply a flipped classroom approach, where
+the lecture will be viewed on your own time via video. You will also spend
+considerable time outside of the classroom engaging with potential
+customers to develop a business model and minimum viable product. A minimum
+viable product is the smallest product or service that can be
+deployed to provide potential value to a set of early customers. Our time
+together in-class will be spent sharing ideas and advice, interacting with
+guest speakers, discussing startup case studies, and working together on
+the course deliverables. The ultimate goal of the course is to help you
+develop a product or service that provides value; i.e., a product that
+customers will actually want to use and buy!
+
+I hope to see you in the course! If you have any questions, please don=E2=
+=80=99t
+hesitate to email me at fern@cs.unc.edu.
+
+--=20
+You received this message because you are subscribed to the Google Groups "=
+Majors" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to majors+unsubscribe@cs.unc.edu.

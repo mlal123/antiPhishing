@@ -1,0 +1,41 @@
+Your classmate posted a new Question.=20
+
+Proper formatting of hexadecimal output
+
+The assignment mentions the following:=C2=A0
+
+Your program should parse through the entire file and if there are more tha=
+n 2 duplicates,
+print out how many instances occurred. In this case the correct output will=
+ be:
+2 2
+aa 2
+123 3
+9ec4c12949a4f31474f299058ce2b22a 2
+
+The assignment mentions that the following should be outputted. However, '0=
+2' is one of the inputs but '2' is outputted without a leading zero as the =
+output. Should this format be followed or would it be fine to output '02' f=
+ollowed by the number of times it was duplicated?=C2=A0
+
+Go to https://piazza.com/class?cid=3Dj7857gmacwt1d8&nid=3Dj5vi9cpw2jn336&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @23. Follow=
+ it to get notified when a response comes in: https://piazza.com/follow/j78=
+57gmacwt1d8/f2GxNxqCfOm/eeb37d45=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 435 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/j5vi9cpw2jn336 to un-enroll from this class.=

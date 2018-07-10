@@ -1,0 +1,42 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+FSM for Stopwatch  (10/02/16 12:57 PM)
+
+Hey guys, I wanted to share something that gave me some pain in making the =
+stopwatch FSM. =C2=A0Remember to describe=C2=A0the loop-back edges in PAUSI=
+NG_UP, RESUMING_UP, PAUSING_DOWN, RESUMING_DOWN. =C2=A0I originally elided =
+them for simplicity, but it creates some weird bugs such as not pausing whe=
+n the button is pressed too long/too short, flipping between pausing and co=
+unting etc. =C2=A0So if you're having problems with functionality and not s=
+ure why, make sure you have all the edges described in the state transition=
+ diagram.
+
+Go to https://piazza.com/class?cid=3Ditsveilm5i0h9&nid=3Dis6wk5m47ay4zy&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

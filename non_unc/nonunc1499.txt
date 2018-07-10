@@ -1,0 +1,50 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+a3 autograder  (2/11/16 6:08 PM)
+
+Autograder is giving me 9/10 but all the junit tests pass. Anyone else having a similar issue?
+
+Go to https://piazza.com/class?cid=ikivm4nvrot503&nid=ihs2fbbhsfx37n&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+My file passes all tests yet gives me a 4/10  (2/11/16 7:15 PM)
+
+assignment3b.jar
+
+This is the Jar file that I have. It passes all tests yet, I am only getting a 4/10. I really don't understand this and have no way of debugging it...
+
+Go to https://piazza.com/class?cid=ikiy0eswjo1i5&nid=ihs2fbbhsfx37n&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A3 Adept Lighten/Darken  (2/11/16 9:13 PM)
+
+So I thought I did the Lighten/Darken methods right, but when I tried a test case, the red, green, and blue levels did not change for either. I made a new pixel with DGB all equaling 1.0, and put it and the factor through the blended method as the pixel p and weight respectively, applied to the original pixel. Is the problem in how I wrote the lighten method, or is it likely in my blended method?
+
+Go to https://piazza.com/class?cid=ikj28s9gy719d&nid=ihs2fbbhsfx37n&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Midterm 1: Best Study Strategies?  (2/11/16 9:40 PM)
+
+Aside from reviewing the slide and doing practice exams, are there any other recommended studying strategies, AKA tutorials/interactive sites to use which are specifically relevant to Midterm 1?
+
+Thank you!
+
+Go to https://piazza.com/class?cid=ikj37mwme001wl&nid=ihs2fbbhsfx37n&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 401-001 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2GxNxqCfOm

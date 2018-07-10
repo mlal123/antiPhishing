@@ -1,0 +1,72 @@
+Instructor Kris Jordan posted a new Note. Your instructor selected to notif=
+y everyone in real time of this post, bypassing user email preferences.
+
+Assignment 3 F.A.Q.
+
+During office hours=C2=A0we have noticed a number of frequent questions com=
+e up regarding Assignment 3. The purpose of this post is to=C2=A0help you a=
+void some of those common pot holes.
+
+In the holding() method the goal is to prompt the user ONCE for their input=
+, and then process this input using some conditional logic. If the user inp=
+uts an unrecognized option, only then do we need to prompt the user for inp=
+ut again (by calling keyboard.nextInt()). As a hint, consider putting your =
+logic in some sort of loop to accomplish this.We have provided the method s=
+keletons=C2=A0for each of the methods you are responsible for implementing =
+for this assignment. You must only modify these methods. Additionally, you =
+are not allowed to edit the method signatures in any way (parameters, retur=
+n type, etc.). Manipulate the parameters that are passed into each method a=
+s a way to access the values you need. For example if you are given a Die o=
+bject as a parameter and need the value of that die, think about how you mi=
+ght obtain that.Another common problem you may encounter is seeing the erro=
+r =E2=80=9C[methodName] does not return a value of type [returnType]=E2=80=
+=9D even if you have return statements in your method. This is because the =
+compiler cannot verify that something will definitely be returned when the =
+method is called. You may have written your logic in such a way that you kn=
+ow the method will always return a value, but sometimes the compiler cannot=
+ validate this. To fix this, you either modify your logic by adding an else=
+{} block with a return statement, or adding a return statement at the very =
+end of the method. These return statements could possibly just return a dum=
+my value that you know will never actually be returned, but it satisfies th=
+e compiler. See the example below.
+// Compile will warn this method has an errorpublic int doSomething(int num=
+1, int num2){  if (num1 >=3D num2) {    return num1;  } else if (num2 > num=
+1) {    return num2;  }}=20
+There are two ways to fix this:
+public int doSomething(int num1, int num2){  if (num1 >=3D num2){    return=
+ num1;  } else {    return num2;  }} //convince yourself that this method d=
+oes the same thing as the original method
+-- Alternatively --
+public int doSomething(int num1, int num2){  if (num1 >=3D num2) {    retur=
+n num1;  } else if (num2 > num1) {    return num2;  }  return -1; //dummy v=
+alue that we know will never actually be returned}
+
+The suggestions and hints that Eclipse gives when it identifies errors shou=
+ld not always be considered the right thing to do. Eclipse is just a progra=
+m and it tries to give suggestions to help. However, at the end of the day =
+it is just a bunch of code and doesn=E2=80=99t always do or say the right t=
+hing. If you run into errors use your intuition and consider the Eclipse su=
+ggestions as merely guidance to help fix things.If you are considering usin=
+g an infinite loop, a while loop is a=C2=A0better choice. Writing an infini=
+te for loop is much more difficult and can lead to errors that are tricky t=
+o troubleshoot.
+
+Go to https://piazza.com/class?cid=3Digmt49wj3ml5eh&nid=3Didk60wfq88174f&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @303.=20=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 110 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.=

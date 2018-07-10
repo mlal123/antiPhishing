@@ -1,0 +1,101 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+A3 Novice and defining the methods made in the interface  (2/06/16 12:51 PM)
+
+More just a generic question... When you make an interface, since it consis=
+ts of the method signatures, do you define those methods in the classes in =
+which you want to implement them? (i.e. you don't define them in the interf=
+ace)
+
+Go to https://piazza.com/class?cid=3Dikbf3xui1bmuh&nid=3Dihs2fbbhsfx37n&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A3 Grader Status  (2/06/16 1:26 PM)
+
+Is the A3 grader running yet? No hurry haha
+
+Go to https://piazza.com/class?cid=3Dikbgc0gf8a96sl&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A3 Adept Blend  (2/06/16 1:30 PM)
+
+I'm having trouble figuring out how to talk about the other pixel we are mi=
+xing with. I know I'm taking one pixel in as a parameter, but where does th=
+e second one what I'm mixing with come from?
+
+Thanks!
+
+Go to https://piazza.com/class?cid=3Dikbgfqm0rsb13t&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Attended recitation, missed quiz  =3D\  (2/06/16 1:50 PM)
+
+Hey all,
+This Friday I attended recitation (and was on time) but my computer was fai=
+ling at life and refused to start at all until the quiz was no longer open =
+and the lecture had begun.=C2=A0
+Then=C2=A0I=C2=A0failed at life and totally forgot to=C2=A0ask our TA if I =
+can still get credit for coming. Is there a way I can fix this?
+Thank you!
+
+Go to https://piazza.com/class?cid=3Dikbh79qsd3y5c2&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A3 Adept  (2/06/16 2:28 PM)
+
+Where does the Pixel object come from?=C2=A0
+
+Go to https://piazza.com/class?cid=3Dikbikjzsaw836r&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A3 General Question.  (2/06/16 2:29 PM)
+
+So just making sure, is my constructor supposed to declare variables using =
+code like "this.red=3Dred;"? Or are constructors usually empty? I have seen=
+ them both ways but this assignment has me slightly confused, set-up wise.
+
+Go to https://piazza.com/class?cid=3Dikbim6lfcol7d0&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A3 Adept PictureImpl  (2/06/16 2:57 PM)
+
+Should I create an array of pixels (a picture) as an instance variable in P=
+ictureImpl? Or is that supposed to come in somewhere else?
+
+Thanks!
+
+Go to https://piazza.com/class?cid=3Dikbjjybkn7e3a0&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

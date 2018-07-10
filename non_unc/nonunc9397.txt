@@ -1,0 +1,965 @@
+
+
+        
+        Udemy
+        
+            img {
+                max-width: 100%;
+            }
+            p{
+                margin-top: 0;
+                margin-bottom: 10px;
+                font-size: 16px;
+            }
+            p a{
+                text-decoration: none;
+            }
+            ul{
+                margin: 0 0 10px 0;
+                padding-left: 10px;;
+            }
+            @media (max-width: 480px) {
+                #logo {
+                    margin: 0 auto;
+                    padding-left: 0 !important;
+                }
+            }
+           =20
+           =20
+        
+    
+    
+        
+            
+                
+                   =20
+                        
+                           =20
+    
+        
+           =20
+                New Promotional Announcement
+           =20
+        
+    
+
+                        
+                   =20
+                   =20
+                       =20
+                        
+                            
+                                
+                               =20
+    
+        
+            
+                
+            
+            
+               =20
+                                   =20
+                                Hi Mangza, an announcement has been made from SuperDataScie=
+nce, instructor of Machine Learning A-Z=E2=84=A2: Hands-On Python & R I=
+n Data Science.
+                                   =20
+                               =20
+            
+        
+    
+
+    
+         Your Personal Early Bird Invitation to Get Lifetime=
+ Access to the 5hr + Intro to Data Science A-Z=E2=84=A2 Course!
+
+  
+
+Data Science can seem a complex, technical topic. And some of the algori=
+thms and techniques can get very advanced.
+
+  
+
+
+
+But=E2=80=A6 for the most part, it=E2=80=99s not something complex or my=
+sterious.
+
+  
+
+
+
+If you follow a well-structured process, almost ANYONE can equip th=
+emselves with the skills to become a Data Scientist.
+
+  
+
+
+
+Hadel=
+in and I sat down and mapped out that process
+
+  
+
+
+
+There=E2=80=99s a high demand for Data Scientists =E2=80=93 those who kn=
+ow what to do are a hot commodity right now.
+
+  
+
+
+
+And with this course and some hard work, companies could soon be approac=
+hing you.
+
+  
+
+
+
+That=E2=80=99s why we created this: to give you everything you need to b=
+ecome a Data Scientist, even if you have no experience.
+
+  
+
+
+
+So, after weeks of blood, sweat and tears, Hadelin and I proudly present=
+:
+
+  
+
+
+
+I=
+ntro to Data Science A-Z=E2=84=A2 - Your Step-By-Step Guide To Starting
+
+  
+
+
+
+It was a particularly HUGE =
+challenge to create this course.
+
+
+
+We wanted a course that would not only pull everything a Data Scientist =
+needs to know together, but organize it in a logical way that would enhance=
+ your learning, reinforce your new skills and prepare you for real-world Da=
+ta Science.
+
+  
+
+
+
+In short: We challenged ourselves=E2=80=A6
+
+  
+
+
+
+To =
+Create A Course That Would Kickstart Your Entire Career.
+
+  
+
+
+
+We wanted a course specifically for beginners =E2=80=93 theory, walk-thr=
+oughs and practical exercises that would make Data Science second nature to=
+ you much faster.
+
+  
+
+
+
+You heard that right!
+
+  
+
+
+
+There are dozens of useful tips & tricks scattered throughout the co=
+urse, but more importantly, you=E2=80=99ll be following a structured, compr=
+ehensive program that leaves no stone unturned.
+
+  
+
+
+
+Plus, this is a c=
+ourse that will grow.
+
+  
+
+
+
+It=E2=80=99s almost impossible to summarize and structure such a broad s=
+ubject like data science, but this is a problem facing so many newcomers to=
+ the field that we were ready to tackle the challenge.
+
+  
+
+
+
+Since topics change, from analytics to software applications =E2=80=93 t=
+his course will also evolve, and we will continue adding new materials as n=
+ew lessons and useful insights come along.
+
+  
+
+
+
+But we st=
+ill need your support to keep on going.
+
+  
+
+
+
+Both aspiring and new Data Scientists, along with many other modern prof=
+essionals truly need a course like this. It=E2=80=99s is our responsibility=
+ to get this content out for people like YOU.
+
+  
+
+
+
+And that's why we're sending you this special Early Bird Invitation to j=
+ump on board with this MEGA-EPIC Intro to Data Science Course.
+
+  
+
+
+
+Does That Sound=
+ Exciting?
+
+  
+
+
+
+Well, guess what...
+
+  
+
+
+
+There's more!
+
+  
+
+
+
+I value my existing students and that's why I've prepared something excl=
+usively for you...
+
+  
+
+
+
+The course comes with three special BONUSES.
+
+  But You Need To Grab Them Fast!
+
+
+
+Make no mistake. The race to download these bonuses is ON =E2=80=A6
+
+  
+
+
+
+=E2=80=A6 because on Friday, April 27th at 23:59 New York time=
+, these special bonuses disappear forever. 
+
+  
+
+
+
+Interested?
+
+  
+
+
+
+I thought you might be.
+
+  
+
+
+
+So here's the deal:
+
+  
+
+
+
+If you want these bonuses, please pay attention.
+
+  
+
+
+
+Why?
+
+  
+
+
+
+Because...
+
+  
+
+
+
+Today You&n=
+bsp;Have A Unique Opportunity To Get Lifetime Access To This Epic Intr=
+o to Data Science A-Z=E2=84=A2 Course At An Early Bird Discounted Pric=
+e!
+
+  
+
+
+
+The course is for all levels and is designed with no up-front expec=
+tations in regards to your skillset, experience or career level in Data Sci=
+ence.
+
+  
+
+
+
+In fact, this course is designed for those with zero knowledge and zero =
+practical experience but as long as you=E2=80=99ve worked in an office envi=
+ronment (or at home) - you WILL get immense value from this class.
+
+  
+
+
+
+Check out the topics we cover off:
+
+  
+
+
+
+Part 0 - Welcome =
+to the Course
+
+  
+
+
+
+We=E2=80=99ve got a lot of ground to cover if you=E2=80=99re going to be=
+come a Data Scientist. So first up, let=E2=80=99s spend some time talking a=
+bout the topics you=E2=80=99ll learn, other course-related =E2=80=9Cneed to=
+ know=E2=80=9D and a preview of what to expect.
+
+  
+
+
+
+Part 1 =
+=E2=80=93 The Ultimate Data Science Guide
+
+  
+
+
+
+This Ultimate Guide contains every vital aspect you need to know on your=
+ journey into Data Science. From the crucial elements in statistics to the =
+power of visualization to the algorithms of machine and deep learning, you=
+=E2=80=99ll be challenged and engaged every step of the way!
+
+  
+
+
+
+The 6-week Data Scientist Program
+
+  Statistics: how to avoid costly oversights when looking at the d=
+ata
+
+  The Data Science Process: a framework to base your career around
+
+  Databases: manipulate your data like a pro
+
+  Machine Learning: algorithms that solve real-world problems
+
+  And more!
+
+  
+
+
+
+Part =
+2 =E2=80=93 Data Science with Tableau
+
+  
+
+
+
+Visualization is a powerful part of Data Science that many choose to spe=
+cialize in. And we=E2=80=99re going to get into how you can master this ang=
+le with one of the most popular =E2=80=9Cviz=E2=80=9D tools on the market: =
+Tableau.
+
+  
+
+
+
+Settling in: install Tableau and get your data
+
+  The Bank Problem: solve your first data science challenge
+
+  First Steps: how to create visualizations in no time
+
+  Full Throttle: learn more advanced data mining techniques
+
+  And more!
+
+  
+
+
+
+Now that you=E2=80=99ve got a solid grasp on visualization, let=E2=80=99=
+s kick things up a notch and dive into the power of Python!
+
+  
+
+
+
+Part 3 =
+=E2=80=93 Data Science with Python
+
+  
+
+
+
+Python is one of THE must-know languages for Data Scientists, so we coul=
+dn=E2=80=99t skip this vital part of your learning journey. The good news i=
+s that it=E2=80=99s a relatively simple language and won=E2=80=99t take lon=
+g to get into it.
+
+  
+
+
+
+We will cover:
+
+  
+
+
+
+How to set up your Python environment
+
+  How to split data so you can train and test your new model
+
+  Building your very own regression model in Python
+
+  Tackling classification problems with Python
+
+  And more!
+
+  
+
+
+
+Part 4 =
+=E2=80=93 Data Science with the Cloud
+
+  
+
+
+
+The chances are you=E2=80=99re already using some form of the Cloud in y=
+our personal life. But we=E2=80=99re going to explore how the Cloud has inf=
+luenced practices in Data Science, and how you can make the most of it.
+
+  
+
+
+
+This short but super-important section covers:
+
+  
+
+
+
+A run-down on popular cloud platforms you can use for Data Science
+
+  Hadelin=E2=80=99s #1 choice to train and run your models on
+
+  How to set up your own cloud instance
+
+  And more!
+
+  Part 5 - Course ConclusionA quick bu=
+t useful recap of everything we've learned, plus the next steps to con=
+tinue on your data science journey. In summary, Intro to Data Science A-Z=
+=E2=84=A2 is much more than a course.
+
+  
+
+
+
+It=E2=80=99s an immersive experience that you will be returning to, agai=
+n and again to refresh yourself in the critical fundamentals, remind yourse=
+lf of various tips you can use to work more efficiently and effectively, an=
+d in perhaps most of all: look back on how you began the journey to be the =
+top-level Data Scientist / Analyst that you wanted to be.
+
+  
+
+
+
+Do we know how to create a disruptive online course? =
+See for yourself! Check out what some of our Machine Learning A-Z=E2=
+=84=A2 and Deep Learning A-Z=E2=84=A2 students are saying:
+
+
+
+The only problem is...
+
+
+
+We Simp=
+ly Must Remove These Bonus Gifts Just Over 24 Hours From Now (And Coun=
+ting)
+
+  
+
+
+
+Why? 
+
+  
+
+
+
+I thought you'd ask. 
+
+  
+
+
+
+This course has an insane amount value inside... In fact, I can tel=
+l you right now that for most people who complete this course, it will=
+ change their lives.
+
+  
+
+
+
+So we want people to take action. And the best way to do that is...
+
+  
+
+
+
+To =
+Make Them An Offer They Can't Refuse!
+
+  
+
+
+
+We spent time creating the three Bonus materials, we put effor=
+t into them, and yet we will remove them forever from the co=
+urse in less than a day.
+
+  
+
+
+
+Just so we can create...
+
+  
+
+
+
+Exclusivity for those who sign up in the next 24 hours. 
+
+  
+
+
+
+After that these materials will be gone. Forever.
+
+  
+
+
+
+Are You=
+ Going To Be The One Who Misses Out On The Bonus Materials?
+
+  
+
+
+
+We don't want you to lose out or miss out on anything.
+
+  
+
+
+
+Instead, we want you to learn and become an awesome Data Scientist.
+
+  
+
+
+
+But we have to close the Early Bird Promo of this course 24 ho=
+urs from now.
+
+  
+
+
+
+But let's call a spade a spade:
+
+  
+
+
+
+Yes, you can get the course for $16 or $17 or $14.95 + tax=
+ during one of Udemy's special offers.
+
+  
+
+
+
+We all know that.
+
+  
+
+
+
+Whatever.
+
+  
+
+
+
+Go nuts.
+
+  
+
+
+
+Don't worry.
+
+  
+
+
+
+Be happy.
+
+  
+
+
+
+But =E2=80=A6
+
+  
+
+
+
+T=
+here's A Huge Problem With All Of That
+
+  
+
+
+
+What you can't get when you join our course thro=
+ugh those other channels, are the following limited bonus gifts. We're =
+;giving these gifts only to those of you who join the course in the next 24=
+ hours using this coupon-coded link.
+
+  
+
+
+
+#=
+1 Cheatsheet: Top Tips to Boost Your LinkedIn Profile
+
+  
+
+
+
+LinkedIn is THE place where people check out your professional profile. =
+Do it the right way and you=E2=80=99ll grow your network and connect with p=
+eople who may help you in your journey (and vice versa). Do it the wrong wa=
+y=E2=80=A6 and it might be hurting more than helping.
+
+  
+
+
+
+With our step-by-step guide, you=E2=80=99ll be able to set up your Linke=
+dIn profile to communicate your new skills, present yourself in the best li=
+ght possible and catch the eye of the people you want to.
+
+  
+
+
+
+If you=E2=80=99re serious about boosting your professionalism, you=E2=80=
+=99ll definitely want this!
+
+  
+
+
+
+<=
+/a>#2 Cheatsheet: How to Launch Your Freelance Career
+
+
+
+If you=E2=80=99ve finished the course, then congrats! You=E2=80=99ve got=
+ the skills to be a Data Scientist. But where do you go to get actual, paid=
+ experience?
+
+  
+
+
+
+Upwork is one of the world=E2=80=99s largest freelance platforms. It=E2=
+=80=99s also home to hundreds of Data Science jobs you can cut your teeth o=
+n. But just like a resume, there are tips & strategies that make your p=
+rofile stand out and get attention. You=E2=80=99ll get this Cheatsheet to b=
+oost your profile=E2=80=99s visibility and give yourself more chance of get=
+ting the jobs you want.
+
+  
+
+
+
+Ready to get freelance jobs that give you experience WHILE you get paid?=
+ Then read on!
+
+  
+
+
+
+#3 Guide: Control the Source =E2=
+=80=93 Getting Started on Github
+
+
+
+As a Data Scientist, you WILL write your own programs. And there=E2=80=
+=99s nothing more frustrating than losing files or deleting a huge chunk of=
+ code accidentally. A source control program like Github ensures this won=
+=E2=80=99t happen to you.
+
+  
+
+
+
+Github also gives you an opportunity to display and share your work publ=
+icly (and safely). But knowing where to start here can be intimidating. We=
+=E2=80=99ve created a step-by-step Cheatsheet to help you get up to speed i=
+n the Github world in no time.
+
+  
+
+
+
+Master Github with this guide and give yourself a huge edge!
+
+  
+
+
+
+=
+The combined value of these materials is way bey=
+ond even the sticker price of the course itself.
+
+
+
+In fact, if you're the kind of person who takes action, this additional =
+material is going to be downright priceless for you.
+
+  
+
+
+
+But here's the thing:
+
+  
+
+
+
+We're only giving these bonuses to people who join Intro to Data Science A-Z=E2=84=A2=
+ in the next 24 hours using this special link. It's already coded with =
+your discount and everything has been taken care of for you.
+
+=20
+
+ Join the course, scroll down to the bonuses and download them imm=
+ediately. They are yours to keep, just for trying the course.
+
+=20
+
+ And please understand that you have a full four weeks to go through the en=
+tire course. If for any reason you aren't 100% satisfied that this =
+is the best investment for you - or for any other reason at all - simply co=
+ntact Udemy and they'll refund every last penny. No one will hassle you. Ev=
+ery last cent will be returned. And you'll get to keep the bonu=
+s gifts forever. 
+=20
+
+ Will some people scam this offer just to get the bonuses? 
+=20
+
+ Oh, probably.  
+=20
+
+ But We =
+Don't Mind! They're The Kind Of People Who Aren't Going To Take Action Anyw=
+ay! Unlike you, they aren't going to retu=
+rn to Intro to Data Science A-Z=E2=84=A2 again and again=
+ to get all the updates we'll be constantly adding. They won't be continuin=
+g their education over the long term and they certainly won't be getting re=
+sults. 
+=20
+
+ Are you interested in taking your knowledge to the next level and adding i=
+ncredible value to your career? 
+=20
+
+ And would you like to get paid handsome sums of money for doing so? <=
+/p>
+=20
+
+ If you answered yes to either of those questions, then you have an ethical=
+ duty to be the best Data Scientist / Analyst you possibly can. 
+=20
+
+ Which is why we are contacting you about this offer today and, quite frank=
+ly, putting on the thumbscrews. 
+=20
+
+ Because we too have an ethical duty. 
+=20
+
+ We have the duty to show you a vision of a better future and compel you to=
+ take the necessary steps towards achieving that future. 
+=20
+
+ So if you're interested in taking Intro to Data Science A-Z=E2=84=A2 and l=
+earning from all of these incredible bonuses, you really do need to take action now. You can use the discount coupon only until Fri=
+day, April 27th at 23:59 New York time. These bonuses have been made only f=
+or people who use this special coupon, and will never be available again.&n=
+bsp;
+=20
+
+ Ever.  
+=20
+
+ We look forward to seeing you inside Intro to Data Science A-Z=E2=84=A2.
+
+
+
+Here's where to join us:
+
+  
+
+
+
+https://www.udemy.com/intro-to-data-science/?couponCode=3DSDS_IDS_APRIL201=
+8
+
+  
+
+
+
+Sincerely,
+
+  
+
+
+
+Kirill Eremenko & Hadelin de Ponteves
+
+  
+
+
+
+P.S. The valuable information in these three incredible bonuses truly do=
+ have a time-limit. I urge you to join the course and download them ri=
+ght away. Don't put off joining the course. You have a 30-day guarantee and=
+ absolutely nothing to lose. The risk is entirely on us.
+
+  
+
+
+
+P.P.S. You know, I really do feel a little weird sending you guys t=
+his offer. But again, I'm asked week after week, =E2=80=9CHow do you d=
+o it?=E2=80=9D
+
+  
+
+
+
+Well, this course explains everything Hadelin and I know about =
+;starting down the path in Data Science and what we=E2=80=99ve learned alon=
+g the way and we've created these special bonuses just to get your attentio=
+n. They're yours to keep with no strings attached. You can use what you'll =
+learn in those videos and life lessons and take the payrise it will eventua=
+lly yield to get yourself a glass of lemonade, give it to charity=
+ or buy yourself a yacht. It's entirely up to you to choose.
+
+  
+
+
+
+Anyhow, even if you decide not to claim these bonus videos, we'd like to=
+ thank you from our hearts for taking the time to read this long message. I=
+f you've in any way found any of the information or visuals in it interesti=
+ng or captivating, rest assured that these are just some of many powerful t=
+hings you'll learn when you start Intro to Data Science A-Z=E2=84=A2. Join us now before it's=
+ too late.
+    
+
+                               =20
+                                   =20
+                               =20
+                            
+                        
+                   =20
+                   =20
+                       =20
+                   =20
+                
+                
+                    
+                       =20
+                            Delivered by Udemy 600 Harrison Street, 3rd Flo=
+or, San Francisco, CA 94107.
+                       =20
+                       =20
+                           =20
+                               =20
+                                    You may unsubscribe if you prefer not to receive messages like t=
+hese.
+                               =20
+                           =20
+                       =20
+                       =20
+                           =20
+                               =20
+                                    If something isn't right, please report abuse.
+                               =20
+                           =20
+                       =20
+                    
+                
+            
+        
+   =20
+
+
+

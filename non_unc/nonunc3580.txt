@@ -1,0 +1,64 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+Unreachable Nodes in the wrong order in array  (11/21/16 3:07 PM)
+
+Hey all,
+
+My DiGraph is implemented as an array of nodes that has chained edges to it=
+. I currently am having problems putting the node info for the nodes that a=
+re unreachable from the sourceNode into the array in the right order. Basic=
+ally what I do is go through and put all of the shortestPathInfo objects in=
+to the array like we should. I CANNOT put objects that the sourceNode doesn=
+'t have a path to into the array because there is no connection there. So w=
+hen everything is done I have a loop that goes through my graph and checks =
+if each node.handled is true or false, and if it is false it makes a new sh=
+ortestPathInfo object with totaweight =3D -1.=C2=A0
+
+so for instance the testcase4(islands) looks like this
+(0, 0)
+(1, -1)
+(2, -1)
+(3, -1)
+(4, -1)
+(5, 3)
+(6, -1)
+mine looks like this:
+
+(0, 0)
+(5, 3)(1,-1)
+(2, -1)
+(3, -1)
+(4, -1)
+(6, -1)
+
+Can someone give me any pointers on how to fix this??? Thanks
+
+Go to https://piazza.com/class?cid=3Divsi6zh7neu5u5&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

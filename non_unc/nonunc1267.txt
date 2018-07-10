@@ -1,0 +1,101 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+Assignment 1  (1/26/16 10:47 AM)
+
+I am having trouble with producing the correct output for Adept in Assignme=
+nt 1. When I put in KMP's input all at one time, I keep getting:
+
+C. Brownstein B
+C. Tucker B+
+J.=C2=A0Weiss A-
+
+But when I put in each line of input=C2=A0one by one,=C2=A0I get the correc=
+t answers. Novice and Jedi are producing the correct outputs.=C2=A0Anyone k=
+now what the problem is?
+
+Go to https://piazza.com/class?cid=3Dijvktsa59on1p1&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Online Grader A1 Adept  (1/26/16 11:44 AM)
+
+Ummm, am I missing something here? They look the same to me
+A1Adept Test 2
+
+Running a1adept.A1Adept
+Input:=20
+1
+100
+5
+A Student 15 95 4.0 4.0 4.0
+B Student 13 90 3.5 3.5 3.5
+C Student 12 80 2.5 2.5 2.5
+D Student 10 70 1.5 1.5 1.5
+E Student 6 40 0.84 0.84 0.84
+
+
+Output:
+
+A. Student A
+B. Student B+
+C. Student B-
+D. Student D+
+E. Student F
+
+Output did not match expectations.
+Expected output:
+A. Student A
+B. Student B+
+C. Student B-
+D. Student D+
+E. Student F
+
+
+
+Go to https://piazza.com/class?cid=3Dijvmvf9jobd5wl&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A1 Jedi  (1/26/16 12:02 PM)
+
+Is it recommended to make methods in addition to the process method?
+
+Go to https://piazza.com/class?cid=3Dijvni29qgnf4br&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Assignment 2- Where to start  (1/26/16 1:05 PM)
+
+I understand that I need to create an array and store the values of the inp=
+ut in it before I can produce output, however, how do I know what the dimen=
+sions should be or how would i get them?
+
+Go to https://piazza.com/class?cid=3Dijvpr1ksw8u743&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

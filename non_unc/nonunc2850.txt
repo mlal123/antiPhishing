@@ -1,0 +1,55 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 411 on Piazza:
+
+------------------------------------------------------------
+Interesting error in lab 4 ex 2  (9/29/16 2:51 PM)
+
+So out of the three tests for ex 2 in lab 4, two and three pass perfectly w=
+ith the self check script.
+
+Test one failed in the script, so I used the diff command for ex2result1 an=
+d ex2out1 to see what the matter was, and the error I received there was th=
+at the binary files differ. =C2=A0It literally says "Binary files ex2result=
+1 and ex2out1 differ".
+
+I'm very confused about this because if there was a problem with the compil=
+ation which is the only thing I can think of that would cause this kind of =
+error, wouldn't it do that for all of the tests?
+
+Not sure how to go about fixing this error.
+
+Go to https://piazza.com/class?cid=3Ditop5a5z6rk7cb&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Ex3 Lab 4  (9/29/16 4:28 PM)
+
+How would I go about spacing the output correctly? Right now I'm having a h=
+ard time aligning my array values with the sample output
+
+Go to https://piazza.com/class?cid=3Ditosmm2qb212f7&nid=3Dirqp4hpe58u5rs&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 411 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/irqp4hpe58u5rs to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

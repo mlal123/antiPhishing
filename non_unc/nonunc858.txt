@@ -1,0 +1,50 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 110 on Piazza:
+
+------------------------------------------------------------
+2.4  (11/16/15 10:39 AM)
+
+I am extremely confused by what part 2.4 is asking. What does it mean by return a color object with the same red green and blue values
+
+Go to https://piazza.com/class?cid=ih24a4lx8vc2z4&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+5.1 Errors  (11/16/15 11:32 AM)
+
+Based on the information from the class slides about using nested for-loops for 2-D arrays, I've tried to use them to fill the pixels array, but I keep getting errors. Any advice?
+
+Go to https://piazza.com/class?cid=ih2664kp3nn1lc&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Assignment 3  (11/16/15 11:38 AM)
+
+I just realized that the assignment 3 I turned in, I forgot to put a header, what should I do about that.
+
+Go to https://piazza.com/class?cid=ih26din7u0l20m&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+com.comp110.instagram package  (11/16/15 1:08 PM)
+
+The assignment 4 submission instruction says to
+"Right click on the com.comp110.instagram package. ** Not Assignment4. ** then Select Export"
+
+isn't the com.comp110.instagram package in the Assignment4 files?
+when I clicked on the package com.comp110.instagram in my program, there was no Export option.
+
+Go to https://piazza.com/class?cid=ih29kewqrcj3cq&nid=idk60wfq88174f&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 110 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/idk60wfq88174f to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2GxNxqCfOm

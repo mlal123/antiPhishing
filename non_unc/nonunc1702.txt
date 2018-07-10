@@ -1,0 +1,37 @@
+Your classmate posted a new Question.=20
+
+a5 Jedi JUNIT question
+
+For testZigZagsquare(), I'm failing at=C2=A0
+Picture s1 =3D new PictureImpl(2, 2);
+
+...blahblahblah...
+
+// (1, 1) assertTrue(s1_zigzagiterator.hasNext());
+
+Since we're at 1,1, the last pixel in a 2 by 2 picture, shouldn't this be a=
+ssertFalse?=C2=A0
+
+
+Go to https://piazza.com/class?cid=3Dilouvlhfnrs25l&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @900. Follo=
+w it to get notified when a response comes in: https://piazza.com/follow/il=
+ouvlhfnrs25l/f2GxNxqCfOm/f8265ff6=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.=

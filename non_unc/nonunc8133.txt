@@ -1,0 +1,172 @@
+Nieman Lab: The Daily Digest
+Wednesday=2C January 17=2C 2018
+http://www.niemanlab.org/2018/01/we-stepped-in-and-started-doing-it-how-on=
+e-woman-built-an-award-winning-news-outlet-from-her-dining-room-table/
+
+
+** =E2=80=9CWe stepped in and started doing it=E2=80=9D: How one woman bui=
+lt an award-winning news outlet from her dining room table (http://www.nie=
+manlab.org/2018/01/we-stepped-in-and-started-doing-it-how-one-woman-built-=
+an-award-winning-news-outlet-from-her-dining-room-table/)
+------------------------------------------------------------
+=E2=80=9CThis is all going on in my apartment. My kids were small and runn=
+ing around=2C there were always interns here. And then that spring=2C we w=
+ere nominated for a really big award.=E2=80=9D By Laura Hazard Owen.
+http://www.niemanlab.org/2018/01/cold-hard-numbers-will-drive-the-stories-=
+on-this-internet-crawling-companys-new-media-arm/
+
+
+** Cold=2C hard numbers will drive the stories on this Internet-crawling c=
+ompany=E2=80=99s new media arm (http://www.niemanlab.org/2018/01/cold-hard=
+-numbers-will-drive-the-stories-on-this-internet-crawling-companys-new-med=
+ia-arm/)
+------------------------------------------------------------
+Fintech company Thinknum has lots of interesting data to sell access to. N=
+ow it wants to build public-facing stories out of it. By Christine Schmidt=
+=2E
+http://www.niemanlab.org/2018/01/at-the-boston-globe-the-editorial-pages-a=
+re-looking-for-new-ways-to-engage-readers/
+
+
+** At The Boston Globe=2C the editorial pages are looking for new ways to=
+ engage readers (http://www.niemanlab.org/2018/01/at-the-boston-globe-the-=
+editorial-pages-are-looking-for-new-ways-to-engage-readers/)
+------------------------------------------------------------
+=E2=80=9CWe learned how important it is to have writers and editors and di=
+gital producers working collaboratively=2C near each other. It=E2=80=99s a=
+ model for the future.=E2=80=9D By Dan Kennedy.
+HURRY UP BEFORE IT=E2=80=99S GONE=2C NEW YORK CITY: The Awl and The Hairpi=
+n are shutting down (http://www.niemanlab.org/2018/01/hurry-up-before-its-=
+gone-new-york-city-the-awl-and-the-hairpin-are-shutting-down/)
+What We=E2=80=99re Reading
+The Verge / Dani Deahl
+Instagram is testing a new text-only option in Stories =E2=86=92 (https://=
+www.theverge.com/2018/1/17/16901836/instagram-text-only-type-stories-featu=
+re-testing-app)
+=E2=80=9CThe feature appears as a separate option at the bottom of the scr=
+een when within Stories=2C alongside the other usual options like Boomeran=
+g and Live. Once Type is selected=2C you can write and choose different op=
+tions for the background and font.=E2=80=9D
+Recode / Peter Kafka
+Magazine publisher Bonnier has laid off 70 people in the U.S. and shuttere=
+d five magazines =E2=86=92 (https://www.recode.net/2018/1/17/16901454/bonn=
+ier-layoffs-70-people)
+The publisher is closing WaterSki=2C Wakeboarding=2C Sport Diver=2C Bagger=
+s=2C and Dirt Rider.
+9to5Mac / Chance Miller
+Apple expands Siri=E2=80=99s =E2=80=9CGive me the news=E2=80=9D feature to=
+ non-beta users and the UK =E2=86=92 (https://9to5mac.com/2018/01/16/siri-=
+give-me-the-news-feature/)
+=E2=80=9CThe feature works by instantly streaming a daily news podcast whe=
+n you ask Siri to =E2=80=98Give me the news.=E2=80=99 By default=2C the fe=
+ature appears to play content from NPR in the U.S. and BBC in the U.K. Dur=
+ing the initial rollout to beta users=2C the feature defaulted to The Wash=
+ington Post=2C but that appears to have changed in today=E2=80=99s broader=
+ rollout.=E2=80=9D
+Columbia Journalism Review / Mathew Ingram
+Europe tries to fight hate=2C harassment=2C and fake news without killing=
+ free speech =E2=86=92 (https://www.cjr.org/innovations/europe-youtube-fac=
+ebook-free-speech.php)
+=E2=80=9CFrance=2C Germany=2C and the United Kingdom are all either discus=
+sing or are already in the process of implementing requirements for social=
+ networks to take measures to remove or block online hate speech=2C harass=
+ment=2C and so-called =E2=80=98fake news.'=E2=80=9D
+Stratechery / Ben Thompson
+Is Facebook telling us the whole story about why it=E2=80=99s changing New=
+s Feed? =E2=86=92 (https://stratechery.com/2018/facebooks-motivations/)
+=E2=80=9CThis change could have been made and justified without even broac=
+hing the idea that Facebook might be bad for you; why did Facebook rest ev=
+erything on that reasoning?=E2=80=9D
+AP / Lauren Easton
+AP launches @APFactCheck on Twitter =E2=86=92 (https://blog.ap.org/announc=
+ements/bringing-ap-fact-checks-to-twitter?utm_campaign=3DSocialFlow)
+=E2=80=9CThe Twitter account will give us a dedicated platform to quickly=
+ deliver any live fact-checking we do around big events =E2=80=94 items th=
+at have proven to be a huge success for us. Getting fact checks out on soc=
+ial media as soon as possible also can be a major weapon in helping to deb=
+unk trending false stories.=E2=80=9D
+The Membership Puzzle Project / Emily Goligoski
+When membership might not be your publication=E2=80=99s best path forward=
+ =E2=86=92 (https://membershippuzzle.org/articles-overview/when-membership=
+-might-not-be-your-publications-best-path-forward)
+=E2=80=9CWe recommend membership as one of several revenue streams and one=
+ that will likely generate less than 10 percent of total revenue in its fi=
+rst year. Still=2C we=E2=80=99d be remiss not to share other membership li=
+mitations with you =E2=80=94 and warn that it may not be rosy under these=
+ conditions.=E2=80=9D
+Jezebel / Julianne Escobedo Shepherd
+Babe=2C what are you doing? =E2=86=92 (https://jezebel.com/babe-what-are-y=
+ou-doing-1822114753)
+=E2=80=9CIf journalists are going to be the carriers of stories like this=
+ one=2C we have to view that responsibility as a solemn one=2C not one tha=
+t will finally put our websites on the map (http://money.cnn.com/2018/01/1=
+5/media/aziz-ansari-babe-editor-interview/index.html) =2C or jolt our writ=
+ers into the public eye.=E2=80=9D
+Pew Research Center / Elisa Shearer
+Americans claim they follow science news because they feel a civic obligat=
+ion to do so =E2=86=92 (http://www.pewresearch.org/fact-tank/2018/01/17/ma=
+ny-interested-in-environment-see-following-science-news-as-a-duty/)
+=E2=80=9CAbout half (48%) of those surveyed said they follow science news=
+ because they feel a civic obligation to do so.=E2=80=9D
+Medium / Wolfgang Blau
+Facebook=E2=80=99s China problem =E2=86=92 (https://medium.com/@wblau/face=
+books-decision-to-downgrade-publishers-in-facebook-s-newsfeed-seems-like-a=
+-knee-jerk-reaction-a9d1c02a676f)
+=E2=80=9CWrapping too much journalism around your brand is a mistake for a=
+ny platform hoping to still make it into China=2C which is one of Mark Zuc=
+kerberg=E2=80=99s great ambitions. Why own publishing companies also or be=
+come a publisher yourself when you have the best publishers=E2=80=99 conte=
+nt and =E2=80=98brand-halo=E2=80=99 for free on your own properties=2C eve=
+n in a now downgraded newsfeed?=E2=80=9D
+Mumbrella Asia / Eleanor Dickinson
+Pay to play on Facebook: A view from four Asian publishers on the news fee=
+d changes =E2=86=92 (https://www.mumbrella.asia/2018/01/pay-play-facebook-=
+view-four-asian-publishers-news-feed-changes)
+=E2=80=9CWe aren=E2=80=99t super concerned about Facebook=E2=80=99s algori=
+thm change. For the last two years we=E2=80=99ve been working relentlessly=
+ on diversifying away from the platform=2C and in 2017 Facebook accounted=
+ for about 40 percent of our traffic.=E2=80=9D (40 percent!)
+The Splice Newsroom / George Wright
+A new English-language podcast in Vietnam wants to bring lively debate to=
+ one of the region=E2=80=99s most restrictive media environments =E2=86=92=
+ (https://www.thesplicenewsroom.com/saigoneer-podcast-vietnam-censored-med=
+ia/)
+=E2=80=9CThe creators hope the 30-minute episodes will expand on Saigoneer=
+=E2=80=99s current model of blending lighthearted content with hard news.=
+ But with the latter comes a need to carefully navigate what US non-govern=
+mental organization Freedom House has called one of the harshest media env=
+ironments in Asia.=E2=80=9D
+Digiday / Max Willens
+Axios plans to push into video=2C using the =E2=80=9Csmart brevity=E2=80=
+=9D concept =E2=86=92 (https://digiday.com/media/wed-insane-not-keep-foot-=
+gas-axios-ceo-jim-vandehei-says-high-priced-subs-will-come-years-end/)
+=E2=80=9CWe=E2=80=99re not at all Facebook-dependent. Twenty percent of ou=
+r traffic is direct; 20 percent is Google; we get a lot from Flipboard. We=
+ do well with Facebook. Some Reddit. Year one=2C we focused mainly on text=
+=2E In year two=2C you=E2=80=99re going to see a big push into video as we t=
+ake the smart brevity concept and apply it to video.=E2=80=9D
+The Awl / The Awl
+The Awl is shutting down at the end of the month =E2=86=92 (https://www.th=
+eawl.com/2018/01/awl-ends/)
+April 20=2C 2009- January 31=2C 2018.
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3D021767943a)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3D021767943a)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

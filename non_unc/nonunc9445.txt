@@ -1,0 +1,157 @@
+Nieman Lab: The Daily Digest
+Tuesday=2C May 1=2C 2018
+http://www.niemanlab.org/2018/05/newsonomics-alden-global-capital-is-makin=
+g-so-much-money-wrecking-local-journalism-it-might-not-want-to-stop-anytim=
+e-soon/
+
+
+** Newsonomics: Alden Global Capital is making so much money wrecking loca=
+l journalism it might not want to stop anytime soon (http://www.niemanlab.=
+org/2018/05/newsonomics-alden-global-capital-is-making-so-much-money-wreck=
+ing-local-journalism-it-might-not-want-to-stop-anytime-soon/)
+------------------------------------------------------------
+Digital First Media=E2=80=99s financials =E2=80=94 revealed here =E2=80=94=
+ show how the company has ridden its deep cuts to nearly $160 million in p=
+rofits and the highest margins in the business. By Ken Doctor.
+http://www.niemanlab.org/2018/05/google-wants-to-do-for-podcasts-on-androi=
+d-what-apple-did-for-podcasts-on-ios/
+
+
+** Google wants to do for podcasts on Android what Apple did for podcasts=
+ on iOS (http://www.niemanlab.org/2018/05/google-wants-to-do-for-podcasts-=
+on-android-what-apple-did-for-podcasts-on-ios/)
+------------------------------------------------------------
+Plus: the BBC moves to monetize outside the U.K.=2C talent agencies keep m=
+oving in=2C and 50 billion is a big number. By Nicholas Quah.
+http://www.niemanlab.org/2018/04/is-audience-engagement-a-mushy-construct-=
+based-on-anecdata-or-something-audiences-actually-want/
+
+
+** Is audience engagement a mushy construct based on anecdata =E2=80=94 or=
+ something audiences actually want? (http://www.niemanlab.org/2018/04/is-a=
+udience-engagement-a-mushy-construct-based-on-anecdata-or-something-audien=
+ces-actually-want/)
+------------------------------------------------------------
+=E2=80=9CYou know what? There doesn=E2=80=99t need to be data. We all know=
+ this to be true.=E2=80=9D By Laura Hazard Owen.
+Can New York Times readers=E2=80=99 love for the crossword puzzle extend i=
+nto a TV show? (http://www.niemanlab.org/2018/05/can-new-york-times-reader=
+s-love-for-the-crossword-puzzle-extend-into-a-tv-show/)
+What We=E2=80=99re Reading
+Nieman Foundation for Journalism at Harvard
+This is the 81st class of Nieman Fellows =E2=86=92 (http://nieman.harvard.=
+edu/news/2018/05/nieman-foundation-for-journalism-at-harvard-announces-the=
+-81st-class-of-nieman-fellows/)
+Twenty-seven amazing journalists from the U.S. and around the world (Niger=
+ia=2C Israel=2C Denmark=2C Colombia=2C the Netherlands=2C Italy=2C Myanmar=
+=2C Germany=2C Ukraine=2C Japan=2C the U.K.=2C and Turkey). They=E2=80=99l=
+l be coming to Harvard for a year of study in the fall. New this year: 3 A=
+brams Nieman Fellows for Local Investigative Journalism=2C who will receiv=
+e funding for up to 9 months of reporting on a project after their time at=
+ Harvard.
+Recode / Kurt Wagner
+In its biggest update since the Cambridge Analytica scandal=2C Facebook wi=
+ll allow users to opt out of letting Facebook collect their browsing histo=
+ry =E2=86=92 (https://www.recode.net/2018/5/1/17307224/facebook-data-colle=
+ction-opt-out-browsing-history)
+=E2=80=9CAs part of an upcoming feature called =E2=80=98clear history=2C=
+=E2=80=99 users can delete their browsing data from Facebook=E2=80=98s ser=
+vers=2C or ask the company not to collect it to begin with. Your browsing=
+ data could still be retained in an anonymous=2C aggregated set for compan=
+ies that use Facebook for analytics purposes=2C but it wouldn=E2=80=99t be=
+ tied to your profile or used for targeting=2C a spokesperson confirmed. I=
+f you don=E2=80=99t have a Facebook account=2C you can=E2=80=99t opt out o=
+f this data collection.=E2=80=9D
+Axios / Sara Fischer
+There is now something called The News Project and the Associated Press ha=
+s signed on as a partner =E2=86=92 (https://www.axios.com/exclusive-new-pu=
+blishing-tech-company-company-launches-with-ap-dbcf1e25-0808-4af5-9df4-11e=
+f98d8e4c9.html)
+=E2=80=9CA group of media=2C journalism and tech companies has joined vete=
+ran media executive Merrill Brown to create a full-service publishing plat=
+form specifically built for digital news publishers called The News Projec=
+t (TNP). Brown says his company is different from other digital publishing=
+ platforms=2C like Maven=2C SquareSpace and Medium=2C because his focuses=
+ solely on news.=E2=80=9D
+Reuters / Paresh Dave
+23 days until GDPR: Four publisher trade groups rebuke Google=E2=80=99s in=
+terpretation of the privacy law =E2=86=92 (https://www.reuters.com/article=
+/us-alphabet-privacy-publishers-gdpr/publishers-rebuke-googles-interpretat=
+ion-of-eu-privacy-law-idUSKBN1I11GG)
+=E2=80=9C=E2=80=98Your proposal severely falls short on many levels=2C=E2=
+=80=99 publisher groups wrote to Google Chief Executive Sundar Pichai=2C a=
+dding that it =E2=80=98would undermine the fundamental purposes of the GDP=
+R and the efforts of publishers to comply with the letter and spirit of th=
+e law.=E2=80=99 Signing the five-page letter=2C which ends on several ques=
+tions to Google=2C were Digital Content Next=2C European Publishers Counci=
+l=2C News Media Alliance and News Media Association.=E2=80=9D
+Variety / Todd Spangler
+Twitter announces 30 new or renewed video deals with NBCUniversal=2C Disne=
+y/ESPN=2C Vice Media=2C and more =E2=86=92 (http://variety.com/2018/digita=
+l/news/twitter-newfronts-2018-video-deals-espn-disney-nbcuniversal-1202792=
+061/)
+News shows include a renewal of Buzzfeed=E2=80=99s =E2=80=9CAM to DM=2C=E2=
+=80=9D a debut of a Vice News live show on space exploration=2C and a show=
+ from the parent company of the Weather Channel. Twitter recently said vid=
+eo accounts for more than half of its ad revenue and video views have near=
+ly doubled in the past year.
+Axios / Kia Kokalitcheva
+Substack raises $2 million to prove newsletters can help media =E2=86=92 (=
+https://www.axios.com/substack-raises-2-million-newsletters-media-636cbbe5=
+-7cf3-4a0d-884a-9c5aa959b323.html)
+=E2=80=9CSubstack says it=E2=80=99s not planning to integrate advertising=
+ features to its newsletter service=2C but does think about written conten=
+t beyond news emails. For example=2C journalist Matt Taibi is publishing h=
+is book=2C =E2=80=98The Business Secrets of Drug Dealing: Adventures of th=
+e Unidentified Black Male=2C=E2=80=99 in the form of a newsletter via Subs=
+tack.=E2=80=9D We covered Substack=E2=80=99s progress in February (http://=
+www.niemanlab.org/2018/02/with-an-increased-focus-on-paid-newsletters-subs=
+tack-is-opening-up-its-tools-to-more-creators/) .
+The Atlantic / Alexis Madrigal
+Even amid scandal=2C is Facebook unstoppable? =E2=86=92 (https://www.theat=
+lantic.com/technology/archive/2018/05/facebook-the-unstoppable/559301/)
+=E2=80=9COn the eve of its big annual conference=2C things are looking up=
+ for the world=E2=80=99s most profitable advertising company.=E2=80=9D
+Medium / Alastair Coote
+Here=E2=80=99s a guide to nearly all of the code written during the Guardi=
+an Mobile Lab=E2=80=99s two years of experimentation =E2=86=92 (https://me=
+dium.com/the-guardian-mobile-innovation-lab/libraries-of-note-sharing-open=
+-source-code-from-the-guardian-mobile-innovation-labs-storytelling-17603d0=
+88c9f)
+=E2=80=9CWe wrote a lot of code in the two years of the mobile lab and=2C=
+ wherever possible=2C we open sourced that code to support our team=E2=80=
+=99s mission of openness and collaboration=2C so that others can use it=2C=
+ learn from it=2C or just satisfy their curiosity by working out how we di=
+d something. But GitHub isn=E2=80=99t the easiest place to discover which=
+ code does what=2C so for posterity=2C here=E2=80=99s a quick rundown of t=
+he most noteworthy code we=E2=80=99ve published=2C with notes about what e=
+ach does.=E2=80=9D
+Twitter / Cory Haik
+Mic=E2=80=99s Cory Haik=2C in response to Digiday story=2C says Mic is not=
+ running out of money =E2=86=92 (https://twitter.com/coryhaik/status/99103=
+2494400131073)
+=E2=80=9C1) Mic is not solely Facebook dependent (though we do our best to=
+ smartly reach audiences there=2C because=2C digital journalism + 2B peopl=
+e)=2C nor is it running out of money (in fact we are on track to break eve=
+n with the business by early 2019).=E2=80=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3Da8d2eabc14)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3Da8d2eabc14)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

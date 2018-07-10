@@ -1,0 +1,33 @@
+Your classmate posted a new Question.=20
+
+what's Node.idnum used for ?
+
+	public Node(String Label,Long idnum){		this.Label =3D Label;		this.idnum =
+=3D idnum;	}
+
+Is node.idnum=C2=A0used for keeping the distance when calculating the short=
+est path?
+Thanks
+
+Go to https://piazza.com/class?cid=3Divxxv8oqf5x2nx&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view. Search or link to this question with @440. Follo=
+w it to get notified when a response comes in: https://piazza.com/follow/iv=
+xxv8oqf5x2nx/f2GxNxqCfOm/05d4424a=20
+
+Sign up for more classes at http://piazza.com/unc
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.=

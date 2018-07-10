@@ -1,0 +1,73 @@
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Garamond;
+	panose-1:2 2 4 4 3 3 1 1 8 3;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+
+
+Good Morning, Mangza!
+
+ 
+We just wanted to send you a final reminder of your standing invitation to
+ participate in the Real-U Study. 
+
+As you know, participants in the Real-U study complete two surveys and a brief lab task administered in two testing sessions, separated by two weeks, at the Center of Developmental Science located in the Top of the Hill Building in downtown Chapel Hill.  The
+ surveys will ask about a wide range of experiences unique to college students such as use of social media, relationships with friends and family, health behaviors and well-being, and substance use.
+
+ Participants completing both testing sessions will receive $45 and have an opportunity to enter a drawing for an additional $100.
+If you are interested in participating, please visit our study portal, https://cdsresearchportal.sona-systems.com
+ to complete a pre-screener and register for the study. For more information, visit our website at
+www.realu.web.unc.edu
+or email us at
+realustudy@unc.edu.
+
+We hope to hear from you soon!
+ 
+Andrea Hussong, Ph.D.                                                                       Sarah Morgan, M.S.W.
+Director, Center for Developmental Science                           REAL-U, Project Director
+ 
+The research study is IRB #
+14-0360.
+This email was approved by the UNC-CH IRB on 2.3.15
+ 
+
+
+

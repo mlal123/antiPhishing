@@ -1,0 +1,42 @@
+
+Site Title: COMP110.001.FA15
+Site ID: 4070724c-dd1b-483b-9bfb-b6da5a9fb0c3
+
+Assignment title: Assignment3
+Assignment Due Date: Nov 5, 2015 11:55 pm
+
+Student: Mangza Lal( mlal123 )
+
+Submission ID: d8c37819-a880-444b-b9cc-d9d5235cebcf
+Submitted on: Nov 5, 2015 3:10 pm
+
+Attachments
+
+mlal123_Assignment3.zip (25 KB)Assignment3/.gitignore (1 KB)
+Assignment3/bin/Tests.class (6 KB)
+Assignment3/bin/Die.class (1 KB)
+Assignment3/.git/config (1 KB)
+Assignment3/.project (1 KB)
+Assignment3/.git/branches/ (0 KB)
+Assignment3/.git/refs/heads/master (1 KB)
+Assignment3/.git/refs/tags/ (0 KB)
+Assignment3/.git/objects/info/ (0 KB)
+Assignment3/.git/refs/remotes/origin/master (1 KB)
+Assignment3/.git/objects/pack/pack-b2a74e0028c127c13005f8ffbeb848e00b388075.idx (2 KB)
+Assignment3/src/Player.java (1 KB)
+Assignment3/.git/HEAD (1 KB)
+Assignment3/bin/Player.class (1 KB)
+Assignment3/bin/GameAux.class (4 KB)
+Assignment3/src/Die.java (1 KB)
+Assignment3/src/Tests.java (7 KB)
+Assignment3/.git/objects/pack/pack-b2a74e0028c127c13005f8ffbeb848e00b388075.pack (7 KB)
+Assignment3/bin/Game.class (2 KB)
+Assignment3/.git/logs/refs/remotes/origin/master (1 KB)
+Assignment3/.git/FETCH_HEAD (1 KB)
+Assignment3/.git/logs/refs/heads/master (1 KB)
+Assignment3/.git/hooks/ (0 KB)
+Assignment3/.classpath (1 KB)
+Assignment3/src/GameAux.java (4 KB)
+Assignment3/src/Game.java (3 KB)
+Assignment3/.git/logs/HEAD (1 KB)
+Assignment3/.git/index (1 KB)

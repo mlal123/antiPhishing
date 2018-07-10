@@ -1,0 +1,24 @@
+Welcome to HeelMail, the new UNC-Chapel Hill cloud email system for student=
+s, faculty and staff members.   HeelMail offers many new features and s=
+ervices, such as integrated single sign-on, mobile phone syncing, integrate=
+d calendar and other tools.Your email address is now onyen@live.=
+unc.edu, and all UNC-Chapel Hill email will now be sent to this address.&nb=
+sp  All email messages sent to your @email.unc.edu or @unc.edu addresse=
+s are now being forwarded to onyen@live.unc.edu automatically.&n=
+bsp See below for instructions on how to import your old emails to your new=
+ account.Actions you need to takeImport your old =
+emails into HeelMail:http://its.unc.edu/ITS/events_and=
+_projects/importing-e-mails-into-heelmailUpdate your listserv s=
+ubscriptions:   http://its.unc.edu/ITS/=
+events_and_projects/heelmail-change-your-listserv-subscriptionsUseful links:Getting Started:   http://i=
+ts.unc.edu/ITS/events_and_projects/heelmail-getting-startedFreq=
+uently Asked Questions:   http://its.unc.edu/ITS/events_and_projects/h=
+eelmail-faqHow to set up your desktop client:   http://help.outloo=
+k.com/en-us/140/dd936216.aspxHow to sync to your mobile device:=
+   =
+http://help.outlook.com/en-us/140/cc325688.aspxIf you experi=
+ence any technical problems with the system or have questions, contact the =
+Help Desk at 962-HELP or visit help.unc.edu.   You can find more in=
+formation at http://www.unc.edu/hee=
+lmailRegards,The HeelMail Team
+

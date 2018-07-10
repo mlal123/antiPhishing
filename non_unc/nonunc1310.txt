@@ -1,0 +1,76 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+A1 Grading Script Updates  (1/27/16 7:22 AM)
+
+I made two adjustments to the A1 grading script:
+
+* The script now properly checks for all 20 lines of output for A1 Novice T=
+est 3. Previously it was ignoring the last output line. If your code passed=
+ before for full credit, it should remain the same (i.e., it's not going ba=
+ck and regrading anything, just new things going forward).
+
+* The script should now allow leading whitespace before your output. Before=
+ it was checking this inconsistently (i.e., it cared for some tests, didn't=
+ for others). Now it shouldn't care in any case.
+
+
+
+Go to https://piazza.com/class?cid=3Dijwsybhw7b17lz&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A1 Jedi Exam Grades, Linear Interpolation, and Debugging  (1/27/16 8:33 AM)
+
+I can't seem to get the correct numbers for the A1 jedi exam grades, i.e. t=
+he midterms and the final. I tried reading the values as both doubles and i=
+ntegers but neither seemed to work properly. I know my average and standard=
+ deviation methods are fine. My best guess is that I have the linear interp=
+olation messed up, but I can't tell how by looking at the code. I chose to =
+do linear interpolation by using if/else statements and using specific form=
+ulas I found by plotting points on Excel. For example, when changing the mi=
+dterm normalized scores to the curved score, if the score is greater than 1=
+ it equals four, greater than -1 I add three, and greater than -2 I multipl=
+y by 2 and add four. This approach worked with the Adept challenge so I'm n=
+ot sure where I have gone wrong. I really need advice on how to debug my co=
+de so I can find the problem because I can't figure it out (I have no Java =
+background.).
+
+Go to https://piazza.com/class?cid=3Dijwvg9sy2vd3hg&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Arrays  (1/27/16 11:10 AM)
+
+Can one add values to an array without declaring the length of the array fi=
+rst?=C2=A0
+
+
+Go to https://piazza.com/class?cid=3Dijx1386p6bx3in&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

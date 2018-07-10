@@ -1,0 +1,144 @@
+
+
+        
+        Udemy
+        
+            img {
+                max-width: 100%;
+            }
+            p{
+                margin-top: 0;
+                margin-bottom: 10px;
+                font-size: 16px;
+            }
+            p a{
+                text-decoration: none;
+            }
+            ul{
+                margin: 0 0 10px 0;
+                padding-left: 10px;;
+            }
+            @media (max-width: 480px) {
+                #logo {
+                    margin: 0 auto;
+                    padding-left: 0 !important;
+                }
+            }
+           =20
+           =20
+        
+    
+    
+        
+            
+                
+                   =20
+                        
+                           =20
+    
+        
+           =20
+                New Educational Announcement
+           =20
+        
+    
+
+                        
+                   =20
+                   =20
+                       =20
+                        
+                            
+                                
+                               =20
+    
+        
+            
+                
+            
+            
+               =20
+                                   =20
+                                Hi Mangza, an announcement has been made from SuperDataScie=
+nce, instructor of Machine Learning A-Z=E2=84=A2: Hands-On Python &=
+amp; R In Data Science and Artificial Intelli=
+gence A-Z=E2=84=A2: Learn How To Build An AI.
+                                   =20
+                               =20
+            
+        
+    
+
+    
+         Hey Data Scientists!
+
+=20
+
+=20
+
+  
+
+Have you ever wondered: What=E2=80=99s the difference between a good dat=
+a scientist and a great one?
+
+=20
+
+=20
+
+  
+
+According to Matt Dancho, it=E2=
+=80=99s giving back to the data science community and knowing how to use th=
+e right tools to make the most out of your career.How exactly?
+
+Click here to tune in to our latest=
+ podcast episode and find out. 
+
+- The SuperDataScience Team
+
+  
+    
+
+                               =20
+                                   =20
+                                        
+                                           See Announcement
+                                        
+                                   =20
+                               =20
+                            
+                        
+                   =20
+                   =20
+                       =20
+                   =20
+                
+                
+                    
+                       =20
+                            Delivered by Udemy 600 Harrison Street, 3rd Flo=
+or, San Francisco, CA 94107.
+                       =20
+                       =20
+                           =20
+                               =20
+                                    You may unsubscribe if you=
+ prefer not to receive messages like these.
+                               =20
+                           =20
+                       =20
+                       =20
+                           =20
+                               =20
+                                    If something isn't right, please report abuse.
+                               =20
+                           =20
+                       =20
+                    
+                
+            
+        
+   =20
+
+
+

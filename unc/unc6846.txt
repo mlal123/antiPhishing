@@ -1,0 +1,76 @@
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Noto Sans";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+
+
+Good morning from UNC Study Abroad,
+ 
+I hope all is well as you prepare for your study abr=
+oad program this spring! We wanted to make you aware of a resource for you =
+as plan- the Study Abroad Peer Advisors (SAPA)! These are UNC students who =
+have studied abroad and returned to
+ help future study abroad students (like you) with any questions you might =
+have prior to departure.
+
+ 
+The Peer Advisors are hosting a mentor program where=
+ you can be matched with a returnee who studied in your region or on your p=
+rogram! Please fill out the form
+here and a SAPA memb=
+er will be in touch.
+The deadline to sign up for a mentor is Monday, October 23 at 5pm. <=
+o:p>
+ 
+If you don=92t wish to be matched with a mentor, you=
+ can search Peer Advisors online
+here and re=
+ach out to a returnee directly.
+
+ 
+Happy travels!!
+ 
+UNC Study Abroad=
+
+
+
+

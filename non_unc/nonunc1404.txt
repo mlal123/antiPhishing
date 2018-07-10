@@ -1,0 +1,213 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+A2 Adept Issue  (2/03/16 7:44 PM)
+
+A2Adept Test 2
+
+Running a2adept.A2Adept
+Input:=20
+9
+11 3
+0 4 8
+9 13 17
+18 22 26
+27 31 35
+36 40 44
+45 49 53
+54 58 62
+63 67 71
+72 76 80
+81 85 89
+90 94 98
+
+
+Output:
+
+
+Output did not match expectations.
+Expected output:
+ 0:*********
+ 9:*********
+18:*********
+27:*********
+36:*********
+45:*********
+54:*********
+63:*********
+72:*********
+81:*********
+90:*********
+99:
+
+A2Adept Test 2 fails. 0 points
+----------------------------------When I run the code and paste my test int=
+o the console, I have to press enter in order for it to execute. I assume t=
+his is causing my empty output. Any ideas how to resolve this?
+
+Go to https://piazza.com/class?cid=3Dik7jipqv7qn1k&nid=3Dihs2fbbhsfx37n&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2Novice Autograder  (2/03/16 7:50 PM)
+
+DD =C2=A0 DD=C2=A0 MM=C2=A0 =C2=A0 MM=C2=A0 =C2=A0 XXXX
+DD =C2=A0 DD=C2=A0 MM< =C2=A0 MM =C2=A0 XX:::
+DD =C2=A0 DD=C2=A0 MM<<=C2=A0 MM=C2=A0 XX =C2=A0 =C2=A0
+DD =C2=A0 DD=C2=A0 MM << MM=C2=A0 XX =C2=A0 =C2=A0
+<< =C2=A0 >>=C2=A0 MM=C2=A0 <>>=C2=A0 MM =C2=A0  =C2=A0 MM=C2=A0 =C2=A0 MM=C2=A0 =C2=A0 XXXX
+Min value =3D 5
+Max value =3D 99
+Average value =3D 61.02285714285714
+
+This is the output I am getting for my A2Novice, but the grader is still ma=
+rking it as incorrect. Any suggestions? I have checked for extra spaces and=
+ I cannot find any.=C2=A0
+
+Go to https://piazza.com/class?cid=3Dik7jr86g3tj6h1&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 Jedi Output Failed but looks the same?  (2/03/16 9:25 PM)
+
+
+
+Go to https://piazza.com/class?cid=3Dik7n4or6h2n1rd&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A3 Jedi and Declaring Picture Objects  (2/03/16 9:59 PM)
+
+When I try to declare a new Picture object, using the format
+
+Interface nameOfObject =3D new Class(parameters);
+my program gives me an error and says I can't convert from class name to in=
+terface name. However, my class implements the Interface methods and I need=
+ to declare the new objects in this way in order to be able to call the met=
+hods in the assignment on them. Any idea why this is happening/how to resol=
+ve it?
+
+Thanks!
+
+Go to https://piazza.com/class?cid=3Dik7od70we7i1bd&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A3Novice  (2/03/16 10:07 PM)
+
+Super basic question, but what does it mean when it says "with the followin=
+g methods defined as part of this interface:"? In the examples, "Point" was=
+ its own interface, and we defined the methods in each class, not in the in=
+terface, correct? So now we just need to define these in the interface as o=
+pposed to a different class? =C2=A0
+
+Go to https://piazza.com/class?cid=3Dik7omndslke1i3&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Lecture 8: Method Overloading, Enumerations, Inheritance pt 1  (2/03/16 10:=
+09 PM)
+
+We'll continue with method overloading, a quick aside on enumerations and t=
+hen begin with inheritance.
+
+Slides and code in the normal places.
+
+
+Go to https://piazza.com/class?cid=3Dik7opyo0jdb7al&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 adept Grader  (2/03/16 10:30 PM)
+
+When I put in the test input in my eclipse file, it runs just fine and outp=
+uts correctly. However, when I put it into the auto grader it says that the=
+re was no output. Any ideas on what is going on?
+
+Go to https://piazza.com/class?cid=3Dik7pgw7xfsj5mv&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 Submission Not Graded  (2/03/16 10:32 PM)
+
+I put in my submission and waited for 10:12pm; however, my submission remai=
+ned not graded. Is there a reason why it remains not graded?=C2=A0I mainly =
+just want to make sure that my assignment gets accepted.
+
+Go to https://piazza.com/class?cid=3Dik7piwmib6f4af&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+assign variable to char  (2/03/16 10:35 PM)
+
+char i;
+i=3D #;
+
+why does this say "syntax error, "invalid Character", invalid expression"? =
+=C2=A0Not sure how to return characters..=C2=A0=C2=A0=C2=AF\_(=E3=83=84)_/=
+=C2=AF
+
+Go to https://piazza.com/class?cid=3Dik7pnoortn01eo&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+If you can't see the difference between your output and the grader output  =
+(2/03/16 10:37 PM)
+
+https://www.diffchecker.com/
+
+Go to https://piazza.com/class?cid=3Dik7ppa1f3hi29y&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Is the autograder operating?  (2/03/16 10:48 PM)
+
+I submitted my .jar file well before the 10:12 deadline and the gradebook i=
+s indicating that my submission has not yet been graded. Is anyone else hav=
+ing a similar experience?
+
+Go to https://piazza.com/class?cid=3Dik7q3sskak95uw&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 adept output  (2/03/16 10:49 PM)
+
+So for the array containing my asterisks, i did it as a 2D array with a hei=
+ght of binArrayHeight and a width of 99. However, now I get little [] for t=
+he ones that don't have 99 *. Is there a different way for me to setup my f=
+inal array? Should it not be 2d?
+code for this array:
+char[][] histogram=3Dnew char[bArrRounded][99];
+Output:
+ 0:*********************************[][][][][][][][][][][][][][][][][][][][=
+][][][][][][]...
+
+
+Go to https://piazza.com/class?cid=3Dik7q534gzbu2h7&nid=3Dihs2fbbhsfx37n&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 401-001 at University of North Carolina at Chapel Hill. Go to https://pia=
+zza.com/login to sign in and manage your email preferences or proceed to ht=
+tps://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this c=
+lass.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

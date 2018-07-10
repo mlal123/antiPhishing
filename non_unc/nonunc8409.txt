@@ -1,0 +1,148 @@
+Nieman Lab: The Daily Digest
+Tuesday=2C February 6=2C 2018
+http://www.niemanlab.org/2018/02/with-an-increased-focus-on-paid-newslette=
+rs-substack-is-opening-up-its-tools-to-more-creators/
+
+
+** With an increased focus on paid newsletters=2C Substack is opening up i=
+ts tools to more creators (http://www.niemanlab.org/2018/02/with-an-increa=
+sed-focus-on-paid-newsletters-substack-is-opening-up-its-tools-to-more-cre=
+ators/)
+------------------------------------------------------------
+=E2=80=9CPeople will always pay for news they can put on the company credi=
+t card=2C but we=E2=80=99ve always believed that that it=E2=80=99s far fro=
+m the only thing people will pay for.=E2=80=9D By Ricardo Bilton.
+http://www.niemanlab.org/2018/02/can-public-radio-powerhouse-wnyc-navigate=
+-a-crisis-of-its-own-making/
+
+
+** Can public radio powerhouse WNYC navigate a crisis of its own making? (=
+http://www.niemanlab.org/2018/02/can-public-radio-powerhouse-wnyc-navigate=
+-a-crisis-of-its-own-making/)
+------------------------------------------------------------
+Plus: RadioPublic stands up for the little guys=2C everybody=E2=80=99s goi=
+ng Hollywood=2C and Gannett wants to build =E2=80=9CThe Wire=E2=80=9D (but=
+ non-fiction). By Nicholas Quah.
+Matter will hold free bootcamps in four regions of the U.S. for teams from=
+ for-profit local news organizations (http://www.niemanlab.org/2018/02/mat=
+ter-will-hold-free-bootcamps-in-four-regions-of-the-u-s-for-teams-from-for=
+-profit-local-news-organizations/)
+What We=E2=80=99re Reading
+Financial Times / Aliya Ram and David Blood
+Ultra-rightwing conservatives are the most active when it comes to sharing=
+ fake U.S. news on Facebook =E2=86=92 (https://www.ft.com/content/611d5c90=
+-0a87-11e8-8eb7-42f857ea9f09)
+=E2=80=9CUniversity of Oxford academics analyzed political affiliations an=
+d posting patterns of almost 48=2C000 public Facebook pages and 14=2C000 T=
+witter users to identify which groups posted the most misinformation from=
+ dubious websites. They found that groups on both extremes of the politica=
+l spectrum consumed and shared the most junk news in a period between Octo=
+ber 2017 and January this year. Trump supporters are the most polarized an=
+d share a wider range of misinformation than any other U.S. audience group=
+ on Twitter.=E2=80=9D
+Abacus / Karen Chiu and Xinmei Shen
+China=E2=80=99s Weibo tweaks its platform after a government rebuke =E2=86=
+=92 (https://www.abacusnews.com/digital-life/microblogging-site-weibo-reve=
+als-big-changes-after-government-rebuke/article/2132078)
+=E2=80=9CIn late January=2C the microblogging site shut down Hot Search=2C=
+ its trending topics section. The reason? State media said Weibo failed to=
+ censor content that contradicts with Communist Party values=2C including=
+ vulgar and pornographic materials. Now Hot Search has re-emerged with a d=
+ifference: State propaganda articles are given prominence above other tren=
+ds.=E2=80=9D
+The New York Times / John Herrman
+What I learned from watching my iPad=E2=80=99s slow death =E2=86=92 (https=
+://www.nytimes.com/2018/02/06/magazine/what-i-learned-from-watching-my-ipa=
+ds-slow-death.html)
+=E2=80=9COn examination=2C almost nothing about the device seems to have c=
+hanged. And yet it=E2=80=99s starting to give up=2C and so am I.=E2=80=9D
+Axios / Sara Fischer
+Google says 1% of publishers would be initially affected by Chrome=E2=80=
+=99s adblocker =E2=86=92 (https://www.axios.com/exclusive-2-publishers-ini=
+tially-affected-by-chrome-ad-blocker-1517872626-ee000779-1b6e-4d39-ab07-a8=
+45545d71c7.html)
+=E2=80=9CGoogle reviewed over 100=2C000 websites in North America and Euro=
+pe since June as part of an ongoing audit of publishers=E2=80=99 ads to en=
+sure they=E2=80=99re compliant with third-party industry standards=2C and=
+ says .5% were at the =E2=80=9Cwarning=E2=80=9D level of potentially being=
+ blocked. It also said that 37% of sites found in violation of the Coaliti=
+on=E2=80=99s standards have already fixed their advertising issues.=E2=80=
+=9D
+Reuters / David Ingram
+Seattle says Facebook is violating city campaign finance law =E2=86=92 (ht=
+tps://www.reuters.com/article/us-facebook-politics/seattle-finds-facebook-=
+in-violation-of-city-campaign-finance-law-idUSKBN1FP2MB)
+=E2=80=9CFacebook must disclose details about spending in last year=E2=80=
+=99s Seattle city elections or face penalties=2C Wayne Barnett=2C executiv=
+e director of the Seattle Ethics and Elections Commission=2C said in a sta=
+tement. It was not immediately clear how Facebook would respond if penaliz=
+ed. Facebook said in a statement it had sent the commission some data.=E2=
+=80=9D
+Los Angeles Times / Hailey Branson-Potts
+A family-run bilingual chain of newspapers in Los Angeles County is closin=
+g down after nearly 40 years =E2=86=92 (http://www.latimes.com/local/lanow=
+/la-me-ln-eastern-group-publications-20180203-story.html)
+=E2=80=9CThe death of the Eastside community papers has been particularly=
+ painful because they cover a largely Latino area that residents say other=
+ media organizations typically ignore. Eastern Group was a longtime=2C vit=
+al cultural institution on the Eastside=2C covering the little stories tha=
+t built the fabric of a bustling immigrant community.=E2=80=9D
+Digiday / Lucinda Southern
+How Axel Springer=E2=80=99s Welt gets people to watch video on its own sit=
+e =E2=86=92 (https://digiday.com/media/axel-springers-welt-makes-play-vide=
+o-merger-tv-broadcaster-n24/)
+=E2=80=9CDeveloping video strategies for their own platforms is more impor=
+tant than ever for publishers in the wake of Facebook=E2=80=99s latest new=
+s-feed algorithm purge. Welt is testing new video features and products de=
+signed to keep people on site. In the past few weeks=2C the publisher made=
+ the link to its live stream more visible and placed it at the top of its=
+ web page. People are now averaging 18 percent more time on article pages=
+ with video in them than article pages without video=2C although the publi=
+sher wouldn=E2=80=99t share absolute numbers.=E2=80=9D
+Digiday / Sahil Patel
+NBCUniversal and BuzzFeed are teaming up for a new parenting channel calle=
+d Playfull =E2=86=92 (https://digiday.com/media/nbcuniversal-and-buzzfeed-=
+are-launching-a-new-parenting-vertical-called-playfull/)
+Hoping to replicate BuzzFeed=E2=80=99s success with verticals like Tasty a=
+nd Nifty=2C the two organizations are launching Playfull on Facebook first=
+=2E Its target audience is parents aged 20 to 34. Initially=2C the focus wil=
+l be giving parents valuable and relatable information with a BuzzFeed ben=
+t. NBCUniversal will provide marketing support in the form of a 15-second=
+ commercial that will air during the Winter Olympics.
+Big If True / Mollie Bryant
+Bikini slideshows and other clickbait: Do paywalls usher in better content=
+? =E2=86=92 (https://www.bigiftrue.org/2018/02/01/paywalls-journalism/)
+=E2=80=9CA paywall didn=E2=80=99t stop one of the papers where I worked fr=
+om running a weekly slideshow of a bikini contest that took place at a bar=
+ auspiciously named Midnight Rodeo. A banner across our homepage teased to=
+ the slideshow=2C so the journalism we were taking so seriously and that m=
+ultiple female reporters were working painstakingly to produce was wedged=
+ above or below T&A.=E2=80=9D
+Medium / Damon Kiesow
+The UX of why people hate their new job after three months =E2=86=92 (http=
+s://medium.com/@dkiesow/the-ux-of-why-people-hate-their-new-job-after-thre=
+e-months-70768b661b8c)
+=E2=80=9CFor new employees=2C the expectation we need to set is that while=
+ the initial learning curve is steep=2C the on-boarding process actually n=
+ever ends nor does it move in a predictably straight line.=E2=80=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3D346147cfdf)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3D346147cfdf)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA

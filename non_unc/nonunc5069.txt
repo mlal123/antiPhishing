@@ -1,0 +1,63 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in MATH 233 on Piazza:
+
+------------------------------------------------------------
+Sam Geralds Exam  (4/08/17 8:23 PM)
+
+What sections are going to be on the exam?=C2=A0
+
+
+Go to https://piazza.com/class?cid=3Dj19y3wwq24u7fv&nid=3Diw5tgq5i54x11i&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Which equation and when?  (4/08/17 9:21 PM)
+
+Hi
+I am doing the 16.2 webassign and noticing that every question asking to ev=
+aluate the line integral involves f.dr,
+so I was wondering how do we know when to use f.dr and when to mulitple f(r=
+(t) with the |r'(t)|
+
+Go to https://piazza.com/class?cid=3Dj1a07pe08sb5vl&nid=3Diw5tgq5i54x11i&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Problem 19 Section 15.7 Canzani  (4/08/17 9:37 PM)
+
+In this problem, and in general when calculating triple integrals when the =
+bounds of integration are not exactly specified, why did they choose to fir=
+st find the intersection of the plane 2x + y + z =3D 4 and the xy plane? Is=
+ there a reason that they chose to go that route instead of finding the int=
+ersection of the given plane and the xz or zy plane? If it doesn't matter w=
+hich plane you use to find the intersection, could you calculate the same e=
+xact integral using three different sets of bounds of integration (and stil=
+l get the same answer)? I'm assuming that's true but I wanted to make sure.=
+ Thanks!
+
+Go to https://piazza.com/class?cid=3Dj1a0rx777z0dy&nid=3Diw5tgq5i54x11i&tok=
+en=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Careers Tip: Update where you're headed this summer so employers can=
+ invite you to local events.
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in MAT=
+H 233 at University of North Carolina at Chapel Hill. Go to https://piazza.=
+com/login to sign in and manage your email preferences or proceed to https:=
+//piazza.com/remove/f2GxNxqCfOm/iw5tgq5i54x11i to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

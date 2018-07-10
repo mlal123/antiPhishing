@@ -1,0 +1,19 @@
+
+
+https://www.youtube.com/playlist?list=3DPL7wAPgl1JVvUEb0dIygHzO4698tmcwLk9
+[https://i.ytimg.com/vi/zm9bqSSiIdo/mqdefault.jpg]
+
+Episodes - YouTube
+www.youtube.com
+Sign in now to see your channels and recommendations! Sign in. YouTube Red
+
+
+So, that playlist in general has a shit ton of useful stuff in regards to a=
+nimation,javascript,html,css and other stuff. Collision detection starts at=
+ episode 14 or so. It's titled 'collision'. I recommend watching most of th=
+e videos before it though because the information builds on top of each oth=
+er and he explains stuff really well. Not just on what the title of the vid=
+eo is but how the methods and functions he's using are doing and how they w=
+ork. He uses Window.requestAnimationFrame(); to do animation and update val=
+ues. Maybe look up how closures work in JavaScript. It deals with the scope=
+ of variables in functions.

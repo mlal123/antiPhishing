@@ -1,0 +1,147 @@
+Hello Everyone,
+
+This is the first weekly update of the summer! As opportunities arise over
+the summer you will receive these updates; keep in mind, they may not be as
+often as during the school year.
+
+*Internships! (Yes, these are still available)*
+
+Sciome LLC is a local Scientific Data Analytics company founded by a UNC
+Alumni. Sciome has a multidisciplinary team of scientists and
+informaticians from all local universities (UNC, NCSU, Duke) and beyond.
+Sciome has openings for Paid Summer Internships for students interested in
+software development. Selected interns will have an opportunity to
+contribute towards software development efforts in the domains of
+bioinformatics, text mining and data analytics.
+
+
+
+*Please apply if you have experience with*:
+
+   - Software development (Preferably Java)
+   - Relational databases (MySQL, SQL Server, etc.)
+   - Object Oriented Programming with design and architecture patterns
+   - User Interface design and development
+
+
+
+*Start Date and Duration*: Summer internship start date and duration are
+negotiable. Duration of 10 weeks or more is preferred. Full time or part
+time options are available, and there may be a possibility to extend beyond
+the summer.
+
+
+
+*More about Sciome LLC *:
+We are a science and technology consulting company, based in RTP, NC. We
+provide our scientific consulting services to the US Federal Government,
+Academic institutes, Non-profit research organizations, and
+Bio-pharmaceutical companies. We have a small team (PhD/Masters/Bachelors
+level scientists and developers) and we are growing!
+
+
+
+One of our main areas of expertise is in biological data and text mining.
+In this domain, we specialize in developing computational methodologies for
+text and scientific literature mining which we implement in the form of
+desktop and web-enabled applications in order to solve real-world problems
+on behalf of our clients. In addition, we also employ these methods in
+concert with other bioinformatics techniques to enable data and literature
+driven discoveries in support of life sciences research.
+
+
+
+*How to apply:*
+
+Please send your resume to jobs@sciome.com and please put software
+developer internship in the subject line.
+
+
+Atrium Health  in Charlotte, NC is
+offering a 10-week summer internship program. Learn more here
+
+.
+
+
+*Full-Time Positions*
+
+Applied Visions  is hiring an Applications Security
+Researcher to assist with static and dynamic analyses and pen testing
+applications. See details here
+
+.
+
+*Other Opportunities*
+Microsoft's Student Partners (MSP) program is open! This program shares the
+latest tech with MSPs and, you can serve as a campus rep for Microsoft. The
+deadline to apply is June 30th. Learn more here
+ and apply
+here . View
+the flyer here
+
+.
+
+*BlackRock=E2=80=99s Fast-Track to FinTech* (see flyer
+
+)
+
+*Program Overview: *An interactive workshop and accelerated interview
+process for female students interested in BlackRock=E2=80=99s tech internsh=
+ip
+opportunities
+
+*Eligibility requirements:* Students who identify as female and are
+graduating between December 2019-June 2020
+
+*Program Dates:* August 17-18, 2018
+
+*Application Deadline: *July 1, 2018
+
+
+
+*BlackRock Founders Scholarship* (see flyer
+
+)
+
+*Program Overview:* A scholarship program and accelerated interview process
+for diverse individuals interested in BlackRock internship opportunities
+across the firm
+
+*Eligibility requirements: *Undergraduate students who identify as Black,
+Hispanic, Native American, LGBTQ+ or disabled and are graduating between
+December 2019-June 2020
+
+*Application Deadline: *August 16, 2018 @ 8:00AM EST
+
+Bank of America Summer Campus Connect Webcast Series
+Sign-up for webinars with information on company culture, global markets,
+recruiting information, and interview information. See dates and sign-up
+here
+
+.
+
+Thank you,
+
+*Catherine Allen*
+Assistant Director & Liaison to Computer Science, UNC-CH
+*University Career Services*
+224 Hanes Hall
+Email: catherine_allen@unc.edu, Tel: 919-843-9533 <(919)%20843-9533>
+
+*Department of Computer Science*
+121 Sitterson Hall
+Office Hours: T/Th 8 a.m. to 5 p.m.
+Tel: 919-590-6034
+<(919)%20590-6034>
+
+<(919)%20590-6034>
+
+--=20
+To unsubscribe from this group and stop receiving emails, visit the group p=
+age linked below and go to "my settings (top right), leave this group."
+---=20
+You received this message because you are subscribed to the Google Groups "=
+Careers" group.
+To unsubscribe from this group and stop receiving emails from it, send an e=
+mail to careers+unsubscribe@cs.unc.edu.
+Visit this group at https://groups.google.com/a/cs.unc.edu/group/careers/.

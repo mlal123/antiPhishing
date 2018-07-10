@@ -1,0 +1,53 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll=
+ receive at most one email every 4 hours. You can customize your email pref=
+erences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 410 (section 002) on Piazza:
+
+------------------------------------------------------------
+Midterm Grades  (11/07/16 11:26 PM)
+
+When will midterms grades (MC + SA) be up on Sakai?
+
+Go to https://piazza.com/class?cid=3Div8zvf5vl903hq&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+how localchecker works this time?  (11/07/16 11:26 PM)
+
+In all previous assignments,=C2=A0there's a RunTest class that can be used =
+to run LocalChecker. There isn't one for this assignment - what should I do=
+ to get a result from the LocalChecker grader?
+
+Go to https://piazza.com/class?cid=3Div8zvsesx3g3wd&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+addEdge  ()
+
+addEdge(0, f, s, 0, null)=C2=A0addEdge(1, s, f, 0, null) =3D=3D False??
+
+Go to https://piazza.com/class?cid=3Div92dt1mjla35b&nid=3Dis6wk5m47ay4zy&to=
+ken=3Df2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+
+Thanks,=20
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COM=
+P 410 (section 002) at University of North Carolina at Chapel Hill. Go to h=
+ttps://piazza.com/login to sign in and manage your email preferences or pro=
+ceed to https://piazza.com/remove/f2GxNxqCfOm/is6wk5m47ay4zy to un-enroll f=
+rom this class.
+If you already have a Piazza account under another email address, link mlal=
+123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2G=
+xNxqCfOm=

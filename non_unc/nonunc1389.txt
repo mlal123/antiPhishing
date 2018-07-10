@@ -1,0 +1,47 @@
+Your email preferences are currently set to a 4-hour Auto Digest, so you'll receive at most one email every 4 hours. You can customize your email preferences from your Account Settings page in the top right of your dashboard.
+
+Here's what has happened in COMP 401-001 on Piazza:
+
+------------------------------------------------------------
+KMP Office Hours Moved To 1 PM  (2/03/16 6:20 AM)
+
+Sorry for the late notice. I have a visitor this morning and need to move my office hours to 1 pm - 3 pm today (2/3).
+
+
+
+Go to https://piazza.com/class?cid=ik6qts1mrcxa2&nid=ihs2fbbhsfx37n&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+Ryan's Office Hours Cut Short  (2/03/16 8:13 AM)
+
+Today I'm cutting my office hours short because I have to be somewhere at 9. I'll be holding additional office hours on Friday, however, to compensate.
+
+(And let's be honest, there's only like ~3 of you that come to 8am office hours anyway)
+
+Go to https://piazza.com/class?cid=ik6uuymnslb9&nid=ihs2fbbhsfx37n&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+A2 Adept  (2/03/16 10:12 AM)
+
+I have been able to calculate how many stars should go into each bin and I have made a for loop for it, but the for loop is not working for some reason and I don't understand why.
+But now its saying that my array is out of bounds although it worked just a minute ago.
+
+for (int q = 0; q < bins; q++) {System.out.print(binmin + ":");for (i = 0; i < (int) (((double) pixelcounter[i] / (double) area) * 100) + 0.5; i++) {System.out.print("*");}System.out.println();binmin += binwidth;
+}
+
+Go to https://piazza.com/class?cid=ik6z3g7n81t55h&nid=ihs2fbbhsfx37n&token=f2GxNxqCfOm to view.
+
+------------------------------------------------------------
+
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+
+Thanks, 
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because mlal123@live.unc.edu is enrolled in COMP 401-001 at University of North Carolina at Chapel Hill. Go to https://piazza.com/login to sign in and manage your email preferences or proceed to https://piazza.com/remove/f2GxNxqCfOm/ihs2fbbhsfx37n to un-enroll from this class.
+If you already have a Piazza account under another email address, link mlal123@live.unc.edu to that account here: https://piazza.com/link_accounts/f2GxNxqCfOm

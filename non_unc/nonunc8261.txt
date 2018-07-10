@@ -1,0 +1,142 @@
+Nieman Lab: The Daily Digest
+Thursday=2C January 25=2C 2018
+http://www.niemanlab.org/2018/01/facebooks-trust-survey-which-will-help-de=
+termine-news-feed-ranking-is-two-questions-but-its-not-as-simple-as-it-sou=
+nds/
+
+
+** Facebook=E2=80=99s trust survey=2C which will help determine News Feed=
+ ranking=2C is two questions. But it=E2=80=99s not as simple as it sounds=
+ (http://www.niemanlab.org/2018/01/facebooks-trust-survey-which-will-help-=
+determine-news-feed-ranking-is-two-questions-but-its-not-as-simple-as-it-s=
+ounds/)
+------------------------------------------------------------
+What=E2=80=99s clear is that Facebook has plenty of data from users alread=
+y=2C which it can =E2=80=94 will =E2=80=94 use in conjunction with its two=
+-question survey. By Shan Wang.
+http://www.niemanlab.org/2018/01/with-left-field-nbc-news-is-experimenting=
+-with-vr-mixed-reality-and-other-new-story-forms/
+
+
+** With Left Field=2C NBC News is experimenting with VR=2C mixed reality=
+=2C and other new story forms (http://www.niemanlab.org/2018/01/with-left-=
+field-nbc-news-is-experimenting-with-vr-mixed-reality-and-other-new-story-=
+forms/)
+------------------------------------------------------------
+=E2=80=9CWe know a great deal about how to make linear television and we=
+=E2=80=99ve been doing it a very long time=2C but there is a generation of=
+ people who currently don=E2=80=99t have cable subscriptions=2C and who wo=
+n=E2=80=99t have cable subscriptions=2C that are beginning to form differe=
+nt habits around how they consume news.=E2=80=9D By Ricardo Bilton.
+What We=E2=80=99re Reading
+The Big Lead / Ryan Glasspiegel
+ESPN is exploring the sale of FiveThirtyEight =E2=86=92 (http://thebiglead=
+=2Ecom/2018/01/25/espn-exploring-sale-of-fivethirtyeight/)
+An ESPN spokesperson provided the following statement: =E2=80=9CFiveThirty=
+Eight is a tremendous asset to ESPN=2C and together we=E2=80=99ve created=
+ exceptional content. We are exploring=2C with Nate=2C a variety of option=
+s for the future=2C and any discussion of exactly what that might look lik=
+e would be premature.=E2=80=9D
+Poynter
+Here=E2=80=99s the 2018 class for Poynter=E2=80=99s Leadership Academy for=
+ Women in Digital Media =E2=86=92 (https://www.poynter.org/news/poynter-an=
+nounces-leadership-academy-women-digital-media-class-and-expansion-program=
+)
+=E2=80=9CThe full list of the 28 people here (https://www.poynter.org/news=
+/poynter-announces-leadership-academy-women-digital-media-class-and-expans=
+ion-program) . Work is underway for two additional leadership academies fo=
+r women journalists at Poynter=E2=80=99s campus in St. Petersburg=2C Flori=
+da. Invitations will be extended to the pool of applicants from this year=
+=E2=80=99s academy=2C the largest in the four years of the program.=E2=80=
+=9D
+BuzzFeed / Alex Kantrowitz
+Here=E2=80=99s what Facebook=E2=80=99s local news and events section looks=
+ like =E2=86=92 (https://www.buzzfeed.com/alexkantrowitz/heres-what-facebo=
+oks-local-news-section-looks-like-live)
+=E2=80=9CClick the banner and the module opens to a screen with local upda=
+tes from =E2=80=9CPages in your area.=E2=80=9D And the weather. The pages=
+ come from all sorts of organizations. Showing up in this test: The local=
+ health care authority=2C the county auditor=2C the state college library.=
+ In this test=2C Facebook displayed stories of local interest=2C including=
+ some from The Olympian=2C a local newspaper=2C and the Grays Harbor Scann=
+er =E2=80=94 a local police activity feed and community news source.=E2=80=
+=9D
+Bloomberg / Selina Wang
+Twitter is working on a Snapchat-style video sharing tool =E2=86=92 (https=
+://www.bloomberg.com/news/articles/2018-01-25/twitter-is-said-to-work-on-s=
+napchat-style-tool-for-video-sharing)
+=E2=80=9CThe company has a working demo of the camera-centered product=2C=
+ according to people who have seen it=2C but the design hasn=E2=80=99t bee=
+n finalized=2C nor has the timing of its debut. The tool could change sign=
+ificantly over the next several months=2C they said. The goal of the new f=
+eature is to entice people to share video clips of what=E2=80=99s happenin=
+g around them.=E2=80=9D
+WCPO / Dan Monk
+In a cost-cutting effort=2C E.W. Scripps is looking to sell 34 of its radi=
+o stations =E2=86=92 (https://www.wcpo.com/money/local-business-news/ew-sc=
+ripps-co-to-sell-34-radio-stations-expand-restructuring)
+The company is trying to reduce annual operating expenses by $30 million;=
+ the sale of its radio division will trim 400 jobs and roughly $71 million=
+ in revenue from the 4=2C200-employee company. (Scripps has 33 TV stations=
+ in 24 cities that reach 18 percent of the nation=E2=80=99s television hou=
+seholds.)
+Digiday / Lucia Moses
+After folding in print=2C Self=E2=80=99s 8 million Snapchat users are more=
+ than on its website =E2=86=92 (https://digiday.com/media/folding-print-se=
+lfs-8-million-snapchat-users-website/)
+The percentage of Self=E2=80=99s audience that returns to its Discover Sto=
+ries at least three times a week is more than 50 percent. As a standalone=
+ channel=2C Snapchat is profitable for Self=2C according to parent company=
+ Cond=C3=A9 Nast. (Self folded its print edition at the end of 2016 as par=
+t of a consolidation of Cond=C3=A9 Nast=E2=80=99s magazines.)
+Solution Set / Joseph Lichterman
+How The Dallas Morning News builds subscriber loyalty with a Facebook Grou=
+p =E2=86=92 (https://www.lenfestinstitute.org/solution-set/2018/01/24/dall=
+as-morning-news-builds-subscriber-loyalty-facebook-group/)
+=E2=80=9CThe marketing team will create Facebook events within the group=
+=2C and members will be able to RSVP and get a notification to remind them=
+ of the event. Hannah Wise=2C an engagement editor at DMN=2C regularly ask=
+s members of the Facebook Group to share good things that have happened to=
+ them. Members have posted about visits with family=2C trips to the Texas=
+ State Fair=2C and more. One member even shared that at 62 years old she g=
+raduated from community college.=E2=80=9D
+Philly.com / Minneapolis Star Tribune
+=E2=80=9COur football teams may be adversaries=2C but our newsrooms are no=
+t=E2=80=9D =E2=86=92 (http://www.philly.com/philly/living/travel/eagles-pa=
+triots-super-bowl-minneapolis-minnesota-visitors-20180124.html)
+=E2=80=9CThis article (http://www.philly.com/philly/living/travel/eagles-p=
+atriots-super-bowl-minneapolis-minnesota-visitors-20180124.html) is brough=
+t to you through a content-sharing partnership among the Philadelphia Inqu=
+irer=2C Boston Globe=2C and Minneapolis Star Tribune. Thank you for suppor=
+ting local journalism=2C no matter where you live.=E2=80=9D
+Poynter / Rick Edmonds
+L.A. Times is offering some digital subscriptions for 2 cents a week=2C $1=
+=2E04 a year =E2=86=92 (https://www.poynter.org/news/la-times-offering-some-=
+digital-subscriptions-2-cents-week-104-year)
+=E2=80=9CThe offer is available only under a special circumstance =E2=80=
+=94 when an existing digital subscriber phones or e-mails to cancel a subs=
+cription. The deeper-than-deep discounts account for under 5 percent of Tr=
+onc=E2=80=99s total paid digital base. That would be around 13=2C000 of th=
+e 265=2C000 subs reported at the end of the third quarter of 2017.=E2=80=
+=9D
+
+Nieman Lab (http://www.niemanlab.org/) / Fuego (http://www.niemanlab.org/f=
+uego/) / Encyclo (http://www.niemanlab.org/encyclo/)
+
+Twitter (http://twitter.com/niemanlab) / Facebook (http://facebook.com/nie=
+manlab)
+
+View email in browser (https://us1.campaign-archive.com/?e=3Dabf66e3400&u=3D=
+dc756b20ebb9521ec3ad95e4a&id=3D8be5deca03)
+
+Unsubscribe (https://niemanlab.us1.list-manage.com/unsubscribe?u=3Ddc756b2=
+0ebb9521ec3ad95e4a&id=3Dd68264fd5e&e=3Dabf66e3400&c=3D8be5deca03)
+
+You are receiving this daily newsletter because you signed up for for it a=
+t www.niemanlab.org.
+
+Nieman Journalism Lab
+Harvard University
+1 Francis Ave.
+Cambridge=2C MA 02138
+USA
