@@ -12,6 +12,7 @@ import gmail
 import outlook
 import sys
 import xml.etree.ElementTree
+import pickle
 from progressbar import ProgressBar, Bar, ETA, ReverseBar, Percentage, AnimatedMarker
 
 class Email:
@@ -92,61 +93,47 @@ class MLStripper(HTMLParser):
 
 def main():
     #user and password declared
+    filename = 'email_classifier.sav'
+    classifier = pickle.load(open(filename, 'rb'))
     user = ""
     password = ""
     account = jsonHelper.getAccount(user)
     #mail = gmail.Gmail()
     folder_name = "NonUnc"
     outlook_mail = outlook.Outlook()
-    outlook_mail.login(user, password)
-    outlook_mail.inbox()
     
-    
-    unc = mL.init_lists('unc/')
-    non_unc = mL.init_lists('non_unc/')
-    
-    unc_emails = [(email, 1) for email in unc]
-    non_unc_emails = [(email, 0) for email in non_unc]
-    all_emails = unc_emails + non_unc_emails
-    random.shuffle(all_emails)
-    
-    all_features = [(mL.get_features(email, 'bow'), label) for (email, label) in all_emails]
-    train_set, test_set, classifier = mL.train(all_features, 0.8)
-    mL.evaluate(train_set, test_set, classifier)
-    print(classifier)
-    
-    ids = outlook_mail.allIds()
-    count = 0
-
-    """
-        while 1:
+    while 1:
     # Have to login/logout each time because that's the only way to get fresh results.
     
         #open up imap connection with specified user and password
-        mail.connect(account, password)
-        mail.inbox()
-        
+        outlook_mail.login(user, password)
+        outlook_mail.inbox()
         #return list of email ids of emails that have not been processed
-        data = mail.unchecked_emails(account.latest_id)
-        uids = [int(i) for i in data[0].split()]
+        data = outlook_mail.unchecked_emails(account.latest_id)
+        uids = data[0].split()
         #uids length will be one if no new emails are being read b/c it includes itself.
             #create the list of ids from unchecked mail    
             
         for uid in uids:
-            
             #check to make sure we're only getting ids > than recently_checked id   
-            if uid > account.latest_id or uid == 1:
-                emaiL = processEmail(mail, uid)
-                print("This mail is " + mL.spam_or_ham(emaiL._body, classifier))
-                account.latest_id = uid
-                jsonHelper.updateAccount(account)
+            if int(uid) > account.latest_id or int(uid) == 1:
+                print(uid)
+                text = outlook_mail.peekEmail(uid)  
+                body = outlook_mail.get_text_body(text)
+                message = strip_tags(body)
+                
+                if (mL.spam_or_ham(message, classifier)) == 0:
+                    outlook_mail.move_to_folder(uid, folder_name)
                     
-        mail.close()
-        mail.logout()
+        account.latest_id = int(outlook_mail.get_newest_mail())
+        jsonHelper.updateAccount(account)
+                
+        outlook_mail.close()
+        outlook_mail.logout()
         print("Logged out")
-        time.sleep(10) 
-        break
-
+        time.sleep(600) 
+        
+    """
     #get list of example spam and ham data
     spam = mL.init_lists('enron1/spam/')
     ham = mL.init_lists('enron1/ham/')
@@ -171,6 +158,21 @@ def main():
     
     #mL.evaluate(train_set, test_set, classifier)    
     """
+def trainML():
+    unc = mL.init_lists('unc/')
+    non_unc = mL.init_lists('non_unc/')
+    
+    unc_emails = [(email, 1) for email in unc]
+    non_unc_emails = [(email, 0) for email in non_unc]
+    all_emails = unc_emails + non_unc_emails
+    random.shuffle(all_emails)
+    
+    all_features = [(mL.get_features(email, 'bow'), label) for (email, label) in all_emails]
+    train_set, test_set, classifier = mL.train(all_features, 0.8)
+    mL.evaluate(train_set, test_set, classifier)
+    
+    filename = 'email_classifier.sav'
+    pickle.dump(classifier, open(filename, 'wb'))
     
 def processEmail(mail, uid):
     email_message = mail.get_mail(uid)
