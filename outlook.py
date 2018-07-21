@@ -140,10 +140,13 @@ class Outlook():
         return self.email_message
     
     def peekEmail(self, id):
-        r, d = self.imap.fetch(id, '(BODY.PEEK[])')        
-        self.raw_email = d[0][1].decode('utf-8', 'ignore')
-        self.email_message = email.message_from_string(self.raw_email)
-        return self.email_message
+        r, d = self.imap.fetch(id, '(BODY.PEEK[])')  
+        if (d[0][1] != 104):
+            self.raw_email = d[0][1].decode('utf-8', 'ignore')
+            self.email_message = email.message_from_string(self.raw_email)
+            return self.email_message
+        else:
+            return "None"
         
     def unread(self):
         list = self.unreadIds()

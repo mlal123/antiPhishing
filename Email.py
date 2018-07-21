@@ -113,18 +113,18 @@ def main():
         uids = data[0].split()
         #uids length will be one if no new emails are being read b/c it includes itself.
             #create the list of ids from unchecked mail    
-            
+
         for uid in uids:
             #check to make sure we're only getting ids > than recently_checked id   
             if int(uid) > account.latest_id or int(uid) == 1:
-                print(uid)
-                text = outlook_mail.peekEmail(uid)  
-                body = outlook_mail.get_text_body(text)
-                message = strip_tags(body)
+                text = outlook_mail.peekEmail(uid)
+                if text != "None":
+                    body = outlook_mail.get_text_body(text)
+                    message = strip_tags(body)
                 
-                if (mL.spam_or_ham(message, classifier)) == 0:
-                    outlook_mail.move_to_folder(uid, folder_name)
-                    
+                    if (mL.spam_or_ham(message, classifier)) == 0:
+                        outlook_mail.move_to_folder(uid, folder_name)
+                        account.latest_id -= 1
         account.latest_id = int(outlook_mail.get_newest_mail())
         jsonHelper.updateAccount(account)
                 
